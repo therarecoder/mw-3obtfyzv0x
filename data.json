@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T14:44:29.484776-06:00",
- "generated_mt": "Sat Oct 10 2026, 2:44pm MT",
+ "generated_at": "2026-10-10T14:49:52.845682-06:00",
+ "generated_mt": "Sat Oct 10 2026, 2:49pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82995.99,
-   "chg_pct": 0.6849733,
-   "chg": 564.6328,
+   "price": 83000.2,
+   "chg_pct": 0.6900817,
+   "chg": 568.84375,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1667923574784,
+   "mcap": 1667891462144,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 82475.2,
    "day_hi": 83069.375,
-   "as_of": "Sat Oct 10, 2:44pm MT",
+   "as_of": "Sat Oct 10, 2:49pm MT",
    "news": [
     {
      "title": "Eight Altcoins Have Surged Three Times More Than Bitcoin in 30 Days. Is Altcoin Season Here, or Is This Just a Momentary Uptick?",
@@ -594,9 +594,9 @@
    "oracle": 1036.0,
    "prev": 1029.0,
    "funding": 6.25e-06,
-   "oi": 109956.362,
-   "oi_usd": 113914791.03199999,
-   "vol": 4441531.632600003,
+   "oi": 109965.486,
+   "oi_usd": 113924243.496,
+   "vol": 4457042.624600003,
    "rsi14": 51.33474612033419,
    "ema20": 1034.8056287466607,
    "ema50": 1039.6509559128945,
@@ -608,13 +608,13 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.6,
-   "oracle": 163.58,
+   "mark": 163.61,
+   "oracle": 163.59,
    "prev": 162.84,
    "funding": 6.25e-06,
-   "oi": 757830.82,
-   "oi_usd": 123981122.15199998,
-   "vol": 6036050.480500001,
+   "oi": 757885.48,
+   "oi_usd": 123997643.38280001,
+   "vol": 6041180.984499997,
    "rsi14": 52.91801730948612,
    "ema20": 163.40867698567746,
    "ema50": 164.08952207144918,
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.36,
-   "oracle": 382.43,
+   "mark": 382.38,
+   "oracle": 382.42,
    "prev": 382.64,
    "funding": 6.25e-06,
-   "oi": 113798.228,
-   "oi_usd": 43511890.45808,
-   "vol": 1527193.780859999,
-   "rsi14": 51.338820044465564,
-   "ema20": 382.48292249822146,
-   "ema50": 381.26064838834486,
+   "oi": 113793.46,
+   "oi_usd": 43512343.2348,
+   "vol": 1528496.1671399989,
+   "rsi14": 51.84190282939978,
+   "ema20": 382.486732022031,
+   "ema50": 381.26221701579584,
    "hi24": 383.2,
    "lo24": 382.23
   },
@@ -664,20 +664,324 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83024.0,
-   "oracle": 83066.9,
+   "mark": 83035.0,
+   "oracle": 83070.0,
    "prev": 82372.0,
-   "funding": 4.0324e-06,
-   "oi": 38113.73154,
-   "oi_usd": 3164354447.3769603,
-   "vol": 808846035.7306508,
-   "rsi14": 59.49443544936779,
-   "ema20": 82856.65662195686,
-   "ema50": 82798.07517100827,
+   "funding": 4.711e-06,
+   "oi": 38112.79978,
+   "oi_usd": 3164696329.7323003,
+   "vol": 809153847.6557711,
+   "rsi14": 60.13087607075306,
+   "ema20": 82857.89471719495,
+   "ema50": 82798.58497492985,
    "hi24": 83153.0,
    "lo24": 82392.0
   },
-  "_at": 1791665073
+  "_at": 1791665396
+ },
+ "xdrivers": {
+  "generated_mt": "Sat Oct 10, 2:49pm MT",
+  "window": "Oct 5\u201310, 2026",
+  "method": "X search (relevancy, last ~5 days) + X news; explanations are inferred, not confirmed",
+  "tickers": {
+   "MU": {
+    "explanation": "Likely: MU's 4.8% drop on Oct 8 (close 1,035.84) came from several things at once. Micron's Taiwan (Taoyuan) union authorized a strike with 99% approval, a report said OpenAI's annualized revenue was ~$50B rather than the ~$68B being cited, chip stocks sold off (SOX \u22122%), and the 10Y touched 5.36%. Samsung's record prelim Q3 profit (KRW 107.4T) didn't lift memory names. Oct 9 was a small further dip (\u22120.7%).",
+    "sources": [
+     {
+      "handle": "The_AI_Investor",
+      "mt": "Oct 7, 7:36pm MT",
+      "url": "https://x.com/The_AI_Investor/status/2108008594616824211",
+      "likes": 55,
+      "views": 10981,
+      "gist": "Micron Taiwan union votes 99% for strike authorization; Taoyuan is a key DRAM/HBM hub"
+     },
+     {
+      "handle": "falenostar",
+      "mt": "Oct 8, 6:18pm MT",
+      "url": "https://x.com/falenostar/status/2108351267710083103",
+      "likes": 19,
+      "views": 1053,
+      "gist": "OpenAI told investors annualized revenue was ~$50B at end of Sept, not the ~$68B figure circulating"
+     },
+     {
+      "handle": "allday_stocks",
+      "mt": "Oct 8, 3:27pm MT",
+      "url": "https://x.com/allday_stocks/status/2108308386131726841",
+      "likes": 7,
+      "views": 1068,
+      "gist": "Closing bell: Nasdaq slides as OpenAI revenue report hits AI stocks; oil up"
+     },
+     {
+      "handle": "LilyFunds",
+      "mt": "Oct 8, 3:39pm MT",
+      "url": "https://x.com/LilyFunds/status/2108311350610944123",
+      "likes": 7,
+      "views": 752,
+      "gist": "10Y hit 5.36% intraday before easing; Nasdaq \u22121.25%"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": -0.66,
+     "d5_pct": -4.27
+    }
+   },
+   "TSLA": {
+    "explanation": "Likely: TSLA rose 2.05% on Oct 9 (to 382.70, intraday high 388.56) on China CPCA data showing Giga Shanghai's best month of 2026 (95,366, +5% YoY). The Texas Cybercab registration jump (169 to 319) and @Tesla's \"Floodgates are opening\" post added to it. Earlier in the week, Musk said Tesla and SpaceX will build and run Terafab themselves.",
+    "sources": [
+     {
+      "handle": "FirstSquawk",
+      "mt": "Oct 9, 3:53am MT",
+      "url": "https://x.com/FirstSquawk/status/2108496036901900599",
+      "likes": 43,
+      "views": 30916,
+      "gist": "CPCA: Tesla sold 95,366 China-made vehicles in September"
+     },
+     {
+      "handle": "themusktoken_",
+      "mt": "Oct 9, 9:45pm MT",
+      "url": "https://x.com/themusktoken_/status/2108765915751834066",
+      "likes": 55,
+      "views": 1782,
+      "gist": "Giga Shanghai best month of 2026; Q3 wholesale record 275,111"
+     },
+     {
+      "handle": "FrunkToTrunk",
+      "mt": "Oct 8, 9:05pm MT",
+      "url": "https://x.com/FrunkToTrunk/status/2108393426311889164",
+      "likes": 4,
+      "views": 400,
+      "gist": "Record 150 Cybercabs registered overnight in Texas, 169 to 319 of 739"
+     },
+     {
+      "handle": "moondough",
+      "mt": "Oct 7, 6:40am MT",
+      "url": "https://x.com/moondough/status/2107813203598020638",
+      "likes": 2,
+      "views": 161,
+      "gist": "Quotes Musk: Tesla will build and run Terafab; TSMC could at most sublease part"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": 2.05,
+     "d5_pct": 3.27
+    }
+   },
+   "SPCX": {
+    "explanation": "Likely: SPCX ran to about $172 early in the week on Morgan Stanley's \"Cheap and Getting Cheaper\" note ($300 target), reports of a ~$40B raise for AI chips, and FCC approval of 15,000 next-gen Starlink satellites. It then fell Oct 7\u20138 into a lockup release (~328M-unit tranche around Oct 8), and bounced +1.25% on Oct 9.",
+    "sources": [
+     {
+      "handle": "SpacBobby",
+      "mt": "Oct 5, 1:22pm MT",
+      "url": "https://x.com/SpacBobby/status/2107189593703670004",
+      "likes": 17,
+      "views": 3391,
+      "gist": "Morgan Stanley's Adam Jonas: SpaceX 'cheap and getting cheaper', $300 target"
+     },
+     {
+      "handle": "spcxGOD",
+      "mt": "Oct 6, 9:30pm MT",
+      "url": "https://x.com/spcxGOD/status/2107674875150426523",
+      "likes": 19,
+      "views": 2959,
+      "gist": "Lists a lockup expiry ~Oct 8 (~328M units) and another ~17 days later"
+     },
+     {
+      "handle": "officialmudrex",
+      "mt": "Oct 7, 5:04am MT",
+      "url": "https://x.com/officialmudrex/status/2107789127408369724",
+      "likes": 9,
+      "views": 683,
+      "gist": "Up 60% from its low; reportedly raising ~$40B to buy Nvidia chips"
+     },
+     {
+      "handle": "MeowRocketGo",
+      "mt": "Oct 7, 6:10am MT",
+      "url": "https://x.com/MeowRocketGo/status/2107805765553521142",
+      "likes": 1,
+      "views": 134,
+      "gist": "FCC cleared 15,000 next-gen Starlink Mobile satellites"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": 1.25,
+     "d5_pct": 2.27
+    }
+   },
+   "LMND": {
+    "explanation": "No clear X driver. LMND was flat over 5 days (\u22120.1%) and \u22121.0% on Oct 9. The only notable post was Morgan Stanley keeping Equal-weight while cutting its target to $48 from $56 (Oct 6).",
+    "sources": [
+     {
+      "handle": "AIStockSavvy",
+      "mt": "Oct 6, 6:31am MT",
+      "url": "https://x.com/AIStockSavvy/status/2107448722364011006",
+      "likes": 6,
+      "views": 4642,
+      "gist": "Morgan Stanley keeps Equal-weight, target cut to $48 from $56"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": -0.96,
+     "d5_pct": -0.06
+    }
+   },
+   "UPST": {
+    "explanation": "Likely: UPST's +5.7% 5-day gain (mostly Oct 5, +6.8%) followed a widely shared tracker showing September originations of ~$1.38B (+44% YoY) and Needham reiterating Buy with a $42 target. Q3 results are set for Nov 3.",
+    "sources": [
+     {
+      "handle": "HenryInvests",
+      "mt": "Oct 5, 5:48am MT",
+      "url": "https://x.com/HenryInvests/status/2107075334847726019",
+      "likes": 95,
+      "views": 5580,
+      "gist": "September originations ~$1,378M, +44% YoY; per-day +50% YoY (tracker data)"
+     },
+     {
+      "handle": "AIStockSavvy",
+      "mt": "Oct 6, 5:16am MT",
+      "url": "https://x.com/AIStockSavvy/status/2107429766169026618",
+      "likes": 15,
+      "views": 4649,
+      "gist": "Needham reiterates Buy, $42 target"
+     },
+     {
+      "handle": "HenryInvests",
+      "mt": "Oct 6, 2:12pm MT",
+      "url": "https://x.com/HenryInvests/status/2107564611662688302",
+      "likes": 34,
+      "views": 2815,
+      "gist": "Q3 2026 results on Nov 3"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": -0.37,
+     "d5_pct": 5.66
+    }
+   },
+   "UMAC": {
+    "explanation": "No clear X driver for the slide (\u22126.9% over 5 days, \u22122.6% Oct 9). X posts were positive (Needham Buy and $40 target reiterated after a facility tour, an $82M government order at customer Powerus) but point to a sector-wide defense and drone selloff.",
+    "sources": [
+     {
+      "handle": "AIStockSavvy",
+      "mt": "Oct 7, 5:17am MT",
+      "url": "https://x.com/AIStockSavvy/status/2107792441084727580",
+      "likes": 23,
+      "views": 9408,
+      "gist": "Needham reiterates Buy, $40 target; production progress"
+     },
+     {
+      "handle": "HenryInvests",
+      "mt": "Oct 7, 7:08am MT",
+      "url": "https://x.com/HenryInvests/status/2107820294685487154",
+      "likes": 30,
+      "views": 2234,
+      "gist": "Investor notes a sector-wide defense bear market"
+     },
+     {
+      "handle": "HenryInvests",
+      "mt": "Oct 5, 8:15am MT",
+      "url": "https://x.com/HenryInvests/status/2107112496901283938",
+      "likes": 26,
+      "views": 2212,
+      "gist": "$82M government order at Powerus, likely a large UMAC customer (unconfirmed)"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": -2.62,
+     "d5_pct": -6.88
+    }
+   },
+   "BLZE": {
+    "explanation": "No clear X driver. BLZE fell 11.6% over 5 days (\u22122.3% Oct 9), but X chatter was product and user talk only, with no news, analyst or filing posts found.",
+    "sources": [],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": -2.31,
+     "d5_pct": -11.63
+    }
+   },
+   "OSCR": {
+    "explanation": "Likely: OSCR's +7.9% 5-day run lined up with its Investor Day (Oct 7), which pitched a larger individual market and AI-driven tools, plus an ex-Elevance VP hire. Chart posts flagged a breakout setup above $34.",
+    "sources": [
+     {
+      "handle": "OscarHealth",
+      "mt": "Oct 7, 11:12am MT",
+      "url": "https://x.com/OscarHealth/status/2107881682414014750",
+      "likes": 37,
+      "views": 1211,
+      "gist": "Investor Day 2026: bigger individual market, AI and technology focus"
+     },
+     {
+      "handle": "investingwithac",
+      "mt": "Oct 5, 9:06am MT",
+      "url": "https://x.com/investingwithac/status/2107125322705678596",
+      "likes": 68,
+      "views": 5011,
+      "gist": "Ex-Elevance/Anthem VP joins Oscar"
+     },
+     {
+      "handle": "TheMarket_Monk",
+      "mt": "Oct 3, 7:17pm MT",
+      "url": "https://x.com/TheMarket_Monk/status/2106554151660323247",
+      "likes": 11,
+      "views": 1133,
+      "gist": "Chart: higher lows, ascending triangle; $34+ on volume"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": 0.82,
+     "d5_pct": 7.85
+    }
+   },
+   "BTC-USD": {
+    "explanation": "Likely: BTC fell ~3% over 5 days, dropping below $82K and briefly to ~$80.4K on Oct 8 as oil and yields spiked on Iran risk, with >$1B in leveraged-long liquidations and continued ETF outflows. It recovered toward $83K by Oct 9\u201310.",
+    "sources": [
+     {
+      "handle": "ANCrypto_",
+      "mt": "Oct 8, 9:33pm MT",
+      "url": "https://x.com/ANCrypto_/status/2108400356443165002",
+      "likes": 11,
+      "views": 1600,
+      "gist": "BTC broke below $82K, touched ~$80,427; >$1B liquidated"
+     },
+     {
+      "handle": "GetSmartTrades",
+      "mt": "Oct 8, 5:32am MT",
+      "url": "https://x.com/GetSmartTrades/status/2108158531438539222",
+      "likes": 1,
+      "views": 53,
+      "gist": "BTC slides under $83K as yields and oil spike on Iran risk"
+     },
+     {
+      "handle": "Cryptodonnet",
+      "mt": "Oct 9, 11:43pm MT",
+      "url": "https://x.com/Cryptodonnet/status/2108795467786010905",
+      "likes": 14,
+      "views": 172,
+      "gist": "BTC and ETH ETFs still seeing outflows; recovery fragile"
+     },
+     {
+      "handle": "CryptoDad_DDC",
+      "mt": "Oct 9, 7:41am MT",
+      "url": "https://x.com/CryptoDad_DDC/status/2108553362220126444",
+      "likes": 4,
+      "views": 148,
+      "gist": "Lost $82\u201383K support, swept ~$80.4K, recovered toward $83K"
+     }
+    ],
+    "move": {
+     "last_date": "Oct 9",
+     "last_pct": 0.55,
+     "d5_pct": -3.25
+    }
+   }
+  }
  },
  "rebellionaire": {
   "scraped_at": "2026-10-10T08:25-06:00",

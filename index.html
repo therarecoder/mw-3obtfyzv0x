@@ -27,6 +27,10 @@ a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
 @keyframes fu{from{background:#1f6f3a}to{background:transparent}}@keyframes fd{from{background:#8b2b2b}to{background:transparent}}
 .fu{animation:fu 1.2s}.fd{animation:fd 1.2s}.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}
 .dot{box-shadow:0 0 6px currentColor}
+.xwhy{border-left:3px solid #1d9bf0;background:#0b1a26;border-radius:6px;padding:8px 10px;margin-top:10px}
+.xwhy .sec{color:#1d9bf0;margin-top:0}.xwhy li{font-size:12.5px;margin:4px 0}.xwhy .exp{font-size:13px;margin:4px 0}
+.rbbox{border-left:3px solid #a371f7;background:#16112a;border-radius:6px;padding:8px 10px;margin-top:10px}
+.rbbox .sec{color:#a371f7;margin-top:0}.rbsec{border-color:#3b2a66}.rbsec h4{margin:4px 0;color:#a371f7;font-size:14px}
 .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:9px;background:#21262d;color:var(--mut);margin-left:4px}
 .hl{border-left:3px solid var(--warn);padding:8px 10px;background:#1f1a0d;border-radius:6px;margin:8px 0}
 .levels{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}.levels span{padding:3px 8px;border-radius:6px;background:#21262d;font-size:12px}
@@ -38,9 +42,11 @@ footer{color:var(--mut);font-size:12px;padding:20px 16px 40px;text-align:center}
 <header><h1>Market Watchlist</h1><div class="meta">Last updated: <b id="upd">loading…</b> <span id="mkt"></span> <span id="hl-status" style="font-size:12px"></span></div>
 <div class="tape" id="tape"></div></header>
 <main>
-<div class="card" id="rb-overview" style="margin-top:14px;display:none"><h3>Rebellionaire research <small id="rb-when"></small></h3><div id="rb-ov" style="font-size:13px"></div></div>
 <h2>Watchlist</h2>
 <div class="grid" id="cards"></div>
+
+<h2 id="rebellionaire">Rebellionaire Research</h2>
+<div class="card rbsec"><div class="mut" style="font-size:12px" id="rb-when"></div><div id="rb-ov" style="font-size:13.5px;margin:4px 0 10px"></div><div class="grid" id="rb-groups" style="grid-template-columns:repeat(auto-fill,minmax(300px,1fr))"></div></div>
 
 <h2>Watches</h2>
 <div class="grid">
@@ -150,7 +156,26 @@ let RB=null;
 function rebel(sym){
   if(!RB) return '';
   const it=(RB.tickers||{})[sym]||[];
-  return `<div class="sec">Rebellionaire research</div><ul class="rb">${it.length?it.map(p=>`<li><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a> <span class="mut">${esc(p.date)}${p.author?' · '+esc(p.author):''}</span><br><span class="sum">${esc(p.summary)}</span></li>`).join(''):'<li class="mut">No Rebellionaire coverage found.</li>'}</ul>`;
+  return `<div class="rbbox"><div class="sec">Rebellionaire research</div><ul class="rb">${it.length?it.map(p=>`<li><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a> <span class="mut">${esc(p.date)}${p.author?' · '+esc(p.author):''}</span><br><span class="sum">${esc(p.summary)}</span></li>`).join(''):'<li class="mut">No Rebellionaire coverage found.</li>'}</ul></div>`;
+}
+let XD=null;
+function xwhy(sym){
+  if(!XD) return '';
+  const v=(XD.tickers||{})[sym]; if(!v) return '';
+  const m=v.move||{};
+  return `<div class="xwhy"><div class="sec">Why it moved (from X) · <span class="mut">likely, inferred</span></div>
+  <div class="mut" style="font-size:12px">${esc(m.last_date||'')}: ${pc(m.last_pct)} · 5-day: ${pc(m.d5_pct)}</div>
+  <div class="exp">${esc(v.explanation)}</div>
+  ${(v.sources||[]).length?`<ul>${v.sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">@${esc(s.handle)}</a> <span class="mut">${esc(s.mt)} · ${f(s.likes,0)} likes · ${f(s.views,0)} views</span><br>${esc(s.gist)}</li>`).join('')}</ul>`:''}
+  <div class="mut" style="font-size:11px">X scan: ${esc(XD.generated_mt||'')}</div></div>`;
+}
+function rbSection(){
+  if(!RB) return;
+  $('rb-when').textContent='Source: rebellionaire.com · scanned '+String(RB.scraped_at||'').slice(0,10)+' · weekly re-scan Sundays';
+  $('rb-ov').textContent=RB.overview||'';
+  const names={'MU':'MU · Micron','SPCX':'SPCX · SpaceX','TSLA':'TSLA · Tesla','LMND':'LMND · Lemonade','UPST':'UPST · Upstart','UMAC':'UMAC · Unusual Machines','BLZE':'BLZE · Backblaze','OSCR':'OSCR · Oscar Health','BTC-USD':'BTC · Bitcoin'};
+  $('rb-groups').innerHTML=Object.keys(names).map(t=>{const it=(RB.tickers||{})[t]||[];
+    return `<div><h4>${names[t]}</h4><ul class="rb">${it.length?it.map(p=>`<li><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a> <span class="mut">${esc(p.date)}${p.author?' · '+esc(p.author):''}</span><br><span class="sum">${esc(p.summary)}</span></li>`).join(''):'<li class="mut">No Rebellionaire coverage found.</li>'}</ul></div>`}).join('');
 }
 function card(c){
   const pos=(c.lo52!=null&&c.hi52>c.lo52)?Math.min(100,Math.max(0,(c.price-c.lo52)/(c.hi52-c.lo52)*100)):null;
@@ -163,6 +188,7 @@ function card(c){
   <span>Day range</span><span>${f(c.day_lo)} – ${f(c.day_hi)}</span>${c.next_earnings?`<span>Next earnings</span><span>${esc(c.next_earnings)}</span>`:''}<span>Watch</span><span>${esc(c.watch)}</span></div>
   <div class="sec">Milestones &amp; catalysts</div><ul>${c.catalysts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
   <div id="hl-${c.symbol}"></div>
+  ${xwhy(c.symbol)}
   ${rebel(c.symbol)}
   <div class="sec">Latest news</div><ul class="news">${(c.news||[]).map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="mut">${esc(n.when)}</span></li>`).join('')||'<li class="mut">none</li>'}</ul></div>`;
 }
@@ -173,7 +199,7 @@ function render(d){
   const tape=[['SMH',m['SMH']],['S&P',m['^GSPC']],['NDX',m['^NDX']],['VIX',m['^VIX']],['DXY',m['DX-Y.NYB']]];
   $('tape').innerHTML=tape.map(([k,v])=>`<span><b>${k}</b> ${f(v?.price)} ${pc(v?.chg_pct)}</span>`).join('')+`<span><b>10Y</b> ${f(m['^TNX']?.price)}%</span>`;
   RB=d.rebellionaire||null;
-  if(RB){$('rb-overview').style.display='';$('rb-ov').textContent=RB.overview||'';$('rb-when').textContent='scanned '+String(RB.scraped_at||'').slice(0,10)+' · weekly Sun';}
+  XD=d.xdrivers||null; rbSection();
   $('cards').innerHTML=d.watchlist.map(card).join('');
   hlAll();
   const bp=(a,b)=>a!=null&&b!=null?` <span class="mut">(${a-b>=0?'+':''}${Math.round((a-b)*100)}bp)</span>`:'';
