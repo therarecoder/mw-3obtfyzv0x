@@ -22,6 +22,7 @@ ul{margin:6px 0;padding-left:18px}li{margin:2px 0}
 .sec{font-size:11px;text-transform:uppercase;color:var(--mut);margin-top:9px;letter-spacing:.05em}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
 .news li{font-size:12.5px}.news .mut{font-size:11px}
+.rb li{font-size:12.5px;margin:5px 0}.rb .sum{color:#c9d1d9}
 .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:9px;background:#21262d;color:var(--mut);margin-left:4px}
 .hl{border-left:3px solid var(--warn);padding:8px 10px;background:#1f1a0d;border-radius:6px;margin:8px 0}
 .levels{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}.levels span{padding:3px 8px;border-radius:6px;background:#21262d;font-size:12px}
@@ -33,6 +34,7 @@ footer{color:var(--mut);font-size:12px;padding:20px 16px 40px;text-align:center}
 <header><h1>Market Watchlist</h1><div class="meta">Last updated: <b id="upd">loading…</b> <span id="mkt"></span></div>
 <div class="tape" id="tape"></div></header>
 <main>
+<div class="card" id="rb-overview" style="margin-top:14px;display:none"><h3>Rebellionaire research <small id="rb-when"></small></h3><div id="rb-ov" style="font-size:13px"></div></div>
 <h2>Watchlist</h2>
 <div class="grid" id="cards"></div>
 
@@ -140,6 +142,12 @@ const f=(x,d=2)=>x==null?'–':Number(x).toLocaleString('en-US',{minimumFraction
 const pc=x=>x==null?'':`<span class="${x>=0?'up':'dn'}">${x>=0?'+':''}${f(x)}%</span>`;
 const big=x=>x==null?'–':x>=1e12?'$'+f(x/1e12)+'T':x>=1e9?'$'+f(x/1e9,1)+'B':'$'+f(x/1e6,0)+'M';
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let RB=null;
+function rebel(sym){
+  if(!RB) return '';
+  const it=(RB.tickers||{})[sym]||[];
+  return `<div class="sec">Rebellionaire research</div><ul class="rb">${it.length?it.map(p=>`<li><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a> <span class="mut">${esc(p.date)}${p.author?' · '+esc(p.author):''}</span><br><span class="sum">${esc(p.summary)}</span></li>`).join(''):'<li class="mut">No Rebellionaire coverage found.</li>'}</ul>`;
+}
 function card(c){
   const pos=(c.lo52!=null&&c.hi52>c.lo52)?Math.min(100,Math.max(0,(c.price-c.lo52)/(c.hi52-c.lo52)*100)):null;
   const ext=c.pre!=null?`Pre ${f(c.pre)} ${pc(c.pre_pct)}`:c.post!=null?`After hrs ${f(c.post)} ${pc(c.post_pct)}`:'';
@@ -150,6 +158,7 @@ function card(c){
   <div class="kv" style="margin-top:6px"><span>Mkt cap</span><span>${big(c.mcap)}</span><span>P/E (ttm / fwd)</span><span>${c.pe?f(c.pe,1):'n/m'} / ${c.fpe&&c.fpe>0?f(c.fpe,1):'n/m'}</span>
   <span>Day range</span><span>${f(c.day_lo)} – ${f(c.day_hi)}</span>${c.next_earnings?`<span>Next earnings</span><span>${esc(c.next_earnings)}</span>`:''}<span>Watch</span><span>${esc(c.watch)}</span></div>
   <div class="sec">Milestones &amp; catalysts</div><ul>${c.catalysts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+  ${rebel(c.symbol)}
   <div class="sec">Latest news</div><ul class="news">${(c.news||[]).map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="mut">${esc(n.when)}</span></li>`).join('')||'<li class="mut">none</li>'}</ul></div>`;
 }
 function render(d){
@@ -157,6 +166,8 @@ function render(d){
   const m=d.macro, t=d.treasury||{}, tips=d.tips||{};
   const tape=[['SMH',m['SMH']],['S&P',m['^GSPC']],['NDX',m['^NDX']],['VIX',m['^VIX']],['DXY',m['DX-Y.NYB']]];
   $('tape').innerHTML=tape.map(([k,v])=>`<span><b>${k}</b> ${f(v?.price)} ${pc(v?.chg_pct)}</span>`).join('')+`<span><b>10Y</b> ${f(m['^TNX']?.price)}%</span>`;
+  RB=d.rebellionaire||null;
+  if(RB){$('rb-overview').style.display='';$('rb-ov').textContent=RB.overview||'';$('rb-when').textContent='scanned '+String(RB.scraped_at||'').slice(0,10)+' · weekly Sun';}
   $('cards').innerHTML=d.watchlist.map(card).join('');
   const bp=(a,b)=>a!=null&&b!=null?` <span class="mut">(${a-b>=0?'+':''}${Math.round((a-b)*100)}bp)</span>`:'';
   $('macro-tbl').innerHTML=`<tr><th></th><th>Live (Yahoo)</th><th>Treasury close ${esc(t.date||'')}</th></tr>
