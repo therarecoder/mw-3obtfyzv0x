@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T14:29:21.379584-06:00",
- "generated_mt": "Sat Oct 10 2026, 2:29pm MT",
+ "generated_at": "2026-10-10T14:44:22.915692-06:00",
+ "generated_mt": "Sat Oct 10 2026, 2:44pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82961.57,
-   "chg_pct": 0.6432151,
-   "chg": 530.21094,
+   "price": 82995.16,
+   "chg_pct": 0.6839592,
+   "chg": 563.7969,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1667594977280,
+   "mcap": 1667923574784,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 82475.2,
    "day_hi": 83069.375,
-   "as_of": "Sat Oct 10, 2:29pm MT",
+   "as_of": "Sat Oct 10, 2:44pm MT",
    "news": [
     {
      "title": "Eight Altcoins Have Surged Three Times More Than Bitcoin in 30 Days. Is Altcoin Season Here, or Is This Just a Momentary Uptick?",
@@ -447,9 +447,9 @@
      "when": "Sat Oct 10, 1:07pm MT"
     },
     {
-     "title": "How NEAR Intents Used Coded Language to Let the Hacker Know He\u2019d Been Fingered",
-     "link": "https://unchainedcrypto.com/how-near-intents-used-coded-language-to-let-the-hacker-know-hed-been-fingered/?.tsrc=rss",
-     "when": "Sat Oct 10, 12:00pm MT"
+     "title": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
+     "link": "https://beincrypto.com/ethereum-etf-outflows-nine-days-shorts/?.tsrc=rss",
+     "when": "Sat Oct 10, 12:12pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -582,6 +582,102 @@
    "window": "2026-09-30T20:00Z (Sep 30 2pm MT) to 2026-10-10T03:55Z",
    "count": 36
   }
+ },
+ "hl": {
+  "MU": {
+   "stale": [
+    "km:MU",
+    "mkts:MU"
+   ],
+   "market": "xyz:MU",
+   "mark": 1036.0,
+   "oracle": 1036.0,
+   "prev": 1029.0,
+   "funding": 6.25e-06,
+   "oi": 109956.362,
+   "oi_usd": 113914791.03199999,
+   "vol": 4441531.632600003,
+   "rsi14": 51.33474612033419,
+   "ema20": 1034.8056287466607,
+   "ema50": 1039.6509559128945,
+   "hi24": 1036.8,
+   "lo24": 1028.0
+  },
+  "SPCX": {
+   "stale": [
+    "vntl:SPACEX"
+   ],
+   "market": "xyz:SPCX",
+   "mark": 163.6,
+   "oracle": 163.58,
+   "prev": 162.84,
+   "funding": 6.25e-06,
+   "oi": 757830.82,
+   "oi_usd": 123981122.15199998,
+   "vol": 6036037.392500001,
+   "rsi14": 52.91801730948612,
+   "ema20": 163.40867698567746,
+   "ema50": 164.08952207144918,
+   "hi24": 163.67,
+   "lo24": 162.58
+  },
+  "TSLA": {
+   "stale": [
+    "flx:TSLA",
+    "km:TSLA",
+    "cash:TSLA",
+    "mkts:TSLA"
+   ],
+   "market": "xyz:TSLA",
+   "mark": 382.36,
+   "oracle": 382.43,
+   "prev": 382.64,
+   "funding": 6.25e-06,
+   "oi": 113798.228,
+   "oi_usd": 43511890.45808,
+   "vol": 1527193.780859999,
+   "rsi14": 51.338820044465564,
+   "ema20": 382.48292249822146,
+   "ema50": 381.26064838834486,
+   "hi24": 383.2,
+   "lo24": 382.23
+  },
+  "LMND": {
+   "stale": []
+  },
+  "UPST": {
+   "stale": []
+  },
+  "UMAC": {
+   "stale": []
+  },
+  "BLZE": {
+   "stale": []
+  },
+  "OSCR": {
+   "stale": []
+  },
+  "BTC-USD": {
+   "stale": [
+    "flx:BTC",
+    "hyna:BTC",
+    "cash:BTC"
+   ],
+   "market": "BTC",
+   "mark": 83024.0,
+   "oracle": 83066.9,
+   "prev": 82372.0,
+   "funding": 4.0439e-06,
+   "oi": 38113.79994,
+   "oi_usd": 3164360126.2185597,
+   "vol": 808843182.0484508,
+   "rsi14": 59.49443544936779,
+   "ema20": 82856.65662195686,
+   "ema50": 82798.07517100827,
+   "hi24": 83153.0,
+   "lo24": 82392.0
+  },
+  "_at": 1791665066
  },
  "rebellionaire": {
   "scraped_at": "2026-10-10T08:25-06:00",

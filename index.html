@@ -23,6 +23,10 @@ ul{margin:6px 0;padding-left:18px}li{margin:2px 0}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
 .news li{font-size:12.5px}.news .mut{font-size:11px}
 .rb li{font-size:12.5px;margin:5px 0}.rb .sum{color:#c9d1d9}
+.hlpx{font-size:18px;font-weight:650;padding:0 3px;border-radius:4px}
+@keyframes fu{from{background:#1f6f3a}to{background:transparent}}@keyframes fd{from{background:#8b2b2b}to{background:transparent}}
+.fu{animation:fu 1.2s}.fd{animation:fd 1.2s}.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}
+.dot{box-shadow:0 0 6px currentColor}
 .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:9px;background:#21262d;color:var(--mut);margin-left:4px}
 .hl{border-left:3px solid var(--warn);padding:8px 10px;background:#1f1a0d;border-radius:6px;margin:8px 0}
 .levels{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}.levels span{padding:3px 8px;border-radius:6px;background:#21262d;font-size:12px}
@@ -31,7 +35,7 @@ table{border-collapse:collapse;width:100%;font-size:12.5px}td,th{padding:3px 4px
 footer{color:var(--mut);font-size:12px;padding:20px 16px 40px;text-align:center}
 @media(max-width:480px){main{padding:10px}.grid{grid-template-columns:1fr}.px{font-size:20px}header h1{font-size:15px}}
 </style></head><body>
-<header><h1>Market Watchlist</h1><div class="meta">Last updated: <b id="upd">loading…</b> <span id="mkt"></span></div>
+<header><h1>Market Watchlist</h1><div class="meta">Last updated: <b id="upd">loading…</b> <span id="mkt"></span> <span id="hl-status" style="font-size:12px"></span></div>
 <div class="tape" id="tape"></div></header>
 <main>
 <div class="card" id="rb-overview" style="margin-top:14px;display:none"><h3>Rebellionaire research <small id="rb-when"></small></h3><div id="rb-ov" style="font-size:13px"></div></div>
@@ -158,17 +162,20 @@ function card(c){
   <div class="kv" style="margin-top:6px"><span>Mkt cap</span><span>${big(c.mcap)}</span><span>P/E (ttm / fwd)</span><span>${c.pe?f(c.pe,1):'n/m'} / ${c.fpe&&c.fpe>0?f(c.fpe,1):'n/m'}</span>
   <span>Day range</span><span>${f(c.day_lo)} – ${f(c.day_hi)}</span>${c.next_earnings?`<span>Next earnings</span><span>${esc(c.next_earnings)}</span>`:''}<span>Watch</span><span>${esc(c.watch)}</span></div>
   <div class="sec">Milestones &amp; catalysts</div><ul>${c.catalysts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+  <div id="hl-${c.symbol}"></div>
   ${rebel(c.symbol)}
   <div class="sec">Latest news</div><ul class="news">${(c.news||[]).map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="mut">${esc(n.when)}</span></li>`).join('')||'<li class="mut">none</li>'}</ul></div>`;
 }
 function render(d){
-  $('upd').textContent=d.generated_mt; $('mkt').innerHTML=`<span class="tag">${d.market_open?'market open · 5-min refresh':'market closed · hourly / 3-hourly refresh'}</span>`;
+  window.LAST_DATA=d; if(d.hl) HL.snap=d.hl;
+  $('upd').textContent=d.generated_mt; $('mkt').innerHTML=`<span class="tag">${d.market_open?'market open · 5-min refresh':'market closed · hourly refresh'}</span>`;
   const m=d.macro, t=d.treasury||{}, tips=d.tips||{};
   const tape=[['SMH',m['SMH']],['S&P',m['^GSPC']],['NDX',m['^NDX']],['VIX',m['^VIX']],['DXY',m['DX-Y.NYB']]];
   $('tape').innerHTML=tape.map(([k,v])=>`<span><b>${k}</b> ${f(v?.price)} ${pc(v?.chg_pct)}</span>`).join('')+`<span><b>10Y</b> ${f(m['^TNX']?.price)}%</span>`;
   RB=d.rebellionaire||null;
   if(RB){$('rb-overview').style.display='';$('rb-ov').textContent=RB.overview||'';$('rb-when').textContent='scanned '+String(RB.scraped_at||'').slice(0,10)+' · weekly Sun';}
   $('cards').innerHTML=d.watchlist.map(card).join('');
+  hlAll();
   const bp=(a,b)=>a!=null&&b!=null?` <span class="mut">(${a-b>=0?'+':''}${Math.round((a-b)*100)}bp)</span>`:'';
   $('macro-tbl').innerHTML=`<tr><th></th><th>Live (Yahoo)</th><th>Treasury close ${esc(t.date||'')}</th></tr>
   <tr><td>2Y</td><td>–</td><td>${f(t['2 Yr'])}%${bp(t['2 Yr'],t.prev?.['2 Yr'])}</td></tr>
@@ -199,4 +206,103 @@ function render(d){
 }
 async function load(){try{const r=await fetch('data.json?t='+Date.now(),{cache:'no-store'});render(await r.json())}catch(e){$('upd').textContent='fetch failed – retrying'}}
 load(); setInterval(load,60000);
+/* ===== Hyperliquid live (browser -> api.hyperliquid.xyz directly; data.json snapshot = fallback) ===== */
+const HL_API='https://api.hyperliquid.xyz/info', HL_WS='wss://api.hyperliquid.xyz/ws';
+const HL_PAT={'MU':/^(?:\w+:)?(MU|MICRON)$/i,'SPCX':/^(?:\w+:)?(SPCX|SPACEX)$/i,'TSLA':/^(?:\w+:)?(TSLA|TESLA)$/i,'LMND':/^(?:\w+:)?LMND$/i,'UPST':/^(?:\w+:)?UPST$/i,'UMAC':/^(?:\w+:)?UMAC$/i,'BLZE':/^(?:\w+:)?BLZE$/i,'OSCR':/^(?:\w+:)?OSCR$/i,'BTC-USD':/^(?:\w+:)?(BTC|UBTC)$/i};
+const HL={sel:{},stale:{},ctx:{},candles:{},mid:{},tick:{},mode:'init',ws:null,backoff:1000,lastMsg:0,poll:null,snap:null};
+const hlPost=b=>fetch(HL_API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b)}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
+const mtTime=ms=>new Date(ms).toLocaleTimeString('en-US',{timeZone:'America/Denver',hour:'numeric',minute:'2-digit',second:'2-digit'})+' MT';
+function emaF(xs,n){const k=2/(n+1);let e=null;for(const x of xs)e=e==null?x:x*k+e*(1-k);return e}
+function rsiF(xs,n=14){if(xs.length<=n)return null;let g=0,l=0;for(let i=1;i<=n;i++){const d=xs[i]-xs[i-1];g+=Math.max(d,0);l+=Math.max(-d,0)}g/=n;l/=n;
+ for(let i=n+1;i<xs.length;i++){const d=xs[i]-xs[i-1];g=(g*(n-1)+Math.max(d,0))/n;l=(l*(n-1)+Math.max(-d,0))/n}return l===0?100:100-100/(1+g/l)}
+async function hlDiscover(){
+  const dexes=[null,...(await hlPost({type:'perpDexs'})).filter(Boolean).map(d=>d.name)];
+  const res=await Promise.all(dexes.map(dx=>hlPost(dx?{type:'metaAndAssetCtxs',dex:dx}:{type:'metaAndAssetCtxs'}).catch(()=>null)));
+  for(const [tk,p] of Object.entries(HL_PAT)){
+    const live=[],stale=[];
+    for(const r of res){if(!r)continue;r[0].universe.forEach((a,i)=>{if(!p.test(a.name))return;const c=r[1][i],v=+c.dayNtlVlm||0;
+      (v>0&&!a.isDelisted?live:stale).push({name:a.name,v,oi:+c.openInterest||0,c})})}
+    live.sort((a,b)=>b.v-a.v||b.oi-a.oi);
+    HL.stale[tk]=stale.map(s=>s.name);
+    if(live.length){HL.sel[tk]=live[0].name;HL.ctx[live[0].name]=live[0].c;HL.tick[live[0].name]=Date.now()}else delete HL.sel[tk];
+  }
+}
+async function hlCandles(coin){const now=Date.now();
+  HL.candles[coin]=(await hlPost({type:'candleSnapshot',req:{coin,interval:'1h',startTime:now-120*3600e3,endTime:now}})).map(c=>({t:c.t,o:+c.o,h:+c.h,l:+c.l,c:+c.c}))}
+function hlUpCandle(c){const a=HL.candles[c.s]||(HL.candles[c.s]=[]);const x={t:c.t,o:+c.o,h:+c.h,l:+c.l,c:+c.c};
+  if(a.length&&a[a.length-1].t===x.t)a[a.length-1]=x;else if(!a.length||x.t>a[a.length-1].t){a.push(x);if(a.length>200)a.shift()}}
+function hlCoins(){return [...new Set(Object.values(HL.sel))]}
+function hlConnect(){
+  try{HL.ws&&HL.ws.close()}catch(e){}
+  const ws=new WebSocket(HL_WS);HL.ws=ws;
+  ws.onopen=()=>{HL.backoff=1000;
+    const subs=[{type:'allMids'},{type:'allMids',dex:'xyz'}];
+    for(const coin of hlCoins()){subs.push({type:'activeAssetCtx',coin});subs.push({type:'candle',coin,interval:'1h'})}
+    for(const d of new Set(hlCoins().filter(c=>c.includes(':')).map(c=>c.split(':')[0])))if(d!=='xyz')subs.push({type:'allMids',dex:d});
+    subs.forEach(s=>ws.send(JSON.stringify({method:'subscribe',subscription:s})));
+    console.log('[HL] ws open, subscribed',subs.length)};
+  ws.onmessage=e=>{HL.lastMsg=Date.now();const m=JSON.parse(e.data);
+    if(m.channel==='allMids'){for(const [k,v] of Object.entries(m.data.mids||{}))if(hlCoins().includes(k)){if(HL.mid[k]!==+v){HL.mid[k]=+v;HL.tick[k]=Date.now();hlRender(k)}}}
+    else if(m.channel==='activeAssetCtx'){HL.ctx[m.data.coin]=m.data.ctx;HL.tick[m.data.coin]=Date.now();hlRender(m.data.coin)}
+    else if(m.channel==='candle'){hlUpCandle(m.data);hlRender(m.data.s)}};
+  ws.onclose=()=>{console.log('[HL] ws closed; retry in',HL.backoff);setTimeout(hlConnect,HL.backoff);HL.backoff=Math.min(HL.backoff*2,30000)};
+  ws.onerror=()=>{try{ws.close()}catch(e){}};
+}
+async function hlPollOnce(){
+  const dexes=new Set(hlCoins().map(c=>c.includes(':')?c.split(':')[0]:null));
+  for(const dx of dexes){const r=await hlPost(dx?{type:'metaAndAssetCtxs',dex:dx}:{type:'metaAndAssetCtxs'});
+    r[0].universe.forEach((a,i)=>{if(hlCoins().includes(a.name)){const old=HL.ctx[a.name];HL.ctx[a.name]=r[1][i];
+      if(!old||old.markPx!==r[1][i].markPx||old.midPx!==r[1][i].midPx)HL.tick[a.name]=Date.now()}})}
+  hlCoins().forEach(hlRender);
+}
+function hlWatchdog(){ // polling fallback if the socket is down/silent
+  const wsOk=HL.ws&&HL.ws.readyState===1&&Date.now()-HL.lastMsg<20000;
+  if(wsOk){HL.mode='live';if(HL.poll){clearInterval(HL.poll);HL.poll=null}}
+  else if(HL.mode!=='snapshot'){HL.mode='polling';if(!HL.poll){HL.poll=setInterval(()=>hlPollOnce().catch(()=>{HL.mode='snapshot';hlAll()}),12000);hlPollOnce().catch(()=>{})}}
+  hlStatus();
+}
+function hlStatus(){const el=$('hl-status');if(!el)return;
+  const m={live:['#3fb950','LIVE · Hyperliquid stream'],polling:['#d29922','POLLING · every 12s'],snapshot:['#f85149','SNAPSHOT · server data.json'],init:['#8b949e','connecting…']}[HL.mode];
+  el.innerHTML=`<i class="dot" style="background:${m[0]}"></i>${m[1]}`}
+function hlData(tk){ // live object or server snapshot fallback
+  const coin=HL.sel[tk];
+  if(coin&&HL.ctx[coin]){const c=HL.ctx[coin],cs=HL.candles[coin]||[],cl=cs.map(x=>x.c),l24=cs.slice(-24);
+    const mark=+c.markPx;return{market:coin,mark,mid:HL.mid[coin]??(+c.midPx||null),oracle:+c.oraclePx,prev:+c.prevDayPx,funding:+c.funding,oi:+c.openInterest,oi_usd:+c.openInterest*mark,vol:+c.dayNtlVlm,
+      rsi14:rsiF(cl),ema20:cl.length?emaF(cl,20):null,ema50:cl.length?emaF(cl,50):null,hi24:l24.length?Math.max(...l24.map(x=>x.h)):null,lo24:l24.length?Math.min(...l24.map(x=>x.l)):null,tick:HL.tick[coin],stale:HL.stale[tk]||[]}}
+  const s=HL.snap&&HL.snap[tk];if(s&&s.market&&HL.mode!=='live')return{...s,tick:HL.snap._at*1000,snap:true};
+  return{stale:(HL.stale[tk]||(s&&s.stale)||[]),none:true};
+}
+const HL_LAST={};
+function hlRender(coinOrTk){
+  const tk=Object.keys(HL_PAT).find(t=>t===coinOrTk||HL.sel[t]===coinOrTk);if(!tk)return;
+  const el=document.getElementById('hl-'+tk);if(!el)return;
+  const d=hlData(tk),c=(window.LAST_DATA?.watchlist||[]).find(x=>x.symbol===tk)||{};
+  if(d.none){el.innerHTML=`<div class="sec">Hyperliquid</div><div class="mut" style="font-size:12.5px">Not listed on Hyperliquid.${d.stale.length?' Inactive (0 volume): '+esc(d.stale.join(', ')):''}</div>`;return}
+  const px=d.mid??d.mark, chg=d.prev?(d.mark/d.prev-1)*100:null, prem=c.price?(d.mark/c.price-1)*100:null;
+  const dp=d.mark>=1000?2:d.mark>=10?2:4, fa=d.funding*24*365*100;
+  const usLbl=(window.LAST_DATA?.market_open)?'vs US last':'vs last US close';
+  el.innerHTML=`<div class="sec" style="display:flex;justify-content:space-between"><span>Hyperliquid · ${esc(d.market)}</span><span class="mut">${d.snap?'snapshot ':''}${d.tick?mtTime(d.tick):''}</span></div>
+  <div style="display:flex;gap:10px;align-items:baseline;flex-wrap:wrap"><span class="hlpx" id="hlpx-${tk}">$${f(px,dp)}</span><span class="mut" style="font-size:11px">mid</span>${pc(chg)} <span class="mut" style="font-size:12px">24h vs prevDay ${f(d.prev,dp)}</span></div>
+  <div class="kv"><span>Mark / Oracle</span><span>${f(d.mark,dp)} / ${f(d.oracle,dp)}</span>
+  <span>Prem/disc ${usLbl}</span><span>${prem==null?'–':pc(prem)} <span class="mut">(US ${f(c.price,dp)})</span></span>
+  <span>Funding</span><span>${f(d.funding*100,4)}%/h · ${f(fa,1)}% ann.</span>
+  <span>Open interest</span><span>${f(d.oi,d.oi>=1000?0:2)} · ${big(d.oi_usd)}</span>
+  <span>24h volume</span><span>${big(d.vol)}</span>
+  <span>RSI(14) 1h</span><span>${d.rsi14==null?'–':`<b class="${d.rsi14>=70?'dn':d.rsi14<=30?'up':''}">${f(d.rsi14,1)}</b>`}</span>
+  <span>EMA20 / EMA50 1h</span><span>${f(d.ema20,dp)} / ${f(d.ema50,dp)} <span class="mut">${d.ema20&&d.ema50?(d.ema20>d.ema50?'20 above 50':'20 below 50'):''}</span></span>
+  <span>24h high / low</span><span>${f(d.hi24,dp)} / ${f(d.lo24,dp)}</span></div>
+  ${d.stale&&d.stale.length?`<div class="mut" style="font-size:11px">Inactive markets (0 volume, ignored): ${esc(d.stale.join(', '))}</div>`:''}`;
+  if(HL_LAST[tk]!==undefined&&HL_LAST[tk]!==px){const p=$('hlpx-'+tk);if(p){p.classList.remove('fu','fd');void p.offsetWidth;p.classList.add(px>HL_LAST[tk]?'fu':'fd')}
+    console.log('[HL tick]',d.market,px,mtTime(Date.now()))}
+  HL_LAST[tk]=px;
+}
+function hlAll(){Object.keys(HL_PAT).forEach(hlRender);hlStatus()}
+async function hlStart(){
+  try{await hlDiscover();await Promise.all(hlCoins().map(c=>hlCandles(c).catch(()=>{})));hlConnect();HL.mode='init'}
+  catch(e){console.log('[HL] init failed, using snapshot',e);HL.mode='snapshot'}
+  hlAll();setInterval(hlWatchdog,5000);
+  setInterval(()=>{hlDiscover().then(()=>Promise.all(hlCoins().map(c=>hlCandles(c).catch(()=>{})))).then(hlAll).catch(()=>{})},15*60e3);
+}
+hlStart();
+
 </script></body></html>
