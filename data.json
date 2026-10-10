@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T11:29:18.186986-06:00",
- "generated_mt": "Sat Oct 10 2026, 11:29am MT",
+ "generated_at": "2026-10-10T14:29:21.379584-06:00",
+ "generated_mt": "Sat Oct 10 2026, 2:29pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,16 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "SpaceX (SPCX) Is Building A Mobile Carrier Around 15,000 More Starlink Satellites",
+     "link": "https://finance.yahoo.com/technology/articles/spacex-spcx-building-mobile-carrier-181307255.html?.tsrc=rss",
+     "when": "Sat Oct 10, 12:13pm MT"
+    },
+    {
+     "title": "SpaceX Is \u201cGetting Riskier by the Minute\u201d as Its 50-Year Bonds Slip to 85 Cents",
+     "link": "https://www.tikr.com/blog/spacex-is-getting-riskier-by-the-minute-as-its-50-year-bonds-slip-to-85-cents?ref=yahoofinance&.tsrc=rss",
+     "when": "Sat Oct 10, 12:07pm MT"
+    },
+    {
      "title": "Here's the 1 Thing I'd Wait to See Before Buying SpaceX Stock.",
      "link": "https://www.fool.com/investing/2026/10/10/heres-the-1-thing-id-wait-to-see-before-buying-spa/?.tsrc=rss",
      "when": "Sat Oct 10, 11:25am MT"
@@ -93,16 +103,6 @@
      "title": "Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?",
      "link": "https://www.fool.com/investing/2026/10/10/cathie-wood-just-cut-her-spacex-position/?.tsrc=rss",
      "when": "Sat Oct 10, 9:53am MT"
-    },
-    {
-     "title": "Verizon Stock Fell 10% in a Day After SpaceX\u2019s Spectrum Deal. Here\u2019s What Its CEO Said About Starlink in September",
-     "link": "https://www.tikr.com/blog/verizon-stock-fell-10-in-a-day-after-spacexs-spectrum-deal-heres-what-its-ceo-said-about-starlink-in-september?ref=yahoofinance&.tsrc=rss",
-     "when": "Sat Oct 10, 9:50am MT"
-    },
-    {
-     "title": "Google\u2019s Orbital TPU Test: Why SpaceX Wins No Matter Which Hyperscaler Gets There First",
-     "link": "https://finance.yahoo.com/technology/ai/articles/google-orbital-tpu-test-why-141825503.html?.tsrc=rss",
-     "when": "Sat Oct 10, 8:18am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -137,6 +137,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-made-ev-sales-180015823.html?.tsrc=rss",
+     "when": "Sat Oct 10, 12:00pm MT"
+    },
+    {
      "title": "Tesla (TSLA) Deliveries Beat Expectations. But TSLA\u2019s 159x Forward P/E Is Betting on Much More",
      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-deliveries-beat-expectations-211716069.html?.tsrc=rss",
      "when": "Sat Oct 10, 11:22am MT"
@@ -147,9 +152,9 @@
      "when": "Sat Oct 10, 9:21am MT"
     },
     {
-     "title": "Tesla Drops \u201cFull Self-Driving\u201d in Europe, Where Its Revenue Fell 10% Last Year",
-     "link": "https://www.tikr.com/blog/tesla-drops-full-self-driving-in-europe-where-its-revenue-fell-10-last-year?ref=yahoofinance&.tsrc=rss",
-     "when": "Sat Oct 10, 12:52am MT"
+     "title": "Dear Tesla Stock Fans, Mark Your Calendars for Oct. 12",
+     "link": "https://www.barchart.com/story/news/5679379/dear-tesla-stock-fans-mark-your-calendars-for-oct-12?.tsrc=rss",
+     "when": "Sat Oct 10, 7:09am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -410,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82984.46,
-   "chg_pct": 0.41243547,
-   "chg": 340.85156,
+   "price": 82961.57,
+   "chg_pct": 0.6432151,
+   "chg": 530.21094,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1667422879744,
+   "mcap": 1667594977280,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -423,28 +428,28 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 82475.2,
-   "day_hi": 82990.61,
-   "as_of": "Sat Oct 10, 11:29am MT",
+   "day_hi": 83069.375,
+   "as_of": "Sat Oct 10, 2:29pm MT",
    "news": [
     {
-     "title": "Bitcoin ETF Inflows Are Soaring. But They Are Not Telling the Whole Story About What's Happening With Bitcoin.",
-     "link": "https://www.fool.com/investing/2026/10/10/bitcoin-etf-inflows-are-soaring-but-they-are-not-t/?.tsrc=rss",
-     "when": "Sat Oct 10, 11:03am MT"
+     "title": "Eight Altcoins Have Surged Three Times More Than Bitcoin in 30 Days. Is Altcoin Season Here, or Is This Just a Momentary Uptick?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/eight-altcoins-have-surged-three-times-more-than-bitcoin-in-30-days-is-altcoin-season-here-or-is-this-just-a-momentary-uptick/?.tsrc=rss",
+     "when": "Sat Oct 10, 2:15pm MT"
     },
     {
-     "title": "Fidelity\u2019s Global Macro Director Jurrien Timmer Says Bitcoin Has Bottomed And Should Beat Gold Here On",
-     "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/fidelity-jurrien-timmer-bitcoin-bottomed-upside-than-gold/cZxcTPERBnz?.tsrc=rss",
-     "when": "Sat Oct 10, 10:43am MT"
+     "title": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
+     "link": "https://www.fool.com/investing/2026/10/10/2-cryptocurrencies-poised-to-surge-100-in-the-comi/?.tsrc=rss",
+     "when": "Sat Oct 10, 1:41pm MT"
     },
     {
-     "title": "CleanSpark Stock Fell Nearly 15% in Three Days. Its Bitcoin Is Now Worth About 40% of Its Market Cap",
-     "link": "https://www.tikr.com/blog/cleanspark-stock-fell-nearly-15-in-three-days-its-bitcoin-is-now-worth-about-40-of-its-market-cap?ref=yahoofinance&.tsrc=rss",
-     "when": "Sat Oct 10, 10:10am MT"
+     "title": "Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?",
+     "link": "https://www.fool.com/investing/2026/10/10/can-1000-in-bitcoin-help-you-retire-a-millionaire/?.tsrc=rss",
+     "when": "Sat Oct 10, 1:07pm MT"
     },
     {
-     "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-     "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise?.tsrc=rss",
-     "when": "Sat Oct 10, 10:01am MT"
+     "title": "How NEAR Intents Used Coded Language to Let the Hacker Know He\u2019d Been Fingered",
+     "link": "https://unchainedcrypto.com/how-near-intents-used-coded-language-to-let-the-hacker-know-hed-been-fingered/?.tsrc=rss",
+     "when": "Sat Oct 10, 12:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
