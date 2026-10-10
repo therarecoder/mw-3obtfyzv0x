@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Market Watchlist</title>
+<style>
+:root{--bg:#0d1117;--card:#161b22;--line:#2a313c;--tx:#e6edf3;--mut:#8b949e;--up:#3fb950;--dn:#f85149;--acc:#58a6ff;--warn:#d29922}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+header{position:sticky;top:0;z-index:5;background:#0d1117ee;backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:10px 16px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+header h1{font-size:17px;margin:0}header .meta{color:var(--mut);font-size:12px}
+.tape{display:flex;gap:14px;flex-wrap:wrap;font-size:12px}.tape b{font-weight:600}
+main{padding:14px;max-width:1500px;margin:0 auto}
+h2{font-size:15px;margin:22px 0 10px;color:var(--acc);text-transform:uppercase;letter-spacing:.06em}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;min-width:0}
+.card h3{margin:0;font-size:16px;display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.card h3 small{color:var(--mut);font-weight:400;font-size:12px}
+.px{font-size:22px;font-weight:650;margin:4px 0}.up{color:var(--up)}.dn{color:var(--dn)}.mut{color:var(--mut)}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;font-size:12.5px}.kv span:nth-child(odd){color:var(--mut)}
+.bar{position:relative;height:6px;background:#30363d;border-radius:3px;margin:8px 0 2px}.bar i{position:absolute;top:-3px;width:3px;height:12px;background:var(--acc);border-radius:1px}
+ul{margin:6px 0;padding-left:18px}li{margin:2px 0}
+.sec{font-size:11px;text-transform:uppercase;color:var(--mut);margin-top:9px;letter-spacing:.05em}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.news li{font-size:12.5px}.news .mut{font-size:11px}
+.tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:9px;background:#21262d;color:var(--mut);margin-left:4px}
+.hl{border-left:3px solid var(--warn);padding:8px 10px;background:#1f1a0d;border-radius:6px;margin:8px 0}
+.levels{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}.levels span{padding:3px 8px;border-radius:6px;background:#21262d;font-size:12px}
+.levels span.hit{background:#1a3d24;color:var(--up)}.levels span.spot{background:#0f2e4d;color:var(--acc);font-weight:600}
+table{border-collapse:collapse;width:100%;font-size:12.5px}td,th{padding:3px 4px;border-bottom:1px solid var(--line);text-align:left}
+footer{color:var(--mut);font-size:12px;padding:20px 16px 40px;text-align:center}
+@media(max-width:480px){main{padding:10px}.grid{grid-template-columns:1fr}.px{font-size:20px}header h1{font-size:15px}}
+</style></head><body>
+<header><h1>Market Watchlist</h1><div class="meta">Last updated: <b id="upd">loading…</b> <span id="mkt"></span></div>
+<div class="tape" id="tape"></div></header>
+<main>
+<h2>Watchlist</h2>
+<div class="grid" id="cards"></div>
+
+<h2>Watches</h2>
+<div class="grid">
+
+<div class="card" id="w-mu"><h3>MU levels &amp; catalysts <small>week of Oct 12–16</small></h3>
+<div class="levels" id="mu-levels"></div>
+<ul>
+<li>Upside levels 1050 / 1065 / 1080: flagged once each when first traded.</li>
+<li>Downside levels 1025 / 1015, then each $15 lower: watched quietly.</li>
+<li>View: a possible bottom midweek (Wed/Thu). Speculative.</li>
+<li>Seasonal October low lands around the 13th (median).</li>
+</ul>
+<div class="sec">Catalysts (MT)</div>
+<ul>
+<li>Tue 10/13: bank earnings; Fed Gov. Waller</li>
+<li><b>Wed 10/14 6:30am: Sep CPI</b> (cons. ~3.6% y/y headline, 2.5% core). Biggest swing factor. ASML results; Beige Book; MU ex-dividend</li>
+<li>Thu 10/15: TSMC results; PPI and retail sales 6:30am</li>
+<li>Fri 10/16: monthly options expiration (opex)</li>
+</ul>
+<div class="mut" id="mu-run"></div></div>
+
+<div class="card"><h3>Gil Luria / D.A. Davidson on MU <small>Buy</small></h3>
+<div class="px">$3,000 <span class="mut" style="font-size:13px">target, raised Wed Oct 7 from $2,100</span></div>
+<ul>
+<li>19× FY27 EPS estimate of $161 (was 13×)</li>
+<li>Memory demand outstrips supply in 2027–28; "There's only one cycle now, it's the AI cycle."</li>
+<li>Long-term contracts work like airline yield management, limiting the downside</li>
+<li>Pushback (CNBC Investing Club): his EPS sits below consensus (~$174), so the target rests on a higher multiple</li>
+</ul>
+<div class="sec">Other Street targets</div>
+<table><tr><td>Cantor</td><td>$2,000</td><td>Rosenblatt</td><td>$1,900</td></tr>
+<tr><td>Needham</td><td>$1,650</td><td>TD Cowen</td><td>$1,600</td></tr>
+<tr><td>Baird</td><td>$1,520</td><td>Mizuho</td><td>$1,400</td></tr>
+<tr><td>Wells Fargo</td><td>$1,400 (cut)</td><td>Goldman</td><td>$1,250 Neutral</td></tr>
+<tr><td>Morgan Stanley</td><td>$1,200</td><td>Consensus</td><td>~$1,520–1,630</td></tr></table>
+<div class="mut" id="mu-upside"></div></div>
+
+<div class="card"><h3>Gavin Baker X replies <small>@GavinSBaker</small></h3>
+<ul>
+<li>Read: bullish for MU and SpaceX, mildly bullish for TSLA</li>
+<li>After MU earnings (Oct 1–9): cheaper models and thinner AI-lab margins do <i>not</i> cut chip or datacenter spending. Open-weight models are good for AI infrastructure.</li>
+<li>Memory: DRAM bottleneck "lasts the longest"; HBM is the most undersupplied</li>
+<li>Caveat: also backs SRAM chips (Groq, Cerebras), a partial way around DRAM</li>
+<li>SpaceX: agreed "the entire supply chain benefits"; sees SpaceX leading AI compute in space</li>
+</ul>
+<div class="sec">Latest replies <span id="gb-count"></span></div>
+<ul class="news" id="gb-posts"></ul></div>
+
+<div class="card"><h3>Macro tape <small>live where possible</small></h3>
+<table id="macro-tbl"></table>
+<div class="sec">Read</div>
+<ul>
+<li>10Y at its highest since 2002; the move is mostly real yields, which hits long-duration growth and AI-infrastructure names hardest</li>
+<li>Fed hiked in Sept; ~80% odds of a December hike. Oil over $100.</li>
+<li>Seasonality: early October is flat to weak for chips. After the mid-October low, Q4 is strong (SOX averages ~+8%, ~+15% in midterm years).</li>
+<li>Risk: setup looks like Q4 2018 (hiking Fed, high yields, memory-peak worries)</li>
+</ul>
+<div class="sec">Calendar (MT)</div>
+<ul>
+<li>10/13 banks, Waller · <b>10/14 CPI 6:30am</b>, ASML, Beige Book · 10/15 TSMC, PPI, retail sales · 10/16 opex</li>
+<li>10/17 Fed blackout · 10/21 TSLA earnings · 10/23 data week ends · <b>FOMC 10/27–28</b> · 10/29 Samsung</li>
+<li>11/3 midterm elections; US–China truce and rare-earth deadlines in November</li>
+</ul></div>
+
+<div class="card"><h3>Tesla merger committee watch</h3>
+<div class="kv"><span>Committee</span><span><b>None formed or reported</b> (no special-committee filing language, no bankers)</span>
+<span>Polymarket deal by 12/31/26</span><span id="pm26">14%</span>
+<span>Polymarket deal by 12/31/27</span><span id="pm27">60%</span>
+<span>$600 vs. TSLA</span><span id="tsla600"></span></div>
+<div class="sec">Signals to watch</div>
+<ul>
+<li>WSJ, Bloomberg or Reuters report of independent directors hiring their own counsel or bankers</li>
+<li>Tesla or SpaceX 8-K (Items 1.01 / 5.02 / 8.01) naming a committee or new independent director</li>
+<li>Musk 13D amendment mentioning plans or proposals (key formal tell)</li>
+<li>2026 proxy filing; no annual meeting set (Texas ~13-month mark early Dec)</li>
+<li>China-business moves; "process" language on the earnings call; S-4 / 425 filings</li>
+<li>Polymarket 2026 odds +5 pts; TSLA ±5% day or ±3% intraday without news</li>
+</ul>
+<div class="sec">Dates (MT)</div>
+<ul><li>Thu 10/15 Roadster event · <b>Wed 10/21 Q3 earnings 3:30pm</b> · Fri 10/30 NHTSA Cybercab answers due</li></ul>
+<div class="sec">Logged by the routine</div><ul class="news" id="tm-seen"></ul></div>
+
+<div class="card"><h3>Robotaxi watch</h3>
+<div class="hl"><b>@Tesla: "Floodgates are opening"</b><br>
+Fri Oct 9, 2026, 11:32am MT · <a href="https://x.com/Tesla/status/2108611490102358411" target="_blank" rel="noopener">post</a><br>
+Quotes @omg_fsd: "October 8th, 2026." (Oct 8, 9:18pm MT) · <a href="https://x.com/omg_fsd/status/2108396755041816928" target="_blank" rel="noopener">post</a></div>
+<div class="kv">
+<span>Driverless (no monitor)</span><span>Austin, Dallas, Houston, Miami, Orlando, Tampa</span>
+<span>With safety monitors</span><span>Bay Area (no CA DMV/CPUC driverless permit)</span>
+<span>Arizona</span><span>Permit with safety drivers; no driverless date</span>
+<span>Cybercab TX regs</span><span>319 of 739 robotaxi vehicles (Oct 8; tracker data, approximate)</span>
+<span>Nevada</span><span>Up to 5,000 vehicles approved Aug 20; launch required by ~Dec 18</span>
+<span>NHTSA</span><span>Probe into Cybercab certification; answers due Oct 30</span>
+<span>Ridership</span><span>No official ride or mile totals published</span></div>
+<div class="sec">Robotaxi news vs TSLA move (routine log)</div><ul class="news" id="rt-log"></ul></div>
+
+</div>
+</main>
+<footer>Information, not advice. Market data from Yahoo Finance and U.S. Treasury; may be delayed. Analyst and investor views are theirs.<br><span id="errs"></span></footer>
+<script>
+const $=id=>document.getElementById(id);
+const f=(x,d=2)=>x==null?'–':Number(x).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+const pc=x=>x==null?'':`<span class="${x>=0?'up':'dn'}">${x>=0?'+':''}${f(x)}%</span>`;
+const big=x=>x==null?'–':x>=1e12?'$'+f(x/1e12)+'T':x>=1e9?'$'+f(x/1e9,1)+'B':'$'+f(x/1e6,0)+'M';
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function card(c){
+  const pos=(c.lo52!=null&&c.hi52>c.lo52)?Math.min(100,Math.max(0,(c.price-c.lo52)/(c.hi52-c.lo52)*100)):null;
+  const ext=c.pre!=null?`Pre ${f(c.pre)} ${pc(c.pre_pct)}`:c.post!=null?`After hrs ${f(c.post)} ${pc(c.post_pct)}`:'';
+  return `<div class="card"><h3><span>${esc(c.display)} <small>${esc(c.name)}</small></span><a href="${c.yahoo}" target="_blank" rel="noopener"><small>Yahoo ↗</small></a></h3>
+  <div class="px">${c.display==='BTC'?'$'+f(c.price,0):'$'+f(c.price)} ${pc(c.chg_pct)}</div>
+  <div class="mut" style="font-size:12px">${ext} ${c.as_of?'· '+c.as_of:''}</div>
+  ${pos!=null?`<div class="bar"><i style="left:${pos}%"></i></div><div class="mut" style="font-size:11px;display:flex;justify-content:space-between"><span>52w lo ${f(c.lo52)}</span><span>52w hi ${f(c.hi52)}</span></div>`:''}
+  <div class="kv" style="margin-top:6px"><span>Mkt cap</span><span>${big(c.mcap)}</span><span>P/E (ttm / fwd)</span><span>${c.pe?f(c.pe,1):'n/m'} / ${c.fpe&&c.fpe>0?f(c.fpe,1):'n/m'}</span>
+  <span>Day range</span><span>${f(c.day_lo)} – ${f(c.day_hi)}</span>${c.next_earnings?`<span>Next earnings</span><span>${esc(c.next_earnings)}</span>`:''}<span>Watch</span><span>${esc(c.watch)}</span></div>
+  <div class="sec">Milestones &amp; catalysts</div><ul>${c.catalysts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+  <div class="sec">Latest news</div><ul class="news">${(c.news||[]).map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="mut">${esc(n.when)}</span></li>`).join('')||'<li class="mut">none</li>'}</ul></div>`;
+}
+function render(d){
+  $('upd').textContent=d.generated_mt; $('mkt').innerHTML=`<span class="tag">${d.market_open?'market open · 5-min refresh':'market closed · hourly / 3-hourly refresh'}</span>`;
+  const m=d.macro, t=d.treasury||{}, tips=d.tips||{};
+  const tape=[['SMH',m['SMH']],['S&P',m['^GSPC']],['NDX',m['^NDX']],['VIX',m['^VIX']],['DXY',m['DX-Y.NYB']]];
+  $('tape').innerHTML=tape.map(([k,v])=>`<span><b>${k}</b> ${f(v?.price)} ${pc(v?.chg_pct)}</span>`).join('')+`<span><b>10Y</b> ${f(m['^TNX']?.price)}%</span>`;
+  $('cards').innerHTML=d.watchlist.map(card).join('');
+  const bp=(a,b)=>a!=null&&b!=null?` <span class="mut">(${a-b>=0?'+':''}${Math.round((a-b)*100)}bp)</span>`:'';
+  $('macro-tbl').innerHTML=`<tr><th></th><th>Live (Yahoo)</th><th>Treasury close ${esc(t.date||'')}</th></tr>
+  <tr><td>2Y</td><td>–</td><td>${f(t['2 Yr'])}%${bp(t['2 Yr'],t.prev?.['2 Yr'])}</td></tr>
+  <tr><td>5Y</td><td>${f(m['^FVX']?.price)}%</td><td>${f(t['5 Yr'])}%</td></tr>
+  <tr><td>10Y</td><td>${f(m['^TNX']?.price)}%</td><td>${f(t['10 Yr'])}%${bp(t['10 Yr'],t.prev?.['10 Yr'])}</td></tr>
+  <tr><td>30Y</td><td>${f(m['^TYX']?.price)}%</td><td>${f(t['30 Yr'])}%${bp(t['30 Yr'],t.prev?.['30 Yr'])}</td></tr>
+  <tr><td>10Y TIPS (real)</td><td>–</td><td>${f(tips['10 YR'])}%${bp(tips['10 YR'],tips.prev10)}</td></tr>
+  <tr><td>2s10s</td><td></td><td>${t['10 Yr']!=null?Math.round((t['10 Yr']-t['2 Yr'])*100)+'bp':'–'}</td></tr>
+  <tr><td>VIX</td><td>${f(m['^VIX']?.price)} ${pc(m['^VIX']?.chg_pct)}</td><td></td></tr>
+  <tr><td>DXY</td><td>${f(m['DX-Y.NYB']?.price)} ${pc(m['DX-Y.NYB']?.chg_pct)}</td><td></td></tr>
+  <tr><td>SMH</td><td>${f(m['SMH']?.price)} ${pc(m['SMH']?.chg_pct)}</td><td></td></tr>`;
+  const w=d.watches||{}, mu=w.mu||{}, muc=d.watchlist.find(c=>c.symbol==='MU')||{};
+  const hit=new Set([...(mu.levels_flagged_up||[]),...(mu.levels_flagged_down||[])]);
+  const lv=[1015,1025,1040,1050,1065,1080];
+  const items=lv.map(l=>({l,h:`<span class="${hit.has(l)?'hit':''}">${l}${hit.has(l)?' ✓':''}</span>`}));
+  if(muc.price) items.push({l:muc.price,h:`<span class="spot">MU ${f(muc.price)}</span>`});
+  $('mu-levels').innerHTML=items.sort((a,b)=>a.l-b.l).map(x=>x.h).join('');
+  $('mu-run').textContent=(mu.bottom_flagged?'Possible-bottom pattern flagged. ':'')+(mu.last_run?`Routine last ran ${mu.last_run}.`:'Routine starts Mon 10/12.');
+  if(muc.price) $('mu-upside').textContent=`$3,000 target vs. MU ${f(muc.price)}: ${f((3000/muc.price-1)*100,0)}% above.`;
+  const tm=w.tsla||{}, ts=d.watchlist.find(c=>c.symbol==='TSLA')||{};
+  if(tm.polymarket_2026!=null)$('pm26').textContent=tm.polymarket_2026+'%'; if(tm.polymarket_2027!=null)$('pm27').textContent=tm.polymarket_2027+'%';
+  if(ts.price)$('tsla600').textContent=`TSLA ${f(ts.price)}; $600 is ${f((600/ts.price-1)*100,0)}% above`;
+  $('tm-seen').innerHTML=(tm.seen||[]).map(x=>`<li>${typeof x==='string'?esc(x):esc(x.t||'')+' '+(x.url?`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title||x.headline||x.summary||'link')}</a>`:esc(x.title||x.headline||x.summary||''))}</li>`).join('')||'<li class="mut">Nothing new logged yet (baseline Oct 9).</li>';
+  $('rt-log').innerHTML=(tm.robotaxi_price_log||[]).map(x=>`<li>${esc(typeof x==='string'?x:JSON.stringify(x))}</li>`).join('')||'<li class="mut">No entries yet.</li>';
+  const gb=w.gavin||{}; $('gb-count').textContent=gb.count?`(${gb.count} posts since MU earnings)`:'';
+  $('gb-posts').innerHTML=(gb.posts||[]).map(p=>`<li>${esc(p.text)} <span class="mut">${esc(p.when)}</span> <a href="${esc(p.url)}" target="_blank" rel="noopener">↗</a></li>`).join('');
+  $('errs').textContent=(d.errors&&d.errors.length)?'Data issues: '+d.errors.join('; '):'';
+}
+async function load(){try{const r=await fetch('data.json?t='+Date.now(),{cache:'no-store'});render(await r.json())}catch(e){$('upd').textContent='fetch failed – retrying'}}
+load(); setInterval(load,60000);
+</script></body></html>

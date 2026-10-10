@@ -1,0 +1,581 @@
+{
+ "generated_at": "2026-10-10T08:15:08.934532-06:00",
+ "generated_mt": "Sat Oct 10 2026, 8:15am MT",
+ "market_open": false,
+ "watchlist": [
+  {
+   "symbol": "MU",
+   "display": "MU",
+   "name": "Micron",
+   "catalysts": [
+    "Key levels: 1015 / 1025 / 1040 / 1050 / 1065 / 1080",
+    "Ex-dividend Wed 10/14 (~$0.15)",
+    "Sep CPI Wed 10/14 6:30am MT; ASML; Beige Book",
+    "TSMC results Thu 10/15; monthly opex Fri 10/16",
+    "View: possible bottom midweek (Wed/Thu) - speculative",
+    "Street: D.A. Davidson $3,000 Buy (10/7); consensus ~$1,520-1,630"
+   ],
+   "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
+   "price": 1029.0,
+   "chg_pct": -0.66033036,
+   "chg": -6.839966,
+   "lo52": 186.25,
+   "hi52": 1255.0,
+   "mcap": 1164234457088,
+   "pe": 13.84367,
+   "fpe": 4.9870977,
+   "post": 1028.5001,
+   "post_pct": -0.048579004,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 1017.0,
+   "day_hi": 1053.58,
+   "next_earnings": "Wed Dec 23, 2026 (est.)",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "'Not the time to be skittish': Why Wall Street sees stocks rising by year-end",
+     "link": "https://finance.yahoo.com/markets/article/not-the-time-to-be-skittish-why-wall-street-sees-stocks-rising-by-year-end-115918876.html?.tsrc=rss",
+     "when": "Sat Oct 10, 5:59am MT"
+    },
+    {
+     "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-mu-facing-100944712.html?.tsrc=rss",
+     "when": "Sat Oct 10, 4:09am MT"
+    },
+    {
+     "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
+     "when": "Fri Oct 9, 3:18pm MT"
+    },
+    {
+     "title": "Micron Stock Falls. Why Buybacks Could be Crucial for Gains.",
+     "link": "https://finance.yahoo.com/m/778c8164-7071-3bca-ac0b-d50017ff134e/micron-stock-falls.-why.html?.tsrc=rss",
+     "when": "Fri Oct 9, 2:22pm MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+   "symbol": "SPCX",
+   "display": "SPCX",
+   "name": "SpaceX",
+   "catalysts": [
+    "xAI absorbed into SpaceX (Feb 2026)",
+    "Tesla-SpaceX combination speculation: Polymarket 14% by 12/31/26, 60% by 12/31/27",
+    "Gavin Baker: SpaceX positioned to lead AI compute in space (Starship-dependent)",
+    "Watch: Starship milestones, lock-up/unlock dates, merger-process filings"
+   ],
+   "watch": "Tesla merger committee watch; Gavin Baker replies",
+   "price": 162.57,
+   "chg_pct": 1.24556,
+   "chg": 2.0,
+   "lo52": 104.83,
+   "hi52": 225.64,
+   "mcap": 2141727621120,
+   "pe": null,
+   "fpe": 84.42871,
+   "post": 162.76,
+   "post_pct": 0.116864845,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 160.61,
+   "day_hi": 166.38,
+   "next_earnings": "Tue Nov 3, 2026 (est.)",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Musk: SpaceX Could Be Worth \u201cOrders of Magnitude More\u201d Than $118 Trillion",
+     "link": "https://www.tikr.com/blog/musk-spacex-could-be-worth-orders-of-magnitude-more-than-118-trillion?ref=yahoofinance&.tsrc=rss",
+     "when": "Sat Oct 10, 6:03am MT"
+    },
+    {
+     "title": "Prediction: SpaceX Stock Won't Get Full Credit for Starship Until It Can Reuse the Whole Rocket",
+     "link": "https://www.fool.com/investing/2026/10/10/prediction-spacex-stock-won-t-get-full-credit-for-starship-until-it-can-reuse-the-whole-rocket/?.tsrc=rss",
+     "when": "Sat Oct 10, 2:43am MT"
+    },
+    {
+     "title": "SpaceX\u2019s Wireless Ambitions Could Be A Windfall For CCI \u2014 Bernstein Analyst Calls It The \u2018Best Beneficiary\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-wireless-spectrum-deal-cci-best-beneficiary-tower-stocks/cZxTFDvRBnA?.tsrc=rss",
+     "when": "Sat Oct 10, 1:13am MT"
+    },
+    {
+     "title": "Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks \u2014 But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms",
+     "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-biotech-stocks-sells-amd-spcx-goog/cZxTVbERBnq?.tsrc=rss",
+     "when": "Sat Oct 10, 12:02am MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/SPCX"
+  },
+  {
+   "symbol": "TSLA",
+   "display": "TSLA",
+   "name": "Tesla",
+   "catalysts": [
+    "Roadster event Thu 10/15",
+    "Q3 earnings Wed 10/21, 3:30pm MT",
+    "NHTSA Cybercab certification answers due Fri 10/30",
+    "Nevada robotaxi launch required by ~Dec 18",
+    "View: merger committee in 2026, deal in 2027, ~$600 on merger + Robotaxi"
+   ],
+   "watch": "Tesla merger committee watch; Robotaxi watch",
+   "price": 382.7,
+   "chg_pct": 2.05334,
+   "chg": 7.70001,
+   "lo52": 297.38,
+   "hi52": 498.83,
+   "mcap": 1511491895296,
+   "pe": 354.35184,
+   "fpe": 175.3534,
+   "post": 382.718,
+   "post_pct": 0.004696852,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 379.71,
+   "day_hi": 388.56,
+   "next_earnings": "Wed Oct 21, 2026",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Tesla Drops \u201cFull Self-Driving\u201d in Europe, Where Its Revenue Fell 10% Last Year",
+     "link": "https://www.tikr.com/blog/tesla-drops-full-self-driving-in-europe-where-its-revenue-fell-10-last-year?ref=yahoofinance&.tsrc=rss",
+     "when": "Sat Oct 10, 12:52am MT"
+    },
+    {
+     "title": "Stocktwits Zero To Sixty \u2014 Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold",
+     "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-shanghai-exports-shine-texas-cybercab-fleet-scales-and-lucid-built-fewer-cars-than-it-sold/cZxTW6gRBnV?.tsrc=rss",
+     "when": "Fri Oct 9, 7:01pm MT"
+    },
+    {
+     "title": "Tesla is one of the 'clearest ways to own physical AI,' analyst says",
+     "link": "https://finance.yahoo.com/markets/article/tesla-is-one-of-the-clearest-ways-to-own-physical-ai-analyst-says-192223905.html?.tsrc=rss",
+     "when": "Fri Oct 9, 1:22pm MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/TSLA"
+  },
+  {
+   "symbol": "LMND",
+   "display": "LMND",
+   "name": "Lemonade",
+   "catalysts": [
+    "Q3 earnings (date per Yahoo below)",
+    "Watch: loss ratio, gross written premium growth, car insurance ramp"
+   ],
+   "watch": "Price & news",
+   "price": 46.46,
+   "chg_pct": -0.959285,
+   "chg": -0.450001,
+   "lo52": 43.28,
+   "hi52": 99.9,
+   "mcap": 3595846656,
+   "pe": null,
+   "fpe": -53.402298,
+   "post": 46.46,
+   "post_pct": -0.06453558,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 46.05,
+   "day_hi": 47.41,
+   "next_earnings": "Wed Nov 4, 2026",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Does Lemonade\u2019s Growth Signal Profits Ahead?",
+     "link": "https://www.marketbeat.com/articles/does-lemonades-growth-signal-profits-ahead/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+     "when": "Thu Oct 8, 9:40am MT"
+    },
+    {
+     "title": "Lemonade adds support for Tesla FSD V14 Lite, expanding its Autonomous Car insurance to Teslas running HW3",
+     "link": "https://finance.yahoo.com/technology/articles/lemonade-adds-support-tesla-fsd-121900050.html?.tsrc=rss",
+     "when": "Thu Oct 8, 6:19am MT"
+    },
+    {
+     "title": "Lemonade Expands Renters Insurance to Hawaii",
+     "link": "https://finance.yahoo.com/small-business/articles/lemonade-expands-renters-insurance-hawaii-122600192.html?.tsrc=rss",
+     "when": "Tue Oct 6, 6:26am MT"
+    },
+    {
+     "title": "Lemonade\u2019s State-by-State Pet Push Could Be A Game Changer For Lemonade (LMND)",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/lemonade-state-state-pet-push-170715296.html?.tsrc=rss",
+     "when": "Sun Oct 4, 11:07am MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/LMND"
+  },
+  {
+   "symbol": "UPST",
+   "display": "UPST",
+   "name": "Upstart",
+   "catalysts": [
+    "Q3 earnings (date per Yahoo below)",
+    "Sensitive to rates: 2Y/10Y yields and funding-market appetite",
+    "Watch: origination volume, conversion, guidance"
+   ],
+   "watch": "Price, yields & news",
+   "price": 24.1,
+   "chg_pct": -0.372055,
+   "chg": -0.0900002,
+   "lo52": 22.555,
+   "hi52": 55.22,
+   "mcap": 2306648832,
+   "pe": 48.2,
+   "fpe": 6.9333363,
+   "post": 24.084,
+   "post_pct": -0.066393144,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 23.815,
+   "day_hi": 24.5,
+   "next_earnings": "Tue Nov 3, 2026",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Upstart Expands Credit Union Network With Denver Partnership",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-expands-credit-union-network-161900520.html?.tsrc=rss",
+     "when": "Thu Oct 8, 10:19am MT"
+    },
+    {
+     "title": "Credit Union of Denver Partners with Upstart to Expand Access to Personal Lending",
+     "link": "https://finance.yahoo.com/small-business/articles/credit-union-denver-partners-upstart-130000739.html?.tsrc=rss",
+     "when": "Wed Oct 7, 7:00am MT"
+    },
+    {
+     "title": "Upstart Holdings, Inc. (UPST) Stock Sinks As Market Gains: Here's Why",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-inc-upst-stock-210004741.html?.tsrc=rss",
+     "when": "Tue Oct 6, 3:00pm MT"
+    },
+    {
+     "title": "Upstart to Announce Third Quarter 2026 Results on November 3, 2026",
+     "link": "https://finance.yahoo.com/technology/ai/articles/upstart-announce-third-quarter-2026-200500644.html?.tsrc=rss",
+     "when": "Tue Oct 6, 2:05pm MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/UPST"
+  },
+  {
+   "symbol": "UMAC",
+   "display": "UMAC",
+   "name": "Unusual Machines",
+   "catalysts": [
+    "Q3 earnings (date per Yahoo below)",
+    "Watch: drone-component orders, US defense/drone policy headlines"
+   ],
+   "watch": "Price & news",
+   "price": 20.83,
+   "chg_pct": -2.61804,
+   "chg": -0.559999,
+   "lo52": 7.245,
+   "hi52": 34.926,
+   "mcap": 1040593984,
+   "pe": null,
+   "fpe": -64.42335,
+   "post": 20.84,
+   "post_pct": 0.04800878,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 20.385,
+   "day_hi": 21.69,
+   "next_earnings": "Thu Nov 5, 2026 (est.)",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back",
+     "link": "https://247wallst.com/investing/2026/10/01/unusual-machines-tumbles-8-despite-pentagons-autonomous-warfare-push-aerovironment-eases-red-cat-pulls-back/?.tsrc=rss",
+     "when": "Thu Oct 1, 10:49am MT"
+    },
+    {
+     "title": "ONDS, AVAV, KTOS, RCAT, UMAC Stocks Rise Overnight: Pentagon Maps Out AI-Driven Defense Shift With Autonomous Warfare Command",
+     "link": "https://stocktwits.com/news-articles/markets/equity/onds-avav-ktos-rcat-umac-stocks-rise-overnight-pentagon-maps-out-ai-driven-defense-shift-with-autonomous-warfare-command/cZDioS8RBLo?.tsrc=rss",
+     "when": "Wed Sep 30, 8:10pm MT"
+    },
+    {
+     "title": "Will Defense-Focused Counter-Drone Expansion and Draganfly Stake Change Unusual Machines' (UMAC) Narrative",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/defense-focused-counter-drone-expansion-131240408.html?.tsrc=rss",
+     "when": "Wed Sep 30, 7:12am MT"
+    },
+    {
+     "title": "Can Counter-Drone Demand Become Unusual Machines' Next Catalyst?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/counter-drone-demand-become-unusual-123800985.html?.tsrc=rss",
+     "when": "Tue Sep 29, 6:38am MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/UMAC"
+  },
+  {
+   "symbol": "BLZE",
+   "display": "BLZE",
+   "name": "Backblaze",
+   "catalysts": [
+    "Q3 earnings (date per Yahoo below)",
+    "Watch: B2 cloud storage growth, AI storage demand, net revenue retention"
+   ],
+   "watch": "Price & news",
+   "price": 12.69,
+   "chg_pct": -2.30947,
+   "chg": -0.3,
+   "lo52": 3.261,
+   "hi52": 23.99,
+   "mcap": 785510976,
+   "pe": null,
+   "fpe": 46.999996,
+   "post": 12.51,
+   "post_pct": -1.4184346,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 12.64,
+   "day_hi": 13.35,
+   "next_earnings": "Thu Nov 5, 2026 (est.)",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Backblaze Flags Q2 Drive Failure Rise, Sees Outliers Not a Trend",
+     "link": "https://www.marketbeat.com/instant-alerts/event-backblaze-flags-q2-drive-failure-rise-sees-outliers-not-a-trend-2026-10-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+     "when": "Thu Oct 8, 8:02pm MT"
+    },
+    {
+     "title": "Backblaze Builds on Its Jamf Integration with New Deployment Options for Mac Backup",
+     "link": "https://finance.yahoo.com/technology/articles/backblaze-builds-jamf-integration-deployment-200200867.html?.tsrc=rss",
+     "when": "Thu Oct 1, 2:02pm MT"
+    },
+    {
+     "title": "Backblaze Publishes Q2 2026 Drive Stats: Quarterly Failure Rate Rises to 1.73%",
+     "link": "https://finance.yahoo.com/technology/articles/backblaze-publishes-q2-2026-drive-130000726.html?.tsrc=rss",
+     "when": "Tue Sep 29, 7:00am MT"
+    },
+    {
+     "title": "Backblaze to Present at AI Infra Summit 2026: Architecting the AI Data Plane",
+     "link": "https://finance.yahoo.com/technology/ai/articles/backblaze-present-ai-infra-summit-130000434.html?.tsrc=rss",
+     "when": "Mon Sep 14, 7:00am MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/BLZE"
+  },
+  {
+   "symbol": "OSCR",
+   "display": "OSCR",
+   "name": "Oscar Health",
+   "catalysts": [
+    "Q3 earnings (date per Yahoo below)",
+    "ACA open enrollment starts Nov 1",
+    "Watch: ACA subsidy policy, medical loss ratio"
+   ],
+   "watch": "Price & news",
+   "price": 33.37,
+   "chg_pct": 0.815711,
+   "chg": 0.27,
+   "lo52": 10.69,
+   "hi52": 34.48,
+   "mcap": 10299483136,
+   "pe": 25.868217,
+   "fpe": 15.409765,
+   "post": 33.37,
+   "post_pct": 0.0,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 32.69,
+   "day_hi": 34.14,
+   "next_earnings": "Mon Nov 9, 2026",
+   "as_of": "Fri Oct 9, 2:00pm MT",
+   "news": [
+    {
+     "title": "Can Oscar Health Turn ACA Marketplace Growth Into Lasting Profits?",
+     "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-turn-aca-marketplace-160300104.html?.tsrc=rss",
+     "when": "Thu Oct 8, 10:03am MT"
+    },
+    {
+     "title": "Oscar Health, Inc. (OSCR) Advances While Market Declines: Some Information for Investors",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-inc-oscr-advances-211506405.html?.tsrc=rss",
+     "when": "Wed Oct 7, 3:15pm MT"
+    },
+    {
+     "title": "Why Oscar Health (OSCR) Is Up 8.6% After Raising 2026 Outlook On AI-Driven Q2 Beat",
+     "link": "https://finance.yahoo.com/healthcare/articles/why-oscar-health-oscr-8-201125334.html?.tsrc=rss",
+     "when": "Wed Oct 7, 2:11pm MT"
+    },
+    {
+     "title": "Oscar Health Trading at a Premium: Why Should You Still Buy It?",
+     "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-trading-premium-why-173800037.html?.tsrc=rss",
+     "when": "Mon Oct 5, 11:38am MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/OSCR"
+  },
+  {
+   "symbol": "BTC-USD",
+   "display": "BTC",
+   "name": "Bitcoin",
+   "catalysts": [
+    "Trades 24/7; sensitive to real yields and the dollar (DXY)",
+    "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
+   ],
+   "watch": "Price, DXY & yields",
+   "price": 82717.77,
+   "chg_pct": -0.2830026,
+   "chg": -234.75781,
+   "lo52": 57747.766,
+   "hi52": 116273.31,
+   "mcap": 1662402035712,
+   "pe": null,
+   "fpe": null,
+   "post": null,
+   "post_pct": null,
+   "pre": null,
+   "pre_pct": null,
+   "day_lo": 82475.2,
+   "day_hi": 82840.18,
+   "as_of": "Sat Oct 10, 8:15am MT",
+   "news": [
+    {
+     "title": "XRP Formed a Double Bottom Near $1 This Summer: Will It Hold or Break Down?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/xrp-formed-a-double-bottom-near-1-this-summer-will-it-hold-or-break-down-2/?.tsrc=rss",
+     "when": "Sat Oct 10, 7:50am MT"
+    },
+    {
+     "title": "Tom Lee\u2019s Ethereum Year-End Call Is Now Half Of What He Called \u2018Conservative\u2019 Last Month, But He Expects \u2018Monster Moves\u2019 In The Crypto Industry",
+     "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/tom-lees-ethereum-yearend-call-is-now-half-of-what-he-called-conservative-last-month/cZxTv6URBnD?.tsrc=rss",
+     "when": "Sat Oct 10, 6:16am MT"
+    },
+    {
+     "title": "How Much Crypto Is Too Much for Retirement?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/how-much-crypto-is-too-much-for-retirement/?.tsrc=rss",
+     "when": "Sat Oct 10, 5:30am MT"
+    },
+    {
+     "title": "AAVE Jumps After Citrini Research Bets On DeFi Tokens\u2019 $157T Tokenization Opportunity",
+     "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/aave-jumps-after-citrini-research-bets-defi-tokens-tokenization/cZxTtbZRBnM?.tsrc=rss",
+     "when": "Sat Oct 10, 4:25am MT"
+    }
+   ],
+   "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
+  }
+ ],
+ "macro": {
+  "SMH": {
+   "price": 603.33,
+   "chg_pct": -0.648806,
+   "chg": -3.94,
+   "as_of": "Fri Oct 9, 2:00pm MT"
+  },
+  "^TNX": {
+   "price": 5.244,
+   "chg_pct": 0.24851868,
+   "chg": 0.013000011,
+   "as_of": "Fri Oct 9, 12:59pm MT"
+  },
+  "^TYX": {
+   "price": 5.6,
+   "chg_pct": -0.10702893,
+   "chg": -0.006000042,
+   "as_of": "Fri Oct 9, 12:59pm MT"
+  },
+  "^FVX": {
+   "price": 5.021,
+   "chg_pct": 0.6010766,
+   "chg": 0.029999733,
+   "as_of": "Fri Oct 9, 12:59pm MT"
+  },
+  "^IRX": {
+   "price": 4.057,
+   "chg_pct": 0.346276,
+   "chg": 0.013999939,
+   "as_of": "Fri Oct 9, 12:59pm MT"
+  },
+  "^VIX": {
+   "price": 14.84,
+   "chg_pct": -3.698895,
+   "chg": -0.5699997,
+   "as_of": "Fri Oct 9, 2:15pm MT"
+  },
+  "DX-Y.NYB": {
+   "price": 102.231,
+   "chg_pct": 0.01761554,
+   "chg": 0.018005371,
+   "as_of": "Fri Oct 9, 2:59pm MT"
+  },
+  "^GSPC": {
+   "price": 7811.54,
+   "chg_pct": 0.5946946,
+   "chg": 46.180176,
+   "as_of": "Fri Oct 9, 3:29pm MT"
+  },
+  "^NDX": {
+   "price": 30883.148,
+   "chg_pct": 0.51207715,
+   "chg": 157.33984,
+   "as_of": "Fri Oct 9, 3:15pm MT"
+  }
+ },
+ "errors": [],
+ "treasury": {
+  "date": "10/09/2026",
+  "3 Mo": 4.25,
+  "2 Yr": 4.8,
+  "5 Yr": 5.02,
+  "10 Yr": 5.24,
+  "30 Yr": 5.6,
+  "prev": {
+   "2 Yr": 4.75,
+   "10 Yr": 5.22,
+   "30 Yr": 5.6
+  }
+ },
+ "tips": {
+  "date": "10/09/2026",
+  "10 YR": 2.91,
+  "prev10": 2.87
+ },
+ "watches": {
+  "mu": {
+   "levels_flagged_up": [],
+   "levels_flagged_down": [],
+   "bottom_flagged": false,
+   "last_run": null,
+   "runs_logged": 0
+  },
+  "tsla": {
+   "polymarket_2026": 14,
+   "polymarket_2027": 60,
+   "seen": [],
+   "robotaxi_price_log": [],
+   "last_logged_tsla": 382.7,
+   "last_run": null
+  },
+  "gavin": {
+   "posts": [
+    {
+     "when": "Fri Oct 9, 2:24pm MT",
+     "text": "@KeyserSozeCFA Funny",
+     "url": "https://x.com/GavinSBaker/status/2108654766926750186"
+    },
+    {
+     "when": "Fri Oct 9, 11:31am MT",
+     "text": "@bcantrill Wow thanks for the kind words \n\nAnd super excited about Oxide!",
+     "url": "https://x.com/GavinSBaker/status/2108611389715890270"
+    },
+    {
+     "when": "Fri Oct 9, 8:55am MT",
+     "text": "@benitoz Always",
+     "url": "https://x.com/GavinSBaker/status/2108572051569025237"
+    },
+    {
+     "when": "Fri Oct 9, 8:54am MT",
+     "text": "@modestproposal1 I would never compare myself to MJ. \n\nBut more along the lines of \u201cAnd I took that personally.\u201d\n\nAlso anyone who thinks LeBron is better than MJ is even more wrong than the Ramp economist.\n\nWho seems like a nice, thoughtful, smart guy and is empirically doing goo",
+     "url": "https://x.com/GavinSBaker/status/2108571733099778063"
+    },
+    {
+     "when": "Fri Oct 9, 8:47am MT",
+     "text": "@arakharazian This is exactly wrong.\n\nLess revenue and/or margin at the model layer does not equal less AI spend at the infra layer.\n\nAn extreme hypothetical where all AI comes from enterprises running open-weight models on premise would result in *zero* AI spend at the *model* l",
+     "url": "https://x.com/GavinSBaker/status/2108570173170991287"
+    },
+    {
+     "when": "Fri Oct 9, 8:38am MT",
+     "text": "@benitoz Laughing",
+     "url": "https://x.com/GavinSBaker/status/2108567819314966596"
+    }
+   ],
+   "window": "2026-09-30T20:00Z (Sep 30 2pm MT) to 2026-10-10T03:55Z",
+   "count": 36
+  }
+ }
+}
