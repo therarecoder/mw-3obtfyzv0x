@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T14:50:09.104749-06:00",
- "generated_mt": "Sat Oct 10 2026, 2:50pm MT",
+ "generated_at": "2026-10-10T15:52:55.884627-06:00",
+ "generated_mt": "Sat Oct 10 2026, 3:52pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "AT&T CEO holds firm stance on Elon Musk's SpaceX phone strategy",
+     "link": "https://www.thestreet.com/investing/stocks/att-ceo-says-elon-musk-spacex-phone-strategy-not-viable?.tsrc=rss",
+     "when": "Sat Oct 10, 3:03pm MT"
+    },
+    {
      "title": "SpaceX (SPCX) Is Building A Mobile Carrier Around 15,000 More Starlink Satellites",
      "link": "https://finance.yahoo.com/technology/articles/spacex-spcx-building-mobile-carrier-181307255.html?.tsrc=rss",
      "when": "Sat Oct 10, 12:13pm MT"
@@ -98,11 +103,6 @@
      "title": "Here's the 1 Thing I'd Wait to See Before Buying SpaceX Stock.",
      "link": "https://www.fool.com/investing/2026/10/10/heres-the-1-thing-id-wait-to-see-before-buying-spa/?.tsrc=rss",
      "when": "Sat Oct 10, 11:25am MT"
-    },
-    {
-     "title": "Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?",
-     "link": "https://www.fool.com/investing/2026/10/10/cathie-wood-just-cut-her-spacex-position/?.tsrc=rss",
-     "when": "Sat Oct 10, 9:53am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82999.48,
-   "chg_pct": 0.6892003,
-   "chg": 568.1172,
+   "price": 82993.44,
+   "chg_pct": 0.63959134,
+   "chg": 527.4453,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1667891462144,
+   "mcap": 1668397924352,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 82475.2,
    "day_hi": 83069.375,
-   "as_of": "Sat Oct 10, 2:50pm MT",
+   "as_of": "Sat Oct 10, 3:51pm MT",
    "news": [
+    {
+     "title": "Whales Bought 15,000 Bitcoin in Three Days While MARA Sold $81 Million. Who Has It Right?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/whales-bought-15000-bitcoin-in-three-days-while-mara-sold-81-million-who-has-it-right/?.tsrc=rss",
+     "when": "Sat Oct 10, 3:30pm MT"
+    },
     {
      "title": "Eight Altcoins Have Surged Three Times More Than Bitcoin in 30 Days. Is Altcoin Season Here, or Is This Just a Momentary Uptick?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/eight-altcoins-have-surged-three-times-more-than-bitcoin-in-30-days-is-altcoin-season-here-or-is-this-just-a-momentary-uptick/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?",
      "link": "https://www.fool.com/investing/2026/10/10/can-1000-in-bitcoin-help-you-retire-a-millionaire/?.tsrc=rss",
      "when": "Sat Oct 10, 1:07pm MT"
-    },
-    {
-     "title": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
-     "link": "https://beincrypto.com/ethereum-etf-outflows-nine-days-shorts/?.tsrc=rss",
-     "when": "Sat Oct 10, 12:12pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -590,36 +590,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1036.0,
-   "oracle": 1036.0,
+   "mark": 1036.5,
+   "oracle": 1036.4,
    "prev": 1028.8,
    "funding": 6.25e-06,
-   "oi": 109965.486,
-   "oi_usd": 113924243.496,
-   "vol": 4389349.859600001,
-   "rsi14": 51.33474612033419,
-   "ema20": 1034.8056287466607,
-   "ema50": 1039.6509559128945,
+   "oi": 110236.674,
+   "oi_usd": 114260312.601,
+   "vol": 3874249.784200001,
+   "rsi14": 52.821900264309164,
+   "ema20": 1034.9583773552176,
+   "ema50": 1039.5188800616538,
    "hi24": 1036.8,
-   "lo24": 1028.0
+   "lo24": 1028.5
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.61,
+   "mark": 163.6,
    "oracle": 163.59,
-   "prev": 162.73,
+   "prev": 162.68,
    "funding": 6.25e-06,
-   "oi": 757885.48,
-   "oi_usd": 123997643.38280001,
-   "vol": 5831482.207699997,
-   "rsi14": 52.91801730948612,
-   "ema20": 163.40867698567746,
-   "ema50": 164.08952207144918,
+   "oi": 758088.3600000002,
+   "oi_usd": 124023255.69600002,
+   "vol": 5227540.029399996,
+   "rsi14": 52.72387661444521,
+   "ema20": 163.42698865290188,
+   "ema50": 164.06994540858184,
    "hi24": 163.67,
-   "lo24": 162.58
+   "lo24": 162.66
   },
   "TSLA": {
    "stale": [
@@ -629,18 +629,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.38,
-   "oracle": 382.42,
-   "prev": 382.4,
+   "mark": 382.66,
+   "oracle": 382.5,
+   "prev": 382.64,
    "funding": 6.25e-06,
-   "oi": 113793.46,
-   "oi_usd": 43512343.2348,
-   "vol": 1492867.408819999,
-   "rsi14": 51.84190282939978,
-   "ema20": 382.486732022031,
-   "ema50": 381.26221701579584,
+   "oi": 113795.504,
+   "oi_usd": 43544987.56064,
+   "vol": 1343363.94323,
+   "rsi14": 55.12401020573833,
+   "ema20": 382.50658836737557,
+   "ema50": 381.31654828078575,
    "hi24": 383.2,
-   "lo24": 382.23
+   "lo24": 382.15
   },
   "LMND": {
    "stale": []
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83036.0,
-   "oracle": 83070.0,
-   "prev": 82472.0,
-   "funding": 4.7514e-06,
-   "oi": 38112.8142,
-   "oi_usd": 3164735639.9112,
-   "vol": 800737898.3464098,
-   "rsi14": 60.0814360669361,
-   "ema20": 82857.79947909972,
-   "ema50": 82798.54575924357,
+   "mark": 83030.0,
+   "oracle": 83070.4,
+   "prev": 82502.0,
+   "funding": -2.5206e-06,
+   "oi": 38511.85374,
+   "oi_usd": 3197639216.0322,
+   "vol": 795119193.6852505,
+   "rsi14": 59.39870815261482,
+   "ema20": 82870.36825377648,
+   "ema50": 82807.2621116565,
    "hi24": 83153.0,
    "lo24": 82392.0
   },
-  "_at": 1791665413
+  "_at": 1791669180
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
