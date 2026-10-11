@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T00:05:51.612190-06:00",
- "generated_mt": "Sun Oct 11 2026, 12:05am MT",
+ "generated_at": "2026-10-11T01:05:57.587351-06:00",
+ "generated_mt": "Sun Oct 11 2026, 1:05am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82966.3,
-   "chg_pct": 0.3479019,
-   "chg": 287.64062,
+   "price": 83062.61,
+   "chg_pct": 0.39648628,
+   "chg": 328.03125,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1667660382208,
+   "mcap": 1669671419904,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,9 +428,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 82744.375,
-   "day_hi": 83043.38,
-   "as_of": "Sun Oct 11, 12:05am MT",
+   "day_hi": 83101.414,
+   "as_of": "Sun Oct 11, 1:05am MT",
    "news": [
+    {
+     "title": "Bitcoin struggles above $83,000 a year after $19 billion crypto crash",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-above-83-000-055426754.html?.tsrc=rss",
+     "when": "Sat Oct 10, 11:54pm MT"
+    },
     {
      "title": "Solana Confirms a Transaction in 200 Milliseconds and Bitcoin Takes 10 Minutes. Does Speed Make a Coin Worth More?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/solana-confirms-a-transaction-in-200-milliseconds-and-bitcoin-takes-10-minutes-does-speed-make-a-coin-worth-more/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Eight Altcoins Have Surged Three Times More Than Bitcoin in 30 Days. Is Altcoin Season Here, or Is This Just a Momentary Uptick?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/10/eight-altcoins-have-surged-three-times-more-than-bitcoin-in-30-days-is-altcoin-season-here-or-is-this-just-a-momentary-uptick/?.tsrc=rss",
      "when": "Sat Oct 10, 2:15pm MT"
-    },
-    {
-     "title": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
-     "link": "https://www.fool.com/investing/2026/10/10/2-cryptocurrencies-poised-to-surge-100-in-the-comi/?.tsrc=rss",
-     "when": "Sat Oct 10, 1:41pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -464,26 +464,26 @@
   },
   "^TNX": {
    "price": 5.244,
-   "chg_pct": -49.937943,
-   "chg": -5.231,
+   "chg_pct": 0.24851868,
+   "chg": 0.013000011,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^TYX": {
    "price": 5.6,
-   "chg_pct": -50.02677,
-   "chg": -5.606,
+   "chg_pct": -0.10702893,
+   "chg": -0.006000042,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^FVX": {
    "price": 5.021,
-   "chg_pct": -49.85018,
-   "chg": -4.991,
+   "chg_pct": 0.6010766,
+   "chg": 0.029999733,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^IRX": {
    "price": 4.057,
-   "chg_pct": -49.91358,
-   "chg": -4.043,
+   "chg_pct": 0.346276,
+   "chg": 0.013999939,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^VIX": {
@@ -590,34 +590,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1033.0,
-   "oracle": 1033.6,
-   "prev": 1032.5,
-   "funding": -1.54588e-05,
-   "oi": 110095.47,
-   "oi_usd": 113728620.51,
-   "vol": 3252144.5717000016,
-   "rsi14": 41.30342836142091,
-   "ema20": 1034.5084527624733,
-   "ema50": 1037.923359984301,
+   "mark": 1034.1,
+   "oracle": 1034.1,
+   "prev": 1032.2,
+   "funding": 6.25e-06,
+   "oi": 110321.64,
+   "oi_usd": 114083607.924,
+   "vol": 3485011.0284000007,
+   "rsi14": 45.52146425189959,
+   "ema20": 1034.5452933133893,
+   "ema50": 1037.812558125486,
    "hi24": 1036.8,
-   "lo24": 1030.7
+   "lo24": 1030.8
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.61,
-   "oracle": 163.59,
-   "prev": 163.05,
+   "mark": 163.67,
+   "oracle": 163.66,
+   "prev": 163.04,
    "funding": 6.25e-06,
-   "oi": 759861.1,
-   "oi_usd": 124320874.57100001,
-   "vol": 4151440.8163,
-   "rsi14": 51.2775834734621,
-   "ema20": 163.5701332261189,
-   "ema50": 163.96633272227024,
+   "oi": 759954.56,
+   "oi_usd": 124381762.8352,
+   "vol": 4177346.7410999998,
+   "rsi14": 52.93052600861025,
+   "ema20": 163.58835188547064,
+   "ema50": 163.95857401104158,
    "hi24": 163.81,
    "lo24": 162.96
   },
@@ -629,17 +629,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.22,
-   "oracle": 382.24,
-   "prev": 382.97,
+   "mark": 382.47,
+   "oracle": 382.33,
+   "prev": 382.91,
    "funding": 6.25e-06,
-   "oi": 113823.16,
-   "oi_usd": 43505488.21520001,
-   "vol": 1084134.0056499997,
-   "rsi14": 48.68323809206612,
-   "ema20": 382.3716103147934,
-   "ema50": 381.6204618611259,
-   "hi24": 383.01,
+   "oi": 113835.876,
+   "oi_usd": 43538807.49372,
+   "vol": 1124135.29829,
+   "rsi14": 52.96874169817198,
+   "ema20": 382.40002722428403,
+   "ema50": 381.6604221706527,
+   "hi24": 382.89,
    "lo24": 382.04
   },
   "LMND": {
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83000.8,
-   "oracle": 83056.0,
-   "prev": 82734.0,
-   "funding": -1.99296e-05,
-   "oi": 38088.22258,
-   "oi_usd": 3161352944.7180643,
-   "vol": 828367622.6428403,
-   "rsi14": 54.699315402114486,
-   "ema20": 82924.44443039435,
-   "ema50": 82849.21682928159,
-   "hi24": 83153.0,
-   "lo24": 82598.0
+   "mark": 83115.0,
+   "oracle": 83158.0,
+   "prev": 82637.0,
+   "funding": 7.331e-07,
+   "oi": 38040.62278,
+   "oi_usd": 3161746362.3596997,
+   "vol": 819301045.3982301,
+   "rsi14": 58.63512899926484,
+   "ema20": 82954.09961922443,
+   "ema50": 82866.62612362487,
+   "hi24": 83185.0,
+   "lo24": 82725.0
   },
-  "_at": 1791698756
+  "_at": 1791702362
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
