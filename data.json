@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T16:28:10.774594-06:00",
- "generated_mt": "Sun Oct 11 2026, 4:28pm MT",
+ "generated_at": "2026-10-11T16:58:16.318704-06:00",
+ "generated_mt": "Sun Oct 11 2026, 4:58pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
+     "link": "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
+     "when": "Sun Oct 11, 4:50pm MT"
+    },
+    {
      "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
      "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
      "when": "Sun Oct 11, 6:05am MT"
@@ -47,11 +52,6 @@
      "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
      "when": "Sat Oct 10, 10:18am MT"
-    },
-    {
-     "title": "Micron\u2019s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
-     "link": "https://www.barchart.com/story/news/5727029/microns-taiwan-union-authorized-a-strike-over-a-bonus-dispute-what-this-means-for-mu-stock?.tsrc=rss",
-     "when": "Sat Oct 10, 10:00am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83580.34,
-   "chg_pct": 0.67819047,
-   "chg": 563.0156,
+   "price": 83553.0,
+   "chg_pct": 0.6452531,
+   "chg": 535.6719,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1679113977856,
+   "mcap": 1679599337472,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 84026.18,
-   "as_of": "Sun Oct 11, 4:28pm MT",
+   "as_of": "Sun Oct 11, 4:58pm MT",
    "news": [
+    {
+     "title": "Eric Trump Says Crypto Should 'Embrace The Hell' out of AI Boom",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-crypto-embrace-213006984.html?.tsrc=rss",
+     "when": "Sun Oct 11, 3:30pm MT"
+    },
     {
      "title": "Treasury Yields Are Now Above 5%. Here's Why That's Bearish For Bitcoin.",
      "link": "https://www.fool.com/investing/2026/10/11/treasury-yields-are-now-above-5-heres-why-thats-bu/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Peter Schiff Says Bitcoin Surprised Him By Holding Gains As He Still Expects New Lows",
      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/peter-schiff-says-bitcoin-surprised-him-by-holding-gains-as-he-still-expects-new-lows/cZxdfBMRBFI?.tsrc=rss",
      "when": "Sun Oct 11, 12:36pm MT"
-    },
-    {
-     "title": "Ledger Wallet Spy Implant Scare Spreads To Europe As Crypto Losses Top $86M: Report",
-     "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/ledger-wallet-spy-implant-scare-spreads-to-europe-as-crypto-losses-top-86-m-report/cZxd9aERBF4?.tsrc=rss",
-     "when": "Sun Oct 11, 11:22am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -493,10 +493,10 @@
    "as_of": "Fri Oct 9, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.257,
-   "chg_pct": 0.043053154,
-   "chg": 0.044006348,
-   "as_of": "Sun Oct 11, 4:18pm MT"
+   "price": 102.279,
+   "chg_pct": 0.06457289,
+   "chg": 0.06600189,
+   "as_of": "Sun Oct 11, 4:48pm MT"
   },
   "^GSPC": {
    "price": 7811.54,
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1039.5,
-   "oracle": 1038.8,
-   "prev": 1036.5,
-   "funding": 1.28947e-05,
-   "oi": 111729.838,
-   "oi_usd": 116143166.601,
-   "vol": 6779745.873600001,
-   "rsi14": 60.878315094450784,
-   "ema20": 1037.385393986225,
-   "ema50": 1037.632736825763,
+   "mark": 1040.2,
+   "oracle": 1039.7,
+   "prev": 1036.3,
+   "funding": 2.47313e-05,
+   "oi": 111704.128,
+   "oi_usd": 116194633.9456,
+   "vol": 6726529.901700002,
+   "rsi14": 60.63826989315665,
+   "ema20": 1037.3758701767013,
+   "ema50": 1037.6288152571356,
    "hi24": 1042.6,
    "lo24": 1032.0
   },
@@ -608,16 +608,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 164.04,
-   "oracle": 164.09,
-   "prev": 163.62,
-   "funding": 4.3552e-06,
-   "oi": 766116.4400000003,
-   "oi_usd": 125673740.81760004,
-   "vol": 4307736.371999998,
-   "rsi14": 57.32538207377231,
-   "ema20": 163.92185943503173,
-   "ema50": 163.9495056504327,
+   "mark": 164.05,
+   "oracle": 164.05,
+   "prev": 163.64,
+   "funding": 2.8138e-06,
+   "oi": 766715.4400000003,
+   "oi_usd": 125779667.93200006,
+   "vol": 4301066.914899999,
+   "rsi14": 58.31795115684024,
+   "ema20": 163.92376419693647,
+   "ema50": 163.9502899641582,
    "hi24": 164.24,
    "lo24": 163.44
   },
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 384.13,
-   "oracle": 384.12,
-   "prev": 382.52,
+   "mark": 384.15,
+   "oracle": 384.18,
+   "prev": 382.56,
    "funding": 6.25e-06,
-   "oi": 113429.914,
-   "oi_usd": 43571832.86482,
-   "vol": 1390161.6454900003,
-   "rsi14": 73.39440841541133,
-   "ema20": 383.19768597459523,
-   "ema50": 382.3934509860065,
+   "oi": 113377.386,
+   "oi_usd": 43553922.8319,
+   "vol": 1400589.8440700008,
+   "rsi14": 72.05489394676303,
+   "ema20": 383.1843526412619,
+   "ema50": 382.38796078992806,
    "hi24": 384.42,
    "lo24": 382.04
   },
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83632.0,
-   "oracle": 83669.0,
-   "prev": 82997.0,
-   "funding": 4.8968e-06,
-   "oi": 37808.58974,
-   "oi_usd": 3162007977.13568,
-   "vol": 1187563765.7085392,
-   "rsi14": 61.99574785758713,
-   "ema20": 83364.34547837789,
-   "ema50": 83115.99475504243,
+   "mark": 83616.0,
+   "oracle": 83651.0,
+   "prev": 83045.0,
+   "funding": 1.10307e-05,
+   "oi": 37972.09164,
+   "oi_usd": 3175074414.57024,
+   "vol": 1198035432.4355087,
+   "rsi14": 61.58462643010592,
+   "ema20": 83362.72643075883,
+   "ema50": 83115.32808837575,
    "hi24": 84181.0,
    "lo24": 82746.0
   },
-  "_at": 1791757695
+  "_at": 1791759500
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
