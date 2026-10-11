@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T04:06:52.388548-06:00",
- "generated_mt": "Sun Oct 11 2026, 4:06am MT",
+ "generated_at": "2026-10-11T05:18:12.640062-06:00",
+ "generated_mt": "Sun Oct 11 2026, 5:18am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Crypto Investors Can Now Buy a Cathie Wood Investment Fund That Holds SpaceX and OpenAI. Here's What You Need to Know to Get Started.",
+     "link": "https://www.fool.com/investing/2026/10/11/crypto-investors-can-now-buy-a-cathie-wood-investm/?.tsrc=rss",
+     "when": "Sun Oct 11, 4:05am MT"
+    },
+    {
      "title": "Elon Musk Pitches SpaceX's Starlink As An Affordable Option To Bring Internet To Indians Ahead Of Ambani's Jio IPO",
      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-starlink-india-spacex-ambani-jio/cZx5zg7RBFb?.tsrc=rss",
      "when": "Sun Oct 11, 3:56am MT"
@@ -98,11 +103,6 @@
      "title": "AT&T CEO holds firm stance on Elon Musk's SpaceX phone strategy",
      "link": "https://www.thestreet.com/investing/stocks/att-ceo-says-elon-musk-spacex-phone-strategy-not-viable?.tsrc=rss",
      "when": "Sat Oct 10, 3:03pm MT"
-    },
-    {
-     "title": "SpaceX (SPCX) Is Building A Mobile Carrier Around 15,000 More Starlink Satellites",
-     "link": "https://finance.yahoo.com/technology/articles/spacex-spcx-building-mobile-carrier-181307255.html?.tsrc=rss",
-     "when": "Sat Oct 10, 12:13pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82994.39,
-   "chg_pct": 0.2550618,
-   "chg": 211.14844,
+   "price": 82949.23,
+   "chg_pct": 0.17939351,
+   "chg": 148.53906,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1667199008768,
+   "mcap": 1666496331776,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 83101.414,
-   "as_of": "Sun Oct 11, 4:06am MT",
+   "as_of": "Sun Oct 11, 5:18am MT",
    "news": [
     {
      "title": "IREN Leans On NVIDIA AI Validation As SemiAnalysis Questions Its Infrastructure Claims",
@@ -590,36 +590,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1034.5,
-   "oracle": 1034.0,
-   "prev": 1031.5,
-   "funding": 1.33945e-05,
-   "oi": 110301.678,
-   "oi_usd": 114107085.891,
-   "vol": 3288280.7486000005,
-   "rsi14": 49.51360252703488,
-   "ema20": 1034.3467728289456,
-   "ema50": 1037.3654802971103,
+   "mark": 1033.4,
+   "oracle": 1033.4,
+   "prev": 1032.1,
+   "funding": 8.03e-08,
+   "oi": 110382.924,
+   "oi_usd": 114069713.66160001,
+   "vol": 3338863.710199999,
+   "rsi14": 45.45924696757922,
+   "ema20": 1034.1178609494425,
+   "ema50": 1037.1961544884355,
    "hi24": 1036.8,
-   "lo24": 1031.9
+   "lo24": 1032.0
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.83,
-   "oracle": 163.78,
-   "prev": 163.2,
-   "funding": 6.25e-06,
-   "oi": 760421.56,
-   "oi_usd": 124579864.17480002,
-   "vol": 3984303.2044999995,
-   "rsi14": 56.86200372288799,
-   "ema20": 163.6377520962869,
-   "ema50": 163.93664661567678,
+   "mark": 163.72,
+   "oracle": 163.76,
+   "prev": 163.22,
+   "funding": 5.6701e-06,
+   "oi": 760575.42,
+   "oi_usd": 124521407.7624,
+   "vol": 3988735.8593000006,
+   "rsi14": 52.66526159221338,
+   "ema20": 163.639455296026,
+   "ema50": 163.91475118969618,
    "hi24": 163.85,
-   "lo24": 163.18
+   "lo24": 163.24
   },
   "TSLA": {
    "stale": [
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.53,
-   "oracle": 382.55,
-   "prev": 382.55,
+   "mark": 382.61,
+   "oracle": 382.56,
+   "prev": 382.64,
    "funding": 6.25e-06,
-   "oi": 113788.128,
-   "oi_usd": 43527372.60383999,
-   "vol": 1073365.8428500001,
-   "rsi14": 52.741670601373265,
-   "ema20": 382.44181722034466,
-   "ema50": 381.775191271264,
+   "oi": 113903.338,
+   "oi_usd": 43580556.15218,
+   "vol": 1132864.1729399995,
+   "rsi14": 55.54398264655231,
+   "ema20": 382.47130539159923,
+   "ema50": 381.8156483010529,
    "hi24": 382.89,
    "lo24": 382.04
   },
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83029.3,
-   "oracle": 83074.0,
-   "prev": 82794.0,
-   "funding": -1.4677e-06,
-   "oi": 38122.05082,
-   "oi_usd": 3165247194.149026,
-   "vol": 799129818.6516006,
-   "rsi14": 54.690530302574736,
-   "ema20": 82957.15084437229,
-   "ema50": 82881.61625462619,
+   "mark": 82974.0,
+   "oracle": 83026.0,
+   "prev": 82765.0,
+   "funding": -9.7627e-06,
+   "oi": 38207.87432,
+   "oi_usd": 3170260163.82768,
+   "vol": 822523542.0956194,
+   "rsi14": 52.40089984674899,
+   "ema20": 82952.20736191704,
+   "ema50": 82883.22114140986,
    "hi24": 83185.0,
    "lo24": 82725.0
   },
-  "_at": 1791713216
+  "_at": 1791717496
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
