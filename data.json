@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T09:22:51.387349-06:00",
- "generated_mt": "Sun Oct 11 2026, 9:22am MT",
+ "generated_at": "2026-10-11T10:22:57.192512-06:00",
+ "generated_mt": "Sun Oct 11 2026, 10:22am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Rocket Lab Is About to Challenge SpaceX as Space Leader",
+     "link": "https://247wallst.com/investing/2026/10/11/rocket-lab-is-about-to-challenge-spacex-as-space-leader/?.tsrc=rss",
+     "when": "Sun Oct 11, 9:46am MT"
+    },
+    {
      "title": "FCC Chair Brendan Carr Says Elon Musk\u2019s SpaceX Now Has Spectrum To Challenge Wireless Giants \u2014 \u2018People Are Serious About\u2026\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/fcc-brendan-carr-elon-musk-spacex-spectrum-deal-challenge-wireless-carriers/cZxdcyFRBF2?.tsrc=rss",
      "when": "Sun Oct 11, 6:47am MT"
@@ -98,11 +103,6 @@
      "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
      "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
      "when": "Sun Oct 11, 6:05am MT"
-    },
-    {
-     "title": "Billionaire Ray Dalio Said The AI Bubble Is Close To Popping. Could SpaceX Be the Culpirit?",
-     "link": "https://www.fool.com/investing/2026/10/11/billionaire-ray-dalio-said-the-ai-bubble-is-close-to-popping-could-spacex-be-the-culpirit/?.tsrc=rss",
-     "when": "Sun Oct 11, 5:50am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -236,6 +236,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Upstart Stock Sits About 7% Above Its 52-Week Low as Q3 Originations Top $4.1 Billion. Time to Sell or Load Up?",
+     "link": "https://www.tikr.com/blog/upstart-stock-sits-about-7-above-its-52-week-low-as-q3-originations-top-4-1-billion-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+     "when": "Sun Oct 11, 9:29am MT"
+    },
+    {
      "title": "Upstart Expands Credit Union Network With Denver Partnership",
      "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-expands-credit-union-network-161900520.html?.tsrc=rss",
      "when": "Thu Oct 8, 10:19am MT"
@@ -249,11 +254,6 @@
      "title": "Upstart Holdings, Inc. (UPST) Stock Sinks As Market Gains: Here's Why",
      "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-inc-upst-stock-210004741.html?.tsrc=rss",
      "when": "Tue Oct 6, 3:00pm MT"
-    },
-    {
-     "title": "Upstart to Announce Third Quarter 2026 Results on November 3, 2026",
-     "link": "https://finance.yahoo.com/technology/ai/articles/upstart-announce-third-quarter-2026-200500644.html?.tsrc=rss",
-     "when": "Tue Oct 6, 2:05pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/UPST"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83056.2,
-   "chg_pct": 0.09617757,
-   "chg": 79.80469,
+   "price": 83705.92,
+   "chg_pct": 0.9238453,
+   "chg": 766.2344,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1669136252928,
+   "mcap": 1682871943168,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,28 +428,28 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 82744.375,
-   "day_hi": 83147.16,
-   "as_of": "Sun Oct 11, 9:22am MT",
+   "day_hi": 83812.89,
+   "as_of": "Sun Oct 11, 10:22am MT",
    "news": [
+    {
+     "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+     "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october?.tsrc=rss",
+     "when": "Sun Oct 11, 10:01am MT"
+    },
+    {
+     "title": "Claude AI\u2019s XRP Price Prediction: Will It Drop to $1.17 or Rise to $1.70 First?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/claude-ais-xrp-price-prediction-will-it-drop-to-1-17-or-rise-to-1-70-first/?.tsrc=rss",
+     "when": "Sun Oct 11, 10:00am MT"
+    },
+    {
+     "title": "Bitcoin, Ethereum, XRP, and Solana Are All Down in 2026. Which Has Held Up Best?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/bitcoin-ethereum-xrp-and-solana-are-all-down-in-2026-which-has-held-up-best/?.tsrc=rss",
+     "when": "Sun Oct 11, 9:30am MT"
+    },
     {
      "title": "Bitcoin\u2019s Price Prediction: Will Global M2 Point to $300,000?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/bitcoins-price-prediction-will-global-m2-point-to-300000/?.tsrc=rss",
      "when": "Sun Oct 11, 9:00am MT"
-    },
-    {
-     "title": "If You Had Bought Bitcoin at Every All-Time High, How Long Would It Have Taken to Break Even?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/if-you-had-bought-bitcoin-at-every-all-time-high-how-long-would-it-have-taken-to-break-even/?.tsrc=rss",
-     "when": "Sun Oct 11, 8:30am MT"
-    },
-    {
-     "title": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/ai-uncovers-xrp-ledger-bug-is-it-a-threat-or-a-defense/?.tsrc=rss",
-     "when": "Sun Oct 11, 8:00am MT"
-    },
-    {
-     "title": "Pok\u00e9mon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns",
-     "link": "https://beincrypto.com/pokemon-cards-outperform-bitcoin-gold-sp500/?.tsrc=rss",
-     "when": "Sun Oct 11, 7:48am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -590,17 +590,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1035.5,
-   "oracle": 1035.4,
-   "prev": 1035.3,
-   "funding": 6.25e-06,
-   "oi": 110569.182,
-   "oi_usd": 114494387.961,
-   "vol": 3077900.5849,
-   "rsi14": 52.93024550673538,
-   "ema20": 1034.5703778880397,
-   "ema50": 1036.9369587369972,
-   "hi24": 1036.8,
+   "mark": 1040.6,
+   "oracle": 1038.8,
+   "prev": 1035.4,
+   "funding": 0.0001666471,
+   "oi": 111696.856,
+   "oi_usd": 116231748.3536,
+   "vol": 5091919.051299999,
+   "rsi14": 66.09466792131663,
+   "ema20": 1035.5237637335226,
+   "ema50": 1037.2432290246509,
+   "hi24": 1042.3,
    "lo24": 1032.0
   },
   "SPCX": {
@@ -608,17 +608,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 164.01,
-   "oracle": 163.95,
-   "prev": 163.46,
-   "funding": 7.02e-06,
-   "oi": 762174.0800000001,
-   "oi_usd": 125004170.8608,
-   "vol": 3839315.9054999994,
-   "rsi14": 62.680759704675346,
-   "ema20": 163.7373687067248,
-   "ema50": 163.93113780756627,
-   "hi24": 164.03,
+   "mark": 164.03,
+   "oracle": 164.02,
+   "prev": 163.47,
+   "funding": 6.25e-06,
+   "oi": 763178.34,
+   "oi_usd": 125184143.1102,
+   "vol": 3824797.8667999995,
+   "rsi14": 63.50588747623646,
+   "ema20": 163.76981808205818,
+   "ema50": 163.93583850995154,
+   "hi24": 164.1,
    "lo24": 163.37
   },
   "TSLA": {
@@ -629,17 +629,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.87,
-   "oracle": 382.84,
-   "prev": 382.67,
-   "funding": 6.25e-06,
-   "oi": 113931.946,
-   "oi_usd": 43621124.16502,
-   "vol": 1114441.49787,
-   "rsi14": 58.406901103905334,
-   "ema20": 382.60503253928886,
-   "ema50": 381.96155921453226,
-   "hi24": 382.98,
+   "mark": 383.18,
+   "oracle": 383.04,
+   "prev": 382.77,
+   "funding": 1.45208e-05,
+   "oi": 113887.786,
+   "oi_usd": 43639521.83948,
+   "vol": 1170421.0940400003,
+   "rsi14": 61.1605201524075,
+   "ema20": 382.6906323286535,
+   "ema50": 382.02571916520264,
+   "hi24": 383.43,
    "lo24": 382.04
   },
   "LMND": {
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83106.0,
-   "oracle": 83143.0,
-   "prev": 82940.0,
-   "funding": 2.6437e-06,
-   "oi": 38129.35842,
-   "oi_usd": 3168778460.8525195,
-   "vol": 727367185.7257403,
-   "rsi14": 56.86603107699601,
-   "ema20": 83001.42087910831,
-   "ema50": 82911.45847403738,
-   "hi24": 83205.0,
+   "mark": 83759.0,
+   "oracle": 83801.9,
+   "prev": 82969.0,
+   "funding": 4.298e-06,
+   "oi": 37975.636,
+   "oi_usd": 3180801295.724,
+   "vol": 924180265.8200305,
+   "rsi14": 70.03811965515887,
+   "ema20": 83139.05807343667,
+   "ema50": 82972.2874793188,
+   "hi24": 83950.0,
    "lo24": 82746.0
   },
-  "_at": 1791732175
+  "_at": 1791735782
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
