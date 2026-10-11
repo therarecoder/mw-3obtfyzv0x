@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T08:22:45.214174-06:00",
- "generated_mt": "Sun Oct 11 2026, 8:22am MT",
+ "generated_at": "2026-10-11T09:22:51.387349-06:00",
+ "generated_mt": "Sun Oct 11 2026, 9:22am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82956.32,
-   "chg_pct": 0.048109435,
-   "chg": 39.890625,
+   "price": 83056.2,
+   "chg_pct": 0.09617757,
+   "chg": 79.80469,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1668411162624,
+   "mcap": 1669136252928,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,18 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 83147.16,
-   "as_of": "Sun Oct 11, 8:22am MT",
+   "as_of": "Sun Oct 11, 9:22am MT",
    "news": [
+    {
+     "title": "Bitcoin\u2019s Price Prediction: Will Global M2 Point to $300,000?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/bitcoins-price-prediction-will-global-m2-point-to-300000/?.tsrc=rss",
+     "when": "Sun Oct 11, 9:00am MT"
+    },
+    {
+     "title": "If You Had Bought Bitcoin at Every All-Time High, How Long Would It Have Taken to Break Even?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/if-you-had-bought-bitcoin-at-every-all-time-high-how-long-would-it-have-taken-to-break-even/?.tsrc=rss",
+     "when": "Sun Oct 11, 8:30am MT"
+    },
     {
      "title": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/ai-uncovers-xrp-ledger-bug-is-it-a-threat-or-a-defense/?.tsrc=rss",
@@ -440,16 +450,6 @@
      "title": "Pok\u00e9mon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns",
      "link": "https://beincrypto.com/pokemon-cards-outperform-bitcoin-gold-sp500/?.tsrc=rss",
      "when": "Sun Oct 11, 7:48am MT"
-    },
-    {
-     "title": "Why Does Ethereum Fall Harder Than Bitcoin?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/why-does-ethereum-fall-harder-than-bitcoin/?.tsrc=rss",
-     "when": "Sun Oct 11, 7:30am MT"
-    },
-    {
-     "title": "Can Bitcoin Reach $200,000 by the 2028 Halving? A 141% Rally Is Needed. Here\u2019s What Needs to Change.",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/can-bitcoin-reach-200000-by-the-2028-halving-a-141-rally-is-needed-heres-what-needs-to-change/?.tsrc=rss",
-     "when": "Sun Oct 11, 7:00am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -591,15 +591,15 @@
    ],
    "market": "xyz:MU",
    "mark": 1035.5,
-   "oracle": 1035.1,
-   "prev": 1034.3,
+   "oracle": 1035.4,
+   "prev": 1035.3,
    "funding": 6.25e-06,
-   "oi": 110537.864,
-   "oi_usd": 114461958.172,
-   "vol": 3270775.448799999,
-   "rsi14": 53.25255762160823,
-   "ema20": 1034.4820777616335,
-   "ema50": 1037.0414765328505,
+   "oi": 110569.182,
+   "oi_usd": 114494387.961,
+   "vol": 3077900.5849,
+   "rsi14": 52.93024550673538,
+   "ema20": 1034.5703778880397,
+   "ema50": 1036.9369587369972,
    "hi24": 1036.8,
    "lo24": 1032.0
   },
@@ -608,17 +608,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.85,
-   "oracle": 163.83,
-   "prev": 163.52,
-   "funding": 6.25e-06,
-   "oi": 762560.96,
-   "oi_usd": 124945613.29599999,
-   "vol": 3917503.733600002,
-   "rsi14": 57.306257445116124,
-   "ema20": 163.69324035222212,
-   "ema50": 163.93279771334792,
-   "hi24": 163.87,
+   "mark": 164.01,
+   "oracle": 163.95,
+   "prev": 163.46,
+   "funding": 7.02e-06,
+   "oi": 762174.0800000001,
+   "oi_usd": 125004170.8608,
+   "vol": 3839315.9054999994,
+   "rsi14": 62.680759704675346,
+   "ema20": 163.7373687067248,
+   "ema50": 163.93113780756627,
+   "hi24": 164.03,
    "lo24": 163.37
   },
   "TSLA": {
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.86,
-   "oracle": 382.83,
-   "prev": 382.53,
+   "mark": 382.87,
+   "oracle": 382.84,
+   "prev": 382.67,
    "funding": 6.25e-06,
-   "oi": 113965.004,
-   "oi_usd": 43632641.43144,
-   "vol": 1120947.0536200006,
-   "rsi14": 58.569338376982955,
-   "ema20": 382.58160250217685,
-   "ema50": 381.92655725351347,
+   "oi": 113931.946,
+   "oi_usd": 43621124.16502,
+   "vol": 1114441.49787,
+   "rsi14": 58.406901103905334,
+   "ema20": 382.60503253928886,
+   "ema50": 381.96155921453226,
    "hi24": 382.98,
    "lo24": 382.04
   },
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83000.0,
-   "oracle": 83049.3,
-   "prev": 82909.0,
-   "funding": -1.10319e-05,
-   "oi": 38346.41278,
-   "oi_usd": 3182752260.74,
-   "vol": 806318270.4189805,
-   "rsi14": 52.2425761160879,
-   "ema20": 82981.91166228802,
-   "ema50": 82907.29344629297,
+   "mark": 83106.0,
+   "oracle": 83143.0,
+   "prev": 82940.0,
+   "funding": 2.6437e-06,
+   "oi": 38129.35842,
+   "oi_usd": 3168778460.8525195,
+   "vol": 727367185.7257403,
+   "rsi14": 56.86603107699601,
+   "ema20": 83001.42087910831,
+   "ema50": 82911.45847403738,
    "hi24": 83205.0,
    "lo24": 82746.0
   },
-  "_at": 1791728569
+  "_at": 1791732175
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
