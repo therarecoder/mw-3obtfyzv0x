@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T21:04:36.371291-06:00",
- "generated_mt": "Sat Oct 10 2026, 9:04pm MT",
+ "generated_at": "2026-10-10T22:05:40.549780-06:00",
+ "generated_mt": "Sat Oct 10 2026, 10:05pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,11 +34,6 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
-     "title": "'Not the time to be skittish': Why Wall Street sees stocks rising by year-end",
-     "link": "https://finance.yahoo.com/markets/article/not-the-time-to-be-skittish-why-wall-street-sees-stocks-rising-by-year-end-115918876.html?.tsrc=rss",
-     "when": "Sat Oct 10, 5:59am MT"
-    },
-    {
      "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
      "when": "Sat Oct 10, 10:18am MT"
@@ -47,6 +42,11 @@
      "title": "Micron\u2019s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
      "link": "https://www.barchart.com/story/news/5727029/microns-taiwan-union-authorized-a-strike-over-a-bonus-dispute-what-this-means-for-mu-stock?.tsrc=rss",
      "when": "Sat Oct 10, 10:00am MT"
+    },
+    {
+     "title": "'Not the time to be skittish': Why Wall Street sees stocks rising by year-end",
+     "link": "https://finance.yahoo.com/markets/article/not-the-time-to-be-skittish-why-wall-street-sees-stocks-rising-by-year-end-115918876.html?.tsrc=rss",
+     "when": "Sat Oct 10, 5:59am MT"
     },
     {
      "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan?",
@@ -415,21 +415,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82970.33,
-   "chg_pct": 0.54581517,
-   "chg": 450.40625,
+   "price": 82790.3,
+   "chg_pct": 0.21306662,
+   "chg": 176.02344,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1668097376256,
+   "mcap": 1662772838400,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 82867.16,
+   "day_lo": 82739.695,
    "day_hi": 83043.38,
-   "as_of": "Sat Oct 10, 9:04pm MT",
+   "as_of": "Sat Oct 10, 10:05pm MT",
    "news": [
     {
      "title": "Solana Confirms a Transaction in 200 Milliseconds and Bitcoin Takes 10 Minutes. Does Speed Make a Coin Worth More?",
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1035.1,
-   "oracle": 1035.3,
-   "prev": 1033.2,
-   "funding": 6.25e-06,
-   "oi": 110077.24,
-   "oi_usd": 113940951.124,
-   "vol": 3558435.696700001,
-   "rsi14": 47.934092308344326,
-   "ema20": 1035.1548294936788,
-   "ema50": 1038.60027706889,
+   "mark": 1033.4,
+   "oracle": 1033.8,
+   "prev": 1035.2,
+   "funding": -3.31508e-05,
+   "oi": 110138.654,
+   "oi_usd": 113817285.04360001,
+   "vol": 3332459.4208000014,
+   "rsi14": 42.468141310998206,
+   "ema20": 1034.8067499439155,
+   "ema50": 1038.316431025565,
    "hi24": 1036.8,
    "lo24": 1030.7
   },
@@ -608,18 +608,18 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.76,
-   "oracle": 163.79,
-   "prev": 162.94,
-   "funding": 6.25e-06,
-   "oi": 758223.0,
-   "oi_usd": 124166598.47999999,
-   "vol": 4048180.910399997,
-   "rsi14": 54.96900320269764,
-   "ema20": 163.57253821389054,
-   "ema50": 164.00599401066245,
+   "mark": 163.46,
+   "oracle": 163.63,
+   "prev": 163.0,
+   "funding": -4.43456e-05,
+   "oi": 757287.66,
+   "oi_usd": 123786240.9036,
+   "vol": 3690486.8574999995,
+   "rsi14": 46.88081036486096,
+   "ema20": 163.5445858480829,
+   "ema50": 163.9757826053016,
    "hi24": 163.81,
-   "lo24": 162.85
+   "lo24": 162.96
   },
   "TSLA": {
    "stale": [
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.47,
-   "oracle": 382.36,
-   "prev": 382.8,
-   "funding": 6.25e-06,
-   "oi": 113698.806,
-   "oi_usd": 43486382.33082,
-   "vol": 1096262.1752799999,
-   "rsi14": 53.339545574113025,
-   "ema20": 382.44480487885136,
-   "ema50": 381.5474357655539,
+   "mark": 382.18,
+   "oracle": 382.28,
+   "prev": 382.97,
+   "funding": -2.7867e-06,
+   "oi": 113755.044,
+   "oi_usd": 43474902.71592,
+   "vol": 1093894.0590199998,
+   "rsi14": 48.618814253354465,
+   "ema20": 382.39124141085296,
+   "ema50": 381.5608511591994,
    "hi24": 383.2,
    "lo24": 382.04
   },
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83010.0,
-   "oracle": 83060.0,
-   "prev": 82580.0,
-   "funding": -7.0575e-06,
-   "oi": 38071.18396,
-   "oi_usd": 3160288980.5196004,
-   "vol": 823340743.5584307,
-   "rsi14": 56.5382718711173,
-   "ema20": 82925.00313403498,
-   "ema50": 82842.83487966874,
+   "mark": 82827.0,
+   "oracle": 82874.0,
+   "prev": 82669.0,
+   "funding": -8.3351e-06,
+   "oi": 38100.864,
+   "oi_usd": 3155780262.528,
+   "vol": 841844494.3943504,
+   "rsi14": 48.541998170337465,
+   "ema20": 82894.38669943751,
+   "ema50": 82833.83201174719,
    "hi24": 83153.0,
-   "lo24": 82567.0
+   "lo24": 82598.0
   },
-  "_at": 1791687880
+  "_at": 1791691544
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
