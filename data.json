@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T19:04:25.429073-06:00",
- "generated_mt": "Sat Oct 10 2026, 7:04pm MT",
+ "generated_at": "2026-10-10T20:04:31.124041-06:00",
+ "generated_mt": "Sat Oct 10 2026, 8:04pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Elon Musk Says SpaceX Can Outgrow Earth. The First Victim May Be Your Phone Bill",
+     "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-spacex-outgrow-003018823.html?.tsrc=rss",
+     "when": "Sat Oct 10, 6:30pm MT"
+    },
+    {
      "title": "AT&T CEO holds firm stance on Elon Musk's SpaceX phone strategy",
      "link": "https://www.thestreet.com/investing/stocks/att-ceo-says-elon-musk-spacex-phone-strategy-not-viable?.tsrc=rss",
      "when": "Sat Oct 10, 3:03pm MT"
@@ -98,11 +103,6 @@
      "title": "SpaceX Is \u201cGetting Riskier by the Minute\u201d as Its 50-Year Bonds Slip to 85 Cents",
      "link": "https://www.tikr.com/blog/spacex-is-getting-riskier-by-the-minute-as-its-50-year-bonds-slip-to-85-cents?ref=yahoofinance&.tsrc=rss",
      "when": "Sat Oct 10, 12:07pm MT"
-    },
-    {
-     "title": "Here's the 1 Thing I'd Wait to See Before Buying SpaceX Stock.",
-     "link": "https://www.fool.com/investing/2026/10/10/heres-the-1-thing-id-wait-to-see-before-buying-spa/?.tsrc=rss",
-     "when": "Sat Oct 10, 11:25am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -415,21 +415,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82881.15,
-   "chg_pct": 0.3183889,
-   "chg": 263.04688,
+   "price": 82930.86,
+   "chg_pct": 0.4597043,
+   "chg": 379.4922,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1665182203904,
+   "mcap": 1666740125696,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 82859.84,
-   "day_hi": 82951.44,
-   "as_of": "Sat Oct 10, 7:04pm MT",
+   "day_lo": 82867.16,
+   "day_hi": 82992.18,
+   "as_of": "Sat Oct 10, 8:04pm MT",
    "news": [
     {
      "title": "Solana Confirms a Transaction in 200 Milliseconds and Bitcoin Takes 10 Minutes. Does Speed Make a Coin Worth More?",
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1035.2,
-   "oracle": 1035.4,
-   "prev": 1030.5,
-   "funding": 6.0933e-06,
-   "oi": 110136.626,
-   "oi_usd": 114013435.2352,
-   "vol": 3771727.7846000013,
-   "rsi14": 48.34378507982079,
-   "ema20": 1035.1354244340644,
-   "ema50": 1038.910954173459,
+   "mark": 1035.1,
+   "oracle": 1035.3,
+   "prev": 1032.7,
+   "funding": 6.25e-06,
+   "oi": 110181.84,
+   "oi_usd": 114049222.58399999,
+   "vol": 3751176.574300001,
+   "rsi14": 47.56744164849964,
+   "ema20": 1035.1225076061294,
+   "ema50": 1038.729926590301,
    "hi24": 1036.8,
    "lo24": 1030.7
   },
@@ -608,17 +608,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.76,
-   "oracle": 163.71,
-   "prev": 162.91,
+   "mark": 163.8,
+   "oracle": 163.77,
+   "prev": 162.97,
    "funding": 6.25e-06,
-   "oi": 757987.6799999999,
-   "oi_usd": 124128062.47679998,
-   "vol": 4251368.6835,
-   "rsi14": 56.17969552863127,
-   "ema20": 163.52434734209106,
-   "ema50": 164.0203490036937,
-   "hi24": 163.76,
+   "oi": 758296.2,
+   "oi_usd": 124208917.56,
+   "vol": 4190833.581999998,
+   "rsi14": 57.03313603959779,
+   "ema20": 163.55491029247887,
+   "ema50": 164.01635744023093,
+   "hi24": 163.81,
    "lo24": 162.85
   },
   "TSLA": {
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.19,
-   "oracle": 382.21,
-   "prev": 382.75,
+   "mark": 382.28,
+   "oracle": 382.28,
+   "prev": 382.84,
    "funding": 6.25e-06,
-   "oi": 113767.816,
-   "oi_usd": 43480921.597040005,
-   "vol": 1136905.9012299997,
-   "rsi14": 48.5665126930592,
-   "ema20": 382.4266461789307,
-   "ema50": 381.4635745726307,
+   "oi": 113735.946,
+   "oi_usd": 43478977.43687999,
+   "vol": 1119155.84128,
+   "rsi14": 50.37480984748511,
+   "ema20": 382.4188918172993,
+   "ema50": 381.4965210312004,
    "hi24": 383.2,
    "lo24": 382.04
   },
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82903.0,
-   "oracle": 82958.9,
-   "prev": 82521.0,
-   "funding": -2.02797e-05,
-   "oi": 38259.17504,
-   "oi_usd": 3171800388.3411202,
-   "vol": 805935604.9745198,
-   "rsi14": 52.44422401358322,
-   "ema20": 82892.80478819767,
-   "ema50": 82824.7609128037,
+   "mark": 82974.0,
+   "oracle": 83016.0,
+   "prev": 82656.0,
+   "funding": 1.1512e-06,
+   "oi": 38092.65306,
+   "oi_usd": 3160699795.0004396,
+   "vol": 829019375.2329304,
+   "rsi14": 55.43316014573575,
+   "ema20": 82908.62766399242,
+   "ema50": 82833.14215305334,
    "hi24": 83153.0,
    "lo24": 82525.0
   },
-  "_at": 1791680669
+  "_at": 1791684275
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
