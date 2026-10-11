@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T06:18:17.552299-06:00",
- "generated_mt": "Sun Oct 11 2026, 6:18am MT",
+ "generated_at": "2026-10-11T07:18:23.208482-06:00",
+ "generated_mt": "Sun Oct 11 2026, 7:18am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,16 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "FCC Chair Brendan Carr Says Elon Musk\u2019s SpaceX Now Has Spectrum To Challenge Wireless Giants \u2014 \u2018People Are Serious About\u2026\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/fcc-brendan-carr-elon-musk-spacex-spectrum-deal-challenge-wireless-carriers/cZxdcyFRBF2?.tsrc=rss",
+     "when": "Sun Oct 11, 6:47am MT"
+    },
+    {
+     "title": "SpaceX Is Public. Here's What $1,000 in Each of These 5 Space Stocks Could Be Worth by 2030.",
+     "link": "https://www.fool.com/investing/2026/10/11/spacex-is-public-heres-what-1000-in-each-of-these/?.tsrc=rss",
+     "when": "Sun Oct 11, 6:28am MT"
+    },
+    {
      "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
      "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
      "when": "Sun Oct 11, 6:05am MT"
@@ -93,16 +103,6 @@
      "title": "Billionaire Ray Dalio Said The AI Bubble Is Close To Popping. Could SpaceX Be the Culpirit?",
      "link": "https://www.fool.com/investing/2026/10/11/billionaire-ray-dalio-said-the-ai-bubble-is-close-to-popping-could-spacex-be-the-culpirit/?.tsrc=rss",
      "when": "Sun Oct 11, 5:50am MT"
-    },
-    {
-     "title": "Musk Vows Affordable Starlink in India: SpaceX\u2019s Own Numbers Show What \u201cCheap\u201d Costs",
-     "link": "https://www.tikr.com/blog/musk-vows-affordable-starlink-in-india-spacexs-own-numbers-show-what-cheap-costs?ref=yahoofinance&.tsrc=rss",
-     "when": "Sun Oct 11, 4:59am MT"
-    },
-    {
-     "title": "Crypto Investors Can Now Buy a Cathie Wood Investment Fund That Holds SpaceX and OpenAI. Here's What You Need to Know to Get Started.",
-     "link": "https://www.fool.com/investing/2026/10/11/crypto-investors-can-now-buy-a-cathie-wood-investm/?.tsrc=rss",
-     "when": "Sun Oct 11, 4:05am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -285,6 +285,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside",
+     "link": "https://www.tikr.com/blog/unusual-machines-has-lost-36-since-mid-august-needham-sees-83-upside?ref=yahoofinance&.tsrc=rss",
+     "when": "Sun Oct 11, 6:53am MT"
+    },
+    {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back",
      "link": "https://247wallst.com/investing/2026/10/01/unusual-machines-tumbles-8-despite-pentagons-autonomous-warfare-push-aerovironment-eases-red-cat-pulls-back/?.tsrc=rss",
      "when": "Thu Oct 1, 10:49am MT"
@@ -298,11 +303,6 @@
      "title": "Will Defense-Focused Counter-Drone Expansion and Draganfly Stake Change Unusual Machines' (UMAC) Narrative",
      "link": "https://finance.yahoo.com/markets/stocks/articles/defense-focused-counter-drone-expansion-131240408.html?.tsrc=rss",
      "when": "Wed Sep 30, 7:12am MT"
-    },
-    {
-     "title": "Can Counter-Drone Demand Become Unusual Machines' Next Catalyst?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/counter-drone-demand-become-unusual-123800985.html?.tsrc=rss",
-     "when": "Tue Sep 29, 6:38am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/UMAC"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83091.9,
-   "chg_pct": 0.42869166,
-   "chg": 354.6875,
+   "price": 83014.64,
+   "chg_pct": 0.31349048,
+   "chg": 259.4297,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1670973620224,
+   "mcap": 1668279173120,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,27 +429,27 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 83147.16,
-   "as_of": "Sun Oct 11, 6:18am MT",
+   "as_of": "Sun Oct 11, 7:18am MT",
    "news": [
     {
-     "title": "Who Really Owns Bitcoin? Wall Street vs. Ordinary People",
-     "link": "https://beincrypto.com/who-owns-bitcoin-institutions-treasury-cash/?.tsrc=rss",
-     "when": "Sun Oct 11, 4:48am MT"
+     "title": "Can Bitcoin Reach $200,000 by the 2028 Halving? A 141% Rally Is Needed. Here\u2019s What Needs to Change.",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/can-bitcoin-reach-200000-by-the-2028-halving-a-141-rally-is-needed-heres-what-needs-to-change/?.tsrc=rss",
+     "when": "Sun Oct 11, 7:00am MT"
     },
     {
-     "title": "IREN Leans On NVIDIA AI Validation As SemiAnalysis Questions Its Infrastructure Claims",
-     "link": "https://stocktwits.com/news-articles/markets/equity/iren-leans-on-nvidia-ai-validation-as-semi-analysis-questions-its-infrastructure-claims/cZx5zBmRBFG?.tsrc=rss",
-     "when": "Sun Oct 11, 3:52am MT"
+     "title": "Which Is More Likely: Bitcoin at $1 Million or XRP at $10?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/which-is-more-likely-bitcoin-at-1-million-or-xrp-at-10-2/?.tsrc=rss",
+     "when": "Sun Oct 11, 6:40am MT"
     },
     {
-     "title": "Most Investors Are Wrong About Who Owns the Most Bitcoin. That Misunderstanding Creates a Buying Opportunity.",
-     "link": "https://www.fool.com/investing/2026/10/11/most-investors-are-wrong-about-who-owns-the-most-b/?.tsrc=rss",
-     "when": "Sun Oct 11, 12:57am MT"
+     "title": "China Launches National Blockchain As Part Of Wider Plan To Accelerate Expansion Of Digital Economy",
+     "link": "https://www.ibtimes.com/china-launches-national-blockchain-part-wider-plan-accelerate-expansion-digital-economy-3808456?.tsrc=rss",
+     "when": "Sun Oct 11, 6:20am MT"
     },
     {
-     "title": "Bitcoin struggles above $83,000 a year after $19 billion crypto crash",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-above-83-000-055426754.html?.tsrc=rss",
-     "when": "Sat Oct 10, 11:54pm MT"
+     "title": "AI Price Prediction: Insights from Grok on Bitcoin\u2019s Potential by Election Day",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/ai-price-prediction-insights-from-grok-on-bitcoins-potential-by-election-day/?.tsrc=rss",
+     "when": "Sun Oct 11, 6:12am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1034.8,
-   "oracle": 1034.1,
-   "prev": 1033.6,
-   "funding": 1.30258e-05,
-   "oi": 110394.064,
-   "oi_usd": 114235777.42719999,
-   "vol": 3281337.9722999986,
-   "rsi14": 50.69326630337774,
-   "ema20": 1034.2603875002892,
-   "ema50": 1037.1503211935728,
+   "mark": 1034.6,
+   "oracle": 1034.7,
+   "prev": 1034.1,
+   "funding": 6.25e-06,
+   "oi": 110464.61,
+   "oi_usd": 114286685.506,
+   "vol": 3394762.0583,
+   "rsi14": 49.52681588500236,
+   "ema20": 1034.3262833831036,
+   "ema50": 1037.0533730095485,
    "hi24": 1036.8,
    "lo24": 1032.0
   },
@@ -608,18 +608,18 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.81,
-   "oracle": 163.78,
-   "prev": 163.29,
+   "mark": 163.77,
+   "oracle": 163.79,
+   "prev": 163.3,
    "funding": 6.25e-06,
-   "oi": 761263.2999999998,
-   "oi_usd": 124702541.17299998,
-   "vol": 3929353.8555000005,
-   "rsi14": 55.980417734406956,
-   "ema20": 163.662591513114,
-   "ema50": 163.91428968134525,
+   "oi": 761563.76,
+   "oi_usd": 124721296.97520001,
+   "vol": 3983166.3428000007,
+   "rsi14": 54.39391003238865,
+   "ema20": 163.67197512037035,
+   "ema50": 163.9310911249739,
    "hi24": 163.85,
-   "lo24": 163.27
+   "lo24": 163.37
   },
   "TSLA": {
    "stale": [
@@ -629,17 +629,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.8,
-   "oracle": 382.66,
-   "prev": 382.42,
+   "mark": 382.87,
+   "oracle": 382.85,
+   "prev": 382.34,
    "funding": 6.25e-06,
-   "oi": 113816.342,
-   "oi_usd": 43568895.7176,
-   "vol": 1066261.5234700001,
-   "rsi14": 57.88659038382288,
-   "ema20": 382.50097362972883,
-   "ema50": 381.8486919602479,
-   "hi24": 382.89,
+   "oi": 113909.334,
+   "oi_usd": 43612466.70858,
+   "vol": 1111244.1254400006,
+   "rsi14": 58.13595684541535,
+   "ema20": 382.54903613306055,
+   "ema50": 381.88285807874774,
+   "hi24": 382.98,
    "lo24": 382.04
   },
   "LMND": {
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83122.0,
-   "oracle": 83176.0,
-   "prev": 82831.0,
-   "funding": -1.36722e-05,
-   "oi": 38447.96854,
-   "oi_usd": 3195872040.98188,
-   "vol": 842147629.7488383,
-   "rsi14": 57.71461433693549,
-   "ema20": 82980.67262076595,
-   "ema50": 82897.60484254507,
+   "mark": 83050.0,
+   "oracle": 83101.0,
+   "prev": 82775.0,
+   "funding": -1.12981e-05,
+   "oi": 38366.90336,
+   "oi_usd": 3186371324.048,
+   "vol": 847237471.2924211,
+   "rsi14": 54.4472467326544,
+   "ema20": 82980.95833487087,
+   "ema50": 82901.63993006916,
    "hi24": 83205.0,
    "lo24": 82725.0
   },
-  "_at": 1791721101
+  "_at": 1791724707
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
