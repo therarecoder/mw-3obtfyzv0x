@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T23:05:45.945994-06:00",
- "generated_mt": "Sat Oct 10 2026, 11:05pm MT",
+ "generated_at": "2026-10-11T00:05:51.612190-06:00",
+ "generated_mt": "Sun Oct 11 2026, 12:05am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -137,6 +137,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
+     "link": "https://www.tikr.com/blog/tesla-renames-fsd-assisted-driving-europe?ref=yahoofinance&.tsrc=rss",
+     "when": "Sat Oct 10, 11:11pm MT"
+    },
+    {
      "title": "Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",
      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-made-ev-sales-180015823.html?.tsrc=rss",
      "when": "Sat Oct 10, 12:00pm MT"
@@ -150,11 +155,6 @@
      "title": "Tesla Beat Delivery Estimates by 25,000 Vehicles. Here's Why the Stock Still Hasn't Broken Out.",
      "link": "https://www.fool.com/investing/2026/10/10/tesla-beat-delivery-estimate-25k-vehicles-stock/?.tsrc=rss",
      "when": "Sat Oct 10, 9:21am MT"
-    },
-    {
-     "title": "Dear Tesla Stock Fans, Mark Your Calendars for Oct. 12",
-     "link": "https://www.barchart.com/story/news/5679379/dear-tesla-stock-fans-mark-your-calendars-for-oct-12?.tsrc=rss",
-     "when": "Sat Oct 10, 7:09am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82967.93,
-   "chg_pct": 0.23397598,
-   "chg": 193.67188,
+   "price": 82966.3,
+   "chg_pct": 0.3479019,
+   "chg": 287.64062,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1666954428416,
+   "mcap": 1667660382208,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 83043.38,
-   "as_of": "Sat Oct 10, 11:05pm MT",
+   "as_of": "Sun Oct 11, 12:05am MT",
    "news": [
     {
      "title": "Solana Confirms a Transaction in 200 Milliseconds and Bitcoin Takes 10 Minutes. Does Speed Make a Coin Worth More?",
@@ -464,26 +464,26 @@
   },
   "^TNX": {
    "price": 5.244,
-   "chg_pct": 0.24851868,
-   "chg": 0.013000011,
+   "chg_pct": -49.937943,
+   "chg": -5.231,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^TYX": {
    "price": 5.6,
-   "chg_pct": -0.10702893,
-   "chg": -0.006000042,
+   "chg_pct": -50.02677,
+   "chg": -5.606,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^FVX": {
    "price": 5.021,
-   "chg_pct": 0.6010766,
-   "chg": 0.029999733,
+   "chg_pct": -49.85018,
+   "chg": -4.991,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^IRX": {
    "price": 4.057,
-   "chg_pct": 0.346276,
-   "chg": 0.013999939,
+   "chg_pct": -49.91358,
+   "chg": -4.043,
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^VIX": {
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1034.0,
-   "oracle": 1033.7,
-   "prev": 1034.2,
-   "funding": 6.25e-06,
-   "oi": 110065.248,
-   "oi_usd": 113807466.43200001,
-   "vol": 3264312.743200001,
-   "rsi14": 45.40753493830945,
-   "ema20": 1034.7825248760394,
-   "ema50": 1038.1707098925601,
+   "mark": 1033.0,
+   "oracle": 1033.6,
+   "prev": 1032.5,
+   "funding": -1.54588e-05,
+   "oi": 110095.47,
+   "oi_usd": 113728620.51,
+   "vol": 3252144.5717000016,
+   "rsi14": 41.30342836142091,
+   "ema20": 1034.5084527624733,
+   "ema50": 1037.923359984301,
    "hi24": 1036.8,
    "lo24": 1030.7
   },
@@ -608,16 +608,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.6,
-   "oracle": 163.58,
-   "prev": 163.01,
+   "mark": 163.61,
+   "oracle": 163.59,
+   "prev": 163.05,
    "funding": 6.25e-06,
-   "oi": 759481.3400000001,
-   "oi_usd": 124251147.224,
-   "vol": 4134513.2302,
-   "rsi14": 50.78090932245633,
-   "ema20": 163.56106866772114,
-   "ema50": 163.97092237828025,
+   "oi": 759861.1,
+   "oi_usd": 124320874.57100001,
+   "vol": 4151440.8163,
+   "rsi14": 51.2775834734621,
+   "ema20": 163.5701332261189,
+   "ema50": 163.96633272227024,
    "hi24": 163.81,
    "lo24": 162.96
   },
@@ -629,17 +629,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.34,
-   "oracle": 382.29,
-   "prev": 383.0,
+   "mark": 382.22,
+   "oracle": 382.24,
+   "prev": 382.97,
    "funding": 6.25e-06,
-   "oi": 113743.86,
-   "oi_usd": 43488827.432399996,
-   "vol": 1085542.4531300003,
-   "rsi14": 51.25297227041815,
-   "ema20": 382.40300691851166,
-   "ema50": 381.60098152242193,
-   "hi24": 383.2,
+   "oi": 113823.16,
+   "oi_usd": 43505488.21520001,
+   "vol": 1084134.0056499997,
+   "rsi14": 48.68323809206612,
+   "ema20": 382.3716103147934,
+   "ema50": 381.6204618611259,
+   "hi24": 383.01,
    "lo24": 382.04
   },
   "LMND": {
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83005.0,
-   "oracle": 83055.0,
-   "prev": 82672.0,
-   "funding": -7.8139e-06,
-   "oi": 38128.19048,
-   "oi_usd": 3164830450.7924,
-   "vol": 840499004.6911896,
-   "rsi14": 54.75029250054249,
-   "ema20": 82917.36970119935,
-   "ema50": 82845.17037093932,
+   "mark": 83000.8,
+   "oracle": 83056.0,
+   "prev": 82734.0,
+   "funding": -1.99296e-05,
+   "oi": 38088.22258,
+   "oi_usd": 3161352944.7180643,
+   "vol": 828367622.6428403,
+   "rsi14": 54.699315402114486,
+   "ema20": 82924.44443039435,
+   "ema50": 82849.21682928159,
    "hi24": 83153.0,
    "lo24": 82598.0
   },
-  "_at": 1791695150
+  "_at": 1791698756
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
