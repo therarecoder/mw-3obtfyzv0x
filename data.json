@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T07:18:23.208482-06:00",
- "generated_mt": "Sun Oct 11 2026, 7:18am MT",
+ "generated_at": "2026-10-11T08:22:45.214174-06:00",
+ "generated_mt": "Sun Oct 11 2026, 8:22am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83014.64,
-   "chg_pct": 0.31349048,
-   "chg": 259.4297,
+   "price": 82956.32,
+   "chg_pct": 0.048109435,
+   "chg": 39.890625,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1668279173120,
+   "mcap": 1668411162624,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,27 +429,27 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 83147.16,
-   "as_of": "Sun Oct 11, 7:18am MT",
+   "as_of": "Sun Oct 11, 8:22am MT",
    "news": [
+    {
+     "title": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/ai-uncovers-xrp-ledger-bug-is-it-a-threat-or-a-defense/?.tsrc=rss",
+     "when": "Sun Oct 11, 8:00am MT"
+    },
+    {
+     "title": "Pok\u00e9mon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns",
+     "link": "https://beincrypto.com/pokemon-cards-outperform-bitcoin-gold-sp500/?.tsrc=rss",
+     "when": "Sun Oct 11, 7:48am MT"
+    },
+    {
+     "title": "Why Does Ethereum Fall Harder Than Bitcoin?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/why-does-ethereum-fall-harder-than-bitcoin/?.tsrc=rss",
+     "when": "Sun Oct 11, 7:30am MT"
+    },
     {
      "title": "Can Bitcoin Reach $200,000 by the 2028 Halving? A 141% Rally Is Needed. Here\u2019s What Needs to Change.",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/can-bitcoin-reach-200000-by-the-2028-halving-a-141-rally-is-needed-heres-what-needs-to-change/?.tsrc=rss",
      "when": "Sun Oct 11, 7:00am MT"
-    },
-    {
-     "title": "Which Is More Likely: Bitcoin at $1 Million or XRP at $10?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/which-is-more-likely-bitcoin-at-1-million-or-xrp-at-10-2/?.tsrc=rss",
-     "when": "Sun Oct 11, 6:40am MT"
-    },
-    {
-     "title": "China Launches National Blockchain As Part Of Wider Plan To Accelerate Expansion Of Digital Economy",
-     "link": "https://www.ibtimes.com/china-launches-national-blockchain-part-wider-plan-accelerate-expansion-digital-economy-3808456?.tsrc=rss",
-     "when": "Sun Oct 11, 6:20am MT"
-    },
-    {
-     "title": "AI Price Prediction: Insights from Grok on Bitcoin\u2019s Potential by Election Day",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/ai-price-prediction-insights-from-grok-on-bitcoins-potential-by-election-day/?.tsrc=rss",
-     "when": "Sun Oct 11, 6:12am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1034.6,
-   "oracle": 1034.7,
-   "prev": 1034.1,
+   "mark": 1035.5,
+   "oracle": 1035.1,
+   "prev": 1034.3,
    "funding": 6.25e-06,
-   "oi": 110464.61,
-   "oi_usd": 114286685.506,
-   "vol": 3394762.0583,
-   "rsi14": 49.52681588500236,
-   "ema20": 1034.3262833831036,
-   "ema50": 1037.0533730095485,
+   "oi": 110537.864,
+   "oi_usd": 114461958.172,
+   "vol": 3270775.448799999,
+   "rsi14": 53.25255762160823,
+   "ema20": 1034.4820777616335,
+   "ema50": 1037.0414765328505,
    "hi24": 1036.8,
    "lo24": 1032.0
   },
@@ -608,17 +608,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.77,
-   "oracle": 163.79,
-   "prev": 163.3,
+   "mark": 163.85,
+   "oracle": 163.83,
+   "prev": 163.52,
    "funding": 6.25e-06,
-   "oi": 761563.76,
-   "oi_usd": 124721296.97520001,
-   "vol": 3983166.3428000007,
-   "rsi14": 54.39391003238865,
-   "ema20": 163.67197512037035,
-   "ema50": 163.9310911249739,
-   "hi24": 163.85,
+   "oi": 762560.96,
+   "oi_usd": 124945613.29599999,
+   "vol": 3917503.733600002,
+   "rsi14": 57.306257445116124,
+   "ema20": 163.69324035222212,
+   "ema50": 163.93279771334792,
+   "hi24": 163.87,
    "lo24": 163.37
   },
   "TSLA": {
@@ -629,16 +629,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 382.87,
-   "oracle": 382.85,
-   "prev": 382.34,
+   "mark": 382.86,
+   "oracle": 382.83,
+   "prev": 382.53,
    "funding": 6.25e-06,
-   "oi": 113909.334,
-   "oi_usd": 43612466.70858,
-   "vol": 1111244.1254400006,
-   "rsi14": 58.13595684541535,
-   "ema20": 382.54903613306055,
-   "ema50": 381.88285807874774,
+   "oi": 113965.004,
+   "oi_usd": 43632641.43144,
+   "vol": 1120947.0536200006,
+   "rsi14": 58.569338376982955,
+   "ema20": 382.58160250217685,
+   "ema50": 381.92655725351347,
    "hi24": 382.98,
    "lo24": 382.04
   },
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83050.0,
-   "oracle": 83101.0,
-   "prev": 82775.0,
-   "funding": -1.12981e-05,
-   "oi": 38366.90336,
-   "oi_usd": 3186371324.048,
-   "vol": 847237471.2924211,
-   "rsi14": 54.4472467326544,
-   "ema20": 82980.95833487087,
-   "ema50": 82901.63993006916,
+   "mark": 83000.0,
+   "oracle": 83049.3,
+   "prev": 82909.0,
+   "funding": -1.10319e-05,
+   "oi": 38346.41278,
+   "oi_usd": 3182752260.74,
+   "vol": 806318270.4189805,
+   "rsi14": 52.2425761160879,
+   "ema20": 82981.91166228802,
+   "ema50": 82907.29344629297,
    "hi24": 83205.0,
-   "lo24": 82725.0
+   "lo24": 82746.0
   },
-  "_at": 1791724707
+  "_at": 1791728569
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
