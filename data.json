@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T14:24:39.009485-06:00",
- "generated_mt": "Sun Oct 11 2026, 2:24pm MT",
+ "generated_at": "2026-10-11T15:27:59.248612-06:00",
+ "generated_mt": "Sun Oct 11 2026, 3:27pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,6 +85,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Investors are likely to focus on SpaceX\u2019s Starship tech milestones, not results",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/investors-likely-focus-spacex-starship-205824452.html?.tsrc=rss",
+     "when": "Sun Oct 11, 2:58pm MT"
+    },
+    {
      "title": "SpaceX Takes Aim at AT&T as Its CEO Insists \u201cNothing Beats\u201d Fiber",
      "link": "https://www.tikr.com/blog/spacex-takes-aim-at-att-as-its-ceo-insists-nothing-beats-fiber?ref=yahoofinance&.tsrc=rss",
      "when": "Sun Oct 11, 11:14am MT"
@@ -98,11 +103,6 @@
      "title": "Rocket Lab Is About to Challenge SpaceX as Space Leader",
      "link": "https://247wallst.com/investing/2026/10/11/rocket-lab-is-about-to-challenge-spacex-as-space-leader/?.tsrc=rss",
      "when": "Sun Oct 11, 9:46am MT"
-    },
-    {
-     "title": "FCC Chair Brendan Carr Says Elon Musk\u2019s SpaceX Now Has Spectrum To Challenge Wireless Giants \u2014 \u2018People Are Serious About\u2026\u2019",
-     "link": "https://stocktwits.com/news-articles/markets/equity/fcc-brendan-carr-elon-musk-spacex-spectrum-deal-challenge-wireless-carriers/cZxdcyFRBF2?.tsrc=rss",
-     "when": "Sun Oct 11, 6:47am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -137,6 +137,16 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
+     "link": "https://www.fool.com/investing/2026/10/11/forget-the-recent-delivery-beat-heres-the-key-numb/?.tsrc=rss",
+     "when": "Sun Oct 11, 3:00pm MT"
+    },
+    {
+     "title": "Does Tesla (TSLA) Gain More From Megachargers Or Tokenized Stock Trading?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-gain-more-200622751.html?.tsrc=rss",
+     "when": "Sun Oct 11, 2:06pm MT"
+    },
+    {
      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds?.tsrc=rss",
      "when": "Sun Oct 11, 11:11am MT"
@@ -145,16 +155,6 @@
      "title": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
      "link": "https://moneylion.com/trending/money/it-now-takes-billions-make-forbes-list-see-america-richest-people?.tsrc=rss",
      "when": "Sun Oct 11, 11:00am MT"
-    },
-    {
-     "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just \u2018a Few Hundred\u2019 Roadsters: \u2018Hovering Is a Gimmick\u2019",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-153029008.html?.tsrc=rss",
-     "when": "Sun Oct 11, 9:30am MT"
-    },
-    {
-     "title": "How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries",
-     "link": "https://www.barchart.com/story/news/5993784/how-to-play-rivian-stock-as-rivn-keeps-falling-despite-record-deliveries?.tsrc=rss",
-     "when": "Sun Oct 11, 5:15am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83563.87,
-   "chg_pct": 0.7312312,
-   "chg": 606.6094,
+   "price": 83337.88,
+   "chg_pct": 0.43960014,
+   "chg": 364.75,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1679540224000,
+   "mcap": 1673664659456,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 82744.375,
    "day_hi": 84026.18,
-   "as_of": "Sun Oct 11, 2:24pm MT",
+   "as_of": "Sun Oct 11, 3:27pm MT",
    "news": [
     {
      "title": "Sui Soars 48% in Just One Month: Could It Be the Next Solana?",
@@ -590,16 +590,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1038.6,
-   "oracle": 1039.1,
-   "prev": 1035.7,
-   "funding": -6.5068e-06,
-   "oi": 111414.94,
-   "oi_usd": 115715556.68399999,
-   "vol": 6151361.841900001,
-   "rsi14": 56.55768770064465,
-   "ema20": 1036.9109306181458,
-   "ema50": 1037.481026702285,
+   "mark": 1037.7,
+   "oracle": 1038.4,
+   "prev": 1036.5,
+   "funding": -2.87023e-05,
+   "oi": 111500.372,
+   "oi_usd": 115703936.02440001,
+   "vol": 6370987.814200001,
+   "rsi14": 52.39556945840398,
+   "ema20": 1036.9833655990326,
+   "ema50": 1037.498634871561,
    "hi24": 1042.6,
    "lo24": 1032.0
   },
@@ -608,16 +608,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 164.08,
-   "oracle": 164.08,
-   "prev": 163.6,
+   "mark": 164.12,
+   "oracle": 164.12,
+   "prev": 163.59,
    "funding": 6.25e-06,
-   "oi": 763576.5,
-   "oi_usd": 125287632.12,
-   "vol": 4476873.547599999,
-   "rsi14": 60.89166736274872,
-   "ema20": 163.8827161999841,
-   "ema50": 163.94860231681722,
+   "oi": 763623.7200000001,
+   "oi_usd": 125325924.92640002,
+   "vol": 3895968.0582,
+   "rsi14": 62.58527864078633,
+   "ema20": 163.91143875720394,
+   "ema50": 163.96034720596177,
    "hi24": 164.24,
    "lo24": 163.44
   },
@@ -629,17 +629,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 383.49,
-   "oracle": 383.44,
-   "prev": 382.38,
-   "funding": 6.25e-06,
-   "oi": 113481.458,
-   "oi_usd": 43519004.32842,
-   "vol": 1243467.91625,
-   "rsi14": 65.07302353814151,
-   "ema20": 382.94685131066524,
-   "ema50": 382.23269653356175,
-   "hi24": 383.63,
+   "mark": 384.08,
+   "oracle": 383.93,
+   "prev": 382.29,
+   "funding": 4.49733e-05,
+   "oi": 113550.57,
+   "oi_usd": 43612502.9256,
+   "vol": 1320182.0088,
+   "rsi14": 71.97680082279999,
+   "ema20": 383.09699163013323,
+   "ema50": 382.3224166439373,
+   "hi24": 384.3,
    "lo24": 382.04
   },
   "LMND": {
@@ -664,20 +664,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83614.0,
-   "oracle": 83651.6,
-   "prev": 82980.0,
-   "funding": 1.25e-05,
-   "oi": 37677.03266,
-   "oi_usd": 3150327408.8332396,
-   "vol": 1143308867.1510997,
-   "rsi14": 63.56629205858456,
-   "ema20": 83318.11361399104,
-   "ema50": 83078.6728536193,
+   "mark": 83385.0,
+   "oracle": 83422.4,
+   "prev": 83003.0,
+   "funding": 4.7434e-06,
+   "oi": 37694.3664,
+   "oi_usd": 3143144742.264,
+   "vol": 1173465884.4430711,
+   "rsi14": 54.676961084721746,
+   "ema20": 83326.92366629628,
+   "ema50": 83091.76107925714,
    "hi24": 84181.0,
    "lo24": 82746.0
   },
-  "_at": 1791750283
+  "_at": 1791754083
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
