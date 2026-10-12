@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T20:30:47.883081-06:00",
- "generated_mt": "Sun Oct 11 2026, 8:30pm MT",
+ "generated_at": "2026-10-11T21:32:06.989076-06:00",
+ "generated_mt": "Sun Oct 11 2026, 9:32pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -90,6 +90,11 @@
      "when": "Sun Oct 11, 8:13pm MT"
     },
     {
+     "title": "Bank Earnings Hinge on Anthropic IPO as SpaceX Windfall Fades",
+     "link": "https://beincrypto.com/bank-earnings-anthropic-ipo-spacex-windfall/?.tsrc=rss",
+     "when": "Sun Oct 11, 7:01pm MT"
+    },
+    {
      "title": "Elon Musk Will \u2018Eventually\u2019 Make a Phone, Says Gene Munster: Starlink Device Will Be a \u2018Bigger Problem\u2019 for Apple, Samsung",
      "link": "https://finance.yahoo.com/technology/articles/elon-musk-eventually-phone-says-003006870.html?.tsrc=rss",
      "when": "Sun Oct 11, 6:30pm MT"
@@ -98,11 +103,6 @@
      "title": "Investors are likely to focus on SpaceX\u2019s Starship tech milestones, not results",
      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-likely-focus-spacex-starship-205824452.html?.tsrc=rss",
      "when": "Sun Oct 11, 2:58pm MT"
-    },
-    {
-     "title": "SpaceX Takes Aim at AT&T as Its CEO Insists \u201cNothing Beats\u201d Fiber",
-     "link": "https://www.tikr.com/blog/spacex-takes-aim-at-att-as-its-ceo-insists-nothing-beats-fiber?ref=yahoofinance&.tsrc=rss",
-     "when": "Sun Oct 11, 11:14am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83805.28,
-   "chg_pct": 0.95561284,
-   "chg": 793.27344,
+   "price": 83568.85,
+   "chg_pct": 1.0050161,
+   "chg": 831.52344,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1682523160576,
+   "mcap": 1679161032704,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,7 +424,7 @@
    "pre_pct": null,
    "day_lo": 83418.74,
    "day_hi": 83892.44,
-   "as_of": "Sun Oct 11, 8:30pm MT",
+   "as_of": "Sun Oct 11, 9:32pm MT",
    "news": [
     {
      "title": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher",
@@ -442,9 +442,9 @@
      "when": "Sun Oct 11, 3:25pm MT"
     },
     {
-     "title": "Sui Soars 48% in Just One Month: Could It Be the Next Solana?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/11/sui-soars-48-in-just-one-month-could-it-be-the-next-solana/?.tsrc=rss",
-     "when": "Sun Oct 11, 2:00pm MT"
+     "title": "Bots are Changing South Korea\u2019s Famous Bitcoin Price Gap",
+     "link": "https://beincrypto.com/kimchi-premium-ai-trading-korean-rules/?.tsrc=rss",
+     "when": "Sun Oct 11, 3:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,10 +488,10 @@
    "as_of": "Fri Oct 9, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.145,
-   "chg_pct": -0.06652917,
-   "chg": -0.06800079,
-   "as_of": "Sun Oct 11, 8:20pm MT"
+   "price": 102.178,
+   "chg_pct": -0.034238003,
+   "chg": -0.034996033,
+   "as_of": "Sun Oct 11, 9:22pm MT"
   },
   "^GSPC": {
    "price": 7811.54,
@@ -585,16 +585,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1032.9,
-   "oracle": 1032.4,
-   "prev": 1035.4,
+   "mark": 1032.1,
+   "oracle": 1031.5,
+   "prev": 1034.1,
    "funding": 6.25e-06,
-   "oi": 112464.428,
-   "oi_usd": 116164507.68120001,
-   "vol": 11089836.641800003,
-   "rsi14": 42.255292070331336,
-   "ema20": 1036.0742213820579,
-   "ema50": 1037.013625060344,
+   "oi": 112476.146,
+   "oi_usd": 116086630.28659998,
+   "vol": 11243772.658000002,
+   "rsi14": 40.631112451302364,
+   "ema20": 1035.6104688402538,
+   "ema50": 1036.7913118040753,
    "hi24": 1042.6,
    "lo24": 1026.6
   },
@@ -603,16 +603,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 164.8,
-   "oracle": 164.79,
-   "prev": 163.8,
+   "mark": 164.66,
+   "oracle": 164.64,
+   "prev": 163.64,
    "funding": 6.25e-06,
-   "oi": 759958.4800000001,
-   "oi_usd": 125241157.50400002,
-   "vol": 8118653.456800001,
-   "rsi14": 76.91977947778516,
-   "ema20": 164.12006308952058,
-   "ema50": 164.01766552819404,
+   "oi": 759913.3200000001,
+   "oi_usd": 125127327.2712,
+   "vol": 8423726.449699998,
+   "rsi14": 73.31301640154514,
+   "ema20": 164.16115074483946,
+   "ema50": 164.0458406315753,
    "hi24": 164.96,
    "lo24": 163.44
   },
@@ -624,16 +624,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 384.86,
-   "oracle": 384.76,
-   "prev": 382.38,
+   "mark": 385.04,
+   "oracle": 384.9,
+   "prev": 382.33,
    "funding": 6.25e-06,
-   "oi": 113048.89,
-   "oi_usd": 43507995.8054,
-   "vol": 2931879.04559,
-   "rsi14": 75.86407975945662,
-   "ema20": 383.71677055789655,
-   "ema50": 382.73144262805704,
+   "oi": 113095.136,
+   "oi_usd": 43546151.16544,
+   "vol": 2983561.0386099997,
+   "rsi14": 77.21403946733813,
+   "ema20": 383.8532258902812,
+   "ema50": 382.8303039432076,
    "hi24": 385.57,
    "lo24": 382.09
   },
@@ -659,20 +659,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83876.0,
-   "oracle": 83917.0,
-   "prev": 83008.0,
-   "funding": 7.5664e-06,
-   "oi": 38245.7955,
-   "oi_usd": 3207904343.358,
-   "vol": 1369296529.1577582,
-   "rsi14": 62.90569000841714,
-   "ema20": 83504.88606748146,
-   "ema50": 83202.29008595395,
+   "mark": 83634.0,
+   "oracle": 83672.0,
+   "prev": 82880.0,
+   "funding": 5.9346e-06,
+   "oi": 38227.0253,
+   "oi_usd": 3197079033.9402003,
+   "vol": 1378884346.356248,
+   "rsi14": 56.12322810986357,
+   "ema20": 83509.95524212488,
+   "ema50": 83218.40336749297,
    "hi24": 84181.0,
    "lo24": 82746.0
   },
-  "_at": 1791772251
+  "_at": 1791775931
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
