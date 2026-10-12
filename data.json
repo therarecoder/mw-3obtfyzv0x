@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T11:18:23.945159-06:00",
- "generated_mt": "Mon Oct 12 2026, 11:18am MT",
+ "generated_at": "2026-10-12T11:24:07.242009-06:00",
+ "generated_mt": "Mon Oct 12 2026, 11:24am MT",
  "market_open": true,
  "watchlist": [
   {
@@ -16,7 +16,7 @@
     "Street: D.A. Davidson $3,000 Buy (10/7); consensus ~$1,520-1,630"
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
-   "price": 993.21,
+   "price": 992.19,
    "chg_pct": null,
    "chg": null,
    "lo52": 186.25,
@@ -65,7 +65,7 @@
     "Watch: Starship milestones, lock-up/unlock dates, merger-process filings"
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
-   "price": 163.77,
+   "price": 163.755,
    "chg_pct": null,
    "chg": null,
    "lo52": 104.83,
@@ -115,7 +115,7 @@
     "View: merger committee in 2026, deal in 2027, ~$600 on merger + Robotaxi"
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
-   "price": 379.12,
+   "price": 379.09,
    "chg_pct": null,
    "chg": null,
    "lo52": 297.38,
@@ -162,7 +162,7 @@
     "Watch: loss ratio, gross written premium growth, car insurance ramp"
    ],
    "watch": "Price & news",
-   "price": 45.16,
+   "price": 45.09,
    "chg_pct": null,
    "chg": null,
    "lo52": 43.28,
@@ -210,7 +210,7 @@
     "Watch: origination volume, conversion, guidance"
    ],
    "watch": "Price, yields & news",
-   "price": 24.205,
+   "price": 24.2,
    "chg_pct": null,
    "chg": null,
    "lo52": 22.555,
@@ -257,7 +257,7 @@
     "Watch: drone-component orders, US defense/drone policy headlines"
    ],
    "watch": "Price & news",
-   "price": 19.712,
+   "price": 19.76,
    "chg_pct": null,
    "chg": null,
    "lo52": 7.245,
@@ -304,7 +304,7 @@
     "Watch: B2 cloud storage growth, AI storage demand, net revenue retention"
    ],
    "watch": "Price & news",
-   "price": 12.23,
+   "price": 12.227,
    "chg_pct": null,
    "chg": null,
    "lo52": 3.261,
@@ -352,7 +352,7 @@
     "Watch: ACA subsidy policy, medical loss ratio"
    ],
    "watch": "Price & news",
-   "price": 33.535,
+   "price": 33.65,
    "chg_pct": null,
    "chg": null,
    "lo52": 10.69,
@@ -399,7 +399,7 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82477.22,
+   "price": 82478.67,
    "chg_pct": null,
    "chg": null,
    "lo52": 57747.766,
@@ -428,11 +428,6 @@
      "title": "Bitcoin ETFs lose $679 million over the week",
      "link": "https://finance.yahoo.com/video/bitcoin-etfs-lose-679-million-170000916.html?.tsrc=rss",
      "when": "Mon Oct 12, 11:00am MT"
-    },
-    {
-     "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
-     "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops?.tsrc=rss",
-     "when": "Mon Oct 12, 10:41am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -524,8 +519,8 @@
     985
    ],
    "bottom_flagged": false,
-   "last_run": "2026-10-12T11:05-06:00",
-   "runs_logged": 5
+   "last_run": "2026-10-12T11:22-06:00",
+   "runs_logged": 6
   },
   "tsla": {
    "polymarket_2026": 14,
@@ -596,16 +591,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 993.73,
-   "oracle": 993.36,
-   "prev": 1041.5,
+   "mark": 992.54,
+   "oracle": 992.12,
+   "prev": 1041.4,
    "funding": 6.25e-06,
-   "oi": 112217.352,
-   "oi_usd": 111513749.20296,
-   "vol": 80338800.03365,
-   "rsi14": 31.362482451965676,
-   "ema20": 1010.1322540665387,
-   "ema50": 1023.177679581506,
+   "oi": 112152.796,
+   "oi_usd": 111316136.14184,
+   "vol": 80582099.99449003,
+   "rsi14": 30.183371625353303,
+   "ema20": 1010.035111209396,
+   "ema50": 1023.137679581506,
    "hi24": 1042.1,
    "lo24": 979.29
   },
@@ -614,16 +609,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.82,
-   "oracle": 163.77,
-   "prev": 164.15,
+   "mark": 163.75,
+   "oracle": 163.7,
+   "prev": 164.17,
    "funding": 6.25e-06,
-   "oi": 758214.2999999997,
-   "oi_usd": 124210666.62599994,
-   "vol": 67745113.95110007,
-   "rsi14": 45.84369976437301,
-   "ema20": 164.2391948786024,
-   "ema50": 164.1195807699716,
+   "oi": 757923.5400000007,
+   "oi_usd": 124109979.67500012,
+   "vol": 67835037.99890004,
+   "rsi14": 44.90424862693031,
+   "ema20": 164.2296710690786,
+   "ema50": 164.11565920134413,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -635,16 +630,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 379.24,
-   "oracle": 379.12,
-   "prev": 383.43,
+   "mark": 379.21,
+   "oracle": 379.07,
+   "prev": 383.49,
    "funding": 6.25e-06,
-   "oi": 108574.712,
-   "oi_usd": 41175873.77888,
-   "vol": 12795683.530619998,
-   "rsi14": 27.42248896050623,
-   "ema20": 381.89831335012417,
-   "ema50": 382.3147571876942,
+   "oi": 108550.474,
+   "oi_usd": 41163425.24554,
+   "vol": 12789225.561539996,
+   "rsi14": 27.216486529755983,
+   "ema20": 381.8964085882194,
+   "ema50": 382.31397287396874,
    "hi24": 385.57,
    "lo24": 377.97
   },
@@ -668,22 +663,9 @@
     "flx:BTC",
     "hyna:BTC",
     "cash:BTC"
-   ],
-   "market": "BTC",
-   "mark": 82558.0,
-   "oracle": 82596.0,
-   "prev": 83802.0,
-   "funding": 4.3313e-06,
-   "oi": 38007.06172,
-   "oi_usd": 3137787001.4797597,
-   "vol": 2139847177.5022447,
-   "rsi14": 37.302565843105796,
-   "ema20": 83171.91490547187,
-   "ema50": 83200.5742656316,
-   "hi24": 84315.0,
-   "lo24": 82365.0
+   ]
   },
-  "_at": 1791825532
+  "_at": 1791825863
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 8:01am MT",
