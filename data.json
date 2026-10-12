@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T02:39:33.045672-06:00",
- "generated_mt": "Mon Oct 12 2026, 2:39am MT",
+ "generated_at": "2026-10-12T03:50:23.999246-06:00",
+ "generated_mt": "Mon Oct 12 2026, 3:50am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,13 +26,18 @@
    "fpe": 4.9870977,
    "post": null,
    "post_pct": null,
-   "pre": 1007.9732,
-   "pre_pct": -2.0434203,
+   "pre": 1007.92,
+   "pre_pct": -2.0485926,
    "day_lo": 1017.0,
    "day_hi": 1053.58,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
+    {
+     "title": "INTC, AMD, NVDA, MU: Chip Stocks Open Mixed Premarket After Worst Week In A Month",
+     "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-nvda-mu-chip-stocks-open-mixed-premarket-after-worst-week-in-a-month/cZxIPDQRBFq?.tsrc=rss",
+     "when": "Mon Oct 12, 2:55am MT"
+    },
     {
      "title": "Micron, SK Hynix Stocks Slip Overnight: China\u2019s CXMT Advances Next-Gen DRAM Technology",
      "link": "https://stocktwits.com/news-articles/markets/equity/micron-sk-hynix-stocks-slip-overnight-china-s-cxmt-advances-next-gen-dram-technology/cZxIRD4RBFV?.tsrc=rss",
@@ -47,11 +52,6 @@
      "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
      "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
      "when": "Sun Oct 11, 6:05am MT"
-    },
-    {
-     "title": "Prediction: This Is How Much Micron Stock Will Be Worth By the End of 2027",
-     "link": "https://www.fool.com/investing/2026/10/11/prediction-this-is-how-much-micron-stock-will-be-worth-by-the-end-of-2027/?.tsrc=rss",
-     "when": "Sun Oct 11, 3:30am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -77,8 +77,8 @@
    "fpe": 81.731255,
    "post": null,
    "post_pct": null,
-   "pre": 163.84,
-   "pre_pct": 0.78119516,
+   "pre": 163.66,
+   "pre_pct": 0.6704781,
    "day_lo": 160.61,
    "day_hi": 166.38,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
@@ -98,11 +98,6 @@
      "title": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares \u2018Energy Ceasefire\u2019 Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus",
      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-after-oil-in-focus-as-trump-declares-energy-ceasefire-between-russia-and-ukraine-iren-wff-vstm-cifr-stocks-in-focus/cZx4DAYRBFX?.tsrc=rss",
      "when": "Sun Oct 11, 9:50pm MT"
-    },
-    {
-     "title": "Jim Cramer Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very Big Deal'",
-     "link": "https://finance.yahoo.com/technology/articles/jim-cramer-calls-elon-musk-033017301.html?.tsrc=rss",
-     "when": "Sun Oct 11, 9:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -129,8 +124,8 @@
    "fpe": 175.3534,
    "post": null,
    "post_pct": null,
-   "pre": 382.895,
-   "pre_pct": 0.05094769,
+   "pre": 382.2633,
+   "pre_pct": -0.114111975,
    "day_lo": 379.71,
    "day_hi": 388.56,
    "next_earnings": "Wed Oct 21, 2026",
@@ -223,8 +218,8 @@
    "fpe": 6.9333363,
    "post": null,
    "post_pct": null,
-   "pre": 24.22,
-   "pre_pct": 0.49792087,
+   "pre": 24.1,
+   "pre_pct": 0.0,
    "day_lo": 23.815,
    "day_hi": 24.5,
    "next_earnings": "Tue Nov 3, 2026",
@@ -272,8 +267,8 @@
    "fpe": -64.42335,
    "post": null,
    "post_pct": null,
-   "pre": 20.92,
-   "pre_pct": 0.43206987,
+   "pre": 20.69,
+   "pre_pct": -0.6721046,
    "day_lo": 20.385,
    "day_hi": 21.69,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -321,8 +316,8 @@
    "fpe": 46.999996,
    "post": null,
    "post_pct": null,
-   "pre": null,
-   "pre_pct": null,
+   "pre": 12.3,
+   "pre_pct": -3.0732813,
    "day_lo": 12.64,
    "day_hi": 13.35,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -410,22 +405,32 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83630.76,
-   "chg_pct": 0.81268984,
-   "chg": 674.1797,
+   "price": 83307.9,
+   "chg_pct": 0.41800454,
+   "chg": 346.78125,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1680574382080,
+   "mcap": 1673085583360,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 83418.74,
+   "day_lo": 83250.234,
    "day_hi": 84230.83,
-   "as_of": "Mon Oct 12, 2:39am MT",
+   "as_of": "Mon Oct 12, 3:50am MT",
    "news": [
+    {
+     "title": "Bitcoin Price Outlook: Bulls Defend $83K, But ETF Flows And Trading Volume Raise Recovery Questions",
+     "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-price-outlook-bulls-defend-83-k-but-etf-flows-and-trading-volume-raise-recovery-questions/cZxI3byRBFt?.tsrc=rss",
+     "when": "Mon Oct 12, 3:37am MT"
+    },
+    {
+     "title": "Arthur Hayes Thinks FLOP Could Outgrow Bitcoin. Its Testnet Is Weeks Away",
+     "link": "https://beincrypto.com/arthur-hayes-flop-testnet-weeks-away/?.tsrc=rss",
+     "when": "Mon Oct 12, 2:58am MT"
+    },
     {
      "title": "Bitcoin recovers to near $84k as falling oil prices offer some support",
      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-near-84k-falling-070856634.html?.tsrc=rss",
@@ -435,16 +440,6 @@
      "title": "Solana ETFs End a 14-Week Buying Streak With Their Largest Weekly Exit",
      "link": "https://beincrypto.com/solana-etf-record-weekly-outflow-xrp/?.tsrc=rss",
      "when": "Sun Oct 11, 10:35pm MT"
-    },
-    {
-     "title": "Bitcoin ETF Inflows Stall After $1.7 Billion Burst: Will Demand Return?",
-     "link": "https://beincrypto.com/bitcoin-etf-inflows-stall-september-burst/?.tsrc=rss",
-     "when": "Sun Oct 11, 10:09pm MT"
-    },
-    {
-     "title": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher",
-     "link": "https://stocktwits.com/news-articles/markets/equity/iren-s-mystery-customer-is-anthropic-fresh-buzz-pushes-stock-higher/cZx4MqjRBFB?.tsrc=rss",
-     "when": "Sun Oct 11, 7:57pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -482,16 +477,16 @@
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^VIX": {
-   "price": 15.38,
-   "chg_pct": 3.6388137,
-   "chg": 0.53999996,
-   "as_of": "Mon Oct 12, 2:24am MT"
+   "price": 15.45,
+   "chg_pct": 4.11051,
+   "chg": 0.60999966,
+   "as_of": "Mon Oct 12, 3:35am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.318,
-   "chg_pct": 0.10273095,
-   "chg": 0.10500336,
-   "as_of": "Mon Oct 12, 2:29am MT"
+   "price": 102.353,
+   "chg_pct": 0.13696963,
+   "chg": 0.13999939,
+   "as_of": "Mon Oct 12, 3:40am MT"
   },
   "^GSPC": {
    "price": 7811.54,
@@ -585,36 +580,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1008.0,
-   "oracle": 1007.9,
-   "prev": 1033.4,
+   "mark": 1007.8,
+   "oracle": 1007.8,
+   "prev": 1034.6,
    "funding": 6.25e-06,
-   "oi": 113142.1759999999,
-   "oi_usd": 114047313.4079999,
-   "vol": 17422363.003299993,
-   "rsi14": 18.905333000793163,
-   "ema20": 1028.9110844333861,
-   "ema50": 1033.4749423667633,
+   "oi": 110218.016,
+   "oi_usd": 111077716.5248,
+   "vol": 23446469.628999997,
+   "rsi14": 21.879614022838496,
+   "ema20": 1026.7281286356001,
+   "ema50": 1032.334251806112,
    "hi24": 1042.6,
-   "lo24": 1007.3
+   "lo24": 1003.0
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.86,
-   "oracle": 163.81,
-   "prev": 163.71,
+   "mark": 163.65,
+   "oracle": 163.65,
+   "prev": 163.85,
    "funding": 6.25e-06,
-   "oi": 769104.0800000011,
-   "oi_usd": 126025394.5488002,
-   "vol": 11733547.48280003,
-   "rsi14": 44.016937546630444,
-   "ema20": 164.19219268509204,
-   "ema50": 164.0773688129429,
+   "oi": 770910.46,
+   "oi_usd": 126159496.779,
+   "vol": 13367946.2702,
+   "rsi14": 39.87859233965574,
+   "ema20": 164.12073614204226,
+   "ema50": 164.05115315874062,
    "hi24": 164.96,
-   "lo24": 163.68
+   "lo24": 163.47
   },
   "TSLA": {
    "stale": [
@@ -624,18 +619,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 383.07,
-   "oracle": 383.03,
-   "prev": 382.59,
+   "mark": 382.44,
+   "oracle": 382.42,
+   "prev": 382.55,
    "funding": 6.25e-06,
-   "oi": 112711.474,
-   "oi_usd": 43176384.34518,
-   "vol": 4061517.528509999,
-   "rsi14": 43.12035062614684,
-   "ema20": 383.737915326319,
-   "ema50": 382.96149726979536,
+   "oi": 112067.718,
+   "oi_usd": 42859178.07192,
+   "vol": 4468857.9371299995,
+   "rsi14": 38.89348197267819,
+   "ema20": 383.55819967136625,
+   "ema50": 382.9095077001324,
    "hi24": 385.57,
-   "lo24": 382.48
+   "lo24": 381.57
   },
   "LMND": {
    "stale": []
@@ -659,20 +654,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83687.0,
-   "oracle": 83721.3,
-   "prev": 83045.0,
-   "funding": 1.07805e-05,
-   "oi": 38798.82778,
-   "oi_usd": 3246957500.42486,
-   "vol": 1679475099.679875,
-   "rsi14": 52.346530794029746,
-   "ema20": 83687.14253423108,
-   "ema50": 83352.78266536428,
+   "mark": 83377.0,
+   "oracle": 83413.1,
+   "prev": 82997.0,
+   "funding": 1.25e-05,
+   "oi": 38904.24474,
+   "oi_usd": 3243719213.6869802,
+   "vol": 1762964772.162279,
+   "rsi14": 46.21838838061406,
+   "ema20": 83638.99210158727,
+   "ema50": 83344.4402714962,
    "hi24": 84315.0,
    "lo24": 82916.0
   },
-  "_at": 1791794377
+  "_at": 1791798628
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
