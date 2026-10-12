@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T11:24:07.242009-06:00",
- "generated_mt": "Mon Oct 12 2026, 11:24am MT",
+ "generated_at": "2026-10-12T11:29:31.812538-06:00",
+ "generated_mt": "Mon Oct 12 2026, 11:29am MT",
  "market_open": true,
  "watchlist": [
   {
@@ -16,7 +16,7 @@
     "Street: D.A. Davidson $3,000 Buy (10/7); consensus ~$1,520-1,630"
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
-   "price": 992.19,
+   "price": 991.08,
    "chg_pct": null,
    "chg": null,
    "lo52": 186.25,
@@ -65,7 +65,7 @@
     "Watch: Starship milestones, lock-up/unlock dates, merger-process filings"
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
-   "price": 163.755,
+   "price": 163.84,
    "chg_pct": null,
    "chg": null,
    "lo52": 104.83,
@@ -115,7 +115,7 @@
     "View: merger committee in 2026, deal in 2027, ~$600 on merger + Robotaxi"
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
-   "price": 379.09,
+   "price": 379.02,
    "chg_pct": null,
    "chg": null,
    "lo52": 297.38,
@@ -162,7 +162,7 @@
     "Watch: loss ratio, gross written premium growth, car insurance ramp"
    ],
    "watch": "Price & news",
-   "price": 45.09,
+   "price": 45.055,
    "chg_pct": null,
    "chg": null,
    "lo52": 43.28,
@@ -210,7 +210,7 @@
     "Watch: origination volume, conversion, guidance"
    ],
    "watch": "Price, yields & news",
-   "price": 24.2,
+   "price": 24.16,
    "chg_pct": null,
    "chg": null,
    "lo52": 22.555,
@@ -257,7 +257,7 @@
     "Watch: drone-component orders, US defense/drone policy headlines"
    ],
    "watch": "Price & news",
-   "price": 19.76,
+   "price": 19.75,
    "chg_pct": null,
    "chg": null,
    "lo52": 7.245,
@@ -304,7 +304,7 @@
     "Watch: B2 cloud storage growth, AI storage demand, net revenue retention"
    ],
    "watch": "Price & news",
-   "price": 12.227,
+   "price": 12.14,
    "chg_pct": null,
    "chg": null,
    "lo52": 3.261,
@@ -352,7 +352,7 @@
     "Watch: ACA subsidy policy, medical loss ratio"
    ],
    "watch": "Price & news",
-   "price": 33.65,
+   "price": 33.375,
    "chg_pct": null,
    "chg": null,
    "lo52": 10.69,
@@ -399,7 +399,7 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82478.67,
+   "price": 82448.44,
    "chg_pct": null,
    "chg": null,
    "lo52": 57747.766,
@@ -591,16 +591,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 992.54,
-   "oracle": 992.12,
+   "mark": 991.29,
+   "oracle": 990.92,
    "prev": 1041.4,
    "funding": 6.25e-06,
-   "oi": 112152.796,
-   "oi_usd": 111316136.14184,
-   "vol": 80582099.99449003,
-   "rsi14": 30.183371625353303,
-   "ema20": 1010.035111209396,
-   "ema50": 1023.137679581506,
+   "oi": 112038.044,
+   "oi_usd": 111062192.63676,
+   "vol": 80859805.85466999,
+   "rsi14": 29.245777589348265,
+   "ema20": 1009.9065397808245,
+   "ema50": 1023.0847384050354,
    "hi24": 1042.1,
    "lo24": 979.29
   },
@@ -609,16 +609,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.75,
-   "oracle": 163.7,
+   "mark": 163.85,
+   "oracle": 163.85,
    "prev": 164.17,
    "funding": 6.25e-06,
-   "oi": 757923.5400000007,
-   "oi_usd": 124109979.67500012,
-   "vol": 67835037.99890004,
-   "rsi14": 44.90424862693031,
-   "ema20": 164.2296710690786,
-   "ema50": 164.11565920134413,
+   "oi": 757682.6200000005,
+   "oi_usd": 124146297.28700007,
+   "vol": 67985185.61030003,
+   "rsi14": 46.608261007409865,
+   "ema20": 164.24586154526907,
+   "ema50": 164.12232586801082,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -630,16 +630,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 379.21,
-   "oracle": 379.07,
+   "mark": 379.13,
+   "oracle": 379.02,
    "prev": 383.49,
    "funding": 6.25e-06,
-   "oi": 108550.474,
-   "oi_usd": 41163425.24554,
-   "vol": 12789225.561539996,
-   "rsi14": 27.216486529755983,
-   "ema20": 381.8964085882194,
-   "ema50": 382.31397287396874,
+   "oi": 108541.41,
+   "oi_usd": 41151304.7733,
+   "vol": 12793499.134639995,
+   "rsi14": 26.591402423587752,
+   "ema20": 381.8906943025051,
+   "ema50": 382.31161993279227,
    "hi24": 385.57,
    "lo24": 377.97
   },
@@ -663,9 +663,22 @@
     "flx:BTC",
     "hyna:BTC",
     "cash:BTC"
-   ]
+   ],
+   "market": "BTC",
+   "mark": 82429.0,
+   "oracle": 82468.0,
+   "prev": 83942.0,
+   "funding": 4.6976e-06,
+   "oi": 37998.62274,
+   "oi_usd": 3132188473.8354597,
+   "vol": 2124986624.5915475,
+   "rsi14": 34.55269097255541,
+   "ema20": 83158.58157213853,
+   "ema50": 83195.08406955318,
+   "hi24": 84315.0,
+   "lo24": 82365.0
   },
-  "_at": 1791825863
+  "_at": 1791826191
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 8:01am MT",
