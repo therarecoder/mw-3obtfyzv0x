@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T00:39:21.131377-06:00",
- "generated_mt": "Mon Oct 12 2026, 12:39am MT",
+ "generated_at": "2026-10-12T01:39:26.691548-06:00",
+ "generated_mt": "Mon Oct 12 2026, 1:39am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "Micron, SK Hynix Stocks Slip Overnight: China\u2019s CXMT Advances Next-Gen DRAM Technology",
+     "link": "https://stocktwits.com/news-articles/markets/equity/micron-sk-hynix-stocks-slip-overnight-china-s-cxmt-advances-next-gen-dram-technology/cZxIRD4RBFV?.tsrc=rss",
+     "when": "Mon Oct 12, 1:01am MT"
+    },
+    {
      "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
      "link": "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
      "when": "Sun Oct 11, 4:50pm MT"
@@ -47,11 +52,6 @@
      "title": "Prediction: This Is How Much Micron Stock Will Be Worth By the End of 2027",
      "link": "https://www.fool.com/investing/2026/10/11/prediction-this-is-how-much-micron-stock-will-be-worth-by-the-end-of-2027/?.tsrc=rss",
      "when": "Sun Oct 11, 3:30am MT"
-    },
-    {
-     "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
-     "when": "Sat Oct 10, 10:18am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -137,6 +137,11 @@
    "as_of": "Fri Oct 9, 2:00pm MT",
    "news": [
     {
+     "title": "TSLA Stock Climbs Overnight As Cybercab Eyes Dallas \u2014 Musk Recalls When Shorts Had Tesla In \u2018Checkmate\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercab-dallas-musk-shorts-tesla-checkmate/cZxIb3ERBFN?.tsrc=rss",
+     "when": "Mon Oct 12, 12:34am MT"
+    },
+    {
      "title": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tesla-spacex-test-10-chip-designs-a-year-terafab-tsmc-reportedly-eyes-texas/cZx4U7ZRBFW?.tsrc=rss",
      "when": "Sun Oct 11, 10:07pm MT"
@@ -145,11 +150,6 @@
      "title": "SPCX, TSM,  APLD, AMZN, TSLA: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-tsm-apld-amzn-tsla-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZx4HIPRBF9?.tsrc=rss",
      "when": "Sun Oct 11, 8:13pm MT"
-    },
-    {
-     "title": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
-     "link": "https://www.fool.com/investing/2026/10/11/forget-the-recent-delivery-beat-heres-the-key-numb/?.tsrc=rss",
-     "when": "Sun Oct 11, 3:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83887.12,
-   "chg_pct": 0.97062045,
-   "chg": 806.39844,
+   "price": 83924.34,
+   "chg_pct": 1.185499,
+   "chg": 983.2656,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1686289252352,
+   "mcap": 1686196060160,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -423,9 +423,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 83418.74,
-   "day_hi": 84171.29,
-   "as_of": "Mon Oct 12, 12:39am MT",
+   "day_hi": 84230.83,
+   "as_of": "Mon Oct 12, 1:39am MT",
    "news": [
+    {
+     "title": "Bitcoin recovers to near $84k as falling oil prices offer some support",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-near-84k-falling-070856634.html?.tsrc=rss",
+     "when": "Mon Oct 12, 1:08am MT"
+    },
     {
      "title": "Solana ETFs End a 14-Week Buying Streak With Their Largest Weekly Exit",
      "link": "https://beincrypto.com/solana-etf-record-weekly-outflow-xrp/?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher",
      "link": "https://stocktwits.com/news-articles/markets/equity/iren-s-mystery-customer-is-anthropic-fresh-buzz-pushes-stock-higher/cZx4MqjRBFB?.tsrc=rss",
      "when": "Sun Oct 11, 7:57pm MT"
-    },
-    {
-     "title": "Eric Trump Says Crypto Should 'Embrace The Hell' out of AI Boom",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-crypto-embrace-213006984.html?.tsrc=rss",
-     "when": "Sun Oct 11, 3:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -482,16 +482,16 @@
    "as_of": "Fri Oct 9, 12:59pm MT"
   },
   "^VIX": {
-   "price": 14.84,
-   "chg_pct": -3.698895,
-   "chg": -0.5699997,
-   "as_of": "Fri Oct 9, 2:15pm MT"
+   "price": 15.4,
+   "chg_pct": 3.7735813,
+   "chg": 0.55999947,
+   "as_of": "Mon Oct 12, 1:24am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.188,
-   "chg_pct": -0.024452757,
-   "chg": -0.024993896,
-   "as_of": "Mon Oct 12, 12:29am MT"
+   "price": 102.218,
+   "chg_pct": 0.004896523,
+   "chg": 0.005004883,
+   "as_of": "Mon Oct 12, 1:29am MT"
   },
   "^GSPC": {
    "price": 7811.54,
@@ -585,36 +585,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 1019.9,
-   "oracle": 1019.5,
-   "prev": 1034.6,
-   "funding": 8.2001e-06,
-   "oi": 113100.94,
-   "oi_usd": 115351648.706,
-   "vol": 14064005.139399998,
-   "rsi14": 26.22339470009487,
-   "ema20": 1032.5312501055353,
-   "ema50": 1035.2852138593144,
+   "mark": 1020.9,
+   "oracle": 1020.8,
+   "prev": 1032.7,
+   "funding": 1.12743e-05,
+   "oi": 113159.112,
+   "oi_usd": 115524137.4408,
+   "vol": 15226737.3318,
+   "rsi14": 30.641009488128333,
+   "ema20": 1031.294237734588,
+   "ema50": 1034.6321730989484,
    "hi24": 1042.6,
-   "lo24": 1019.1
+   "lo24": 1016.9
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 164.22,
-   "oracle": 164.15,
-   "prev": 163.71,
-   "funding": 1.15482e-05,
-   "oi": 767150.4800000003,
-   "oi_usd": 125981451.82560006,
-   "vol": 10069117.391400004,
-   "rsi14": 52.99349283705853,
-   "ema20": 164.21791867893793,
-   "ema50": 164.0776778952797,
+   "mark": 164.35,
+   "oracle": 164.27,
+   "prev": 163.62,
+   "funding": 6.25e-06,
+   "oi": 767424.44,
+   "oi_usd": 126126206.71399999,
+   "vol": 10246590.237299997,
+   "rsi14": 55.61736636217767,
+   "ema20": 164.22791507485658,
+   "ema50": 164.0904666592504,
    "hi24": 164.96,
-   "lo24": 163.58
+   "lo24": 163.59
   },
   "TSLA": {
    "stale": [
@@ -624,18 +624,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 383.34,
-   "oracle": 383.18,
-   "prev": 382.25,
+   "mark": 384.18,
+   "oracle": 384.06,
+   "prev": 382.57,
    "funding": 6.25e-06,
-   "oi": 113290.026,
-   "oi_usd": 43428598.56683999,
-   "vol": 3542348.2515899995,
-   "rsi14": 47.23202477877395,
-   "ema20": 383.79659207764155,
-   "ema50": 382.9192353262043,
+   "oi": 112796.59,
+   "oi_usd": 43334193.9462,
+   "vol": 3824063.8597199977,
+   "rsi14": 57.00366430757047,
+   "ema20": 383.835693307647,
+   "ema50": 382.9714668224803,
    "hi24": 385.57,
-   "lo24": 382.36
+   "lo24": 382.48
   },
   "LMND": {
    "stale": []
@@ -659,20 +659,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83944.0,
-   "oracle": 83978.1,
-   "prev": 83086.0,
-   "funding": 1.25e-05,
-   "oi": 38219.21442,
-   "oi_usd": 3208273735.2724795,
-   "vol": 1518189036.9023,
-   "rsi14": 60.17973305268254,
-   "ema20": 83634.28424752058,
-   "ema50": 83306.29201229266,
-   "hi24": 84253.0,
+   "mark": 83964.0,
+   "oracle": 83995.7,
+   "prev": 82966.0,
+   "funding": 6.9299e-06,
+   "oi": 38355.82848,
+   "oi_usd": 3220508782.4947195,
+   "vol": 1583995033.2633257,
+   "rsi14": 58.634695925406405,
+   "ema20": 83685.63988444304,
+   "ema50": 83340.08470276644,
+   "hi24": 84315.0,
    "lo24": 82916.0
   },
-  "_at": 1791787165
+  "_at": 1791790771
  },
  "xdrivers": {
   "generated_mt": "Sat Oct 10, 2:49pm MT",
