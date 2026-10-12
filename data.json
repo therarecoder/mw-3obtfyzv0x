@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T09:00:56.393925-06:00",
- "generated_mt": "Mon Oct 12 2026, 9:00am MT",
+ "generated_at": "2026-10-12T09:42:27.162946-06:00",
+ "generated_mt": "Mon Oct 12 2026, 9:42am MT",
  "market_open": true,
  "watchlist": [
   {
@@ -16,44 +16,21 @@
     "Street: D.A. Davidson $3,000 Buy (10/7); consensus ~$1,520-1,630"
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
-   "price": 987.22,
-   "chg_pct": -4.0602555,
-   "chg": -41.78003,
-   "lo52": 186.25,
-   "hi52": 1255.0,
-   "mcap": 1116963602432,
-   "pe": 13.281582,
-   "fpe": 4.784609,
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "lo52": null,
+   "hi52": null,
+   "mcap": null,
+   "pe": null,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 978.5,
-   "day_hi": 1002.67,
-   "next_earnings": "Wed Dec 23, 2026 (est.)",
-   "as_of": "Mon Oct 12, 9:00am MT",
-   "news": [
-    {
-     "title": "Tech slumps as oil prices rise, focus turns to earnings season kickoff: AlphaCheck",
-     "link": "https://finance.yahoo.com/markets/article/tech-slumps-as-oil-prices-rise-focus-turns-to-earnings-season-kickoff-alphacheck-134202547.html?.tsrc=rss",
-     "when": "Mon Oct 12, 7:42am MT"
-    },
-    {
-     "title": "Micron, SK Hynix stocks fall as Chinese memory maker announces progress in new design",
-     "link": "https://finance.yahoo.com/markets/stocks/article/micron-sk-hynix-stocks-fall-as-chinese-memory-maker-announces-progress-in-new-design-123824149.html?.tsrc=rss",
-     "when": "Mon Oct 12, 6:38am MT"
-    },
-    {
-     "title": "Micron Stock Falls On Competition From China Rival CXMT",
-     "link": "https://finance.yahoo.com/m/d5b715bb-ae1b-35b4-9611-e3da67db3ba0/micron-stock-falls-on.html?.tsrc=rss",
-     "when": "Mon Oct 12, 8:44am MT"
-    },
-    {
-     "title": "Memory Stocks Slide as China\u2019s CXMT Flags Denser Chip Design: Micron and SK Hynix Fall 4%, Western Digital Drops 2%",
-     "link": "https://247wallst.com/investing/2026/10/12/memory-stocks-slide-as-chinas-cxmt-flags-denser-chip-design-micron-and-sk-hynix-fall-4-western-digital-drops-2/?.tsrc=rss",
-     "when": "Mon Oct 12, 8:41am MT"
-    }
-   ],
+   "day_lo": null,
+   "day_hi": null,
+   "news": [],
    "yahoo": "https://finance.yahoo.com/quote/MU"
   },
   {
@@ -67,22 +44,20 @@
     "Watch: Starship milestones, lock-up/unlock dates, merger-process filings"
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
-   "price": 164.43,
-   "chg_pct": 1.1441134,
-   "chg": 1.8599854,
+   "price": 163.93,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 104.83,
    "hi52": 225.64,
-   "mcap": 2166231531520,
+   "mcap": null,
    "pe": null,
-   "fpe": 82.66636,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 160.85,
-   "day_hi": 167.065,
-   "next_earnings": "Tue Nov 3, 2026 (est.)",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
      "title": "Cathie Wood Sold SpaceX Stock the Same Day It Dropped Its Spectrum Bombshell",
@@ -90,19 +65,19 @@
      "when": "Mon Oct 12, 8:25am MT"
     },
     {
+     "title": "How SpaceX\u2019s Spectrum Purchase Brings It Closer to a Tesla Merger",
+     "link": "https://finance.yahoo.com/m/3543e013-c44c-36fb-88da-faeb1d7f3b85/how-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
+     "when": "Mon Oct 12, 8:04am MT"
+    },
+    {
+     "title": "T-Mobile Pushes Back After SpaceX Spectrum Deal Triggers Telecom Selloff",
+     "link": "https://finance.yahoo.com/m/02ae2ae9-c1bb-395d-9bde-ffcd7cadb457/t-mobile-pushes-back-after.html?.tsrc=rss",
+     "when": "Mon Oct 12, 7:52am MT"
+    },
+    {
      "title": "Why SpaceX\u2019s Spectrum Purchase Is Good for AST SpaceMobile Stock",
      "link": "https://finance.yahoo.com/m/eb24c6e3-0a69-3810-bed0-cf33c5c97ce0/why-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
      "when": "Mon Oct 12, 7:29am MT"
-    },
-    {
-     "title": "Musk vows affordable Starlink pricing in India ahead of Jio IPO",
-     "link": "https://qz.com/musk-starlink-affordable-pricing-india-jio-ipo-101226?.tsrc=rss",
-     "when": "Mon Oct 12, 7:05am MT"
-    },
-    {
-     "title": "T-Mobile stock worst day since 2013 after SpaceX spectrum deal",
-     "link": "https://qz.com/tmobile-stock-spacex-spectrum-deal-worst-day-101226?.tsrc=rss",
-     "when": "Mon Oct 12, 7:02am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -119,23 +94,26 @@
     "View: merger committee in 2026, deal in 2027, ~$600 on merger + Robotaxi"
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
-   "price": 380.1493,
-   "chg_pct": -0.6665139,
-   "chg": -2.5507202,
+   "price": 378.78,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 297.38,
    "hi52": 498.83,
-   "mcap": 1501417701376,
-   "pe": 351.99008,
-   "fpe": 174.18465,
+   "mcap": null,
+   "pe": null,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 378.54,
-   "day_hi": 382.605,
-   "next_earnings": "Wed Oct 21, 2026",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
+    {
+     "title": "Tesla, General Motors, Other US Automakers Expected to Benefit From Resilient SAAR, RBC Says",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-general-motors-other-us-152008363.html?.tsrc=rss",
+     "when": "Mon Oct 12, 9:20am MT"
+    },
     {
      "title": "Tesla Cybercabs Face Regulatory Probe For Speeding In School Zones",
      "link": "https://finance.yahoo.com/m/e693b5b3-98df-3921-aac9-6213b918f04b/tesla-cybercabs-face.html?.tsrc=rss",
@@ -147,14 +125,9 @@
      "when": "Mon Oct 12, 8:44am MT"
     },
     {
-     "title": "Tesla Robotaxis Accused of Speeding in School Zones As US Weighs New Safety Probe",
-     "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62298185/tesla-robotaxi-speeding-school-zones-probe?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-     "when": "Mon Oct 12, 7:31am MT"
-    },
-    {
-     "title": "Tesla China Electric Vehicle Sales Jump 5% in September as European Rebound Continues",
-     "link": "https://www.tikr.com/blog/tesla-china-ev-sales-september-europe-rebound?ref=yahoofinance&.tsrc=rss",
-     "when": "Mon Oct 12, 7:05am MT"
+     "title": "How SpaceX\u2019s Spectrum Purchase Brings It Closer to a Tesla Merger",
+     "link": "https://finance.yahoo.com/m/3543e013-c44c-36fb-88da-faeb1d7f3b85/how-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
+     "when": "Mon Oct 12, 8:04am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -168,22 +141,20 @@
     "Watch: loss ratio, gross written premium growth, car insurance ramp"
    ],
    "watch": "Price & news",
-   "price": 45.65,
-   "chg_pct": -1.74343,
-   "chg": -0.80999756,
+   "price": 45.09,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 43.28,
    "hi52": 99.9,
-   "mcap": 3533155584,
+   "mcap": null,
    "pe": null,
-   "fpe": -52.471268,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 45.6033,
-   "day_hi": 46.765,
-   "next_earnings": "Wed Nov 4, 2026",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
      "title": "Does Lemonade\u2019s Growth Signal Profits Ahead?",
@@ -218,22 +189,20 @@
     "Watch: origination volume, conversion, guidance"
    ],
    "watch": "Price, yields & news",
-   "price": 24.01,
-   "chg_pct": -0.37344462,
-   "chg": -0.09000015,
+   "price": 24.15,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 22.555,
    "hi52": 55.22,
-   "mcap": 2298034688,
-   "pe": 48.02,
-   "fpe": 6.9074445,
+   "mcap": null,
+   "pe": null,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 23.6607,
-   "day_hi": 24.24,
-   "next_earnings": "Tue Nov 3, 2026",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
      "title": "Upstart Stock Sits About 7% Above Its 52-Week Low as Q3 Originations Top $4.1 Billion. Time to Sell or Load Up?",
@@ -267,22 +236,20 @@
     "Watch: drone-component orders, US defense/drone policy headlines"
    ],
    "watch": "Price & news",
-   "price": 20.22,
-   "chg_pct": -2.9284716,
-   "chg": -0.6100006,
+   "price": 19.64,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 7.245,
    "hi52": 34.926,
-   "mcap": 1010120448,
+   "mcap": null,
    "pe": null,
-   "fpe": -62.536728,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 20.1,
-   "day_hi": 20.805,
-   "next_earnings": "Thu Nov 5, 2026 (est.)",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
      "title": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside",
@@ -316,22 +283,20 @@
     "Watch: B2 cloud storage growth, AI storage demand, net revenue retention"
    ],
    "watch": "Price & news",
-   "price": 12.5,
-   "chg_pct": -1.4972386,
-   "chg": -0.18999958,
+   "price": 12.35,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 3.261,
    "hi52": 23.99,
-   "mcap": 773750016,
+   "mcap": null,
    "pe": null,
-   "fpe": 46.296295,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 12.4671,
-   "day_hi": 12.78,
-   "next_earnings": "Thu Nov 5, 2026 (est.)",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
      "title": "Backblaze Flags Q2 Drive Failure Rise, Sees Outliers Not a Trend",
@@ -366,22 +331,20 @@
     "Watch: ACA subsidy policy, medical loss ratio"
    ],
    "watch": "Price & news",
-   "price": 33.94,
-   "chg_pct": 1.7081202,
-   "chg": 0.5699997,
+   "price": 33.945,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 10.69,
    "hi52": 34.48,
-   "mcap": 10475410432,
-   "pe": 26.310078,
-   "fpe": 15.672982,
+   "mcap": null,
+   "pe": null,
+   "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 33.31,
-   "day_hi": 34.4,
-   "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Mon Oct 12, 9:00am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
      "title": "Oscar Health, Inc. 2026 Third Quarter Earnings Conference Call",
@@ -415,36 +378,40 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82421.82,
-   "chg_pct": -0.68673056,
-   "chg": -569.9297,
+   "price": 82800.49,
+   "chg_pct": null,
+   "chg": null,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1660565585920,
+   "mcap": null,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 82467.39,
-   "day_hi": 84230.83,
-   "as_of": "Mon Oct 12, 7:35am MT",
+   "day_lo": null,
+   "day_hi": null,
    "news": [
     {
-     "title": "IREN jumps on Anthropic multiyear cloud deal",
-     "link": "https://finance.yahoo.com/video/iren-jumps-on-anthropic-multiyear-cloud-deal-135327195.html?.tsrc=rss",
-     "when": "Mon Oct 12, 7:53am MT"
+     "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+     "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops?.tsrc=rss",
+     "when": "Mon Oct 12, 10:41am MT"
     },
     {
-     "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-     "link": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking?.tsrc=rss",
-     "when": "Mon Oct 12, 7:33am MT"
+     "title": "Zcash Is Up 394% in a Year and Still 59% Below a High It Set in 2016. Is That High Closer Than Bitcoin\u2019s?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/12/zcash-is-up-394-in-a-year-and-still-59-below-a-high-it-set-in-2016-is-that-high-closer-than-bitcoins/?.tsrc=rss",
+     "when": "Mon Oct 12, 10:40am MT"
     },
     {
-     "title": "French MPs push exit tax on crypto above \u20ac800,000 and fines for undeclared wallets",
-     "link": "https://www.euronews.com/2026/10/12/french-mps-push-exit-tax-on-crypto-above-800000-and-fines-for-undeclared-wallets?.tsrc=rss",
-     "when": "Mon Oct 12, 7:18am MT"
+     "title": "XRP treasury Evernorth debuts on the Nasdaq: What crypto investors should know",
+     "link": "https://finance.yahoo.com/video/xrp-treasury-evernorth-debuts-nasdaq-163000903.html?.tsrc=rss",
+     "when": "Mon Oct 12, 10:30am MT"
+    },
+    {
+     "title": "Bitcoin's Recovery Sets Up This Limited-Risk Spread",
+     "link": "https://finance.yahoo.com/m/0acfbd1c-ccb6-382f-b78c-0987133dd475/bitcoin%27s-recovery-sets-up.html?.tsrc=rss",
+     "when": "Mon Oct 12, 10:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -452,79 +419,68 @@
  ],
  "macro": {
   "SMH": {
-   "price": 591.74,
-   "chg_pct": -1.9211687,
-   "chg": -11.590027,
-   "as_of": "Mon Oct 12, 9:00am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^TNX": {
-   "price": 5.2400002,
-   "chg_pct": -0.07627212,
-   "chg": -0.00399971,
-   "as_of": "Mon Oct 12, 8:45am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^TYX": {
-   "price": 5.598,
-   "chg_pct": -0.0357117,
-   "chg": -0.001999855,
-   "as_of": "Mon Oct 12, 8:45am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^FVX": {
-   "price": 5.019,
-   "chg_pct": -0.039829817,
-   "chg": -0.001999855,
-   "as_of": "Mon Oct 12, 8:45am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^IRX": {
-   "price": 4.05,
-   "chg_pct": -0.17254053,
-   "chg": -0.0069999695,
-   "as_of": "Mon Oct 12, 8:45am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^VIX": {
-   "price": 15.31,
-   "chg_pct": 3.1671176,
-   "chg": 0.47000027,
-   "as_of": "Mon Oct 12, 8:45am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "DX-Y.NYB": {
-   "price": 102.453,
-   "chg_pct": 0.23480688,
-   "chg": 0.2400055,
-   "as_of": "Mon Oct 12, 8:50am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^GSPC": {
-   "price": 7809.02,
-   "chg_pct": -0.032259926,
-   "chg": -2.5200195,
-   "as_of": "Mon Oct 12, 9:00am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   },
   "^NDX": {
-   "price": 30692.016,
-   "chg_pct": -0.6188993,
-   "chg": -191.13281,
-   "as_of": "Mon Oct 12, 9:00am MT"
+   "price": null,
+   "chg_pct": null,
+   "chg": null,
+   "as_of": null
   }
  },
- "errors": [],
- "treasury": {
-  "date": "10/09/2026",
-  "3 Mo": 4.25,
-  "2 Yr": 4.8,
-  "5 Yr": 5.02,
-  "10 Yr": 5.24,
-  "30 Yr": 5.6,
-  "prev": {
-   "2 Yr": 4.75,
-   "10 Yr": 5.22,
-   "30 Yr": 5.6
-  }
- },
- "tips": {
-  "date": "10/09/2026",
-  "10 YR": 2.91,
-  "prev10": 2.87
- },
+ "errors": [
+  "Yahoo quote API: unavailable",
+  "MU chart: unavailable",
+  "MU news RSS: unavailable",
+  "Treasury nominal curve: unavailable",
+  "Treasury real (TIPS) curve: unavailable",
+  "Hyperliquid snapshot: unavailable"
+ ],
  "watches": {
   "mu": {
    "levels_flagged_up": [],
@@ -534,8 +490,8 @@
     985
    ],
    "bottom_flagged": false,
-   "last_run": "2026-10-12T08:34-06:00",
-   "runs_logged": 3
+   "last_run": "2026-10-12T09:08-06:00",
+   "runs_logged": 4
   },
   "tsla": {
    "polymarket_2026": 14,
@@ -598,102 +554,6 @@
    "window": "2026-09-30T20:00Z (Sep 30 2pm MT) to 2026-10-10T03:55Z",
    "count": 36
   }
- },
- "hl": {
-  "MU": {
-   "stale": [
-    "km:MU",
-    "mkts:MU"
-   ],
-   "market": "xyz:MU",
-   "mark": 987.73,
-   "oracle": 987.23,
-   "prev": 1035.5,
-   "funding": 8.2803e-06,
-   "oi": 114249.408,
-   "oi_usd": 112847567.76384,
-   "vol": 70022402.28999005,
-   "rsi14": 19.754008892303673,
-   "ema20": 1012.9252297159051,
-   "ema50": 1025.204140427263,
-   "hi24": 1042.6,
-   "lo24": 979.29
-  },
-  "SPCX": {
-   "stale": [
-    "vntl:SPACEX"
-   ],
-   "market": "xyz:SPCX",
-   "mark": 164.47,
-   "oracle": 164.45,
-   "prev": 163.99,
-   "funding": 6.25e-06,
-   "oi": 761172.4000000003,
-   "oi_usd": 125190024.62800004,
-   "vol": 60509212.77639999,
-   "rsi14": 52.216868153712014,
-   "ema20": 164.36840205125935,
-   "ema50": 164.1859899414299,
-   "hi24": 166.96,
-   "lo24": 160.96
-  },
-  "TSLA": {
-   "stale": [
-    "flx:TSLA",
-    "km:TSLA",
-    "cash:TSLA",
-    "mkts:TSLA"
-   ],
-   "market": "xyz:TSLA",
-   "mark": 380.14,
-   "oracle": 380.14,
-   "prev": 382.81,
-   "funding": 6.25e-06,
-   "oi": 108428.238,
-   "oi_usd": 41217910.393319994,
-   "vol": 11748614.16605,
-   "rsi14": 29.500766314918053,
-   "ema20": 382.5197477931138,
-   "ema50": 382.5747092351911,
-   "hi24": 385.57,
-   "lo24": 378.64
-  },
-  "LMND": {
-   "stale": []
-  },
-  "UPST": {
-   "stale": []
-  },
-  "UMAC": {
-   "stale": []
-  },
-  "BLZE": {
-   "stale": []
-  },
-  "OSCR": {
-   "stale": []
-  },
-  "BTC-USD": {
-   "stale": [
-    "flx:BTC",
-    "hyna:BTC",
-    "cash:BTC"
-   ],
-   "market": "BTC",
-   "mark": 82616.0,
-   "oracle": 82651.5,
-   "prev": 83087.0,
-   "funding": 1.25e-05,
-   "oi": 38215.90682,
-   "oi_usd": 3157245357.84112,
-   "vol": 2375100855.14478,
-   "rsi14": 36.21714500160249,
-   "ema20": 83309.70182383353,
-   "ema50": 83257.25251051935,
-   "hi24": 84315.0,
-   "lo24": 82365.0
-  },
-  "_at": 1791817262
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 8:01am MT",
