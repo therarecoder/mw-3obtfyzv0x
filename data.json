@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T00:34:17.111370-06:00",
- "generated_mt": "Tue Oct 13 2026, 12:34am MT",
+ "generated_at": "2026-10-13T01:38:33.175567-06:00",
+ "generated_mt": "Tue Oct 13 2026, 1:38am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -90,19 +90,19 @@
      "when": "Mon Oct 12, 11:55am MT"
     },
     {
-     "title": "Which AI stocks' valuations are outrunning reality?",
-     "link": "https://finance.yahoo.com/video/which-ai-stocks-valuations-are-outrunning-reality-174639413.html?.tsrc=rss",
-     "when": "Mon Oct 12, 11:46am MT"
+     "title": "SPCX Stock Slips Overnight: Analysts See T-Mobile and Verizon Holding The Edge In Starlink\u2019s Wireless Push",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analysts-tmobile-verizon-edge-starlink-wireless-push/cZxBJpbRBoB?.tsrc=rss",
+     "when": "Tue Oct 13, 1:27am MT"
+    },
+    {
+     "title": "ASTS Stock Faces Starlink Threat: Analyst Says Musk Could Pair Ligado, Viasat And FCC Spectrum For \u2018Massive\u2019 Midband Block",
+     "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-starlink-threat-analyst-musk-pair-ligado-viasat-fcc-spectrum-massive-midband-block/cZxBeWPRBo7?.tsrc=rss",
+     "when": "Tue Oct 13, 12:38am MT"
     },
     {
      "title": "Is SpaceX Stock Cheap? 1 Wall Street Analyst Thinks So.",
      "link": "https://www.fool.com/investing/2026/10/13/is-spacex-stock-cheap-1-wall-street-analyst-thinks/?.tsrc=rss",
      "when": "Mon Oct 12, 10:20pm MT"
-    },
-    {
-     "title": "SPCX Stock Extends 2-Day Green Run As Elon Musk Calls SpaceX An 'Anomaly In The Matrix' Amid China\u2019s RAM Push",
-     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-elon-musk-spacex-anomaly-matrix-china-ram-push/cZxB2m4RB8y?.tsrc=rss",
-     "when": "Mon Oct 12, 9:37pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83594.32,
-   "chg_pct": -0.63081354,
-   "chg": -530.6719,
+   "price": 83899.63,
+   "chg_pct": -0.00483255,
+   "chg": -4.0546875,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1679632105472,
+   "mcap": 1682494717952,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,8 +428,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 81197.99,
-   "day_hi": 83679.484,
-   "as_of": "Tue Oct 13, 12:34am MT",
+   "day_hi": 83716.62,
+   "as_of": "Tue Oct 13, 1:38am MT",
    "news": [
     {
      "title": "Their Entire $600K Net Worth Is Riding On Bitcoin. She Wants To Sell To Pay Off The Mortgage. He Thinks It's Going Much Higher. Is He Greedy?",
@@ -487,16 +487,16 @@
    "as_of": "Mon Oct 12, 12:59pm MT"
   },
   "^VIX": {
-   "price": 15.21,
-   "chg_pct": 2.4932606,
-   "chg": 0.3699999,
-   "as_of": "Mon Oct 12, 2:15pm MT"
+   "price": 15.59,
+   "chg_pct": 2.498357,
+   "chg": 0.3800001,
+   "as_of": "Tue Oct 13, 1:23am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.425,
-   "chg_pct": -0.15985675,
-   "chg": -0.16399384,
-   "as_of": "Tue Oct 13, 12:24am MT"
+   "price": 102.301,
+   "chg_pct": -0.28072637,
+   "chg": -0.28799438,
+   "as_of": "Tue Oct 13, 1:28am MT"
   },
   "^GSPC": {
    "price": 7807.24,
@@ -618,34 +618,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 958.97,
-   "oracle": 958.55,
-   "prev": 1020.7,
-   "funding": 1.52369e-05,
-   "oi": 122059.098,
-   "oi_usd": 117051013.20906,
-   "vol": 128332683.08282998,
-   "rsi14": 25.495718339472504,
-   "ema20": 979.073922321331,
-   "ema50": 1001.430225097334,
-   "hi24": 1021.4,
-   "lo24": 953.0
+   "mark": 953.57,
+   "oracle": 952.92,
+   "prev": 1020.6,
+   "funding": 3.22841e-05,
+   "oi": 127887.018,
+   "oi_usd": 121949223.75426,
+   "vol": 135858112.60221034,
+   "rsi14": 23.30929505300439,
+   "ema20": 976.3140605130525,
+   "ema50": 999.3620491950383,
+   "hi24": 1020.2,
+   "lo24": 950.58
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 162.53,
-   "oracle": 162.48,
-   "prev": 164.28,
-   "funding": 1.14263e-05,
-   "oi": 769273.82,
-   "oi_usd": 125030073.9646,
-   "vol": 81342235.6709,
-   "rsi14": 42.73524251486489,
-   "ema20": 163.0653736244105,
-   "ema50": 163.5530625094873,
+   "mark": 162.63,
+   "oracle": 162.57,
+   "prev": 164.32,
+   "funding": 6.25e-06,
+   "oi": 769615.3600000001,
+   "oi_usd": 125162545.99680002,
+   "vol": 81336173.79270002,
+   "rsi14": 43.45276248234387,
+   "ema20": 163.03511161398285,
+   "ema50": 163.52223621291995,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -657,18 +657,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 374.27,
-   "oracle": 374.09,
-   "prev": 383.34,
-   "funding": 1.16887e-05,
-   "oi": 109531.166,
-   "oi_usd": 40994229.49882,
-   "vol": 18554880.797819987,
-   "rsi14": 26.149305120714303,
-   "ema20": 377.3623392128913,
-   "ema50": 379.7365485945204,
+   "mark": 374.63,
+   "oracle": 374.46,
+   "prev": 384.19,
+   "funding": 6.25e-06,
+   "oi": 109488.052,
+   "oi_usd": 41017508.92076,
+   "vol": 18493179.014639985,
+   "rsi14": 27.30669516292275,
+   "ema20": 377.15553953137123,
+   "ema50": 379.55830870114755,
    "hi24": 384.44,
-   "lo24": 374.12
+   "lo24": 374.11
   },
   "LMND": {
    "stale": []
@@ -692,20 +692,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83656.0,
-   "oracle": 83694.3,
-   "prev": 83741.0,
-   "funding": 6.6808e-06,
-   "oi": 37997.9769,
-   "oi_usd": 3178758755.5464,
-   "vol": 3145271066.6755095,
-   "rsi14": 59.11598344629403,
-   "ema20": 82961.97177962333,
-   "ema50": 83029.97181711318,
-   "hi24": 84315.0,
+   "mark": 83978.0,
+   "oracle": 84023.0,
+   "prev": 83935.0,
+   "funding": -2.6054e-06,
+   "oi": 38260.27738,
+   "oi_usd": 3213021573.81764,
+   "vol": 3146558411.5480566,
+   "rsi14": 62.250801135831615,
+   "ema20": 83065.01370949138,
+   "ema50": 83070.8701445665,
+   "hi24": 83990.0,
    "lo24": 81000.0
   },
-  "_at": 1791873261
+  "_at": 1791877117
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 3:04pm MT",
