@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T03:38:44.956016-06:00",
- "generated_mt": "Tue Oct 13 2026, 3:38am MT",
+ "generated_at": "2026-10-13T04:44:40.504805-06:00",
+ "generated_mt": "Tue Oct 13 2026, 4:44am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,12 +22,12 @@
    "lo52": 186.25,
    "hi52": 1255.0,
    "mcap": 1119022743552,
-   "pe": 12.789861,
+   "pe": 13.3060665,
    "fpe": 4.79343,
    "post": null,
    "post_pct": null,
-   "pre": 963.17,
-   "pre_pct": -2.6156673,
+   "pre": 958.0,
+   "pre_pct": -3.1383946,
    "day_lo": 978.5,
    "day_hi": 1002.67,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -39,19 +39,19 @@
      "when": "Mon Oct 12, 9:26pm MT"
     },
     {
+     "title": "Premarket Movers: MU, ASTS, ADBE Slide As China Chip Threat And Analyst Downgrades Rattle Stocks",
+     "link": "https://stocktwits.com/news-articles/markets/equity/premarket-movers-mu-asts-adbe-slide-as-china-chip-threat-and-analyst-downgrades-rattle-stocks/cZxBgdyRBoS?.tsrc=rss",
+     "when": "Tue Oct 13, 4:13am MT"
+    },
+    {
+     "title": "Micron Fell Nearly 4% in a Day as China\u2019s CXMT Targeted Server Memory. Here\u2019s Why the Threat Aims at Micron\u2019s Best Margins",
+     "link": "https://www.tikr.com/blog/micron-fell-nearly-4-in-a-day-as-chinas-cxmt-targeted-server-memory-heres-why-the-threat-aims-at-microns-best-margins?ref=yahoofinance&.tsrc=rss",
+     "when": "Tue Oct 13, 4:08am MT"
+    },
+    {
      "title": "History Says Micron Stock Saves Its Biggest Gains for the Fourth Quarter. This Year, Its Outlook Points the Same Way.",
      "link": "https://www.fool.com/investing/2026/10/13/history-says-micron-stock-saves-its-biggest-gains-for-the-fourth-quarter-this-year-its-outlook-points-the-same-way/?.tsrc=rss",
      "when": "Tue Oct 13, 2:07am MT"
-    },
-    {
-     "title": "Wall Street\u2019s Biggest Micron Bull Just Raised Its Target Again. It Now Sees the Stock Nearly Tripling",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-micron-bull-212054647.html?.tsrc=rss",
-     "when": "Mon Oct 12, 9:20pm MT"
-    },
-    {
-     "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
-     "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
-     "when": "Mon Oct 12, 9:03pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -77,17 +77,17 @@
    "fpe": 82.158585,
    "post": null,
    "post_pct": null,
-   "pre": 163.5113,
-   "pre_pct": 0.055873573,
+   "pre": 162.96,
+   "pre_pct": -0.28147808,
    "day_lo": 160.85,
    "day_hi": 167.065,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
    "as_of": "Mon Oct 12, 2:00pm MT",
    "news": [
     {
-     "title": "SpaceX's Starlink could pose 3 big risks to Apple, BofA warns",
-     "link": "https://finance.yahoo.com/technology/article/spacexs-starlink-could-pose-3-big-risks-to-apple-bofa-warns-175500290.html?.tsrc=rss",
-     "when": "Mon Oct 12, 11:55am MT"
+     "title": "Elon Musk says SpaceX could surpass the $126 trillion global economy \u2014 here's why experts call it untestable",
+     "link": "https://finance.yahoo.com/economy/articles/elon-musk-says-spacex-could-093000469.html?.tsrc=rss",
+     "when": "Tue Oct 13, 3:30am MT"
     },
     {
      "title": "Nasdaq Futures Sink, Dow Rises Premarket As AI Chip Stocks Wobble Ahead Of Big Bank Earnings: MU, SNDK, NVTS, NVDA, SPCX, ASTS, UNH, V Stocks In Focus",
@@ -129,13 +129,18 @@
    "fpe": 173.2136,
    "post": null,
    "post_pct": null,
-   "pre": 374.1,
-   "pre_pct": -1.0395981,
+   "pre": 374.61,
+   "pre_pct": -0.90469366,
    "day_lo": 377.58,
    "day_hi": 382.605,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Mon Oct 12, 2:00pm MT",
    "news": [
+    {
+     "title": "Cybertruck Deliveries Look Dismal Again, After Truck Called \u201cBiggest Flop In Automotive History\u201d",
+     "link": "https://247wallst.com/investing/2026/10/13/cybertruck-deliveries-look-dismal-again-after-truck-called-biggest-flop-in-automotive-history/?.tsrc=rss",
+     "when": "Tue Oct 13, 3:42am MT"
+    },
     {
      "title": "Should You Sell Tesla? I Sold 1 Other Winner Too Early. Here's What I Learned.",
      "link": "https://www.fool.com/investing/2026/10/13/should-you-sell-tesla-i-sold-1-other-obvious-winne/?.tsrc=rss",
@@ -150,11 +155,6 @@
      "title": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-monday-174008437.html?.tsrc=rss",
      "when": "Mon Oct 12, 11:40am MT"
-    },
-    {
-     "title": "Tesla, General Motors, Other US Automakers Expected to Benefit From Resilient SAAR, RBC Says",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-general-motors-other-us-152008363.html?.tsrc=rss",
-     "when": "Mon Oct 12, 9:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -180,7 +180,7 @@
    "post_pct": null,
    "pre": 45.45,
    "pre_pct": 0.6644501,
-   "day_lo": 45.0,
+   "day_lo": 44.9,
    "day_hi": 46.765,
    "next_earnings": "Wed Nov 4, 2026",
    "as_of": "Mon Oct 12, 2:00pm MT",
@@ -228,8 +228,8 @@
    "fpe": 6.832645,
    "post": null,
    "post_pct": null,
-   "pre": 23.648,
-   "pre_pct": -0.42947066,
+   "pre": 23.81,
+   "pre_pct": 0.25262934,
    "day_lo": 23.6607,
    "day_hi": 24.24,
    "next_earnings": "Tue Nov 3, 2026",
@@ -277,8 +277,8 @@
    "fpe": -60.742897,
    "post": null,
    "post_pct": null,
-   "pre": 19.7,
-   "pre_pct": 0.05130203,
+   "pre": 19.65,
+   "pre_pct": 0.050917663,
    "day_lo": 19.5,
    "day_hi": 20.805,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -372,12 +372,12 @@
    "lo52": 10.69,
    "hi52": 34.48,
    "mcap": 10497015808,
-   "pe": 26.779526,
+   "pe": 26.36434,
    "fpe": 15.313334,
    "post": null,
    "post_pct": null,
-   "pre": 34.1,
-   "pre_pct": 0.2646285,
+   "pre": 33.51,
+   "pre_pct": -1.4411814,
    "day_lo": 33.23,
    "day_hi": 34.4,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83509.01,
-   "chg_pct": 0.054711517,
-   "chg": 45.664062,
+   "price": 83163.52,
+   "chg_pct": -0.3059209,
+   "chg": -255.19531,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1676017926144,
+   "mcap": 1673322954752,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,27 +429,27 @@
    "pre_pct": null,
    "day_lo": 81197.99,
    "day_hi": 84059.52,
-   "as_of": "Tue Oct 13, 3:38am MT",
+   "as_of": "Tue Oct 13, 4:44am MT",
    "news": [
+    {
+     "title": "Bitcoin Briefly Tops $84,000 Amid Asian Stock Market Bloodbath: What\u2019s Next?",
+     "link": "https://beincrypto.com/bitcoin-holds-key-level-as-asian-stocks-slide/?.tsrc=rss",
+     "when": "Tue Oct 13, 3:53am MT"
+    },
+    {
+     "title": "4chan Anon Nailed the 2019 Bottom, the 2021 Top, and the Halving Run \u2014 Now He\u2019s Posting Again",
+     "link": "https://www.ccn.com/news/crypto/4chan-bitcoin-predictor-returns-fact-check/?.tsrc=rss",
+     "when": "Tue Oct 13, 3:24am MT"
+    },
+    {
+     "title": "New Strong Sell Stocks for October 13th",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-october-13th-091900878.html?.tsrc=rss",
+     "when": "Tue Oct 13, 3:19am MT"
+    },
     {
      "title": "Options Traders Are Back at 2021 Levels: Will Bitcoin Repeat That Year's Doubling?",
      "link": "https://beincrypto.com/options-traders-2021-levels-bitcoin-doubling/?.tsrc=rss",
      "when": "Tue Oct 13, 2:56am MT"
-    },
-    {
-     "title": "The Whale Behind $29.75 Million in Wins Just Went Long on Ethereum",
-     "link": "https://beincrypto.com/hyperliquid-whale-goes-long-ethereum/?.tsrc=rss",
-     "when": "Tue Oct 13, 1:51am MT"
-    },
-    {
-     "title": "Binance Pool Closure Requires Miners to Change Endpoints",
-     "link": "https://cryptonews.com/news/binance-pool-closure/?.tsrc=rss",
-     "when": "Tue Oct 13, 1:43am MT"
-    },
-    {
-     "title": "Cleveland Fed President Wants Small, Quick Rate Moves. What It Means for Bitcoin",
-     "link": "https://beincrypto.com/hammack-fed-hike-bitcoin-october-q4-season/?.tsrc=rss",
-     "when": "Tue Oct 13, 12:21am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +487,16 @@
    "as_of": "Mon Oct 12, 12:59pm MT"
   },
   "^VIX": {
-   "price": 15.39,
-   "chg_pct": 1.1842126,
-   "chg": 0.1800003,
-   "as_of": "Tue Oct 13, 3:23am MT"
+   "price": 15.43,
+   "chg_pct": 1.4464185,
+   "chg": 0.22000027,
+   "as_of": "Tue Oct 13, 4:29am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.355,
-   "chg_pct": -0.22809279,
-   "chg": -0.23399353,
-   "as_of": "Tue Oct 13, 3:28am MT"
+   "price": 102.305,
+   "chg_pct": -0.27682677,
+   "chg": -0.28399658,
+   "as_of": "Tue Oct 13, 4:34am MT"
   },
   "^GSPC": {
    "price": 7807.24,
@@ -618,16 +618,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 963.87,
-   "oracle": 963.48,
-   "prev": 1007.4,
-   "funding": 6.25e-06,
-   "oi": 126007.5739999999,
-   "oi_usd": 121454920.35137992,
-   "vol": 144176451.10777995,
-   "rsi14": 35.045009679912354,
-   "ema20": 974.3352367824041,
-   "ema50": 996.7825173587132,
+   "mark": 958.28,
+   "oracle": 958.01,
+   "prev": 1010.6,
+   "funding": 7.397e-06,
+   "oi": 125810.99,
+   "oi_usd": 120562155.4972,
+   "vol": 146300797.67467993,
+   "rsi14": 32.02639511619007,
+   "ema20": 972.6957818970066,
+   "ema50": 995.1606042941027,
    "hi24": 1012.1,
    "lo24": 950.58
   },
@@ -636,16 +636,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.51,
-   "oracle": 163.51,
-   "prev": 163.66,
+   "mark": 162.97,
+   "oracle": 162.97,
+   "prev": 163.5,
    "funding": 6.25e-06,
-   "oi": 763133.16,
-   "oi_usd": 124779902.99159999,
-   "vol": 81974819.34969997,
-   "rsi14": 52.88979308023347,
-   "ema20": 163.11556693317914,
-   "ema50": 163.5224950288937,
+   "oi": 761247.6400000002,
+   "oi_usd": 124060527.89080004,
+   "vol": 82852550.99729994,
+   "rsi14": 47.23588086513973,
+   "ema20": 163.09126795366265,
+   "ema50": 163.4896542010231,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -657,16 +657,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 374.32,
-   "oracle": 374.17,
-   "prev": 382.47,
+   "mark": 374.85,
+   "oracle": 374.85,
+   "prev": 382.73,
    "funding": 6.25e-06,
-   "oi": 106360.746,
-   "oi_usd": 39812954.442719996,
-   "vol": 21370863.14746,
-   "rsi14": 28.556878200715417,
-   "ema20": 376.7639558775944,
-   "ema50": 379.20482571336026,
+   "oi": 106269.946,
+   "oi_usd": 39835289.2581,
+   "vol": 22068388.94806998,
+   "rsi14": 33.777307286240315,
+   "ema20": 376.5590843231047,
+   "ema50": 379.01703046865845,
    "hi24": 383.46,
    "lo24": 373.76
   },
@@ -692,20 +692,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83584.0,
-   "oracle": 83622.2,
-   "prev": 83345.0,
-   "funding": 4.4027e-06,
-   "oi": 38628.48002,
-   "oi_usd": 3228722873.99168,
-   "vol": 3255761082.8176017,
-   "rsi14": 56.844198808586924,
-   "ema20": 83142.62992388921,
-   "ema50": 83103.73563078212,
+   "mark": 83219.0,
+   "oracle": 83260.4,
+   "prev": 83490.0,
+   "funding": 1.7242e-06,
+   "oi": 38585.39866,
+   "oi_usd": 3211038291.0865397,
+   "vol": 3225392801.6847334,
+   "rsi14": 51.29377358204245,
+   "ema20": 83149.81490071316,
+   "ema50": 83105.06524554438,
    "hi24": 84133.0,
    "lo24": 81000.0
   },
-  "_at": 1791884329
+  "_at": 1791888284
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 3:04pm MT",
