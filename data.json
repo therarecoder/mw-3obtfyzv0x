@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T16:18:21.532015-06:00",
- "generated_mt": "Tue Oct 13 2026, 4:18pm MT",
+ "generated_at": "2026-10-13T17:20:18.539581-06:00",
+ "generated_mt": "Tue Oct 13 2026, 5:20pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1078461333504,
    "pe": 12.823759,
    "fpe": 4.619681,
-   "post": 955.1,
-   "post_pct": 0.20037696,
+   "post": 955.65,
+   "post_pct": 0.25808308,
    "pre": null,
    "pre_pct": null,
    "day_lo": 929.03,
@@ -33,11 +33,6 @@
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
-    {
-     "title": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
-     "link": "https://finance.yahoo.com/m/02b2fe19-36e5-3f96-ac0e-2dc2cf84ceb1/dow-jones-futures%3A-stock.html?.tsrc=rss",
-     "when": "Tue Oct 13, 3:58pm MT"
-    },
     {
      "title": "Micron Just Raised Its Buyback Authorization to $35 Billion. Prediction: It Spends More Buying Back Stock in the Next Year Than in the Past 8 Combined.",
      "link": "https://www.fool.com/investing/2026/10/13/micron-just-raised-its-buyback-authorization-to-usd35-billion-prediction-it-spends-more-buying-back-stock-in-the-next-year-than-in-the-past-8-combined/?.tsrc=rss",
@@ -52,6 +47,11 @@
      "title": "Stocks Struggle Ahead of September CPI Report: Stock Market Today",
      "link": "https://www.kiplinger.com/investing/stocks/stocks-struggle-ahead-of-september-cpi-report-stock-market-today?.tsrc=rss",
      "when": "Tue Oct 13, 2:08pm MT"
+    },
+    {
+     "title": "China's CXMT Sparked a Global Chip Stock Rout. Why Samsung, Micron and SK Hynix Are Tumbling.",
+     "link": "https://www.ibtimes.com/chinas-cxmt-sparked-global-chip-stock-rout-why-samsung-micron-sk-hynix-are-tumbling-3808543?.tsrc=rss",
+     "when": "Tue Oct 13, 1:41pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,8 +75,8 @@
    "mcap": 2062287110144,
    "pe": null,
    "fpe": 78.6997,
-   "post": 156.91,
-   "post_pct": 0.23636796,
+   "post": 157.0,
+   "post_pct": 0.29385892,
    "pre": null,
    "pre_pct": null,
    "day_lo": 156.11,
@@ -122,8 +122,8 @@
    "mcap": 1481988767744,
    "pe": 347.43518,
    "fpe": 171.93063,
-   "post": 374.6666,
-   "post_pct": -0.15015204,
+   "post": 374.8405,
+   "post_pct": -0.10380189,
    "pre": null,
    "pre_pct": null,
    "day_lo": 371.3,
@@ -131,6 +131,11 @@
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
+    {
+     "title": "Tesla Robotaxi Fleet in Austin Soars 8x in a Month While Elon Musk Admits TSLA Is Still Working on Not Running Over Cats",
+     "link": "https://finance.yahoo.com/technology/ai/articles/tesla-robotaxi-fleet-austin-soars-213024117.html?.tsrc=rss",
+     "when": "Tue Oct 13, 3:30pm MT"
+    },
     {
      "title": "Tesla target lowered by analysts worried about runaway $25 billion spending",
      "link": "https://www.thestreet.com/investing/stocks/tesla-target-lowered-by-analysts-worried-about-runaway-25-billion-spending?.tsrc=rss",
@@ -144,11 +149,6 @@
     {
      "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets",
      "link": "https://finance.yahoo.com/energy/articles/electric-trucks-reality-tesla-semi-143552440.html?.tsrc=rss",
-     "when": "Tue Oct 13, 8:35am MT"
-    },
-    {
-     "title": "The First Pure-Play Humanoid Robot Stock Is About to Go Public. Here's What Investors Need to Know About Agility Robotics.",
-     "link": "https://www.fool.com/investing/2026/10/13/the-first-pure-play-humanoid-robot-stock-is-about/?.tsrc=rss",
      "when": "Tue Oct 13, 8:35am MT"
     }
    ],
@@ -171,8 +171,8 @@
    "mcap": 3460402688,
    "pe": null,
    "fpe": -51.390804,
-   "post": 44.71,
-   "post_pct": 0.0,
+   "post": 44.97,
+   "post_pct": 0.58153015,
    "pre": null,
    "pre_pct": null,
    "day_lo": 44.4,
@@ -221,8 +221,8 @@
    "mcap": 2280806656,
    "pe": 47.66,
    "fpe": 6.85566,
-   "post": 23.85,
-   "post_pct": 0.08392974,
+   "post": 23.8,
+   "post_pct": -0.12589462,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.305,
@@ -270,8 +270,8 @@
    "mcap": 971154496,
    "pe": null,
    "fpe": -60.124336,
-   "post": 19.6931,
-   "post_pct": 1.3019518,
+   "post": 19.6,
+   "post_pct": 0.8230445,
    "pre": null,
    "pre_pct": null,
    "day_lo": 18.43,
@@ -369,8 +369,8 @@
    "mcap": 10429114368,
    "pe": 26.1938,
    "fpe": 15.214278,
-   "post": 33.79,
-   "post_pct": 0.0,
+   "post": 33.749,
+   "post_pct": -0.121338755,
    "pre": null,
    "pre_pct": null,
    "day_lo": 33.3579,
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83343.59,
-   "chg_pct": 1.5745223,
-   "chg": 1291.9219,
+   "price": 83150.8,
+   "chg_pct": 1.7314308,
+   "chg": 1415.1953,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1675269373952,
+   "mcap": 1672875343872,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,8 +424,18 @@
    "pre_pct": null,
    "day_lo": 81197.99,
    "day_hi": 84059.52,
-   "as_of": "Tue Oct 13, 4:18pm MT",
+   "as_of": "Tue Oct 13, 5:20pm MT",
    "news": [
+    {
+     "title": "Wall Street prices HIVE like a Bitcoin miner, but analysts are missing the AI business",
+     "link": "https://www.thestreet.com/crypto/innovation/wall-street-prices-hive-like-a-bitcoin-miner-but-analysts-are-missing-the-ai-business-?.tsrc=rss",
+     "when": "Tue Oct 13, 4:19pm MT"
+    },
+    {
+     "title": "Strategy (MSTR) Stock Still Looks Like A Bargain Despite Its 354% Run",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-stock-still-looks-221412970.html?.tsrc=rss",
+     "when": "Tue Oct 13, 4:14pm MT"
+    },
     {
      "title": "Stock Market Today, Oct. 13: Cipher Digital Drops 13% on $850M Convertible Note Offering",
      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-cipher-digital-drops-13-on-usd850m-convertible-note-offering/?.tsrc=rss",
@@ -435,16 +445,6 @@
      "title": "BitFuFu September Bitcoin Output Slips to 167 BTC, Holdings Edge Up to 1,388",
      "link": "https://www.cryptoprowl.com/releases/bitfufu-september-bitcoin-output-slips-to-167-btc-holdings-edge-up-to-1388-7303?.tsrc=rss",
      "when": "Tue Oct 13, 4:01pm MT"
-    },
-    {
-     "title": "Analyst spots an eerie repeat for gold's biggest rival",
-     "link": "https://www.thestreet.com/crypto/markets/analyst-spots-an-eerie-repeat-for-golds-biggest-rival?.tsrc=rss",
-     "when": "Tue Oct 13, 2:16pm MT"
-    },
-    {
-     "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-     "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool?.tsrc=rss",
-     "when": "Tue Oct 13, 2:16pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,16 +488,16 @@
    "as_of": "Tue Oct 13, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.215,
-   "chg_pct": -0.36456203,
-   "chg": -0.37400055,
-   "as_of": "Tue Oct 13, 4:04pm MT"
+   "price": 102.58,
+   "chg_pct": 0.3620025,
+   "chg": 0.37000275,
+   "as_of": "Sun Oct 11, 9:59pm MT"
   },
   "^GSPC": {
-   "price": 7805.45,
-   "chg_pct": -0.022927936,
-   "chg": -1.7900391,
-   "as_of": "Tue Oct 13, 2:33pm MT"
+   "price": 7807.24,
+   "chg_pct": -0.055044264,
+   "chg": -4.2998047,
+   "as_of": "Mon Oct 12, 2:00pm MT"
   },
   "^NDX": {
    "price": 30569.48,
@@ -616,17 +616,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 955.52,
-   "oracle": 955.3,
-   "prev": 983.95,
+   "mark": 955.55,
+   "oracle": 955.5,
+   "prev": 977.76,
    "funding": 6.25e-06,
-   "oi": 135989.362,
-   "oi_usd": 129940555.17823999,
-   "vol": 170365714.75738004,
-   "rsi14": 45.97327147730149,
-   "ema20": 954.6392635938766,
-   "ema50": 976.1655375867731,
-   "hi24": 981.87,
+   "oi": 136407.582,
+   "oi_usd": 130344264.98009999,
+   "vol": 174473782.0861899,
+   "rsi14": 46.04177892156802,
+   "ema20": 955.0022628611777,
+   "ema50": 975.4508797804323,
+   "hi24": 979.29,
    "lo24": 930.0
   },
   "SPCX": {
@@ -634,16 +634,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 156.98,
-   "oracle": 156.91,
-   "prev": 163.59,
-   "funding": 1.01072e-05,
-   "oi": 800226.6399999998,
-   "oi_usd": 125619577.94719996,
-   "vol": 67706190.47159986,
-   "rsi14": 27.218907491001772,
-   "ema20": 159.2561841344911,
-   "ema50": 161.3365821965521,
+   "mark": 157.06,
+   "oracle": 157.0,
+   "prev": 162.83,
+   "funding": 6.25e-06,
+   "oi": 801223.06,
+   "oi_usd": 125840093.80360001,
+   "vol": 66181583.831599995,
+   "rsi14": 28.28968809020374,
+   "ema20": 159.07169307130198,
+   "ema50": 161.1768284879428,
    "hi24": 163.65,
    "lo24": 156.23
   },
@@ -655,17 +655,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 374.75,
-   "oracle": 374.7,
-   "prev": 378.09,
+   "mark": 374.91,
+   "oracle": 374.91,
+   "prev": 377.02,
    "funding": 6.25e-06,
-   "oi": 105920.54,
-   "oi_usd": 39693722.364999995,
-   "vol": 24512307.91237999,
-   "rsi14": 42.90697979319104,
-   "ema20": 375.39912593391506,
-   "ema50": 377.4590182959088,
-   "hi24": 377.58,
+   "oi": 105862.606,
+   "oi_usd": 39688949.61546,
+   "vol": 23327510.650899995,
+   "rsi14": 43.63484331060154,
+   "ema20": 375.385331242028,
+   "ema50": 377.3730595975062,
+   "hi24": 377.08,
    "lo24": 371.47
   },
   "LMND": {
@@ -690,20 +690,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83375.3,
-   "oracle": 83410.1,
-   "prev": 82680.0,
-   "funding": 1.25e-05,
-   "oi": 38526.74274,
-   "oi_usd": 3212178733.970322,
-   "vol": 3031949146.2806764,
-   "rsi14": 52.862079688159184,
-   "ema20": 83277.86922436931,
-   "ema50": 83186.93595290076,
+   "mark": 83178.0,
+   "oracle": 83219.6,
+   "prev": 82005.0,
+   "funding": 6.383e-06,
+   "oi": 38127.27756,
+   "oi_usd": 3171350692.88568,
+   "vol": 2851117052.2460685,
+   "rsi14": 48.62231595254868,
+   "ema20": 83279.3729281427,
+   "ema50": 83190.21342013155,
    "hi24": 84133.0,
    "lo24": 81000.0
   },
-  "_at": 1791929905
+  "_at": 1791933624
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
