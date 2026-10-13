@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T17:31:06.856433-06:00",
- "generated_mt": "Mon Oct 12 2026, 5:31pm MT",
+ "generated_at": "2026-10-12T18:31:12.346069-06:00",
+ "generated_mt": "Mon Oct 12 2026, 6:31pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -17,15 +17,15 @@
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
    "price": 989.04,
-   "chg_pct": -3.8833842,
-   "chg": -39.960022,
+   "chg_pct": -3.88338,
+   "chg": -39.96,
    "lo52": 186.25,
    "hi52": 1255.0,
    "mcap": 1119022743552,
    "pe": 13.3060665,
    "fpe": 4.79343,
-   "post": 976.3,
-   "post_pct": -1.2881168,
+   "post": 975.2,
+   "post_pct": -1.3993334,
    "pre": null,
    "pre_pct": null,
    "day_lo": 978.5,
@@ -33,6 +33,11 @@
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Mon Oct 12, 2:00pm MT",
    "news": [
+    {
+     "title": "35.16 Billion Reasons Micron Stock Is Headed to $3,000",
+     "link": "https://www.fool.com/investing/2026/10/12/3516-billion-reasons-micron-stock-is-headed-to-300/?.tsrc=rss",
+     "when": "Mon Oct 12, 6:20pm MT"
+    },
     {
      "title": "Wall Street\u2019s Biggest Micron Bull Just Raised Its Target Again. It Now Sees the Stock Nearly Tripling",
      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-micron-bull-212054647.html?.tsrc=rss",
@@ -47,11 +52,6 @@
      "title": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today\u2019s Market",
      "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html?.tsrc=rss",
      "when": "Mon Oct 12, 2:24pm MT"
-    },
-    {
-     "title": "Micron Stock Drops. A Chinese Rival Is Muscling In on Its Turf.",
-     "link": "https://finance.yahoo.com/m/8667ebee-0c5b-383f-a80f-5bb1d352befa/micron-stock-drops.-a-chinese.html?.tsrc=rss",
-     "when": "Mon Oct 12, 2:12pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -68,15 +68,15 @@
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
    "price": 163.42,
-   "chg_pct": 0.52284604,
-   "chg": 0.84999084,
+   "chg_pct": 0.522846,
+   "chg": 0.849991,
    "lo52": 104.83,
    "hi52": 225.64,
    "mcap": 2152925626368,
    "pe": null,
    "fpe": 82.158585,
-   "post": 162.7471,
-   "post_pct": -0.4117595,
+   "post": 162.3607,
+   "post_pct": -0.64820445,
    "pre": null,
    "pre_pct": null,
    "day_lo": 160.85,
@@ -95,14 +95,14 @@
      "when": "Mon Oct 12, 11:46am MT"
     },
     {
+     "title": "SpaceX Bundles Grok, X, And Cursor Into New Subscription Tiers",
+     "link": "https://stocktwits.com/news-articles/markets/equity/space-x-bundles-grok-x-and-cursor-into-new-subscription-tiers/cZxJyU5RB8r?.tsrc=rss",
+     "when": "Mon Oct 12, 6:05pm MT"
+    },
+    {
      "title": "Cathie Wood Calls SpaceX a \"Deep-Value Opportunity\" at Its IPO Price. Here's the Math She's Using.",
      "link": "https://www.fool.com/investing/2026/10/12/cathie-wood-calls-spacex-a-deep-value-opportunity/?.tsrc=rss",
      "when": "Mon Oct 12, 4:20pm MT"
-    },
-    {
-     "title": "SpaceX turns to debt again to fund a historic order",
-     "link": "https://www.thestreet.com/investing/stocks/spacex-apollo-financing-fund-major-nvidia-chip-order?.tsrc=rss",
-     "when": "Mon Oct 12, 2:23pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -120,15 +120,15 @@
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
    "price": 378.03,
-   "chg_pct": -1.2202805,
-   "chg": -4.6700134,
+   "chg_pct": -1.22028,
+   "chg": -4.67001,
    "lo52": 297.38,
    "hi52": 498.83,
    "mcap": 1493047443456,
    "pe": 350.02777,
    "fpe": 173.2136,
-   "post": 377.0,
-   "post_pct": -0.2724648,
+   "post": 376.64,
+   "post_pct": -0.3676915,
    "pre": null,
    "pre_pct": null,
    "day_lo": 377.58,
@@ -219,15 +219,15 @@
    ],
    "watch": "Price, yields & news",
    "price": 23.75,
-   "chg_pct": -1.4522837,
-   "chg": -0.35000038,
+   "chg_pct": -1.45228,
+   "chg": -0.35,
    "lo52": 22.555,
    "hi52": 55.22,
    "mcap": 2273149696,
    "pe": 47.5,
    "fpe": 6.832645,
-   "post": 23.7263,
-   "post_pct": -0.09979248,
+   "post": 23.73,
+   "post_pct": -0.08421245,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.6607,
@@ -275,8 +275,8 @@
    "mcap": 981145728,
    "pe": null,
    "fpe": -60.742897,
-   "post": 19.5448,
-   "post_pct": -0.48472294,
+   "post": 19.65,
+   "post_pct": 0.050917663,
    "pre": null,
    "pre_pct": null,
    "day_lo": 19.5,
@@ -317,8 +317,8 @@
    ],
    "watch": "Price & news",
    "price": 12.65,
-   "chg_pct": -0.31520855,
-   "chg": -0.03999996,
+   "chg_pct": -0.315209,
+   "chg": -0.04,
    "lo52": 3.261,
    "hi52": 23.99,
    "mcap": 783035008,
@@ -415,22 +415,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81953.23,
-   "chg_pct": -2.0615413,
-   "chg": -1725.0625,
+   "price": 81251.9,
+   "chg_pct": -3.1126115,
+   "chg": -2610.3047,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1646433665024,
+   "mcap": 1635185852416,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81923.016,
-   "day_hi": 84230.83,
-   "as_of": "Mon Oct 12, 5:31pm MT",
+   "day_lo": 81344.83,
+   "day_hi": 81754.484,
+   "as_of": "Mon Oct 12, 6:31pm MT",
    "news": [
+    {
+     "title": "Their Entire $600K Net Worth Is Riding On Bitcoin. She Wants To Sell To Pay Off The Mortgage. He Thinks It's Going Much Higher. Is He Greedy?",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/entire-600k-net-worth-riding-230014635.html?.tsrc=rss",
+     "when": "Mon Oct 12, 5:00pm MT"
+    },
     {
      "title": "A year after crypto\u2019s $19 billion crash, one warning sign still hasn\u2019t gone away",
      "link": "https://www.thestreet.com/crypto/markets/a-year-after-cryptos-19-billion-crash-one-warning-sign-still-hasnt-gone-away?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "FTX\u2019s old Bitcoin mining assets have a new mission, and it\u2019s not crypto",
      "link": "https://www.thestreet.com/crypto/markets/ftxs-old-bitcoin-mining-assets-have-a-new-mission-and-its-not-crypto?.tsrc=rss",
      "when": "Mon Oct 12, 3:00pm MT"
-    },
-    {
-     "title": "Can Cardano Reach $1 Before Bitcoin Reaches $100,000?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/12/can-cardano-reach-1-before-bitcoin-reaches-100000/?.tsrc=rss",
-     "when": "Mon Oct 12, 2:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -458,8 +458,8 @@
  "macro": {
   "SMH": {
    "price": 590.99,
-   "chg_pct": -2.0453196,
-   "chg": -12.340027,
+   "chg_pct": -2.04532,
+   "chg": -12.34,
    "as_of": "Mon Oct 12, 2:00pm MT"
   },
   "^TNX": {
@@ -493,10 +493,10 @@
    "as_of": "Mon Oct 12, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.572,
-   "chg_pct": -0.016569313,
-   "chg": -0.016998291,
-   "as_of": "Mon Oct 12, 4:04pm MT"
+   "price": 102.54,
+   "chg_pct": -0.047759015,
+   "chg": -0.04899597,
+   "as_of": "Mon Oct 12, 6:21pm MT"
   },
   "^GSPC": {
    "price": 7807.24,
@@ -618,34 +618,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 976.64,
-   "oracle": 976.46,
-   "prev": 1041.0,
-   "funding": 6.25e-06,
-   "oi": 111743.296,
-   "oi_usd": 109132972.60544,
-   "vol": 88573547.56683,
-   "rsi14": 23.605743134823683,
-   "ema20": 998.0170510532079,
-   "ema50": 1014.8120629789732,
-   "hi24": 1040.1,
-   "lo24": 976.38
+   "mark": 970.31,
+   "oracle": 970.2,
+   "prev": 1035.8,
+   "funding": 2.01114e-05,
+   "oi": 111542.542,
+   "oi_usd": 108230843.92802,
+   "vol": 92617840.63512002,
+   "rsi14": 20.98398037394712,
+   "ema20": 995.3153669320413,
+   "ema50": 1013.0180439629504,
+   "hi24": 1034.5,
+   "lo24": 969.69
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 162.77,
-   "oracle": 162.75,
-   "prev": 164.15,
+   "mark": 162.28,
+   "oracle": 162.26,
+   "prev": 164.74,
    "funding": 6.25e-06,
-   "oi": 754273.96,
-   "oi_usd": 122773172.4692,
-   "vol": 76832988.2376,
-   "rsi14": 37.07404349169209,
-   "ema20": 163.8979805792604,
-   "ema50": 164.0074914075231,
+   "oi": 753879.3600000005,
+   "oi_usd": 122339542.54080008,
+   "vol": 77383921.15250017,
+   "rsi14": 33.367954206895945,
+   "ema20": 163.7120020775824,
+   "ema50": 163.92145978095732,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -657,18 +657,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 377.02,
-   "oracle": 377.05,
-   "prev": 384.68,
+   "mark": 375.81,
+   "oracle": 375.8,
+   "prev": 385.11,
    "funding": 6.25e-06,
-   "oi": 109832.512,
-   "oi_usd": 41409053.67424,
-   "vol": 15199548.040069997,
-   "rsi14": 21.371912815095726,
-   "ema20": 380.06134187512146,
-   "ema50": 381.377659139461,
-   "hi24": 385.57,
-   "lo24": 376.65
+   "oi": 111219.05,
+   "oi_usd": 41797231.1805,
+   "vol": 15830458.208049994,
+   "rsi14": 17.996032751665496,
+   "ema20": 379.61327366196065,
+   "ema50": 381.1348548927822,
+   "hi24": 385.14,
+   "lo24": 375.58
   },
   "LMND": {
    "stale": []
@@ -692,20 +692,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82004.0,
-   "oracle": 82054.1,
-   "prev": 83676.0,
-   "funding": -1.19902e-05,
-   "oi": 38425.83386,
-   "oi_usd": 3151072079.85544,
-   "vol": 2388327071.6795087,
-   "rsi14": 34.3335440059853,
-   "ema20": 82843.92418062645,
-   "ema50": 83045.5573728653,
+   "mark": 81321.0,
+   "oracle": 81361.0,
+   "prev": 83820.0,
+   "funding": -1.2751e-06,
+   "oi": 38234.74488,
+   "oi_usd": 3109287688.38648,
+   "vol": 2536355113.8890085,
+   "rsi14": 28.040867329069215,
+   "ema20": 82681.67306873105,
+   "ema50": 82970.663981955,
    "hi24": 84315.0,
-   "lo24": 81729.0
+   "lo24": 81253.0
   },
-  "_at": 1791847870
+  "_at": 1791851476
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 3:04pm MT",
