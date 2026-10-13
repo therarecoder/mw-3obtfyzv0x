@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T02:38:39.163837-06:00",
- "generated_mt": "Tue Oct 13 2026, 2:38am MT",
+ "generated_at": "2026-10-13T03:38:44.956016-06:00",
+ "generated_mt": "Tue Oct 13 2026, 3:38am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,8 +26,8 @@
    "fpe": 4.79343,
    "post": null,
    "post_pct": null,
-   "pre": 965.0,
-   "pre_pct": -2.4306376,
+   "pre": 963.17,
+   "pre_pct": -2.6156673,
    "day_lo": 978.5,
    "day_hi": 1002.67,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -77,8 +77,8 @@
    "fpe": 82.158585,
    "post": null,
    "post_pct": null,
-   "pre": 163.37,
-   "pre_pct": -0.030597879,
+   "pre": 163.5113,
+   "pre_pct": 0.055873573,
    "day_lo": 160.85,
    "day_hi": 167.065,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
@@ -90,19 +90,19 @@
      "when": "Mon Oct 12, 11:55am MT"
     },
     {
+     "title": "Nasdaq Futures Sink, Dow Rises Premarket As AI Chip Stocks Wobble Ahead Of Big Bank Earnings: MU, SNDK, NVTS, NVDA, SPCX, ASTS, UNH, V Stocks In Focus",
+     "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-dow-rises-premarket-as-ai-chip-stocks-wobble-ahead-of-big-bank-earnings-mu-sndk-nvts-nvda-spcx-asts-unh-v-stocks-in-focus/cZxBamBRBoW?.tsrc=rss",
+     "when": "Tue Oct 13, 2:37am MT"
+    },
+    {
+     "title": "Wall Street Analyst Predicts 30% Upside for Palantir and 60% for SpaceX. Is It Time to Buy the Stocks?",
+     "link": "https://www.fool.com/investing/2026/10/13/analyst-predict-upside-palantir-spacex-buy-stock/?.tsrc=rss",
+     "when": "Tue Oct 13, 2:34am MT"
+    },
+    {
      "title": "SPCX Stock Slips Overnight: Analysts See T-Mobile and Verizon Holding The Edge In Starlink\u2019s Wireless Push",
      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analysts-tmobile-verizon-edge-starlink-wireless-push/cZxBJpbRBoB?.tsrc=rss",
      "when": "Tue Oct 13, 1:27am MT"
-    },
-    {
-     "title": "ASTS Stock Faces Starlink Threat: Analyst Says Musk Could Pair Ligado, Viasat And FCC Spectrum For \u2018Massive\u2019 Midband Block",
-     "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-starlink-threat-analyst-musk-pair-ligado-viasat-fcc-spectrum-massive-midband-block/cZxBeWPRBo7?.tsrc=rss",
-     "when": "Tue Oct 13, 12:38am MT"
-    },
-    {
-     "title": "Is SpaceX Stock Cheap? 1 Wall Street Analyst Thinks So.",
-     "link": "https://www.fool.com/investing/2026/10/13/is-spacex-stock-cheap-1-wall-street-analyst-thinks/?.tsrc=rss",
-     "when": "Mon Oct 12, 10:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -129,13 +129,18 @@
    "fpe": 173.2136,
    "post": null,
    "post_pct": null,
-   "pre": 375.4,
-   "pre_pct": -0.6957133,
+   "pre": 374.1,
+   "pre_pct": -1.0395981,
    "day_lo": 377.58,
    "day_hi": 382.605,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Mon Oct 12, 2:00pm MT",
    "news": [
+    {
+     "title": "Should You Sell Tesla? I Sold 1 Other Winner Too Early. Here's What I Learned.",
+     "link": "https://www.fool.com/investing/2026/10/13/should-you-sell-tesla-i-sold-1-other-obvious-winne/?.tsrc=rss",
+     "when": "Tue Oct 13, 3:05am MT"
+    },
     {
      "title": "Tesla (TSLA) Declines More Than Market: Some Information for Investors",
      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-declines-more-market-204505667.html?.tsrc=rss",
@@ -150,11 +155,6 @@
      "title": "Tesla, General Motors, Other US Automakers Expected to Benefit From Resilient SAAR, RBC Says",
      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-general-motors-other-us-152008363.html?.tsrc=rss",
      "when": "Mon Oct 12, 9:20am MT"
-    },
-    {
-     "title": "Tesla Cybercabs Face Regulatory Probe For Speeding In School Zones",
-     "link": "https://finance.yahoo.com/m/e693b5b3-98df-3921-aac9-6213b918f04b/tesla-cybercabs-face.html?.tsrc=rss",
-     "when": "Mon Oct 12, 8:49am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -228,8 +228,8 @@
    "fpe": 6.832645,
    "post": null,
    "post_pct": null,
-   "pre": 23.87,
-   "pre_pct": 0.50526667,
+   "pre": 23.648,
+   "pre_pct": -0.42947066,
    "day_lo": 23.6607,
    "day_hi": 24.24,
    "next_earnings": "Tue Nov 3, 2026",
@@ -277,8 +277,8 @@
    "fpe": -60.742897,
    "post": null,
    "post_pct": null,
-   "pre": 19.43,
-   "pre_pct": -1.3199618,
+   "pre": 19.7,
+   "pre_pct": 0.05130203,
    "day_lo": 19.5,
    "day_hi": 20.805,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83745.33,
-   "chg_pct": 0.39600566,
-   "chg": 330.32812,
+   "price": 83509.01,
+   "chg_pct": 0.054711517,
+   "chg": 45.664062,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1684751384576,
+   "mcap": 1676017926144,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 81197.99,
    "day_hi": 84059.52,
-   "as_of": "Tue Oct 13, 2:38am MT",
+   "as_of": "Tue Oct 13, 3:38am MT",
    "news": [
+    {
+     "title": "Options Traders Are Back at 2021 Levels: Will Bitcoin Repeat That Year's Doubling?",
+     "link": "https://beincrypto.com/options-traders-2021-levels-bitcoin-doubling/?.tsrc=rss",
+     "when": "Tue Oct 13, 2:56am MT"
+    },
     {
      "title": "The Whale Behind $29.75 Million in Wins Just Went Long on Ethereum",
      "link": "https://beincrypto.com/hyperliquid-whale-goes-long-ethereum/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Cleveland Fed President Wants Small, Quick Rate Moves. What It Means for Bitcoin",
      "link": "https://beincrypto.com/hammack-fed-hike-bitcoin-october-q4-season/?.tsrc=rss",
      "when": "Tue Oct 13, 12:21am MT"
-    },
-    {
-     "title": "Bulls Absorb 89% of $774 Million Crypto Liquidations as Leverage Unwinds",
-     "link": "https://beincrypto.com/crypto-liquidations-774-million-bitcoin-82000/?.tsrc=rss",
-     "when": "Mon Oct 12, 7:59pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +487,16 @@
    "as_of": "Mon Oct 12, 12:59pm MT"
   },
   "^VIX": {
-   "price": 15.45,
-   "chg_pct": 1.5779078,
-   "chg": 0.23999977,
-   "as_of": "Tue Oct 13, 2:23am MT"
+   "price": 15.39,
+   "chg_pct": 1.1842126,
+   "chg": 0.1800003,
+   "as_of": "Tue Oct 13, 3:23am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.311,
-   "chg_pct": -0.27098674,
-   "chg": -0.27799988,
-   "as_of": "Tue Oct 13, 2:28am MT"
+   "price": 102.355,
+   "chg_pct": -0.22809279,
+   "chg": -0.23399353,
+   "as_of": "Tue Oct 13, 3:28am MT"
   },
   "^GSPC": {
    "price": 7807.24,
@@ -618,16 +618,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 964.84,
-   "oracle": 964.43,
+   "mark": 963.87,
+   "oracle": 963.48,
    "prev": 1007.4,
    "funding": 6.25e-06,
-   "oi": 125716.96,
-   "oi_usd": 121296751.68640001,
-   "vol": 146090115.06554997,
-   "rsi14": 35.45036819989312,
-   "ema20": 975.3880419592774,
-   "ema50": 998.0691854953863,
+   "oi": 126007.5739999999,
+   "oi_usd": 121454920.35137992,
+   "vol": 144176451.10777995,
+   "rsi14": 35.045009679912354,
+   "ema20": 974.3352367824041,
+   "ema50": 996.7825173587132,
    "hi24": 1012.1,
    "lo24": 950.58
   },
@@ -636,16 +636,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 163.39,
-   "oracle": 163.39,
-   "prev": 163.84,
+   "mark": 163.51,
+   "oracle": 163.51,
+   "prev": 163.66,
    "funding": 6.25e-06,
-   "oi": 764150.3799999998,
-   "oi_usd": 124854530.58819996,
-   "vol": 81178408.90680008,
-   "rsi14": 51.690256099251684,
-   "ema20": 163.06632574905834,
-   "ema50": 163.51631524218257,
+   "oi": 763133.16,
+   "oi_usd": 124779902.99159999,
+   "vol": 81974819.34969997,
+   "rsi14": 52.88979308023347,
+   "ema20": 163.11556693317914,
+   "ema50": 163.5224950288937,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -657,18 +657,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.41,
-   "oracle": 375.36,
-   "prev": 382.8,
+   "mark": 374.32,
+   "oracle": 374.17,
+   "prev": 382.47,
    "funding": 6.25e-06,
-   "oi": 106260.32,
-   "oi_usd": 39891186.7312,
-   "vol": 20772798.322389986,
-   "rsi14": 34.20281360676462,
-   "ema20": 377.0370007623873,
-   "ema50": 379.4066145107578,
+   "oi": 106360.746,
+   "oi_usd": 39812954.442719996,
+   "vol": 21370863.14746,
+   "rsi14": 28.556878200715417,
+   "ema20": 376.7639558775944,
+   "ema50": 379.20482571336026,
    "hi24": 383.46,
-   "lo24": 374.11
+   "lo24": 373.76
   },
   "LMND": {
    "stale": []
@@ -692,20 +692,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83787.0,
-   "oracle": 83834.0,
-   "prev": 83572.0,
-   "funding": 8.966e-07,
-   "oi": 38475.44982,
-   "oi_usd": 3223742514.0683403,
-   "vol": 3170692557.4674993,
-   "rsi14": 59.510339354428396,
-   "ema20": 83116.30874600848,
-   "ema50": 83090.38260564792,
+   "mark": 83584.0,
+   "oracle": 83622.2,
+   "prev": 83345.0,
+   "funding": 4.4027e-06,
+   "oi": 38628.48002,
+   "oi_usd": 3228722873.99168,
+   "vol": 3255761082.8176017,
+   "rsi14": 56.844198808586924,
+   "ema20": 83142.62992388921,
+   "ema50": 83103.73563078212,
    "hi24": 84133.0,
    "lo24": 81000.0
   },
-  "_at": 1791880723
+  "_at": 1791884329
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 3:04pm MT",
