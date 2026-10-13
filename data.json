@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T19:31:17.884978-06:00",
- "generated_mt": "Mon Oct 12 2026, 7:31pm MT",
+ "generated_at": "2026-10-12T20:31:23.916256-06:00",
+ "generated_mt": "Mon Oct 12 2026, 8:31pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Mon Oct 12, 2:00pm MT",
    "news": [
     {
+     "title": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
+     "link": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-intc-amd-skhy-chip-stocks-extend-slide-as-ai-funding-concerns-china-competition-weigh-on-sector/cZxBG1BRB8u?.tsrc=rss",
+     "when": "Mon Oct 12, 7:42pm MT"
+    },
+    {
      "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
      "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
      "when": "Mon Oct 12, 7:11pm MT"
@@ -42,11 +47,6 @@
      "title": "35.16 Billion Reasons Micron Stock Is Headed to $3,000",
      "link": "https://www.fool.com/investing/2026/10/12/3516-billion-reasons-micron-stock-is-headed-to-300/?.tsrc=rss",
      "when": "Mon Oct 12, 6:20pm MT"
-    },
-    {
-     "title": "Wall Street\u2019s Biggest Micron Bull Just Raised Its Target Again. It Now Sees the Stock Nearly Tripling",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-micron-bull-212054647.html?.tsrc=rss",
-     "when": "Mon Oct 12, 3:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -175,7 +175,7 @@
    "post_pct": 0.81948817,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 45.0,
+   "day_lo": 44.9,
    "day_hi": 46.765,
    "next_earnings": "Wed Nov 4, 2026",
    "as_of": "Mon Oct 12, 2:00pm MT",
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81988.1,
-   "chg_pct": -1.8870046,
-   "chg": -1576.875,
+   "price": 82648.21,
+   "chg_pct": -1.3034161,
+   "chg": -1091.4766,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1648038510592,
+   "mcap": 1661265117184,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -423,8 +423,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 81197.99,
-   "day_hi": 82040.94,
-   "as_of": "Mon Oct 12, 7:31pm MT",
+   "day_hi": 82660.71,
+   "as_of": "Mon Oct 12, 8:31pm MT",
    "news": [
     {
      "title": "Their Entire $600K Net Worth Is Riding On Bitcoin. She Wants To Sell To Pay Off The Mortgage. He Thinks It's Going Much Higher. Is He Greedy?",
@@ -488,10 +488,10 @@
    "as_of": "Mon Oct 12, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.464,
-   "chg_pct": -0.12184424,
-   "chg": -0.125,
-   "as_of": "Mon Oct 12, 7:21pm MT"
+   "price": 102.445,
+   "chg_pct": -0.14036319,
+   "chg": -0.14399719,
+   "as_of": "Mon Oct 12, 8:21pm MT"
   },
   "^GSPC": {
    "price": 7807.24,
@@ -613,34 +613,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 955.96,
-   "oracle": 955.6,
-   "prev": 1027.2,
-   "funding": 8.3905e-06,
-   "oi": 113978.252,
-   "oi_usd": 108958649.78192,
-   "vol": 102885728.32898997,
-   "rsi14": 16.669339959046084,
-   "ema20": 990.9508786250841,
-   "ema50": 1010.53032460781,
-   "hi24": 1033.5,
-   "lo24": 956.01
+   "mark": 958.42,
+   "oracle": 958.07,
+   "prev": 1033.1,
+   "funding": 1.3545e-05,
+   "oi": 115418.922,
+   "oi_usd": 110619803.22324,
+   "vol": 109141357.87547997,
+   "rsi14": 17.233910321227768,
+   "ema20": 988.2173549496295,
+   "ema50": 1008.6232747261731,
+   "hi24": 1032.7,
+   "lo24": 955.65
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 161.88,
-   "oracle": 161.79,
-   "prev": 164.18,
-   "funding": 6.5789e-06,
-   "oi": 754219.8,
-   "oi_usd": 122093101.224,
-   "vol": 78220362.14440003,
-   "rsi14": 32.645453622453246,
-   "ema20": 163.4850555749353,
-   "ema50": 163.8206469919495,
+   "mark": 161.58,
+   "oracle": 161.52,
+   "prev": 164.78,
+   "funding": 1.00987e-05,
+   "oi": 761806.7400000001,
+   "oi_usd": 123092733.04920003,
+   "vol": 80005813.76130003,
+   "rsi14": 29.852902793494536,
+   "ema20": 163.27985803364894,
+   "ema50": 163.72300138438132,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -652,18 +652,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.32,
-   "oracle": 375.19,
-   "prev": 383.82,
+   "mark": 374.73,
+   "oracle": 374.6,
+   "prev": 384.95,
    "funding": 6.25e-06,
-   "oi": 111224.948,
-   "oi_usd": 41744947.48336,
-   "vol": 15929354.094329994,
-   "rsi14": 18.558446492199337,
-   "ema20": 379.14666034129016,
-   "ema50": 380.8848960504556,
+   "oi": 110853.11,
+   "oi_usd": 41539985.9103,
+   "vol": 16256970.451019993,
+   "rsi14": 17.2230337221592,
+   "ema20": 378.66053607311994,
+   "ema50": 380.6114155787713,
    "hi24": 385.14,
-   "lo24": 375.11
+   "lo24": 374.16
   },
   "LMND": {
    "stale": []
@@ -687,20 +687,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82041.0,
-   "oracle": 82079.0,
-   "prev": 83760.0,
-   "funding": 9.3304e-06,
-   "oi": 37900.8341,
-   "oi_usd": 3109422330.3981,
-   "vol": 2737773169.218616,
-   "rsi14": 40.333049198425705,
-   "ema20": 82628.49192276075,
-   "ema50": 82935.60431943445,
+   "mark": 82706.4,
+   "oracle": 82750.0,
+   "prev": 83818.0,
+   "funding": 2.8683e-06,
+   "oi": 37864.53022,
+   "oi_usd": 3131638982.187408,
+   "vol": 2854027624.329921,
+   "rsi14": 48.99844318413637,
+   "ema20": 82667.2572000801,
+   "ema50": 82940.80004838113,
    "hi24": 84315.0,
    "lo24": 81000.0
   },
-  "_at": 1791855082
+  "_at": 1791858688
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 3:04pm MT",
