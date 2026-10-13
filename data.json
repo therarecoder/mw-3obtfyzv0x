@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T21:33:59.747328-06:00",
- "generated_mt": "Mon Oct 12 2026, 9:33pm MT",
+ "generated_at": "2026-10-12T22:34:05.569465-06:00",
+ "generated_mt": "Mon Oct 12 2026, 10:34pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -95,14 +95,14 @@
      "when": "Mon Oct 12, 11:46am MT"
     },
     {
-     "title": "Elon Musk Says China Can Out-Scale the World, but Advanced Memory \u2018Will Be Harder to Solve\u2019 \u2014 Micron, SK Hynix, SanDisk Drop After-Hours",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-china-scale-021323975.html?.tsrc=rss",
-     "when": "Mon Oct 12, 8:13pm MT"
+     "title": "Is SpaceX Stock Cheap? 1 Wall Street Analyst Thinks So.",
+     "link": "https://www.fool.com/investing/2026/10/13/is-spacex-stock-cheap-1-wall-street-analyst-thinks/?.tsrc=rss",
+     "when": "Mon Oct 12, 10:20pm MT"
     },
     {
-     "title": "SpaceX Bundles Grok, X, And Cursor Into New Subscription Tiers",
-     "link": "https://stocktwits.com/news-articles/markets/equity/space-x-bundles-grok-x-and-cursor-into-new-subscription-tiers/cZxJyU5RB8r?.tsrc=rss",
-     "when": "Mon Oct 12, 6:05pm MT"
+     "title": "SPCX Stock Extends 2-Day Green Run As Elon Musk Calls SpaceX An 'Anomaly In The Matrix' Amid China\u2019s RAM Push",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-elon-musk-spacex-anomaly-matrix-china-ram-push/cZxB2m4RB8y?.tsrc=rss",
+     "when": "Mon Oct 12, 9:37pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -180,7 +180,7 @@
    "post_pct": 0.81948817,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 45.0,
+   "day_lo": 44.9,
    "day_hi": 46.765,
    "next_earnings": "Wed Nov 4, 2026",
    "as_of": "Mon Oct 12, 2:00pm MT",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83106.26,
-   "chg_pct": -0.47716248,
-   "chg": -398.45312,
+   "price": 83359.36,
+   "chg_pct": -0.8014169,
+   "chg": -673.4531,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1665204224000,
+   "mcap": 1673360048128,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,8 +428,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 81197.99,
-   "day_hi": 82870.516,
-   "as_of": "Mon Oct 12, 9:33pm MT",
+   "day_hi": 83319.07,
+   "as_of": "Mon Oct 12, 10:34pm MT",
    "news": [
     {
      "title": "Their Entire $600K Net Worth Is Riding On Bitcoin. She Wants To Sell To Pay Off The Mortgage. He Thinks It's Going Much Higher. Is He Greedy?",
@@ -493,10 +493,10 @@
    "as_of": "Mon Oct 12, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.413,
-   "chg_pct": -0.17155169,
-   "chg": -0.17599487,
-   "as_of": "Mon Oct 12, 9:23pm MT"
+   "price": 102.424,
+   "chg_pct": -0.16083099,
+   "chg": -0.16499329,
+   "as_of": "Mon Oct 12, 10:24pm MT"
   },
   "^GSPC": {
    "price": 7807.24,
@@ -618,17 +618,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 960.61,
-   "oracle": 960.0,
-   "prev": 1032.0,
-   "funding": 1.52315e-05,
-   "oi": 116713.374,
-   "oi_usd": 112116034.19814,
-   "vol": 115830008.83656004,
-   "rsi14": 21.06972590308267,
-   "ema20": 985.5700311831007,
-   "ema50": 1006.6640860984013,
-   "hi24": 1030.9,
+   "mark": 955.51,
+   "oracle": 955.27,
+   "prev": 1026.5,
+   "funding": 8.9721e-06,
+   "oi": 119219.5200000001,
+   "oi_usd": 113915443.5552001,
+   "vol": 121384497.01795997,
+   "rsi14": 20.723623819764384,
+   "ema20": 982.8563689426325,
+   "ema50": 1004.7761845840558,
+   "hi24": 1030.7,
    "lo24": 953.0
   },
   "SPCX": {
@@ -636,16 +636,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 162.09,
-   "oracle": 162.03,
-   "prev": 164.68,
-   "funding": 1.12216e-05,
-   "oi": 767269.4199999999,
-   "oi_usd": 124366700.28779998,
-   "vol": 82000397.99430002,
-   "rsi14": 36.445293980097055,
-   "ema20": 163.18739736724456,
-   "ema50": 163.664400649878,
+   "mark": 162.31,
+   "oracle": 162.24,
+   "prev": 164.41,
+   "funding": 8.4481e-06,
+   "oi": 768741.14,
+   "oi_usd": 124774374.4334,
+   "vol": 82275423.22530001,
+   "rsi14": 39.6616092728529,
+   "ema20": 163.1369435550252,
+   "ema50": 163.62748343278093,
    "hi24": 166.96,
    "lo24": 160.96
   },
@@ -657,17 +657,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.26,
-   "oracle": 375.14,
-   "prev": 385.04,
-   "funding": 6.25e-06,
-   "oi": 110994.236,
-   "oi_usd": 41651697.00136,
-   "vol": 16563687.604529986,
-   "rsi14": 23.112034451372224,
-   "ema20": 378.35072993864816,
-   "ema50": 380.40115113054117,
-   "hi24": 384.98,
+   "mark": 375.02,
+   "oracle": 374.82,
+   "prev": 383.71,
+   "funding": 1.77935e-05,
+   "oi": 108928.03,
+   "oi_usd": 40850189.8106,
+   "vol": 17801958.378589995,
+   "rsi14": 24.187716132968532,
+   "ema20": 378.0581466059977,
+   "ema50": 380.20557377995016,
+   "hi24": 384.44,
    "lo24": 374.16
   },
   "LMND": {
@@ -692,20 +692,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83187.0,
-   "oracle": 83219.0,
-   "prev": 83617.0,
+   "mark": 83423.0,
+   "oracle": 83459.6,
+   "prev": 83671.0,
    "funding": 1.25e-05,
-   "oi": 37578.71104,
-   "oi_usd": 3126060235.28448,
-   "vol": 2964174584.7568336,
-   "rsi14": 55.131221062311205,
-   "ema20": 82741.5841788259,
-   "ema50": 82957.845249729,
+   "oi": 37607.8704,
+   "oi_usd": 3137361372.3792,
+   "vol": 3086473898.858173,
+   "rsi14": 56.75450398227033,
+   "ema20": 82809.9587818513,
+   "ema50": 82976.71472688323,
    "hi24": 84315.0,
    "lo24": 81000.0
   },
-  "_at": 1791862444
+  "_at": 1791866049
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 12, 3:04pm MT",
