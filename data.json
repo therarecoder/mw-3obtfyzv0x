@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T22:23:30.532633-06:00",
- "generated_mt": "Tue Oct 13 2026, 10:23pm MT",
+ "generated_at": "2026-10-13T23:23:36.161693-06:00",
+ "generated_mt": "Tue Oct 13 2026, 11:23pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -137,6 +137,16 @@
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
     {
+     "title": "Kimbal Musk Says Tesla Cybercab Is \u2018Amazing to Use\u2019 as Driverless Fleet Explodes in Austin and Raises Stakes for Elon Musk\u2019s Robotaxi Bet",
+     "link": "https://finance.yahoo.com/technology/ai/articles/kimbal-musk-says-tesla-cybercab-033013115.html?.tsrc=rss",
+     "when": "Tue Oct 13, 9:30pm MT"
+    },
+    {
+     "title": "Could Tesla's Roadster Reveal Trigger Another Stock Crash?",
+     "link": "https://beincrypto.com/tesla-roadster-hover-demo-tsla-stock-impact/?.tsrc=rss",
+     "when": "Tue Oct 13, 4:48pm MT"
+    },
+    {
      "title": "Tesla Robotaxi Fleet in Austin Soars 8x in a Month While Elon Musk Admits TSLA Is Still Working on Not Running Over Cats",
      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-robotaxi-fleet-austin-soars-213024117.html?.tsrc=rss",
      "when": "Tue Oct 13, 3:30pm MT"
@@ -145,16 +155,6 @@
      "title": "Tesla target lowered by analysts worried about runaway $25 billion spending",
      "link": "https://www.thestreet.com/investing/stocks/tesla-target-lowered-by-analysts-worried-about-runaway-25-billion-spending?.tsrc=rss",
      "when": "Tue Oct 13, 2:33pm MT"
-    },
-    {
-     "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just \u2018a Few Hundred\u2019 Roadsters: \u2018Hovering Is a Gimmick\u2019",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-203027674.html?.tsrc=rss",
-     "when": "Tue Oct 13, 2:30pm MT"
-    },
-    {
-     "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets",
-     "link": "https://finance.yahoo.com/energy/articles/electric-trucks-reality-tesla-semi-143552440.html?.tsrc=rss",
-     "when": "Tue Oct 13, 8:35am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -372,7 +372,7 @@
    "lo52": 10.69,
    "hi52": 35.0,
    "mcap": 10429114368,
-   "pe": 26.39844,
+   "pe": 26.1938,
    "fpe": 15.214278,
    "post": 33.6283,
    "post_pct": -0.47854748,
@@ -383,6 +383,11 @@
    "next_earnings": "Thu Nov 5, 2026",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
+    {
+     "title": "Oscar Health (OSCR) Could Be 94% Undervalued Following Raised Earnings Estimates",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-oscr-could-94-051515979.html?.tsrc=rss",
+     "when": "Tue Oct 13, 11:15pm MT"
+    },
     {
      "title": "Oscar Health (OSCR) Stock May Be Undervalued Following Raised 2026 Outlook",
      "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-oscr-stock-may-011517676.html?.tsrc=rss",
@@ -397,11 +402,6 @@
      "title": "Is Oscar Health Stock a Buy as Growth Surges but Valuation Stays Rich?",
      "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-stock-buy-growth-171800383.html?.tsrc=rss",
      "when": "Tue Oct 13, 11:18am MT"
-    },
-    {
-     "title": "Oscar Health Rallies 14.9% in 3 Months: Can the Gains Keep Going?",
-     "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-rallies-14-9-171200943.html?.tsrc=rss",
-     "when": "Tue Oct 13, 11:12am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/OSCR"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83652.79,
-   "chg_pct": 0.3614775,
-   "chg": 301.29688,
+   "price": 83448.79,
+   "chg_pct": -0.15221922,
+   "chg": -127.21875,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1679605760000,
+   "mcap": 1676651790336,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 83092.65,
    "day_hi": 83815.85,
-   "as_of": "Tue Oct 13, 10:23pm MT",
+   "as_of": "Tue Oct 13, 11:23pm MT",
    "news": [
+    {
+     "title": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-says-bitcoin-has-bottomed-and-should-get-back-above-100-000-long-term-forecast-is/cZxfODlRBpP?.tsrc=rss",
+     "when": "Tue Oct 13, 10:21pm MT"
+    },
     {
      "title": "MIT dropout\u2019s two startups announce shutdown weeks apart",
      "link": "https://www.thestreet.com/crypto/retail/mit-dropouts-two-startups-announce-shutdown-weeks-apart?.tsrc=rss",
@@ -442,14 +447,9 @@
      "when": "Tue Oct 13, 8:14pm MT"
     },
     {
-     "title": "ASST Stock Rises Overnight: Strive Launches IPO Of 15% SATS Preferred Stock To Fund Bitcoin Purchases",
-     "link": "https://stocktwits.com/news-articles/markets/equity/asst-stock-rises-overnight-strive-launches-ipo-of-15-sats-preferred-stock-to-fund-bitcoin-purchases/cZxf4MGRBYM?.tsrc=rss",
-     "when": "Tue Oct 13, 7:10pm MT"
-    },
-    {
-     "title": "Michael Saylor drops bold Bitcoin call ahead of major index review",
-     "link": "https://www.thestreet.com/crypto/markets/michael-saylor-drops-bold-bitcoin-call-ahead-of-major-index-review?.tsrc=rss",
-     "when": "Tue Oct 13, 5:47pm MT"
+     "title": "Why Rising Treasury Yields Raise the Bar for Bitcoin to Attract Investors",
+     "link": "https://beincrypto.com/treasury-yields-raise-bar-bitcoin/?.tsrc=rss",
+     "when": "Tue Oct 13, 7:14pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,15 +488,15 @@
   },
   "^VIX": {
    "price": 15.27,
-   "chg_pct": -49.901577,
-   "chg": -15.21,
+   "chg_pct": 0.39448008,
+   "chg": 0.06000042,
    "as_of": "Tue Oct 13, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.087,
-   "chg_pct": -0.09101723,
-   "chg": -0.09300232,
-   "as_of": "Tue Oct 13, 10:13pm MT"
+   "price": 102.097,
+   "chg_pct": -0.08122938,
+   "chg": -0.08300018,
+   "as_of": "Tue Oct 13, 11:13pm MT"
   },
   "^GSPC": {
    "price": 7805.45,
@@ -621,17 +621,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 955.26,
-   "oracle": 954.87,
-   "prev": 956.45,
-   "funding": 1.91393e-05,
-   "oi": 144553.2699999999,
-   "oi_usd": 138085956.7001999,
-   "vol": 163035397.2012601,
-   "rsi14": 45.57027030668709,
-   "ema20": 956.7551069737706,
-   "ema50": 972.7035574972041,
-   "hi24": 969.19,
+   "mark": 950.54,
+   "oracle": 950.49,
+   "prev": 965.92,
+   "funding": 6.25e-06,
+   "oi": 145156.9620000001,
+   "oi_usd": 137977498.65948007,
+   "vol": 160261224.73335007,
+   "rsi14": 41.34514273539772,
+   "ema20": 956.0829894825918,
+   "ema50": 971.8341112197445,
+   "hi24": 968.48,
    "lo24": 930.0
   },
   "SPCX": {
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 158.12,
-   "oracle": 158.1,
-   "prev": 162.38,
+   "mark": 157.5,
+   "oracle": 157.49,
+   "prev": 162.83,
    "funding": 6.25e-06,
-   "oi": 789659.9600000001,
-   "oi_usd": 124861032.87520002,
-   "vol": 63046023.68259999,
-   "rsi14": 39.696999265684134,
-   "ema20": 158.64363751854526,
-   "ema50": 160.6040079687805,
+   "oi": 787809.7600000001,
+   "oi_usd": 124080037.20000002,
+   "vol": 63763657.24539997,
+   "rsi14": 35.62697542065587,
+   "ema20": 158.52610425550415,
+   "ema50": 160.48048987240776,
    "hi24": 163.65,
    "lo24": 156.23
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 376.83,
-   "oracle": 376.62,
-   "prev": 375.09,
-   "funding": 1.47622e-05,
-   "oi": 109444.906,
-   "oi_usd": 41242123.92798,
-   "vol": 22678769.679549996,
-   "rsi14": 55.09898688323137,
-   "ema20": 375.8465649162208,
-   "ema50": 377.23746274898497,
+   "mark": 376.18,
+   "oracle": 375.96,
+   "prev": 375.1,
+   "funding": 1.80341e-05,
+   "oi": 109291.774,
+   "oi_usd": 41113379.54332,
+   "vol": 22374518.03046,
+   "rsi14": 50.874353662541566,
+   "ema20": 375.88997937954855,
+   "ema50": 377.2058678412941,
    "hi24": 377.17,
    "lo24": 371.47
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83697.4,
-   "oracle": 83730.4,
-   "prev": 83339.0,
-   "funding": 1.25e-05,
-   "oi": 37740.52868,
-   "oi_usd": 3158784125.141432,
-   "vol": 2124604722.1704903,
-   "rsi14": 58.02965492638499,
-   "ema20": 83383.31600601932,
-   "ema50": 83255.35890017952,
+   "mark": 83500.0,
+   "oracle": 83537.0,
+   "prev": 83701.0,
+   "funding": 7.6734e-06,
+   "oi": 37875.36054,
+   "oi_usd": 3162592605.09,
+   "vol": 2052019478.1699195,
+   "rsi14": 53.314374083812154,
+   "ema20": 83394.79227810615,
+   "ema50": 83266.110003682,
    "hi24": 84133.0,
    "lo24": 82927.0
   },
-  "_at": 1791951814
+  "_at": 1791955420
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
