@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T01:30:57.860638-06:00",
- "generated_mt": "Wed Oct 14 2026, 1:30am MT",
+ "generated_at": "2026-10-14T02:31:03.497010-06:00",
+ "generated_mt": "Wed Oct 14 2026, 2:31am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,34 +24,34 @@
    "mcap": 1078461333504,
    "pe": 12.823759,
    "fpe": 4.619681,
-   "post": 956.2,
-   "post_pct": 0.31578276,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 950.0,
+   "pre_pct": -0.31897697,
    "day_lo": 929.03,
    "day_hi": 953.6,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
     {
+     "title": "Micron's Customer Contracts Just Took the Memory Cycle Off the Table",
+     "link": "https://www.fool.com/investing/2026/10/14/microns-customer-contracts-just-took-the-memory-cy/?.tsrc=rss",
+     "when": "Wed Oct 14, 2:15am MT"
+    },
+    {
+     "title": "No Single Customer Accounts for 10% of Micron's Sales Anymore, and That Lowers One Risk in the Stock",
+     "link": "https://www.fool.com/investing/2026/10/14/no-single-customer-accounts-for-10-of-micron-s-sales-anymore-and-that-lowers-one-risk-in-the-stock/?.tsrc=rss",
+     "when": "Wed Oct 14, 1:33am MT"
+    },
+    {
+     "title": "Bull of the Day: Micron (MU)",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-micron-mu-070000019.html?.tsrc=rss",
+     "when": "Wed Oct 14, 1:00am MT"
+    },
+    {
      "title": "ASML Raises Sales Forecast For A Third Time, But Q3 Revenue Miss Sends Stock Lower: Earnings Selloff Spreads To MU, SNDK, INTC",
      "link": "https://stocktwits.com/news-articles/markets/equity/asml-raises-sales-forecast-for-a-third-time-but-q3-sales-miss-sends-stock-lower-earnings-selloff-spreads-to-mu-sndk-intc/cZxfWHbRBp9?.tsrc=rss",
      "when": "Wed Oct 14, 12:11am MT"
-    },
-    {
-     "title": "MU Stock Edges Up Overnight: Elon Musk Says Micron Is Being \u2018Reasonable\u2019 On Memory Prices While Others Are \u2018Extortionate\u2019",
-     "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-edges-up-overnight-elon-musk-says-micron-is-being-reasonable-on-memory-prices-while-others-are-extortionate/cZxfebxRBYD?.tsrc=rss",
-     "when": "Tue Oct 13, 7:57pm MT"
-    },
-    {
-     "title": "Elon Musk Says Micron Has Been \u2018Reasonable\u2019 in Future Pricing Memory Where Others Were \u2018Extortionate\u2019 \u2014 \u2018Customers Won\u2019t Forget\u2019",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-micron-reasonable-015622772.html?.tsrc=rss",
-     "when": "Tue Oct 13, 7:56pm MT"
-    },
-    {
-     "title": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-muted-chip-012425121.html?.tsrc=rss",
-     "when": "Tue Oct 13, 7:24pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,15 +75,20 @@
    "mcap": 2062287110144,
    "pe": null,
    "fpe": 78.6997,
-   "post": 156.9756,
-   "post_pct": 0.2782726,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 157.1,
+   "pre_pct": 0.35774425,
    "day_lo": 156.11,
    "day_hi": 161.982,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
+    {
+     "title": "SpaceX Could Be Worth $50 Trillion In 10 Years, Says Ron Baron: \u2018Elon Thinks I\u2019m Way Low\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spacex-worth-50-trillion-10-years-ron-baron-elon-thinks-im-way-low/cZxfiwQRBpg?.tsrc=rss",
+     "when": "Wed Oct 14, 1:28am MT"
+    },
     {
      "title": "Starlink Is Adding 570,000 Subscribers a Month. Here's What That's Worth To SpaceX.",
      "link": "https://www.fool.com/investing/2026/10/14/starlink-is-adding-570000-subscribers-a-month-here/?.tsrc=rss",
@@ -98,11 +103,6 @@
      "title": "ASTS Stock Bounces Overnight: Vodafone Questions SpaceX\u2019s Europe Push, AST Presses FCC On Spectrum",
      "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-vodafone-spacex-europe-push-ast-presses-fcc-spectrum/cZxfIlpRBYv?.tsrc=rss",
      "when": "Tue Oct 13, 7:39pm MT"
-    },
-    {
-     "title": "Elon Musk's SpaceX could change how Americans buy iPhones",
-     "link": "https://www.thestreet.com/technology/elon-musks-spacex-could-change-how-americans-buy-iphones?.tsrc=rss",
-     "when": "Tue Oct 13, 6:03pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,10 +127,10 @@
    "mcap": 1481988767744,
    "pe": 347.43518,
    "fpe": 172.13412,
-   "post": 374.88,
-   "post_pct": -0.093277745,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 376.09,
+   "pre_pct": 0.22918884,
    "day_lo": 371.3,
    "day_hi": 377.05,
    "next_earnings": "Wed Oct 21, 2026",
@@ -176,10 +176,10 @@
    "mcap": 3460402688,
    "pe": null,
    "fpe": -51.390804,
-   "post": 44.94,
-   "post_pct": 0.5144253,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 44.01,
+   "pre_pct": -1.6426431,
    "day_lo": 44.4,
    "day_hi": 45.63,
    "next_earnings": "Wed Nov 4, 2026",
@@ -226,10 +226,10 @@
    "mcap": 2280806656,
    "pe": 47.66,
    "fpe": 6.85566,
-   "post": 23.8,
-   "post_pct": -0.12589462,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 23.9099,
+   "pre_pct": 0.33529475,
    "day_lo": 23.305,
    "day_hi": 23.95,
    "next_earnings": "Tue Nov 3, 2026",
@@ -275,10 +275,10 @@
    "mcap": 971154496,
    "pe": null,
    "fpe": -60.124336,
-   "post": 19.7,
-   "post_pct": 1.3374497,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 19.5052,
+   "pre_pct": 0.20652083,
    "day_lo": 18.43,
    "day_hi": 19.58,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -324,8 +324,8 @@
    "mcap": 774369024,
    "pe": null,
    "fpe": 46.333332,
-   "post": 12.51,
-   "post_pct": 0.0,
+   "post": null,
+   "post_pct": null,
    "pre": null,
    "pre_pct": null,
    "day_lo": 12.37,
@@ -374,10 +374,10 @@
    "mcap": 10429114368,
    "pe": 26.1938,
    "fpe": 15.214278,
-   "post": 33.6283,
-   "post_pct": -0.47854748,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 33.83,
+   "pre_pct": 0.11838093,
    "day_lo": 33.3579,
    "day_hi": 35.0,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83384.32,
-   "chg_pct": -0.4472564,
-   "chg": -374.6172,
+   "price": 83720.85,
+   "chg_pct": 0.28174758,
+   "chg": 235.21875,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1675991056384,
+   "mcap": 1683047317504,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,9 +428,19 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 83092.65,
-   "day_hi": 83815.85,
-   "as_of": "Wed Oct 14, 1:30am MT",
+   "day_hi": 84005.72,
+   "as_of": "Wed Oct 14, 2:31am MT",
    "news": [
+    {
+     "title": "Is Bitcoin Ready for Quantum Computers? What Coinbase\u2019s New Plan Shows",
+     "link": "https://beincrypto.com/coinbase-bitcoin-post-quantum-readiness-paper/?.tsrc=rss",
+     "when": "Wed Oct 14, 1:57am MT"
+    },
+    {
+     "title": "Bitcoin flat at $83k as markets await U.S. inflation data",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-flat-83k-markets-await-072749698.html?.tsrc=rss",
+     "when": "Wed Oct 14, 1:27am MT"
+    },
     {
      "title": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-says-bitcoin-has-bottomed-and-should-get-back-above-100-000-long-term-forecast-is/cZxfODlRBpP?.tsrc=rss",
@@ -440,16 +450,6 @@
      "title": "MIT dropout\u2019s two startups announce shutdown weeks apart",
      "link": "https://www.thestreet.com/crypto/retail/mit-dropouts-two-startups-announce-shutdown-weeks-apart?.tsrc=rss",
      "when": "Tue Oct 13, 8:30pm MT"
-    },
-    {
-     "title": "American Bitcoin (ABTC) Stock Sees Fair Value Lift As Analysts Rework Bitcoin Assumptions",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-abtc-stock-sees-021403365.html?.tsrc=rss",
-     "when": "Tue Oct 13, 8:14pm MT"
-    },
-    {
-     "title": "Why Rising Treasury Yields Raise the Bar for Bitcoin to Attract Investors",
-     "link": "https://beincrypto.com/treasury-yields-raise-bar-bitcoin/?.tsrc=rss",
-     "when": "Tue Oct 13, 7:14pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,15 +488,15 @@
   },
   "^VIX": {
    "price": 15.18,
-   "chg_pct": -0.5897782,
+   "chg_pct": -0.58939195,
    "chg": -0.09000015,
-   "as_of": "Wed Oct 14, 1:15am MT"
+   "as_of": "Wed Oct 14, 2:16am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.152,
-   "chg_pct": -0.027402503,
-   "chg": -0.027999878,
-   "as_of": "Wed Oct 14, 1:20am MT"
+   "price": 102.159,
+   "chg_pct": -0.02055561,
+   "chg": -0.021003723,
+   "as_of": "Wed Oct 14, 2:21am MT"
   },
   "^GSPC": {
    "price": 7805.45,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 945.37,
-   "oracle": 944.78,
-   "prev": 952.79,
-   "funding": 2.5291e-05,
-   "oi": 146544.112,
-   "oi_usd": 138538407.16143999,
-   "vol": 157642212.51518005,
-   "rsi14": 39.56650216276926,
-   "ema20": 953.2285396812124,
-   "ema50": 969.3730331136861,
+   "mark": 949.98,
+   "oracle": 949.45,
+   "prev": 966.61,
+   "funding": 1.61974e-05,
+   "oi": 147566.766,
+   "oi_usd": 140185476.36468,
+   "vol": 150846294.16221002,
+   "rsi14": 44.59608777772462,
+   "ema20": 952.9229765815148,
+   "ema50": 968.6310135715582,
    "hi24": 968.48,
    "lo24": 930.0
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.14,
-   "oracle": 157.05,
-   "prev": 162.37,
-   "funding": 1.31563e-05,
-   "oi": 790804.2999999999,
-   "oi_usd": 124266987.70199998,
-   "vol": 65305040.06759999,
-   "rsi14": 34.77332996372074,
-   "ema20": 158.25000013898116,
-   "ema50": 160.21749668594305,
+   "mark": 157.25,
+   "oracle": 157.14,
+   "prev": 163.45,
+   "funding": 2.0313e-05,
+   "oi": 797774.1599999999,
+   "oi_usd": 125449986.65999998,
+   "vol": 66688518.507,
+   "rsi14": 37.09622451946666,
+   "ema20": 158.1428820907637,
+   "ema50": 160.09896189121332,
    "hi24": 163.65,
    "lo24": 156.23
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.89,
-   "oracle": 375.69,
-   "prev": 374.47,
-   "funding": 1.50096e-05,
-   "oi": 109199.852,
-   "oi_usd": 41047132.36828,
-   "vol": 22791627.51356,
-   "rsi14": 49.20486824153225,
-   "ema20": 375.8374747411795,
-   "ema50": 377.085981752177,
+   "mark": 376.23,
+   "oracle": 376.09,
+   "prev": 375.41,
+   "funding": 9.6668e-06,
+   "oi": 109215.78,
+   "oi_usd": 41090252.9094,
+   "vol": 20781957.3176,
+   "rsi14": 51.18542570773827,
+   "ema20": 375.87830849862803,
+   "ema50": 377.05921526067385,
    "hi24": 377.17,
    "lo24": 371.47
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83448.0,
-   "oracle": 83474.0,
-   "prev": 83680.0,
+   "mark": 83782.0,
+   "oracle": 83817.0,
+   "prev": 83889.0,
    "funding": 1.25e-05,
-   "oi": 38138.0933,
-   "oi_usd": 3182547609.6984,
-   "vol": 1976469775.7526593,
-   "rsi14": 52.23429279993215,
-   "ema20": 83395.72499826801,
-   "ema50": 83278.22761282907,
-   "hi24": 84133.0,
+   "oi": 37973.83668,
+   "oi_usd": 3181523984.72376,
+   "vol": 1940356862.3151295,
+   "rsi14": 58.64160191097648,
+   "ema20": 83441.72419817091,
+   "ema50": 83302.3294592556,
+   "hi24": 84103.0,
    "lo24": 82927.0
   },
-  "_at": 1791963061
+  "_at": 1791966668
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
