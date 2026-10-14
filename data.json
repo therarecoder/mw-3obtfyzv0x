@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T14:00:48.179459-06:00",
- "generated_mt": "Wed Oct 14 2026, 2:00pm MT",
+ "generated_at": "2026-10-14T14:05:57.656299-06:00",
+ "generated_mt": "Wed Oct 14 2026, 2:05pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1034267918336,
    "pe": 12.2982645,
    "fpe": 4.430375,
-   "post": 914.05,
-   "post_pct": -0.00875336,
+   "post": 911.7467,
+   "post_pct": -0.23725116,
    "pre": null,
    "pre_pct": null,
    "day_lo": 913.65,
@@ -75,8 +75,8 @@
    "mcap": 2004584366080,
    "pe": null,
    "fpe": 76.49768,
-   "post": 152.16,
-   "post_pct": 0.0,
+   "post": 152.14,
+   "post_pct": -0.013146866,
    "pre": null,
    "pre_pct": null,
    "day_lo": 151.101,
@@ -95,14 +95,14 @@
      "when": "Wed Oct 14, 8:26am MT"
     },
     {
+     "title": "What $10,000 Invested in SpaceX Today Could Be Worth by the End of 2027",
+     "link": "https://www.fool.com/investing/2026/10/14/what-10000-invested-in-spacex-today-could-be-worth/?.tsrc=rss",
+     "when": "Wed Oct 14, 1:59pm MT"
+    },
+    {
      "title": "SpaceX Stock Is Down. It\u2019s CoreWeave\u2019s Death Spiral.",
      "link": "https://finance.yahoo.com/m/0ceb4e45-57c5-39f5-a2b7-5f4d0311006d/spacex-stock-is-down.-it%E2%80%99s.html?.tsrc=rss",
      "when": "Wed Oct 14, 12:50pm MT"
-    },
-    {
-     "title": "Elon Musk's SpaceX Just Announced Good (and Bad) News to Apple Shareholders",
-     "link": "https://www.fool.com/investing/2026/10/14/elon-musks-spacex-just-announced-bad-news-to-apple/?.tsrc=rss",
-     "when": "Wed Oct 14, 11:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,8 +127,8 @@
    "mcap": 1450115858432,
    "pe": 339.96295,
    "fpe": 168.43207,
-   "post": 367.25,
-   "post_pct": 0.024511477,
+   "post": 366.5,
+   "post_pct": -0.17975914,
    "pre": null,
    "pre_pct": null,
    "day_lo": 363.82,
@@ -226,8 +226,8 @@
    "mcap": 2176481024,
    "pe": 45.48,
    "fpe": 6.5420775,
-   "post": 22.74,
-   "post_pct": 0.0,
+   "post": 22.73,
+   "post_pct": -0.04397638,
    "pre": null,
    "pre_pct": null,
    "day_lo": 22.21,
@@ -275,8 +275,8 @@
    "mcap": 877236160,
    "pe": null,
    "fpe": -54.309837,
-   "post": 18.4497,
-   "post_pct": 5.0666285,
+   "post": 17.634,
+   "post_pct": 0.4214198,
    "pre": null,
    "pre_pct": null,
    "day_lo": 17.52,
@@ -324,8 +324,8 @@
    "mcap": 601977536,
    "pe": null,
    "fpe": 36.01852,
-   "post": 9.725,
-   "post_pct": 0.0,
+   "post": 9.8887,
+   "post_pct": 1.6832817,
    "pre": null,
    "pre_pct": null,
    "day_lo": 9.535,
@@ -374,8 +374,8 @@
    "mcap": 10595782656,
    "pe": 26.612406,
    "fpe": 15.457419,
-   "post": 33.595,
-   "post_pct": -2.1409862,
+   "post": 34.32,
+   "post_pct": -0.029135263,
    "pre": null,
    "pre_pct": null,
    "day_lo": 33.212,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81781.89,
-   "chg_pct": -1.8691678,
-   "chg": -1557.7578,
+   "price": 81765.37,
+   "chg_pct": -1.8889943,
+   "chg": -1574.2812,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1641880748032,
+   "mcap": 1644082233344,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 81469.35,
    "day_hi": 84005.72,
-   "as_of": "Wed Oct 14, 2:00pm MT",
+   "as_of": "Wed Oct 14, 2:05pm MT",
    "news": [
     {
      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
@@ -487,28 +487,28 @@
    "as_of": "Wed Oct 14, 12:59pm MT"
   },
   "^VIX": {
-   "price": 16.92,
-   "chg_pct": 10.81967,
-   "chg": 1.6499996,
-   "as_of": "Wed Oct 14, 1:45pm MT"
-  },
-  "DX-Y.NYB": {
-   "price": 102.541,
-   "chg_pct": 0.3532947,
-   "chg": 0.36100006,
+   "price": 16.86,
+   "chg_pct": 10.412575,
+   "chg": 1.5900002,
    "as_of": "Wed Oct 14, 1:50pm MT"
   },
+  "DX-Y.NYB": {
+   "price": 102.532,
+   "chg_pct": 0.34448418,
+   "chg": 0.35199738,
+   "as_of": "Wed Oct 14, 1:55pm MT"
+  },
   "^GSPC": {
-   "price": 7719.54,
-   "chg_pct": -1.1006432,
-   "chg": -85.91016,
-   "as_of": "Wed Oct 14, 2:00pm MT"
+   "price": 7718.94,
+   "chg_pct": -1.1083313,
+   "chg": -86.510254,
+   "as_of": "Wed Oct 14, 2:05pm MT"
   },
   "^NDX": {
    "price": 29950.816,
    "chg_pct": -2.0237966,
    "chg": -618.66406,
-   "as_of": "Wed Oct 14, 2:00pm MT"
+   "as_of": "Wed Oct 14, 2:05pm MT"
   }
  },
  "errors": [],
@@ -622,34 +622,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 913.92,
-   "oracle": 913.42,
-   "prev": 952.93,
-   "funding": 2.18061e-05,
-   "oi": 145500.42,
-   "oi_usd": 132975743.84640001,
-   "vol": 137407611.51290995,
-   "rsi14": 28.540603597605767,
-   "ema20": 935.2248601133231,
-   "ema50": 953.4821402099956,
+   "mark": 911.99,
+   "oracle": 911.7,
+   "prev": 956.8,
+   "funding": 1.24587e-05,
+   "oi": 145468.368,
+   "oi_usd": 132665696.93231998,
+   "vol": 136150575.99684995,
+   "rsi14": 27.29388811180786,
+   "ema20": 934.9648601133231,
+   "ema50": 953.3750813864661,
    "hi24": 966.83,
-   "lo24": 914.24
+   "lo24": 911.92
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 151.98,
-   "oracle": 151.91,
-   "prev": 156.67,
-   "funding": 7.7278e-06,
-   "oi": 828098.4800000001,
-   "oi_usd": 125854406.9904,
-   "vol": 94288418.47110024,
-   "rsi14": 29.761523081082117,
-   "ema20": 154.88391755984162,
-   "ema50": 157.67713077232682,
+   "mark": 152.08,
+   "oracle": 152.01,
+   "prev": 156.7,
+   "funding": 1.07208e-05,
+   "oi": 830467.66,
+   "oi_usd": 126297521.73280002,
+   "vol": 94705877.84030002,
+   "rsi14": 29.730147816030723,
+   "ema20": 154.88296517888924,
+   "ema50": 157.67673861546407,
    "hi24": 158.42,
    "lo24": 151.22
   },
@@ -661,16 +661,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 367.27,
-   "oracle": 367.24,
-   "prev": 375.29,
+   "mark": 366.65,
+   "oracle": 366.65,
+   "prev": 374.64,
    "funding": 6.25e-06,
-   "oi": 114975.456,
-   "oi_usd": 42227035.72512,
-   "vol": 30312964.440889984,
-   "rsi14": 38.678267621646825,
-   "ema20": 370.4178668449772,
-   "ema50": 373.85062090241195,
+   "oi": 114911.182,
+   "oi_usd": 42132184.8803,
+   "vol": 30195251.710179992,
+   "rsi14": 37.053063821481366,
+   "ema20": 370.33691446402486,
+   "ema50": 373.81728756907864,
    "hi24": 377.17,
    "lo24": 364.0
   },
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81860.0,
-   "oracle": 81885.2,
-   "prev": 83271.0,
+   "mark": 81847.0,
+   "oracle": 81870.0,
+   "prev": 83238.0,
    "funding": 1.25e-05,
-   "oi": 40389.78198,
-   "oi_usd": 3306307552.8828,
-   "vol": 2944207779.6147103,
-   "rsi14": 36.684592327385495,
-   "ema20": 82501.93874825082,
-   "ema50": 82878.73199191577,
+   "oi": 40411.02494,
+   "oi_usd": 3307521158.26418,
+   "vol": 2946129996.3204985,
+   "rsi14": 36.40402927545138,
+   "ema20": 82500.60541491749,
+   "ema50": 82878.18297230794,
    "hi24": 84103.0,
    "lo24": 81497.0
   },
-  "_at": 1792008055
+  "_at": 1792008364
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 7:33am MT",
