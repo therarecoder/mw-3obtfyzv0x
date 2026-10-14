@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T19:22:04.659061-06:00",
- "generated_mt": "Tue Oct 13 2026, 7:22pm MT",
+ "generated_at": "2026-10-13T20:22:10.934091-06:00",
+ "generated_mt": "Tue Oct 13 2026, 8:22pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -19,7 +19,7 @@
    "price": 953.19,
    "chg_pct": -3.62472,
    "chg": -35.85,
-   "lo52": 186.25,
+   "lo52": 187.42,
    "hi52": 1255.0,
    "mcap": 1078461333504,
    "pe": 12.823759,
@@ -34,24 +34,24 @@
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
     {
+     "title": "MU Stock Edges Up Overnight: Elon Musk Says Micron Is Being \u2018Reasonable\u2019 On Memory Prices While Others Are \u2018Extortionate\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-edges-up-overnight-elon-musk-says-micron-is-being-reasonable-on-memory-prices-while-others-are-extortionate/cZxfebxRBYD?.tsrc=rss",
+     "when": "Tue Oct 13, 7:57pm MT"
+    },
+    {
+     "title": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-muted-chip-012425121.html?.tsrc=rss",
+     "when": "Tue Oct 13, 7:24pm MT"
+    },
+    {
+     "title": "Micron Technology (MU) Dropped, What Is Driving Attention Now?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-dropped-driving-012009860.html?.tsrc=rss",
+     "when": "Tue Oct 13, 7:20pm MT"
+    },
+    {
      "title": "Micron Just Raised Its Buyback Authorization to $35 Billion. Prediction: It Spends More Buying Back Stock in the Next Year Than in the Past 8 Combined.",
      "link": "https://www.fool.com/investing/2026/10/13/micron-just-raised-its-buyback-authorization-to-usd35-billion-prediction-it-spends-more-buying-back-stock-in-the-next-year-than-in-the-past-8-combined/?.tsrc=rss",
      "when": "Tue Oct 13, 2:57pm MT"
-    },
-    {
-     "title": "Micron (MU) Trades at 7x Forward Earnings: Is it a Bargain or a Peak-Cycle Warning?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-trades-7x-forward-204223074.html?.tsrc=rss",
-     "when": "Tue Oct 13, 2:42pm MT"
-    },
-    {
-     "title": "Stocks Struggle Ahead of September CPI Report: Stock Market Today",
-     "link": "https://www.kiplinger.com/investing/stocks/stocks-struggle-ahead-of-september-cpi-report-stock-market-today?.tsrc=rss",
-     "when": "Tue Oct 13, 2:08pm MT"
-    },
-    {
-     "title": "China's CXMT Sparked a Global Chip Stock Rout. Why Samsung, Micron and SK Hynix Are Tumbling.",
-     "link": "https://www.ibtimes.com/chinas-cxmt-sparked-global-chip-stock-rout-why-samsung-micron-sk-hynix-are-tumbling-3808543?.tsrc=rss",
-     "when": "Tue Oct 13, 1:41pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -84,6 +84,11 @@
    "next_earnings": "Tue Nov 3, 2026 (est.)",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
+    {
+     "title": "ASTS Stock Bounces Overnight: Vodafone Questions SpaceX\u2019s Europe Push, AST Presses FCC On Spectrum",
+     "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-vodafone-spacex-europe-push-ast-presses-fcc-spectrum/cZxfIlpRBYv?.tsrc=rss",
+     "when": "Tue Oct 13, 7:39pm MT"
+    },
     {
      "title": "Elon Musk's SpaceX could change how Americans buy iPhones",
      "link": "https://www.thestreet.com/technology/elon-musks-spacex-could-change-how-americans-buy-iphones?.tsrc=rss",
@@ -379,6 +384,11 @@
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
     {
+     "title": "Oscar Health (OSCR) Stock May Be Undervalued Following Raised 2026 Outlook",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-oscr-stock-may-011517676.html?.tsrc=rss",
+     "when": "Tue Oct 13, 7:15pm MT"
+    },
+    {
      "title": "Oscar Health Raises 2026 Operating Earnings Outlook as Margins Improve",
      "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-raises-2026-operating-172000855.html?.tsrc=rss",
      "when": "Tue Oct 13, 11:20am MT"
@@ -392,11 +402,6 @@
      "title": "Oscar Health Rallies 14.9% in 3 Months: Can the Gains Keep Going?",
      "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-rallies-14-9-171200943.html?.tsrc=rss",
      "when": "Tue Oct 13, 11:12am MT"
-    },
-    {
-     "title": "Oscar Health's Q3 Upside Less Certain as Guidance Reflects Positive Trends, UBS Says",
-     "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-apos-q3-upside-185529934.html?.tsrc=rss",
-     "when": "Mon Oct 12, 12:55pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/OSCR"
@@ -410,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83263.61,
-   "chg_pct": 1.1091635,
-   "chg": 913.39844,
+   "price": 83268.78,
+   "chg_pct": 0.5377879,
+   "chg": 445.41406,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1672124170240,
+   "mcap": 1673581953024,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 83092.65,
    "day_hi": 83586.375,
-   "as_of": "Tue Oct 13, 7:22pm MT",
+   "as_of": "Tue Oct 13, 8:22pm MT",
    "news": [
+    {
+     "title": "American Bitcoin (ABTC) Stock Sees Fair Value Lift As Analysts Rework Bitcoin Assumptions",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-abtc-stock-sees-021403365.html?.tsrc=rss",
+     "when": "Tue Oct 13, 8:14pm MT"
+    },
     {
      "title": "ASST Stock Rises Overnight: Strive Launches IPO Of 15% SATS Preferred Stock To Fund Bitcoin Purchases",
      "link": "https://stocktwits.com/news-articles/markets/equity/asst-stock-rises-overnight-strive-launches-ipo-of-15-sats-preferred-stock-to-fund-bitcoin-purchases/cZxf4MGRBYM?.tsrc=rss",
@@ -440,11 +450,6 @@
      "title": "Wall Street prices HIVE like a Bitcoin miner, but analysts are missing the AI business",
      "link": "https://www.thestreet.com/crypto/innovation/wall-street-prices-hive-like-a-bitcoin-miner-but-analysts-are-missing-the-ai-business-?.tsrc=rss",
      "when": "Tue Oct 13, 4:19pm MT"
-    },
-    {
-     "title": "Strategy (MSTR) Stock Still Looks Like A Bargain Despite Its 354% Run",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-stock-still-looks-221412970.html?.tsrc=rss",
-     "when": "Tue Oct 13, 4:14pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,10 +493,10 @@
    "as_of": "Tue Oct 13, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.165,
-   "chg_pct": -0.014679235,
-   "chg": -0.01499939,
-   "as_of": "Tue Oct 13, 7:12pm MT"
+   "price": 102.139,
+   "chg_pct": -0.040125627,
+   "chg": -0.041000366,
+   "as_of": "Tue Oct 13, 8:12pm MT"
   },
   "^GSPC": {
    "price": 7805.45,
@@ -616,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 957.96,
-   "oracle": 957.72,
-   "prev": 957.95,
-   "funding": 6.25e-06,
-   "oi": 135802.1899999999,
-   "oi_usd": 130093065.9323999,
-   "vol": 169530496.66522995,
-   "rsi14": 48.161248671648266,
-   "ema20": 955.9023768402534,
-   "ema50": 974.3581768064009,
+   "mark": 961.94,
+   "oracle": 960.89,
+   "prev": 959.06,
+   "funding": 3.27548e-05,
+   "oi": 141515.3700000005,
+   "oi_usd": 136129295.01780048,
+   "vol": 170265610.8785094,
+   "rsi14": 51.91809903029606,
+   "ema20": 956.7658233935375,
+   "ema50": 973.9963508425743,
    "hi24": 969.19,
    "lo24": 930.0
   },
@@ -634,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.52,
-   "oracle": 157.49,
-   "prev": 162.0,
-   "funding": 6.25e-06,
-   "oi": 796155.98,
-   "oi_usd": 125410489.9696,
-   "vol": 65194245.497,
-   "rsi14": 34.81898416539427,
-   "ema20": 158.81137821171322,
-   "ema50": 160.91228767131832,
+   "mark": 157.91,
+   "oracle": 157.84,
+   "prev": 161.69,
+   "funding": 8.5534e-06,
+   "oi": 793310.3400000001,
+   "oi_usd": 125271635.78940001,
+   "vol": 64019059.27309999,
+   "rsi14": 37.30086208228862,
+   "ema20": 158.74448952880377,
+   "ema50": 160.8027609999456,
    "hi24": 163.65,
    "lo24": 156.23
   },
@@ -655,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.48,
-   "oracle": 375.43,
-   "prev": 375.73,
-   "funding": 6.25e-06,
-   "oi": 106112.75,
-   "oi_usd": 39843215.370000005,
-   "vol": 22193874.96524,
-   "rsi14": 48.0425255754547,
-   "ema20": 375.4293500752035,
-   "ema50": 377.2509472946239,
+   "mark": 376.4,
+   "oracle": 376.23,
+   "prev": 374.81,
+   "funding": 6.2657e-06,
+   "oi": 106161.438,
+   "oi_usd": 39959165.26319999,
+   "vol": 22236979.19489999,
+   "rsi14": 53.04514770420869,
+   "ema20": 375.5917720106162,
+   "ema50": 377.25065522559686,
    "hi24": 377.04,
    "lo24": 371.47
   },
@@ -690,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83298.0,
-   "oracle": 83339.0,
-   "prev": 82050.0,
-   "funding": 1.02397e-05,
-   "oi": 37915.88446,
-   "oi_usd": 3158317343.74908,
-   "vol": 2461714916.5463295,
-   "rsi14": 50.63790406734296,
-   "ema20": 83285.69244765198,
-   "ema50": 83201.51924431958,
+   "mark": 83311.0,
+   "oracle": 83350.0,
+   "prev": 82707.0,
+   "funding": 1.15982e-05,
+   "oi": 37914.5299,
+   "oi_usd": 3158697400.4989,
+   "vol": 2313461765.9103827,
+   "rsi14": 51.06859054016481,
+   "ema20": 83288.10346674784,
+   "ema50": 83206.92678248954,
    "hi24": 84133.0,
-   "lo24": 82385.0
+   "lo24": 82752.0
   },
-  "_at": 1791940929
+  "_at": 1791944535
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
