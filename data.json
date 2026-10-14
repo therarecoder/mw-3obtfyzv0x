@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T00:30:51.740050-06:00",
- "generated_mt": "Wed Oct 14 2026, 12:30am MT",
+ "generated_at": "2026-10-14T01:30:57.860638-06:00",
+ "generated_mt": "Wed Oct 14 2026, 1:30am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -126,7 +126,7 @@
    "hi52": 498.83,
    "mcap": 1481988767744,
    "pe": 347.43518,
-   "fpe": 171.93063,
+   "fpe": 172.13412,
    "post": 374.88,
    "post_pct": -0.093277745,
    "pre": null,
@@ -137,6 +137,16 @@
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
     {
+     "title": "TSLA Stock Rises Overnight: Tesla\u2019s Long-Delayed Roadster Event Is Back On \u2014 Musk Teases \u2018Timing Is Everything\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-tesla-roadster-event-back-musk-teases-timing-is-everything/cZxfhlNRBpQ?.tsrc=rss",
+     "when": "Wed Oct 14, 12:39am MT"
+    },
+    {
+     "title": "Tesla Roadster Reveal Nears as Elon Musk Fuels \u2018Back to the Future\u2019 Easter-Egg Speculation \u2014 TSLA CEO Says \u2018Timing Is Everything\u2019",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-nears-elon-061046578.html?.tsrc=rss",
+     "when": "Wed Oct 14, 12:10am MT"
+    },
+    {
      "title": "Kimbal Musk Says Tesla Cybercab Is \u2018Amazing to Use\u2019 as Driverless Fleet Explodes in Austin and Raises Stakes for Elon Musk\u2019s Robotaxi Bet",
      "link": "https://finance.yahoo.com/technology/ai/articles/kimbal-musk-says-tesla-cybercab-033013115.html?.tsrc=rss",
      "when": "Tue Oct 13, 9:30pm MT"
@@ -145,16 +155,6 @@
      "title": "Could Tesla's Roadster Reveal Trigger Another Stock Crash?",
      "link": "https://beincrypto.com/tesla-roadster-hover-demo-tsla-stock-impact/?.tsrc=rss",
      "when": "Tue Oct 13, 4:48pm MT"
-    },
-    {
-     "title": "Tesla Robotaxi Fleet in Austin Soars 8x in a Month While Elon Musk Admits TSLA Is Still Working on Not Running Over Cats",
-     "link": "https://finance.yahoo.com/technology/ai/articles/tesla-robotaxi-fleet-austin-soars-213024117.html?.tsrc=rss",
-     "when": "Tue Oct 13, 3:30pm MT"
-    },
-    {
-     "title": "Tesla target lowered by analysts worried about runaway $25 billion spending",
-     "link": "https://www.thestreet.com/investing/stocks/tesla-target-lowered-by-analysts-worried-about-runaway-25-billion-spending?.tsrc=rss",
-     "when": "Tue Oct 13, 2:33pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83407.97,
-   "chg_pct": -0.31030533,
-   "chg": -259.625,
+   "price": 83384.32,
+   "chg_pct": -0.4472564,
+   "chg": -374.6172,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1676715884544,
+   "mcap": 1675991056384,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 83092.65,
    "day_hi": 83815.85,
-   "as_of": "Wed Oct 14, 12:30am MT",
+   "as_of": "Wed Oct 14, 1:30am MT",
    "news": [
     {
      "title": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
@@ -487,16 +487,16 @@
    "as_of": "Tue Oct 13, 12:59pm MT"
   },
   "^VIX": {
-   "price": 15.27,
-   "chg_pct": 0.39448008,
-   "chg": 0.06000042,
-   "as_of": "Tue Oct 13, 2:15pm MT"
+   "price": 15.18,
+   "chg_pct": -0.5897782,
+   "chg": -0.09000015,
+   "as_of": "Wed Oct 14, 1:15am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.117,
-   "chg_pct": -0.061658762,
-   "chg": -0.06300354,
-   "as_of": "Wed Oct 14, 12:20am MT"
+   "price": 102.152,
+   "chg_pct": -0.027402503,
+   "chg": -0.027999878,
+   "as_of": "Wed Oct 14, 1:20am MT"
   },
   "^GSPC": {
    "price": 7805.45,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 944.34,
-   "oracle": 943.71,
-   "prev": 958.36,
-   "funding": 2.07219e-05,
-   "oi": 145475.378,
-   "oi_usd": 137378218.46052,
-   "vol": 162941465.6293,
-   "rsi14": 38.25482905260998,
-   "ema20": 954.220568847767,
-   "ema50": 970.4241297796466,
+   "mark": 945.37,
+   "oracle": 944.78,
+   "prev": 952.79,
+   "funding": 2.5291e-05,
+   "oi": 146544.112,
+   "oi_usd": 138538407.16143999,
+   "vol": 157642212.51518005,
+   "rsi14": 39.56650216276926,
+   "ema20": 953.2285396812124,
+   "ema50": 969.3730331136861,
    "hi24": 968.48,
    "lo24": 930.0
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.42,
-   "oracle": 157.39,
-   "prev": 162.59,
-   "funding": 6.25e-06,
-   "oi": 788699.2799999999,
-   "oi_usd": 124157040.65759997,
-   "vol": 64446410.23039998,
-   "rsi14": 37.17721124342726,
-   "ema20": 158.3820787725359,
-   "ema50": 160.3472449404649,
+   "mark": 157.14,
+   "oracle": 157.05,
+   "prev": 162.37,
+   "funding": 1.31563e-05,
+   "oi": 790804.2999999999,
+   "oi_usd": 124266987.70199998,
+   "vol": 65305040.06759999,
+   "rsi14": 34.77332996372074,
+   "ema20": 158.25000013898116,
+   "ema50": 160.21749668594305,
    "hi24": 163.65,
    "lo24": 156.23
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.76,
-   "oracle": 375.66,
-   "prev": 374.4,
-   "funding": 6.25e-06,
-   "oi": 109049.156,
-   "oi_usd": 40976310.85856,
-   "vol": 22562012.80632,
-   "rsi14": 48.56936200105266,
-   "ema20": 375.7985084111561,
-   "ema50": 377.11595665943184,
+   "mark": 375.89,
+   "oracle": 375.69,
+   "prev": 374.47,
+   "funding": 1.50096e-05,
+   "oi": 109199.852,
+   "oi_usd": 41047132.36828,
+   "vol": 22791627.51356,
+   "rsi14": 49.20486824153225,
+   "ema20": 375.8374747411795,
+   "ema50": 377.085981752177,
    "hi24": 377.17,
    "lo24": 371.47
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83458.0,
-   "oracle": 83494.1,
-   "prev": 83670.0,
-   "funding": 1.12537e-05,
-   "oi": 37828.60622,
-   "oi_usd": 3157099817.90876,
-   "vol": 1995383001.7364788,
-   "rsi14": 52.33991942615838,
-   "ema20": 83394.85850784455,
-   "ema50": 83272.6062827931,
+   "mark": 83448.0,
+   "oracle": 83474.0,
+   "prev": 83680.0,
+   "funding": 1.25e-05,
+   "oi": 38138.0933,
+   "oi_usd": 3182547609.6984,
+   "vol": 1976469775.7526593,
+   "rsi14": 52.23429279993215,
+   "ema20": 83395.72499826801,
+   "ema50": 83278.22761282907,
    "hi24": 84133.0,
    "lo24": 82927.0
   },
-  "_at": 1791959456
+  "_at": 1791963061
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
