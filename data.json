@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T15:16:27.543972-06:00",
- "generated_mt": "Wed Oct 14 2026, 3:16pm MT",
+ "generated_at": "2026-10-14T16:26:19.252620-06:00",
+ "generated_mt": "Wed Oct 14 2026, 4:26pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1034267918336,
    "pe": 12.2982645,
    "fpe": 4.430375,
-   "post": 907.5296,
-   "post_pct": -0.722042,
+   "post": 900.02,
+   "post_pct": -1.5435425,
    "pre": null,
    "pre_pct": null,
    "day_lo": 913.65,
@@ -75,8 +75,8 @@
    "mcap": 2004584366080,
    "pe": null,
    "fpe": 76.49768,
-   "post": 151.6893,
-   "post_pct": -0.30934748,
+   "post": 151.2454,
+   "post_pct": -0.60107553,
    "pre": null,
    "pre_pct": null,
    "day_lo": 151.101,
@@ -90,6 +90,11 @@
      "when": "Wed Oct 14, 12:39pm MT"
     },
     {
+     "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
+     "link": "https://www.thestreet.com/crypto/markets/spacexs-bitcoin-stash-has-lost-millions-this-year-heres-what-musks-company-still-holds-now?.tsrc=rss",
+     "when": "Wed Oct 14, 4:00pm MT"
+    },
+    {
      "title": "AST SpaceMobile Is the New Battleground Stock",
      "link": "https://finance.yahoo.com/m/ee43bb70-dbb9-3a9d-88a0-c18f1014c2a0/ast-spacemobile-is-the-new.html?.tsrc=rss",
      "when": "Wed Oct 14, 2:23pm MT"
@@ -98,11 +103,6 @@
      "title": "SpaceX Stock Is Down. It\u2019s Due to CoreWeave\u2019s Troubles.",
      "link": "https://finance.yahoo.com/m/0ceb4e45-57c5-39f5-a2b7-5f4d0311006d/spacex-stock-is-down.-it%E2%80%99s.html?.tsrc=rss",
      "when": "Wed Oct 14, 2:21pm MT"
-    },
-    {
-     "title": "What $10,000 Invested in SpaceX Today Could Be Worth by the End of 2027",
-     "link": "https://www.fool.com/investing/2026/10/14/what-10000-invested-in-spacex-today-could-be-worth/?.tsrc=rss",
-     "when": "Wed Oct 14, 1:59pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,8 +127,8 @@
    "mcap": 1450115858432,
    "pe": 339.96295,
    "fpe": 168.43207,
-   "post": 366.9,
-   "post_pct": -0.07081647,
+   "post": 365.01,
+   "post_pct": -0.5855741,
    "pre": null,
    "pre_pct": null,
    "day_lo": 363.82,
@@ -147,14 +147,14 @@
      "when": "Wed Oct 14, 8:26am MT"
     },
     {
+     "title": "Global X Investments Canada Inc. Closes the Market",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-investments-canada-inc-211500784.html?.tsrc=rss",
+     "when": "Wed Oct 14, 3:15pm MT"
+    },
+    {
      "title": "Tesla Just Launched the Cybercab in Austin. Here's How Many People Can Actually Hail One.",
      "link": "https://www.fool.com/investing/2026/10/14/tesla-just-launched-the-cybercab-in-austin/?.tsrc=rss",
      "when": "Wed Oct 14, 2:20pm MT"
-    },
-    {
-     "title": "Amazon Is the Most Crowded Stock for Hedge Funds. Tesla, Not So Much.",
-     "link": "https://finance.yahoo.com/m/6150becb-110a-3ef6-a3e3-c44485793023/amazon-is-the-most-crowded.html?.tsrc=rss",
-     "when": "Wed Oct 14, 1:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -169,18 +169,18 @@
    ],
    "watch": "Price & news",
    "price": 43.86,
-   "chg_pct": -1.90114,
-   "chg": -0.849998,
-   "lo52": 42.705,
+   "chg_pct": -1.9011372,
+   "chg": -0.8499985,
+   "lo52": 42.7,
    "hi52": 99.9,
    "mcap": 3394615552,
    "pe": null,
    "fpe": -50.41379,
-   "post": 43.95,
-   "post_pct": 0.2051987,
+   "post": 43.86,
+   "post_pct": 0.0,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 42.705,
+   "day_lo": 42.7,
    "day_hi": 44.9755,
    "next_earnings": "Wed Nov 4, 2026",
    "as_of": "Wed Oct 14, 2:00pm MT",
@@ -226,8 +226,8 @@
    "mcap": 2176481024,
    "pe": 45.48,
    "fpe": 6.5420775,
-   "post": 22.79,
-   "post_pct": 0.2198819,
+   "post": 22.6448,
+   "post_pct": -0.41864374,
    "pre": null,
    "pre_pct": null,
    "day_lo": 22.21,
@@ -268,15 +268,15 @@
    ],
    "watch": "Price & news",
    "price": 17.73,
-   "chg_pct": -8.7963,
-   "chg": -1.71,
+   "chg_pct": -8.796302,
+   "chg": -1.710001,
    "lo52": 7.245,
    "hi52": 34.926,
    "mcap": 885728768,
    "pe": null,
    "fpe": -54.835617,
-   "post": 17.7985,
-   "post_pct": 0.38635376,
+   "post": 17.7,
+   "post_pct": -0.16919786,
    "pre": null,
    "pre_pct": null,
    "day_lo": 17.52,
@@ -324,8 +324,8 @@
    "mcap": 601977536,
    "pe": null,
    "fpe": 36.01852,
-   "post": 9.77,
-   "post_pct": 0.4627257,
+   "post": 9.7008,
+   "post_pct": -0.2488477,
    "pre": null,
    "pre_pct": null,
    "day_lo": 9.535,
@@ -367,22 +367,27 @@
    ],
    "watch": "Price & news",
    "price": 34.32,
-   "chg_pct": 1.56851,
-   "chg": 0.529999,
+   "chg_pct": 1.5685078,
+   "chg": 0.5299988,
    "lo52": 10.69,
    "hi52": 35.01,
    "mcap": 10592696320,
    "pe": 26.604652,
    "fpe": 15.452915,
-   "post": 34.0205,
-   "post_pct": -0.8726676,
+   "post": 34.1002,
+   "post_pct": -0.6404401,
    "pre": null,
    "pre_pct": null,
    "day_lo": 33.212,
-   "day_hi": 34.49,
+   "day_hi": 34.525,
    "next_earnings": "Thu Nov 5, 2026",
    "as_of": "Wed Oct 14, 2:00pm MT",
    "news": [
+    {
+     "title": "Oscar Health, Inc. (OSCR) Rises As Market Takes a Dip: Key Facts",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-inc-oscr-rises-211504580.html?.tsrc=rss",
+     "when": "Wed Oct 14, 3:15pm MT"
+    },
     {
      "title": "Why Fast-paced Mover Oscar Health (OSCR) Is a Great Choice for Value Investors",
      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fast-paced-mover-oscar-115502943.html?.tsrc=rss",
@@ -397,11 +402,6 @@
      "title": "Oscar Health (OSCR) Stock May Be Undervalued Following Raised 2026 Outlook",
      "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-oscr-stock-may-011517676.html?.tsrc=rss",
      "when": "Tue Oct 13, 7:15pm MT"
-    },
-    {
-     "title": "Oscar Health Raises 2026 Operating Earnings Outlook as Margins Improve",
-     "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-raises-2026-operating-172000855.html?.tsrc=rss",
-     "when": "Tue Oct 13, 11:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/OSCR"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81673.47,
-   "chg_pct": -2.1428921,
-   "chg": -1788.5,
+   "price": 81480.9,
+   "chg_pct": -2.3676252,
+   "chg": -1975.9453,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1641195896832,
+   "mcap": 1637400313856,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 81469.35,
    "day_hi": 84005.72,
-   "as_of": "Wed Oct 14, 3:16pm MT",
+   "as_of": "Wed Oct 14, 4:26pm MT",
    "news": [
+    {
+     "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
+     "link": "https://www.thestreet.com/crypto/markets/spacexs-bitcoin-stash-has-lost-millions-this-year-heres-what-musks-company-still-holds-now?.tsrc=rss",
+     "when": "Wed Oct 14, 4:00pm MT"
+    },
     {
      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195419533.html?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Ripple gives AI agents their own crypto wallets",
      "link": "http://videos.coindesk.com/previews/GFbQqjWa?.tsrc=rss",
      "when": "Wed Oct 14, 1:14pm MT"
-    },
-    {
-     "title": "Is this the best time for investors to buy in on the AI trade?",
-     "link": "https://finance.yahoo.com/video/is-this-the-best-time-for-investors-to-buy-in-on-the-ai-trade-183958106.html?.tsrc=rss",
-     "when": "Wed Oct 14, 12:39pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -493,10 +493,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.547,
-   "chg_pct": 0.35916692,
-   "chg": 0.36699677,
-   "as_of": "Wed Oct 14, 3:06pm MT"
+   "price": 102.553,
+   "chg_pct": 0.36504316,
+   "chg": 0.3730011,
+   "as_of": "Wed Oct 14, 4:04pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -508,7 +508,7 @@
    "price": 29950.816,
    "chg_pct": -2.0237966,
    "chg": -618.66406,
-   "as_of": "Wed Oct 14, 3:16pm MT"
+   "as_of": "Wed Oct 14, 3:15pm MT"
   }
  },
  "errors": [],
@@ -622,34 +622,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 908.07,
-   "oracle": 907.53,
-   "prev": 952.74,
-   "funding": 2.05169e-05,
-   "oi": 145956.3580000001,
-   "oi_usd": 132538590.0090601,
-   "vol": 138461880.33074993,
-   "rsi14": 25.683636726264112,
-   "ema20": 932.064803757557,
-   "ema50": 951.4479671248752,
+   "mark": 900.56,
+   "oracle": 900.05,
+   "prev": 958.11,
+   "funding": 1.53297e-05,
+   "oi": 144824.1399999999,
+   "oi_usd": 130422827.5183999,
+   "vol": 144669242.5121702,
+   "rsi14": 23.02151023261999,
+   "ema20": 928.9647134715511,
+   "ema50": 949.4138762884822,
    "hi24": 966.83,
-   "lo24": 906.71
+   "lo24": 896.84
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 151.82,
-   "oracle": 151.71,
-   "prev": 157.12,
-   "funding": 2.91549e-05,
-   "oi": 822806.8199999998,
-   "oi_usd": 124918531.41239996,
-   "vol": 97544416.92650004,
-   "rsi14": 28.780460211098088,
-   "ema20": 154.5679886281661,
-   "ema50": 157.43649448335827,
+   "mark": 151.36,
+   "oracle": 151.25,
+   "prev": 157.16,
+   "funding": 2.32392e-05,
+   "oi": 817357.48,
+   "oi_usd": 123715228.1728,
+   "vol": 99875420.4443,
+   "rsi14": 27.57397528987225,
+   "ema20": 154.27325982765035,
+   "ema50": 157.20319391108893,
    "hi24": 158.42,
    "lo24": 151.22
   },
@@ -661,16 +661,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 366.93,
-   "oracle": 366.85,
-   "prev": 374.65,
-   "funding": 7.8892e-06,
-   "oi": 119572.504,
-   "oi_usd": 43874738.89272,
-   "vol": 32898721.146970004,
-   "rsi14": 37.8255820428471,
-   "ema20": 370.0669150810362,
-   "ema50": 373.5731781886104,
+   "mark": 365.1,
+   "oracle": 365.1,
+   "prev": 374.94,
+   "funding": 6.25e-06,
+   "oi": 115920.204,
+   "oi_usd": 42322466.4804,
+   "vol": 34359851.40257999,
+   "rsi14": 34.11969100618765,
+   "ema20": 369.59024765174127,
+   "ema50": 373.23967489903924,
    "hi24": 377.17,
    "lo24": 364.0
   },
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81750.0,
-   "oracle": 81780.0,
-   "prev": 83344.0,
+   "mark": 81566.0,
+   "oracle": 81595.9,
+   "prev": 83419.0,
    "funding": 1.25e-05,
-   "oi": 40645.44064,
-   "oi_usd": 3322764772.32,
-   "vol": 2951129419.314861,
-   "rsi14": 34.66493389349105,
-   "ema20": 82419.8857954479,
-   "ema50": 82830.17469822073,
+   "oi": 40380.36414,
+   "oi_usd": 3293664781.4432397,
+   "vol": 2976792786.8718615,
+   "rsi14": 32.585739641124206,
+   "ema20": 82340.10577867708,
+   "ema50": 82781.97915639028,
    "hi24": 84103.0,
    "lo24": 81497.0
   },
-  "_at": 1792012595
+  "_at": 1792016783
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
