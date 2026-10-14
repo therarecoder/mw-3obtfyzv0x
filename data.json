@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T02:31:03.497010-06:00",
- "generated_mt": "Wed Oct 14 2026, 2:31am MT",
+ "generated_at": "2026-10-14T03:31:09.915407-06:00",
+ "generated_mt": "Wed Oct 14 2026, 3:31am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,8 +26,8 @@
    "fpe": 4.619681,
    "post": null,
    "post_pct": null,
-   "pre": 950.0,
-   "pre_pct": -0.31897697,
+   "pre": 938.9688,
+   "pre_pct": -1.4764509,
    "day_lo": 929.03,
    "day_hi": 953.6,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -77,8 +77,8 @@
    "fpe": 78.6997,
    "post": null,
    "post_pct": null,
-   "pre": 157.1,
-   "pre_pct": 0.35774425,
+   "pre": 156.8,
+   "pre_pct": 0.16609798,
    "day_lo": 156.11,
    "day_hi": 161.982,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
@@ -129,13 +129,23 @@
    "fpe": 172.13412,
    "post": null,
    "post_pct": null,
-   "pre": 376.09,
-   "pre_pct": 0.22918884,
+   "pre": 374.69,
+   "pre_pct": -0.14391401,
    "day_lo": 371.3,
    "day_hi": 377.05,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
+    {
+     "title": "Tesla (TSLA), What Is Behind The Fresh Attention?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-behind-fresh-attention-091115976.html?.tsrc=rss",
+     "when": "Wed Oct 14, 3:11am MT"
+    },
+    {
+     "title": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
+     "link": "https://stocktwits.com/news-articles/markets/equity/dow-futures-rise-nasdaq-subdued-premarket-ahead-of-inflation-data-asml-mu-skhy-tsla-bac-lqda-gme-iren-stocks-in-focus/cZxfS2RRBpN?.tsrc=rss",
+     "when": "Wed Oct 14, 2:51am MT"
+    },
     {
      "title": "TSLA Stock Rises Overnight: Tesla\u2019s Long-Delayed Roadster Event Is Back On \u2014 Musk Teases \u2018Timing Is Everything\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-tesla-roadster-event-back-musk-teases-timing-is-everything/cZxfhlNRBpQ?.tsrc=rss",
@@ -145,16 +155,6 @@
      "title": "Tesla Roadster Reveal Nears as Elon Musk Fuels \u2018Back to the Future\u2019 Easter-Egg Speculation \u2014 TSLA CEO Says \u2018Timing Is Everything\u2019",
      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-nears-elon-061046578.html?.tsrc=rss",
      "when": "Wed Oct 14, 12:10am MT"
-    },
-    {
-     "title": "Kimbal Musk Says Tesla Cybercab Is \u2018Amazing to Use\u2019 as Driverless Fleet Explodes in Austin and Raises Stakes for Elon Musk\u2019s Robotaxi Bet",
-     "link": "https://finance.yahoo.com/technology/ai/articles/kimbal-musk-says-tesla-cybercab-033013115.html?.tsrc=rss",
-     "when": "Tue Oct 13, 9:30pm MT"
-    },
-    {
-     "title": "Could Tesla's Roadster Reveal Trigger Another Stock Crash?",
-     "link": "https://beincrypto.com/tesla-roadster-hover-demo-tsla-stock-impact/?.tsrc=rss",
-     "when": "Tue Oct 13, 4:48pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -179,7 +179,7 @@
    "post": null,
    "post_pct": null,
    "pre": 44.01,
-   "pre_pct": -1.6426431,
+   "pre_pct": -1.565647,
    "day_lo": 44.4,
    "day_hi": 45.63,
    "next_earnings": "Wed Nov 4, 2026",
@@ -277,8 +277,8 @@
    "fpe": -60.124336,
    "post": null,
    "post_pct": null,
-   "pre": 19.5052,
-   "pre_pct": 0.20652083,
+   "pre": 19.6364,
+   "pre_pct": 0.8805552,
    "day_lo": 18.43,
    "day_hi": 19.58,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -376,8 +376,8 @@
    "fpe": 15.214278,
    "post": null,
    "post_pct": null,
-   "pre": 33.83,
-   "pre_pct": 0.11838093,
+   "pre": 33.82,
+   "pre_pct": 0.088780046,
    "day_lo": 33.3579,
    "day_hi": 35.0,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83720.85,
-   "chg_pct": 0.28174758,
-   "chg": 235.21875,
+   "price": 83180.13,
+   "chg_pct": -0.42058447,
+   "chg": -351.3203,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1683047317504,
+   "mcap": 1673096986624,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 83092.65,
    "day_hi": 84005.72,
-   "as_of": "Wed Oct 14, 2:31am MT",
+   "as_of": "Wed Oct 14, 3:31am MT",
    "news": [
+    {
+     "title": "How Investing in This Altcoin Could Make You a Millionaire",
+     "link": "https://www.fool.com/investing/2026/10/14/how-investing-in-this-altcoin-could-make-you-a-mil/?.tsrc=rss",
+     "when": "Wed Oct 14, 3:09am MT"
+    },
     {
      "title": "Is Bitcoin Ready for Quantum Computers? What Coinbase\u2019s New Plan Shows",
      "link": "https://beincrypto.com/coinbase-bitcoin-post-quantum-readiness-paper/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-says-bitcoin-has-bottomed-and-should-get-back-above-100-000-long-term-forecast-is/cZxfODlRBpP?.tsrc=rss",
      "when": "Tue Oct 13, 10:21pm MT"
-    },
-    {
-     "title": "MIT dropout\u2019s two startups announce shutdown weeks apart",
-     "link": "https://www.thestreet.com/crypto/retail/mit-dropouts-two-startups-announce-shutdown-weeks-apart?.tsrc=rss",
-     "when": "Tue Oct 13, 8:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +487,16 @@
    "as_of": "Tue Oct 13, 12:59pm MT"
   },
   "^VIX": {
-   "price": 15.18,
-   "chg_pct": -0.58939195,
-   "chg": -0.09000015,
-   "as_of": "Wed Oct 14, 2:16am MT"
+   "price": 15.2,
+   "chg_pct": -0.4581194,
+   "chg": -0.07000065,
+   "as_of": "Wed Oct 14, 3:16am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.159,
-   "chg_pct": -0.02055561,
-   "chg": -0.021003723,
-   "as_of": "Wed Oct 14, 2:21am MT"
+   "price": 102.217,
+   "chg_pct": 0.036212765,
+   "chg": 0.037002563,
+   "as_of": "Wed Oct 14, 3:21am MT"
   },
   "^GSPC": {
    "price": 7805.45,
@@ -621,17 +621,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 949.98,
-   "oracle": 949.45,
-   "prev": 966.61,
-   "funding": 1.61974e-05,
-   "oi": 147566.766,
-   "oi_usd": 140185476.36468,
-   "vol": 150846294.16221002,
-   "rsi14": 44.59608777772462,
-   "ema20": 952.9229765815148,
-   "ema50": 968.6310135715582,
-   "hi24": 968.48,
+   "mark": 939.28,
+   "oracle": 938.83,
+   "prev": 964.18,
+   "funding": 1.98989e-05,
+   "oi": 147740.13,
+   "oi_usd": 138769349.3064,
+   "vol": 150259946.43766,
+   "rsi14": 35.41213550691589,
+   "ema20": 950.9322070005092,
+   "ema50": 967.1626095953259,
+   "hi24": 966.83,
    "lo24": 930.0
   },
   "SPCX": {
@@ -639,17 +639,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.25,
-   "oracle": 157.14,
-   "prev": 163.45,
-   "funding": 2.0313e-05,
-   "oi": 797774.1599999999,
-   "oi_usd": 125449986.65999998,
-   "vol": 66688518.507,
-   "rsi14": 37.09622451946666,
-   "ema20": 158.1428820907637,
-   "ema50": 160.09896189121332,
-   "hi24": 163.65,
+   "mark": 156.93,
+   "oracle": 156.86,
+   "prev": 163.46,
+   "funding": 1.21091e-05,
+   "oi": 797582.8200000001,
+   "oi_usd": 125164671.94260001,
+   "vol": 65904306.35349997,
+   "rsi14": 33.56986616108546,
+   "ema20": 157.9927201590659,
+   "ema50": 159.95840169921266,
+   "hi24": 163.49,
    "lo24": 156.23
   },
   "TSLA": {
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 376.23,
-   "oracle": 376.09,
-   "prev": 375.41,
-   "funding": 9.6668e-06,
-   "oi": 109215.78,
-   "oi_usd": 41090252.9094,
-   "vol": 20781957.3176,
-   "rsi14": 51.18542570773827,
-   "ema20": 375.87830849862803,
-   "ema50": 377.05921526067385,
+   "mark": 375.02,
+   "oracle": 374.93,
+   "prev": 374.28,
+   "funding": 6.25e-06,
+   "oi": 109651.606,
+   "oi_usd": 41121545.28212,
+   "vol": 20603057.259389993,
+   "rsi14": 44.205273181388705,
+   "ema20": 375.7171969458639,
+   "ema50": 376.9405370697261,
    "hi24": 377.17,
    "lo24": 371.47
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83782.0,
-   "oracle": 83817.0,
-   "prev": 83889.0,
+   "mark": 83245.0,
+   "oracle": 83268.4,
+   "prev": 83401.0,
    "funding": 1.25e-05,
-   "oi": 37973.83668,
-   "oi_usd": 3181523984.72376,
-   "vol": 1940356862.3151295,
-   "rsi14": 58.64160191097648,
-   "ema20": 83441.72419817091,
-   "ema50": 83302.3294592556,
+   "oi": 37935.77356,
+   "oi_usd": 3157963470.0022,
+   "vol": 1923057488.1695902,
+   "rsi14": 47.47104770272017,
+   "ema20": 83390.98830157817,
+   "ema50": 83285.70293301792,
    "hi24": 84103.0,
    "lo24": 82927.0
   },
-  "_at": 1791966668
+  "_at": 1791970274
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
