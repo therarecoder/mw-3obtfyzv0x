@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T20:22:10.934091-06:00",
- "generated_mt": "Tue Oct 13 2026, 8:22pm MT",
+ "generated_at": "2026-10-13T21:22:16.940482-06:00",
+ "generated_mt": "Tue Oct 13 2026, 9:22pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -39,6 +39,11 @@
      "when": "Tue Oct 13, 7:57pm MT"
     },
     {
+     "title": "Elon Musk Says Micron Has Been \u2018Reasonable\u2019 in Future Pricing Memory Where Others Were \u2018Extortionate\u2019 \u2014 \u2018Customers Won\u2019t Forget\u2019",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-micron-reasonable-015622772.html?.tsrc=rss",
+     "when": "Tue Oct 13, 7:56pm MT"
+    },
+    {
      "title": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-muted-chip-012425121.html?.tsrc=rss",
      "when": "Tue Oct 13, 7:24pm MT"
@@ -47,11 +52,6 @@
      "title": "Micron Technology (MU) Dropped, What Is Driving Attention Now?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-dropped-driving-012009860.html?.tsrc=rss",
      "when": "Tue Oct 13, 7:20pm MT"
-    },
-    {
-     "title": "Micron Just Raised Its Buyback Authorization to $35 Billion. Prediction: It Spends More Buying Back Stock in the Next Year Than in the Past 8 Combined.",
-     "link": "https://www.fool.com/investing/2026/10/13/micron-just-raised-its-buyback-authorization-to-usd35-billion-prediction-it-spends-more-buying-back-stock-in-the-next-year-than-in-the-past-8-combined/?.tsrc=rss",
-     "when": "Tue Oct 13, 2:57pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -85,6 +85,11 @@
    "as_of": "Tue Oct 13, 2:00pm MT",
    "news": [
     {
+     "title": "Prediction: $1,000 Invested in SpaceX Will Be Worth This Much by 2030",
+     "link": "https://www.fool.com/investing/2026/10/13/prediction-1000-invested-in-spacex-will-be-worth-t/?.tsrc=rss",
+     "when": "Tue Oct 13, 9:01pm MT"
+    },
+    {
      "title": "ASTS Stock Bounces Overnight: Vodafone Questions SpaceX\u2019s Europe Push, AST Presses FCC On Spectrum",
      "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-vodafone-spacex-europe-push-ast-presses-fcc-spectrum/cZxfIlpRBYv?.tsrc=rss",
      "when": "Tue Oct 13, 7:39pm MT"
@@ -98,11 +103,6 @@
      "title": "SpaceX Stock Has Climbed About 50% Through 6 Insider Share Unlocks. The Biggest Is Still Ahead.",
      "link": "https://www.fool.com/investing/2026/10/13/spacex-stock-has-climbed-about-50-through-6-insider-share-unlocks-the-biggest-is-still-ahead/?.tsrc=rss",
      "when": "Tue Oct 13, 5:39pm MT"
-    },
-    {
-     "title": "Elon Musk makes an audacious claim on the growth of SpaceX",
-     "link": "https://www.thestreet.com/investing/stocks/elon-musk-makes-an-audacious-claim-on-the-growth-of-spacex-bigger-than-earth?.tsrc=rss",
-     "when": "Tue Oct 13, 4:07pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83268.78,
-   "chg_pct": 0.5377879,
-   "chg": 445.41406,
+   "price": 83669.62,
+   "chg_pct": 0.5284881,
+   "chg": 439.85938,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1673581953024,
+   "mcap": 1681272471552,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,9 +428,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 83092.65,
-   "day_hi": 83586.375,
-   "as_of": "Tue Oct 13, 8:22pm MT",
+   "day_hi": 83654.164,
+   "as_of": "Tue Oct 13, 9:22pm MT",
    "news": [
+    {
+     "title": "MIT dropout\u2019s two startups announce shutdown weeks apart",
+     "link": "https://www.thestreet.com/crypto/retail/mit-dropouts-two-startups-announce-shutdown-weeks-apart?.tsrc=rss",
+     "when": "Tue Oct 13, 8:30pm MT"
+    },
     {
      "title": "American Bitcoin (ABTC) Stock Sees Fair Value Lift As Analysts Rework Bitcoin Assumptions",
      "link": "https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-abtc-stock-sees-021403365.html?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Michael Saylor drops bold Bitcoin call ahead of major index review",
      "link": "https://www.thestreet.com/crypto/markets/michael-saylor-drops-bold-bitcoin-call-ahead-of-major-index-review?.tsrc=rss",
      "when": "Tue Oct 13, 5:47pm MT"
-    },
-    {
-     "title": "Wall Street prices HIVE like a Bitcoin miner, but analysts are missing the AI business",
-     "link": "https://www.thestreet.com/crypto/innovation/wall-street-prices-hive-like-a-bitcoin-miner-but-analysts-are-missing-the-ai-business-?.tsrc=rss",
-     "when": "Tue Oct 13, 4:19pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -493,16 +493,16 @@
    "as_of": "Tue Oct 13, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.139,
-   "chg_pct": -0.040125627,
-   "chg": -0.041000366,
-   "as_of": "Tue Oct 13, 8:12pm MT"
+   "price": 102.087,
+   "chg_pct": -0.091018125,
+   "chg": -0.09300232,
+   "as_of": "Tue Oct 13, 9:12pm MT"
   },
   "^GSPC": {
    "price": 7805.45,
    "chg_pct": -0.022927936,
    "chg": -1.7900391,
-   "as_of": "Tue Oct 13, 2:33pm MT"
+   "as_of": "Tue Oct 13, 2:00pm MT"
   },
   "^NDX": {
    "price": 30569.48,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 961.94,
-   "oracle": 960.89,
-   "prev": 959.06,
-   "funding": 3.27548e-05,
-   "oi": 141515.3700000005,
-   "oi_usd": 136129295.01780048,
-   "vol": 170265610.8785094,
-   "rsi14": 51.91809903029606,
-   "ema20": 956.7658233935375,
-   "ema50": 973.9963508425743,
+   "mark": 961.69,
+   "oracle": 961.04,
+   "prev": 960.92,
+   "funding": 2.43922e-05,
+   "oi": 144177.504,
+   "oi_usd": 138654063.82176,
+   "vol": 167181134.8655598,
+   "rsi14": 51.58838894231384,
+   "ema20": 957.3064655346411,
+   "ema50": 973.570100069479,
    "hi24": 969.19,
    "lo24": 930.0
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.91,
-   "oracle": 157.84,
-   "prev": 161.69,
-   "funding": 8.5534e-06,
-   "oi": 793310.3400000001,
-   "oi_usd": 125271635.78940001,
-   "vol": 64019059.27309999,
-   "rsi14": 37.30086208228862,
-   "ema20": 158.74448952880377,
-   "ema50": 160.8027609999456,
+   "mark": 158.33,
+   "oracle": 158.31,
+   "prev": 162.14,
+   "funding": 6.25e-06,
+   "oi": 790677.8599999999,
+   "oi_usd": 125188025.57379998,
+   "vol": 62886812.63239997,
+   "rsi14": 41.471719787558115,
+   "ema20": 158.71018588959797,
+   "ema50": 160.71018417629614,
    "hi24": 163.65,
    "lo24": 156.23
   },
@@ -660,17 +660,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 376.4,
-   "oracle": 376.23,
-   "prev": 374.81,
-   "funding": 6.2657e-06,
-   "oi": 106161.438,
-   "oi_usd": 39959165.26319999,
-   "vol": 22236979.19489999,
-   "rsi14": 53.04514770420869,
-   "ema20": 375.5917720106162,
-   "ema50": 377.25065522559686,
-   "hi24": 377.04,
+   "mark": 377.12,
+   "oracle": 376.89,
+   "prev": 375.18,
+   "funding": 2.54801e-05,
+   "oi": 109557.202,
+   "oi_usd": 41316212.018240005,
+   "vol": 23964434.96430999,
+   "rsi14": 56.776811543608865,
+   "ema20": 375.75627742148714,
+   "ema50": 377.2580876647947,
+   "hi24": 377.17,
    "lo24": 371.47
   },
   "LMND": {
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83311.0,
-   "oracle": 83350.0,
-   "prev": 82707.0,
-   "funding": 1.15982e-05,
-   "oi": 37914.5299,
-   "oi_usd": 3158697400.4989,
-   "vol": 2313461765.9103827,
-   "rsi14": 51.06859054016481,
-   "ema20": 83288.10346674784,
-   "ema50": 83206.92678248954,
+   "mark": 83704.0,
+   "oracle": 83743.0,
+   "prev": 82936.0,
+   "funding": 7.6761e-06,
+   "oi": 37839.13474,
+   "oi_usd": 3167286934.27696,
+   "vol": 2261325745.6215935,
+   "rsi14": 58.055407755298404,
+   "ema20": 83353.22000243567,
+   "ema50": 83239.97467678889,
    "hi24": 84133.0,
-   "lo24": 82752.0
+   "lo24": 82927.0
   },
-  "_at": 1791944535
+  "_at": 1791948141
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 13, 2:55pm MT",
