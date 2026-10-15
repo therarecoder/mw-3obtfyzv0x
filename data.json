@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T03:47:32.289288-06:00",
- "generated_mt": "Thu Oct 15 2026, 3:47am MT",
+ "generated_at": "2026-10-15T04:47:38.357481-06:00",
+ "generated_mt": "Thu Oct 15 2026, 4:47am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,8 +26,8 @@
    "fpe": 4.4708185,
    "post": null,
    "post_pct": null,
-   "pre": 881.0,
-   "pre_pct": -3.6242115,
+   "pre": 875.448,
+   "pre_pct": -4.231565,
    "day_lo": 913.56,
    "day_hi": 949.42,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -77,32 +77,32 @@
    "fpe": 76.49768,
    "post": null,
    "post_pct": null,
-   "pre": 148.15,
-   "pre_pct": -2.63539,
+   "pre": 147.7473,
+   "pre_pct": -2.9000423,
    "day_lo": 151.101,
    "day_hi": 155.44,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
    "as_of": "Wed Oct 14, 2:00pm MT",
    "news": [
     {
+     "title": "Most New Investors Pick the Wrong Stocks First. Here's What I'd Buy Instead.",
+     "link": "https://www.fool.com/investing/2026/10/15/most-new-investors-pick-the-wrong-stocks-first-her/?.tsrc=rss",
+     "when": "Thu Oct 15, 4:25am MT"
+    },
+    {
      "title": "Elon Musk Sees SpaceX Topping $100 Trillion In Under 10 Years \u2014 Retail Eyes Tesla Merger Reveal At Roadster Event",
      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-spacex-100-trillion-under-10-years-retail-tesla-merger-reveal-roadster-event/cZxWFEqRBAL?.tsrc=rss",
      "when": "Thu Oct 15, 1:34am MT"
     },
     {
+     "title": "An early Anthropic backer predicts a post-IPO valuation of up to $2.4 trillion, topping SpaceX",
+     "link": "https://finance.yahoo.com/technology/ai/articles/early-anthropic-backer-predicts-post-070000684.html?.tsrc=rss",
+     "when": "Thu Oct 15, 1:00am MT"
+    },
+    {
      "title": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
      "link": "https://www.fool.com/investing/2026/10/15/google-just-started-paying-spacex-920-million-a-mo/?.tsrc=rss",
      "when": "Thu Oct 15, 12:25am MT"
-    },
-    {
-     "title": "Will SpaceX Be Worth $100 Trillion Within 10 Years? Musk Says Probably",
-     "link": "https://beincrypto.com/musk-spacex-100-trillion-valuation-forecast/?.tsrc=rss",
-     "when": "Wed Oct 14, 11:23pm MT"
-    },
-    {
-     "title": "SpaceX Stock Looks Expensive. Here's the Valuation Case for and Against.",
-     "link": "https://www.fool.com/investing/2026/10/14/spacex-stock-looks-expensive-heres-the-valuation-c/?.tsrc=rss",
-     "when": "Wed Oct 14, 4:50pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -129,13 +129,23 @@
    "fpe": 169.32222,
    "post": null,
    "post_pct": null,
-   "pre": 361.44,
-   "pre_pct": -1.5579042,
+   "pre": 361.5,
+   "pre_pct": -1.5415633,
    "day_lo": 363.82,
    "day_hi": 371.39,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Wed Oct 14, 2:00pm MT",
    "news": [
+    {
+     "title": "TSMC posts record profit amid 'extremely robust demand' for AI chips",
+     "link": "https://finance.yahoo.com/markets/stocks/article/tsmc-posts-record-profit-amid-extremely-robust-demand-for-ai-chips-104536579.html?.tsrc=rss",
+     "when": "Thu Oct 15, 4:45am MT"
+    },
+    {
+     "title": "Barclays Expects Tesla-SpaceX Merger Announcement Ahead of December Shareholder Meeting",
+     "link": "https://investorshub.advfn.com/market-news/article/38079/barclays-expects-tesla-spacex-merger-announcement-ahead-of-december-shareholder-meeting?.tsrc=rss",
+     "when": "Thu Oct 15, 4:20am MT"
+    },
     {
      "title": "The 1 Thing I'd Want Elon Musk to Answer on Tesla's Oct. 21 Call",
      "link": "https://www.fool.com/investing/2026/10/15/the-1-thing-i-d-want-elon-musk-to-answer-on-tesla-s-oct-21-call/?.tsrc=rss",
@@ -145,16 +155,6 @@
      "title": "Analyst Sees TSLA-SPCX Merger Coming By December, but Prediction Markets Aren\u2019t Buying It",
      "link": "https://www.benzinga.com/markets/tech/26/10/62372757/analyst-sees-tsla-spcx-merger-coming-by-december-but-prediction-markets-arent-buying-it?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
      "when": "Wed Oct 14, 11:57pm MT"
-    },
-    {
-     "title": "TSLA Stock Slips Overnight Ahead Of Roadster Event \u2014 Elon Musk Promises \u2018Greatest Product Demo Of All Time\u2019",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-roadster-event-elon-musk-greatest-product-demo-of-all-time/cZxWmPlRBA3?.tsrc=rss",
-     "when": "Wed Oct 14, 11:39pm MT"
-    },
-    {
-     "title": "Elon Musk Sees \u2018Almost All Cars\u2019 Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
-     "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62372456/elon-musk-gasoline-cars-electric-vehicle-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-     "when": "Wed Oct 14, 10:38pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -228,8 +228,8 @@
    "fpe": 6.5420775,
    "post": null,
    "post_pct": null,
-   "pre": 22.53,
-   "pre_pct": -0.92347884,
+   "pre": 22.59,
+   "pre_pct": -0.6596289,
    "day_lo": 22.21,
    "day_hi": 23.35,
    "next_earnings": "Tue Nov 3, 2026",
@@ -277,8 +277,8 @@
    "fpe": -54.835617,
    "post": null,
    "post_pct": null,
-   "pre": 17.15,
-   "pre_pct": -3.2712913,
+   "pre": 17.1,
+   "pre_pct": -3.553295,
    "day_lo": 17.52,
    "day_hi": 19.29,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -326,8 +326,8 @@
    "fpe": 36.01852,
    "post": null,
    "post_pct": null,
-   "pre": null,
-   "pre_pct": null,
+   "pre": 9.69,
+   "pre_pct": -0.3599054,
    "day_lo": 9.535,
    "day_hi": 12.28,
    "next_earnings": "Mon Nov 2, 2026",
@@ -376,8 +376,8 @@
    "fpe": 15.452915,
    "post": null,
    "post_pct": null,
-   "pre": 34.23,
-   "pre_pct": -0.29129708,
+   "pre": 34.0,
+   "pre_pct": -0.96126366,
    "day_lo": 33.212,
    "day_hi": 34.49,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81145.74,
-   "chg_pct": -2.4204607,
-   "chg": -2012.8203,
+   "price": 80832.97,
+   "chg_pct": -3.0658982,
+   "chg": -2556.6406,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1631290916864,
+   "mcap": 1625516146688,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,27 +429,27 @@
    "pre_pct": null,
    "day_lo": 80474.07,
    "day_hi": 81773.766,
-   "as_of": "Thu Oct 15, 3:47am MT",
+   "as_of": "Thu Oct 15, 4:47am MT",
    "news": [
     {
-     "title": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
-     "link": "https://www.fool.com/investing/2026/10/15/citigroup-raises-its-12-month-price-target-for-bit/?.tsrc=rss",
-     "when": "Thu Oct 15, 3:35am MT"
+     "title": "15-Minute Markets For Cryptocurrency Prices Are Surging in Popularity. It's Easy to Predict What Happens Next.",
+     "link": "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/?.tsrc=rss",
+     "when": "Thu Oct 15, 4:20am MT"
     },
     {
-     "title": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
-     "link": "https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/?.tsrc=rss",
-     "when": "Thu Oct 15, 3:30am MT"
+     "title": "Does Trump Really Back XRP? Inside His Crypto Stockpile Strategy",
+     "link": "https://www.ccn.com/news/crypto/does-trump-back-xrp-us-crypto-reserve-stockpile/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:56am MT"
     },
     {
-     "title": "Bitcoin Remains Weaker on U.S. Rate-Hike Prospects",
-     "link": "https://finance.yahoo.com/m/8f1e92c2-45c3-3474-bdad-9381f10cd770/bitcoin-remains-weaker-on.html?.tsrc=rss",
-     "when": "Thu Oct 15, 3:26am MT"
+     "title": "Patrick Witt Is Gone: What His Sudden Exit Means for Crypto in Washington",
+     "link": "https://www.ccn.com/news/crypto/patrick-witt-white-house-exit-crypto-policy/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:40am MT"
     },
     {
-     "title": "Why Isn\u2019t XRP Rising? 13 Weeks of ETF Inflows Haven\u2019t Moved the Price",
-     "link": "https://beincrypto.com/xrp-etf-inflows-whale-binance-deposits/?.tsrc=rss",
-     "when": "Thu Oct 15, 3:04am MT"
+     "title": "Arthur Hayes Is Betting on What Comes After the AI Crash",
+     "link": "https://beincrypto.com/arthur-hayes-long-bitcoin-ethereum/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:39am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +487,16 @@
    "as_of": "Wed Oct 14, 12:59pm MT"
   },
   "^VIX": {
-   "price": 17.58,
-   "chg_pct": 4.2136445,
-   "chg": 0.7099991,
-   "as_of": "Thu Oct 15, 3:32am MT"
+   "price": 17.6,
+   "chg_pct": 4.3297715,
+   "chg": 0.72999954,
+   "as_of": "Thu Oct 15, 4:32am MT"
   },
   "DX-Y.NYB": {
-   "price": 101.96,
-   "chg_pct": -0.57824546,
-   "chg": -0.5930023,
-   "as_of": "Thu Oct 15, 3:37am MT"
+   "price": 102.104,
+   "chg_pct": -0.43783164,
+   "chg": -0.44900513,
+   "as_of": "Thu Oct 15, 4:37am MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -622,16 +622,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 881.13,
-   "oracle": 880.73,
-   "prev": 941.58,
-   "funding": 1.7488e-05,
-   "oi": 162144.398,
-   "oi_usd": 142870293.40974,
-   "vol": 194970220.74174008,
-   "rsi14": 31.6119486833648,
-   "ema20": 897.582369275083,
-   "ema50": 925.5801495211953,
+   "mark": 875.61,
+   "oracle": 875.22,
+   "prev": 940.03,
+   "funding": 1.41299e-05,
+   "oi": 162123.938,
+   "oi_usd": 141957341.35218,
+   "vol": 195844106.36209005,
+   "rsi14": 29.161555400409128,
+   "ema20": 895.4075415559645,
+   "ema50": 923.5862607646243,
    "hi24": 950.49,
    "lo24": 872.0
   },
@@ -640,18 +640,18 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.21,
-   "oracle": 148.15,
-   "prev": 157.36,
-   "funding": 1.61675e-05,
-   "oi": 844724.3999999998,
-   "oi_usd": 125196603.32399997,
-   "vol": 139028452.08700022,
-   "rsi14": 27.7503221081261,
-   "ema20": 150.86194132083082,
-   "ema50": 154.38388729924105,
+   "mark": 147.83,
+   "oracle": 147.8,
+   "prev": 157.03,
+   "funding": 6.25e-06,
+   "oi": 844432.9400000001,
+   "oi_usd": 124832521.52020001,
+   "vol": 140484342.37820014,
+   "rsi14": 26.525807653357674,
+   "ema20": 150.5542283086076,
+   "ema50": 154.1188990695377,
    "hi24": 157.46,
-   "lo24": 147.99
+   "lo24": 147.58
   },
   "TSLA": {
    "stale": [
@@ -661,16 +661,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 361.56,
-   "oracle": 361.5,
-   "prev": 375.33,
+   "mark": 361.39,
+   "oracle": 361.32,
+   "prev": 375.31,
    "funding": 6.25e-06,
-   "oi": 114794.07,
-   "oi_usd": 41504943.949200004,
-   "vol": 43547287.160179995,
-   "rsi14": 35.1151730037996,
-   "ema20": 364.6476018998766,
-   "ema50": 369.3431860460505,
+   "oi": 114552.03,
+   "oi_usd": 41397958.1217,
+   "vol": 44457557.467139974,
+   "rsi14": 34.76088090192306,
+   "ema20": 364.33109664218114,
+   "ema50": 369.02989119363116,
    "hi24": 376.0,
    "lo24": 360.17
   },
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81210.4,
-   "oracle": 81248.3,
-   "prev": 83281.0,
-   "funding": 2.0891e-06,
-   "oi": 39402.66254,
-   "oi_usd": 3199905985.9384155,
-   "vol": 4024021349.9766784,
-   "rsi14": 41.79032590044194,
-   "ema20": 81622.77207036421,
-   "ema50": 82252.2854437119,
+   "mark": 80890.0,
+   "oracle": 80930.1,
+   "prev": 83380.0,
+   "funding": 2.879e-07,
+   "oi": 39555.68624,
+   "oi_usd": 3199659459.9536004,
+   "vol": 4061042524.784889,
+   "rsi14": 38.42248125468569,
+   "ema20": 81554.18157707986,
+   "ema50": 82199.45165230635,
    "hi24": 83864.0,
    "lo24": 80193.0
   },
-  "_at": 1792057656
+  "_at": 1792061262
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
