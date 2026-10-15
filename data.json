@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T18:33:44.865171-06:00",
- "generated_mt": "Wed Oct 14 2026, 6:33pm MT",
+ "generated_at": "2026-10-14T19:33:55.179496-06:00",
+ "generated_mt": "Wed Oct 14 2026, 7:33pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,21 +415,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81675.38,
-   "chg_pct": -2.0017078,
-   "chg": -1668.2969,
+   "price": 81736.35,
+   "chg_pct": -1.8164641,
+   "chg": -1512.1797,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1641487269888,
+   "mcap": 1637990531072,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81573.1,
-   "day_hi": 81707.74,
-   "as_of": "Wed Oct 14, 6:33pm MT",
+   "day_lo": 81377.14,
+   "day_hi": 81773.766,
+   "as_of": "Wed Oct 14, 7:33pm MT",
    "news": [
     {
      "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
@@ -445,11 +445,6 @@
      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin?.tsrc=rss",
      "when": "Wed Oct 14, 1:46pm MT"
-    },
-    {
-     "title": "Ripple gives AI agents their own crypto wallets",
-     "link": "http://videos.coindesk.com/previews/GFbQqjWa?.tsrc=rss",
-     "when": "Wed Oct 14, 1:14pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -493,10 +488,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.199,
-   "chg_pct": -0.34519118,
-   "chg": -0.3540039,
-   "as_of": "Wed Oct 14, 6:23pm MT"
+   "price": 102.064,
+   "chg_pct": -0.4768297,
+   "chg": -0.4889984,
+   "as_of": "Wed Oct 14, 7:23pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -622,34 +617,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 896.46,
-   "oracle": 896.08,
-   "prev": 962.99,
-   "funding": 1.24755e-05,
-   "oi": 137168.9820000001,
-   "oi_usd": 122966505.6037201,
-   "vol": 168235759.24650955,
-   "rsi14": 27.2803519634506,
-   "ema20": 921.8487061003257,
-   "ema50": 944.80172528948,
+   "mark": 889.12,
+   "oracle": 888.81,
+   "prev": 959.99,
+   "funding": 1.97796e-05,
+   "oi": 140312.5999999999,
+   "oi_usd": 124754738.9119999,
+   "vol": 169088912.6583354,
+   "rsi14": 24.270052239073422,
+   "ema20": 918.6616748032924,
+   "ema50": 942.6036053254949,
    "hi24": 964.01,
-   "lo24": 887.68
+   "lo24": 885.49
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 150.8,
-   "oracle": 150.75,
-   "prev": 157.59,
-   "funding": 2.63577e-05,
-   "oi": 832738.9400000086,
-   "oi_usd": 125577032.1520013,
-   "vol": 112176000.18489943,
-   "rsi14": 28.30286238636245,
-   "ema20": 153.55452011261028,
-   "ema50": 156.67196173958138,
+   "mark": 150.84,
+   "oracle": 150.74,
+   "prev": 157.7,
+   "funding": 1.22489e-05,
+   "oi": 836300.4800000003,
+   "oi_usd": 126147564.40320006,
+   "vol": 114658355.67010006,
+   "rsi14": 30.209849455887465,
+   "ema20": 153.33304703712358,
+   "ema50": 156.4601699942746,
    "hi24": 158.42,
    "lo24": 149.36
   },
@@ -661,16 +656,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 365.57,
-   "oracle": 365.49,
-   "prev": 375.63,
+   "mark": 363.96,
+   "oracle": 363.85,
+   "prev": 375.77,
    "funding": 6.25e-06,
-   "oi": 114764.3519999999,
-   "oi_usd": 41954404.160639964,
-   "vol": 37563526.85757999,
-   "rsi14": 37.67521790838212,
-   "ema20": 368.7015063897968,
-   "ema50": 372.58030853722926,
+   "oi": 114637.54,
+   "oi_usd": 41723479.0584,
+   "vol": 38469186.00021,
+   "rsi14": 32.349460169357684,
+   "ema20": 368.12789447196775,
+   "ema50": 372.19038256076806,
    "hi24": 377.17,
    "lo24": 363.68
   },
@@ -696,20 +691,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81747.0,
-   "oracle": 81776.1,
-   "prev": 83425.0,
+   "mark": 81789.0,
+   "oracle": 81815.0,
+   "prev": 83297.0,
    "funding": 1.25e-05,
-   "oi": 40229.28244,
-   "oi_usd": 3288623151.62268,
-   "vol": 3018737131.7028203,
-   "rsi14": 36.272666815069286,
-   "ema20": 82229.78473098954,
-   "ema50": 82700.80094170544,
+   "oi": 40932.30612,
+   "oi_usd": 3347812385.24868,
+   "vol": 3096166979.287531,
+   "rsi14": 37.71474033768425,
+   "ema20": 82177.62910504495,
+   "ema50": 82661.66328533752,
    "hi24": 84103.0,
-   "lo24": 81414.0
+   "lo24": 81341.0
   },
-  "_at": 1792024429
+  "_at": 1792028039
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
