@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T16:17:32.238865-06:00",
- "generated_mt": "Thu Oct 15 2026, 4:17pm MT",
+ "generated_at": "2026-10-15T17:17:38.699313-06:00",
+ "generated_mt": "Thu Oct 15 2026, 5:17pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1053626531840,
    "pe": 13.064534,
    "fpe": 4.5544996,
-   "post": 929.5775,
-   "post_pct": -0.17852278,
+   "post": 926.0,
+   "post_pct": -0.56268954,
    "pre": null,
    "pre_pct": null,
    "day_lo": 858.0,
@@ -75,8 +75,8 @@
    "mcap": 1957947637760,
    "pe": null,
    "fpe": 74.71796,
-   "post": 149.05,
-   "post_pct": 0.28933385,
+   "post": 148.64,
+   "post_pct": 0.013460014,
    "pre": null,
    "pre_pct": null,
    "day_lo": 140.66,
@@ -90,19 +90,19 @@
      "when": "Thu Oct 15, 11:51am MT"
     },
     {
-     "title": "Will SpaceX merge with Tesla? Speculation resurfaces it could happen before the end of 2026.",
-     "link": "https://finance.yahoo.com/markets/stocks/article/will-spacex-merge-with-tesla-speculation-resurfaces-it-could-happen-before-the-end-of-2026-162443386.html?.tsrc=rss",
-     "when": "Thu Oct 15, 9:57am MT"
+     "title": "SPCX Stock Down For Third Straight Session: The European Union Is Preparing To Fast Track Approvals For SpaceX's Satellite Rival",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-down-for-third-straight-session-the-european-union-is-preparing-to-fast-track-approvals-for-space-x-s-satellite-rival/cZxh9OhRBrm?.tsrc=rss",
+     "when": "Thu Oct 15, 4:38pm MT"
+    },
+    {
+     "title": "Could $2,000 Invested in SpaceX Help You Retire Early?",
+     "link": "https://www.fool.com/investing/2026/10/15/could-2000-invested-in-spacex-help-you-retire-earl/?.tsrc=rss",
+     "when": "Thu Oct 15, 4:35pm MT"
     },
     {
      "title": "SpaceX Has a Ukraine Problem. What It Means for the Stock.",
      "link": "https://finance.yahoo.com/m/18863637-f34e-31b5-9003-1d7d9d2f69c5/spacex-has-a-ukraine-problem..html?.tsrc=rss",
      "when": "Thu Oct 15, 2:07pm MT"
-    },
-    {
-     "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks: Analyst",
-     "link": "https://finance.yahoo.com/m/32f1294f-e426-3a99-b8d4-22a5a2a00b41/elon-musk-could-announce-a.html?.tsrc=rss",
-     "when": "Thu Oct 15, 2:01pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,8 +127,8 @@
    "mcap": 1431474012160,
    "pe": 341.92456,
    "fpe": 167.14551,
-   "post": 363.0,
-   "post_pct": 0.15450765,
+   "post": 362.8,
+   "post_pct": 0.09932274,
    "pre": null,
    "pre_pct": null,
    "day_lo": 355.23,
@@ -147,9 +147,9 @@
      "when": "Thu Oct 15, 11:51am MT"
     },
     {
-     "title": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
+     "title": "Dow Jones Futures: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html?.tsrc=rss",
-     "when": "Thu Oct 15, 4:03pm MT"
+     "when": "Thu Oct 15, 5:01pm MT"
     },
     {
      "title": "AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say",
@@ -226,8 +226,8 @@
    "mcap": 2368861184,
    "pe": 49.5,
    "fpe": 7.120335,
-   "post": 24.6,
-   "post_pct": -0.6060591,
+   "post": 24.65,
+   "post_pct": -0.40404195,
    "pre": null,
    "pre_pct": null,
    "day_lo": 22.27,
@@ -275,8 +275,8 @@
    "mcap": 890724480,
    "pe": null,
    "fpe": -55.1449,
-   "post": 18.15,
-   "post_pct": 1.7947263,
+   "post": 18.1629,
+   "post_pct": 1.8670835,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.02,
@@ -374,8 +374,8 @@
    "mcap": 10330348544,
    "pe": 25.54962,
    "fpe": 15.070195,
-   "post": 33.47,
-   "post_pct": 0.0,
+   "post": 33.67,
+   "post_pct": 0.5975409,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.65,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82335.75,
-   "chg_pct": 0.9771301,
-   "chg": 796.7422,
+   "price": 82085.33,
+   "chg_pct": 0.6363498,
+   "chg": 519.0469,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1655363731456,
+   "mcap": 1650390728704,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 79789.36,
    "day_hi": 82496.74,
-   "as_of": "Thu Oct 15, 4:17pm MT",
+   "as_of": "Thu Oct 15, 5:17pm MT",
    "news": [
+    {
+     "title": "Arthur Hayes isn't betting on an AI crash, here's what he's betting on instead",
+     "link": "https://www.thestreet.com/crypto/markets/arthur-hayes-isnt-betting-on-an-ai-crash-heres-what-hes-betting-on-instead?.tsrc=rss",
+     "when": "Thu Oct 15, 4:40pm MT"
+    },
     {
      "title": "Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it",
      "link": "https://www.thestreet.com/crypto/markets/strategy-ceo-sees-a-historic-bitcoin-banking-boom-coming-heres-whats-driving-it?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading?.tsrc=rss",
      "when": "Thu Oct 15, 2:31pm MT"
-    },
-    {
-     "title": "Sector Update: Financial Stocks Rise Late Afternoon",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195846322.html?.tsrc=rss",
-     "when": "Thu Oct 15, 1:58pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -494,8 +494,8 @@
   },
   "DX-Y.NYB": {
    "price": 102.004,
-   "chg_pct": -0.53533643,
-   "chg": -0.5490036,
+   "chg_pct": -0.049975507,
+   "chg": -0.051002502,
    "as_of": "Thu Oct 15, 4:04pm MT"
   },
   "^GSPC": {
@@ -626,16 +626,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 930.2,
-   "oracle": 929.67,
-   "prev": 902.01,
-   "funding": 1.48079e-05,
-   "oi": 182933.964,
-   "oi_usd": 170165173.31280002,
-   "vol": 222269227.71080026,
-   "rsi14": 62.08865412450183,
-   "ema20": 908.7528855718947,
-   "ema50": 918.7521139993236,
+   "mark": 926.4,
+   "oracle": 925.93,
+   "prev": 892.75,
+   "funding": 8.072e-06,
+   "oi": 182820.668,
+   "oi_usd": 169365066.8352,
+   "vol": 198263321.96031004,
+   "rsi14": 59.96212829368633,
+   "ema20": 910.1044004876478,
+   "ema50": 918.90526989286,
    "hi24": 932.7,
    "lo24": 859.17
   },
@@ -644,16 +644,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.11,
-   "oracle": 149.08,
-   "prev": 151.69,
+   "mark": 148.67,
+   "oracle": 148.64,
+   "prev": 150.98,
    "funding": 6.25e-06,
-   "oi": 874326.3799999998,
-   "oi_usd": 130370806.52179998,
-   "vol": 174159060.71210003,
-   "rsi14": 49.58307007629698,
-   "ema20": 148.5630337956327,
-   "ema50": 151.5968585672519,
+   "oi": 868881.54,
+   "oi_usd": 129176618.5518,
+   "vol": 166378081.8422,
+   "rsi14": 47.94550549895413,
+   "ema20": 148.555398254159,
+   "ema50": 151.47468771171032,
    "hi24": 151.64,
    "lo24": 140.79
   },
@@ -665,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 363.15,
-   "oracle": 363.0,
-   "prev": 366.7,
-   "funding": 2.4431e-05,
-   "oi": 123689.208,
-   "oi_usd": 44917735.885199994,
-   "vol": 52503783.10614997,
-   "rsi14": 49.313584778732675,
-   "ema20": 362.60953737925865,
-   "ema50": 366.2224282849543,
+   "mark": 363.02,
+   "oracle": 362.78,
+   "prev": 364.58,
+   "funding": 2.62141e-05,
+   "oi": 124742.3,
+   "oi_usd": 45283949.746,
+   "vol": 50541484.75618999,
+   "rsi14": 49.00063288395036,
+   "ema20": 362.64105315981806,
+   "ema50": 366.0903218352404,
    "hi24": 366.05,
    "lo24": 355.43
   },
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82402.5,
-   "oracle": 82426.5,
-   "prev": 81698.0,
+   "mark": 82164.0,
+   "oracle": 82187.4,
+   "prev": 81677.0,
    "funding": 1.25e-05,
-   "oi": 41480.93048,
-   "oi_usd": 3418132373.8782,
-   "vol": 4387081838.862472,
-   "rsi14": 56.4840584234606,
-   "ema20": 81885.17818131953,
-   "ema50": 82095.55220258336,
+   "oi": 41465.54536,
+   "oi_usd": 3406975068.9590397,
+   "vol": 4325263370.10825,
+   "rsi14": 53.27775162962055,
+   "ema20": 81914.7162278676,
+   "ema50": 82098.75231162977,
    "hi24": 82613.0,
    "lo24": 79732.0
   },
-  "_at": 1792102656
+  "_at": 1792106262
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 15, 2:59pm MT",
