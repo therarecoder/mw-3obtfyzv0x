@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T02:44:29.564127-06:00",
- "generated_mt": "Thu Oct 15 2026, 2:44am MT",
+ "generated_at": "2026-10-15T03:47:32.289288-06:00",
+ "generated_mt": "Thu Oct 15 2026, 3:47am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,8 +26,8 @@
    "fpe": 4.4708185,
    "post": null,
    "post_pct": null,
-   "pre": 877.9141,
-   "pre_pct": -3.9617867,
+   "pre": 881.0,
+   "pre_pct": -3.6242115,
    "day_lo": 913.56,
    "day_hi": 949.42,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -49,9 +49,9 @@
      "when": "Wed Oct 14, 2:40pm MT"
     },
     {
-     "title": "China's Competitive Threat To Micron Called 'Paper Tiger'",
-     "link": "https://finance.yahoo.com/m/b08ed198-5955-39e9-b525-b9d4a6049dd8/china%27s-competitive-threat-to.html?.tsrc=rss",
-     "when": "Wed Oct 14, 2:48pm MT"
+     "title": "History Suggests Micron Stock Will Crash and Take Decades to Recover. Is This Time Different?",
+     "link": "https://www.fool.com/investing/2026/10/15/history-suggests-micron-stock-will-crash-recover/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -77,8 +77,8 @@
    "fpe": 76.49768,
    "post": null,
    "post_pct": null,
-   "pre": 148.08,
-   "pre_pct": -2.681389,
+   "pre": 148.15,
+   "pre_pct": -2.63539,
    "day_lo": 151.101,
    "day_hi": 155.44,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
@@ -125,12 +125,12 @@
    "lo52": 297.38,
    "hi52": 498.83,
    "mcap": 1450115858432,
-   "pe": 339.96295,
-   "fpe": 168.43207,
+   "pe": 346.37738,
+   "fpe": 169.32222,
    "post": null,
    "post_pct": null,
-   "pre": 360.15,
-   "pre_pct": -1.909252,
+   "pre": 361.44,
+   "pre_pct": -1.5579042,
    "day_lo": 363.82,
    "day_hi": 371.39,
    "next_earnings": "Wed Oct 21, 2026",
@@ -178,8 +178,8 @@
    "fpe": -50.41379,
    "post": null,
    "post_pct": null,
-   "pre": 43.02,
-   "pre_pct": -1.8256487,
+   "pre": 42.82,
+   "pre_pct": -2.282063,
    "day_lo": 42.705,
    "day_hi": 44.9755,
    "next_earnings": "Wed Nov 4, 2026",
@@ -228,8 +228,8 @@
    "fpe": 6.5420775,
    "post": null,
    "post_pct": null,
-   "pre": 22.5,
-   "pre_pct": -1.055408,
+   "pre": 22.53,
+   "pre_pct": -0.92347884,
    "day_lo": 22.21,
    "day_hi": 23.35,
    "next_earnings": "Tue Nov 3, 2026",
@@ -376,8 +376,8 @@
    "fpe": 15.452915,
    "post": null,
    "post_pct": null,
-   "pre": 34.0,
-   "pre_pct": -0.96126366,
+   "pre": 34.23,
+   "pre_pct": -0.29129708,
    "day_lo": 33.212,
    "day_hi": 34.49,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81135.89,
-   "chg_pct": -2.6501312,
-   "chg": -2208.7422,
+   "price": 81145.74,
+   "chg_pct": -2.4204607,
+   "chg": -2012.8203,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1631712706560,
+   "mcap": 1631290916864,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,27 +429,27 @@
    "pre_pct": null,
    "day_lo": 80474.07,
    "day_hi": 81773.766,
-   "as_of": "Thu Oct 15, 2:44am MT",
+   "as_of": "Thu Oct 15, 3:47am MT",
    "news": [
     {
-     "title": "Bitcoin Sinks Toward $80,000 After Hot CPI. Will Whales Keep What They Added?",
-     "link": "https://beincrypto.com/bitcoin-whale-accumulation-hot-cpi-test/?.tsrc=rss",
-     "when": "Thu Oct 15, 1:54am MT"
+     "title": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
+     "link": "https://www.fool.com/investing/2026/10/15/citigroup-raises-its-12-month-price-target-for-bit/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:35am MT"
     },
     {
-     "title": "Why Is Crypto Down? Hotter CPI Fuels Fears of Delayed Fed Rate Cuts",
-     "link": "https://cryptonews.com/news/why-is-crypto-down-cpi-hot-rate-cut-fears/?.tsrc=rss",
-     "when": "Thu Oct 15, 1:28am MT"
+     "title": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
+     "link": "https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:30am MT"
     },
     {
-     "title": "Bitcoin slides below $81k as hot U.S. CPI spurs rate hike bets",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-below-81k-hot-062545038.html?.tsrc=rss",
-     "when": "Thu Oct 15, 12:25am MT"
+     "title": "Bitcoin Remains Weaker on U.S. Rate-Hike Prospects",
+     "link": "https://finance.yahoo.com/m/8f1e92c2-45c3-3474-bdad-9381f10cd770/bitcoin-remains-weaker-on.html?.tsrc=rss",
+     "when": "Thu Oct 15, 3:26am MT"
     },
     {
-     "title": "Mamdani's $29M quantum deal sparks panic: 'Is Zohran coming for our coins..'",
-     "link": "https://www.thestreet.com/crypto/markets/mamdanis-29-2m-quantum-deal-sparks-panic?.tsrc=rss",
-     "when": "Wed Oct 14, 10:48pm MT"
+     "title": "Why Isn\u2019t XRP Rising? 13 Weeks of ETF Inflows Haven\u2019t Moved the Price",
+     "link": "https://beincrypto.com/xrp-etf-inflows-whale-binance-deposits/?.tsrc=rss",
+     "when": "Thu Oct 15, 3:04am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +487,16 @@
    "as_of": "Wed Oct 14, 12:59pm MT"
   },
   "^VIX": {
-   "price": 17.52,
-   "chg_pct": 3.8552763,
-   "chg": 0.6499996,
-   "as_of": "Thu Oct 15, 2:29am MT"
+   "price": 17.58,
+   "chg_pct": 4.2136445,
+   "chg": 0.7099991,
+   "as_of": "Thu Oct 15, 3:32am MT"
   },
   "DX-Y.NYB": {
-   "price": 101.992,
-   "chg_pct": -0.54704404,
-   "chg": -0.56100464,
-   "as_of": "Thu Oct 15, 2:34am MT"
+   "price": 101.96,
+   "chg_pct": -0.57824546,
+   "chg": -0.5930023,
+   "as_of": "Thu Oct 15, 3:37am MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -622,16 +622,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 878.29,
-   "oracle": 877.6,
-   "prev": 946.05,
-   "funding": 3.00158e-05,
-   "oi": 162866.2539999999,
-   "oi_usd": 143043802.2256599,
-   "vol": 193173484.89106,
-   "rsi14": 27.1831307107428,
-   "ema20": 898.7417145919258,
-   "ema50": 927.1562717133452,
+   "mark": 881.13,
+   "oracle": 880.73,
+   "prev": 941.58,
+   "funding": 1.7488e-05,
+   "oi": 162144.398,
+   "oi_usd": 142870293.40974,
+   "vol": 194970220.74174008,
+   "rsi14": 31.6119486833648,
+   "ema20": 897.582369275083,
+   "ema50": 925.5801495211953,
    "hi24": 950.49,
    "lo24": 872.0
   },
@@ -640,16 +640,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.18,
-   "oracle": 148.08,
-   "prev": 156.96,
-   "funding": 1.48373e-05,
-   "oi": 840851.0599999997,
-   "oi_usd": 124597310.07079996,
-   "vol": 137616107.7118,
-   "rsi14": 27.748132136007754,
-   "ema20": 151.10099236237753,
-   "ema50": 154.61882039094206,
+   "mark": 148.21,
+   "oracle": 148.15,
+   "prev": 157.36,
+   "funding": 1.61675e-05,
+   "oi": 844724.3999999998,
+   "oi_usd": 125196603.32399997,
+   "vol": 139028452.08700022,
+   "rsi14": 27.7503221081261,
+   "ema20": 150.86194132083082,
+   "ema50": 154.38388729924105,
    "hi24": 157.46,
    "lo24": 147.99
   },
@@ -661,16 +661,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 360.38,
-   "oracle": 360.28,
-   "prev": 375.66,
+   "mark": 361.56,
+   "oracle": 361.5,
+   "prev": 375.33,
    "funding": 6.25e-06,
-   "oi": 114589.878,
-   "oi_usd": 41295900.23364,
-   "vol": 42069673.834650025,
-   "rsi14": 32.617445220685354,
-   "ema20": 364.8745175705737,
-   "ema50": 369.62072168670477,
+   "oi": 114794.07,
+   "oi_usd": 41504943.949200004,
+   "vol": 43547287.160179995,
+   "rsi14": 35.1151730037996,
+   "ema20": 364.6476018998766,
+   "ema50": 369.3431860460505,
    "hi24": 376.0,
    "lo24": 360.17
   },
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81201.0,
-   "oracle": 81243.0,
-   "prev": 83452.0,
-   "funding": 3.6575e-06,
-   "oi": 39475.06602,
-   "oi_usd": 3205414835.89002,
-   "vol": 4082271382.9963007,
-   "rsi14": 41.82539003203965,
-   "ema20": 81653.42975161671,
-   "ema50": 82289.52688043682,
+   "mark": 81210.4,
+   "oracle": 81248.3,
+   "prev": 83281.0,
+   "funding": 2.0891e-06,
+   "oi": 39402.66254,
+   "oi_usd": 3199905985.9384155,
+   "vol": 4024021349.9766784,
+   "rsi14": 41.79032590044194,
+   "ema20": 81622.77207036421,
+   "ema50": 82252.2854437119,
    "hi24": 83864.0,
    "lo24": 80193.0
   },
-  "_at": 1792053875
+  "_at": 1792057656
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
