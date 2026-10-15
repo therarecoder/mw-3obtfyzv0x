@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T19:33:55.179496-06:00",
- "generated_mt": "Wed Oct 14 2026, 7:33pm MT",
+ "generated_at": "2026-10-14T20:41:58.279139-06:00",
+ "generated_mt": "Wed Oct 14 2026, 8:41pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -19,7 +19,7 @@
    "price": 914.13,
    "chg_pct": -4.08272,
    "chg": -38.91,
-   "lo52": 187.42,
+   "lo52": 192.4,
    "hi52": 1255.0,
    "mcap": 1034267918336,
    "pe": 12.2982645,
@@ -415,22 +415,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81736.35,
-   "chg_pct": -1.8164641,
-   "chg": -1512.1797,
+   "price": 81137.2,
+   "chg_pct": -2.9128675,
+   "chg": -2434.3281,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1637990531072,
+   "mcap": 1628455043072,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81377.14,
+   "day_lo": 80642.59,
    "day_hi": 81773.766,
-   "as_of": "Wed Oct 14, 7:33pm MT",
+   "as_of": "Wed Oct 14, 8:41pm MT",
    "news": [
+    {
+     "title": "What Needs To Be True To Buy Cipher Digital Stock Now?",
+     "link": "https://www.trefis.com/articles/618664/what-needs-to-be-true-to-buy-cipher-digital-stock-now/2026-10-14?.tsrc=rss",
+     "when": "Wed Oct 14, 7:33pm MT"
+    },
     {
      "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
      "link": "https://www.thestreet.com/crypto/markets/spacexs-bitcoin-stash-has-lost-millions-this-year-heres-what-musks-company-still-holds-now?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195419533.html?.tsrc=rss",
      "when": "Wed Oct 14, 1:54pm MT"
-    },
-    {
-     "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-     "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin?.tsrc=rss",
-     "when": "Wed Oct 14, 1:46pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,10 +488,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.064,
-   "chg_pct": -0.4768297,
-   "chg": -0.4889984,
-   "as_of": "Wed Oct 14, 7:23pm MT"
+   "price": 102.023,
+   "chg_pct": -0.51680976,
+   "chg": -0.5299988,
+   "as_of": "Wed Oct 14, 8:31pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -617,36 +617,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 889.12,
-   "oracle": 888.81,
-   "prev": 959.99,
-   "funding": 1.97796e-05,
-   "oi": 140312.5999999999,
-   "oi_usd": 124754738.9119999,
-   "vol": 169088912.6583354,
-   "rsi14": 24.270052239073422,
-   "ema20": 918.6616748032924,
-   "ema50": 942.6036053254949,
-   "hi24": 964.01,
-   "lo24": 885.49
+   "mark": 888.01,
+   "oracle": 887.65,
+   "prev": 962.78,
+   "funding": 2.17041e-05,
+   "oi": 140988.016,
+   "oi_usd": 125198768.08816001,
+   "vol": 165708743.47432998,
+   "rsi14": 24.402154653548067,
+   "ema20": 915.6054647290053,
+   "ema50": 940.4083032649104,
+   "hi24": 963.2,
+   "lo24": 885.26
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 150.84,
-   "oracle": 150.74,
-   "prev": 157.7,
-   "funding": 1.22489e-05,
-   "oi": 836300.4800000003,
-   "oi_usd": 126147564.40320006,
-   "vol": 114658355.67010006,
-   "rsi14": 30.209849455887465,
-   "ema20": 153.33304703712358,
-   "ema50": 156.4601699942746,
+   "mark": 149.73,
+   "oracle": 149.7,
+   "prev": 158.0,
+   "funding": 6.25e-06,
+   "oi": 833585.62,
+   "oi_usd": 124812774.8826,
+   "vol": 119632955.3441001,
+   "rsi14": 27.06365454677102,
+   "ema20": 152.90409438137334,
+   "ema50": 156.15815134067512,
    "hi24": 158.42,
-   "lo24": 149.36
+   "lo24": 149.19
   },
   "TSLA": {
    "stale": [
@@ -656,18 +656,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 363.96,
-   "oracle": 363.85,
-   "prev": 375.77,
+   "mark": 361.7,
+   "oracle": 361.63,
+   "prev": 376.51,
    "funding": 6.25e-06,
-   "oi": 114637.54,
-   "oi_usd": 41723479.0584,
-   "vol": 38469186.00021,
-   "rsi14": 32.349460169357684,
-   "ema20": 368.12789447196775,
-   "ema50": 372.19038256076806,
+   "oi": 114215.584,
+   "oi_usd": 41311776.7328,
+   "vol": 39417570.25799999,
+   "rsi14": 28.406266401823487,
+   "ema20": 367.4380715521987,
+   "ema50": 371.74396332281265,
    "hi24": 377.17,
-   "lo24": 363.68
+   "lo24": 361.41
   },
   "LMND": {
    "stale": []
@@ -691,20 +691,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81789.0,
-   "oracle": 81815.0,
-   "prev": 83297.0,
-   "funding": 1.25e-05,
-   "oi": 40932.30612,
-   "oi_usd": 3347812385.24868,
-   "vol": 3096166979.287531,
-   "rsi14": 37.71474033768425,
-   "ema20": 82177.62910504495,
-   "ema50": 82661.66328533752,
+   "mark": 81197.0,
+   "oracle": 81237.0,
+   "prev": 83361.0,
+   "funding": 8.0208e-06,
+   "oi": 39919.14382,
+   "oi_usd": 3241314720.7525396,
+   "vol": 3532245163.8593087,
+   "rsi14": 27.503800539366324,
+   "ema20": 82065.82274025508,
+   "ema50": 82595.65879424714,
    "hi24": 84103.0,
-   "lo24": 81341.0
+   "lo24": 80193.0
   },
-  "_at": 1792028039
+  "_at": 1792032122
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
