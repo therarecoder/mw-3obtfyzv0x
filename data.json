@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T14:02:01.124078-06:00",
- "generated_mt": "Thu Oct 15 2026, 2:02pm MT",
+ "generated_at": "2026-10-15T14:07:07.546747-06:00",
+ "generated_mt": "Thu Oct 15 2026, 2:07pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1053626531840,
    "pe": 13.064534,
    "fpe": 4.5544996,
-   "post": 931.937,
-   "post_pct": 0.07484875,
+   "post": 930.0,
+   "post_pct": -0.13315475,
    "pre": null,
    "pre_pct": null,
    "day_lo": 858.0,
@@ -75,8 +75,8 @@
    "mcap": 1957947637760,
    "pe": null,
    "fpe": 74.71796,
-   "post": 148.82,
-   "post_pct": 0.13457961,
+   "post": 148.97,
+   "post_pct": 0.23550405,
    "pre": null,
    "pre_pct": null,
    "day_lo": 140.66,
@@ -97,7 +97,7 @@
     {
      "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks: Analyst",
      "link": "https://finance.yahoo.com/m/32f1294f-e426-3a99-b8d4-22a5a2a00b41/elon-musk-could-announce-a.html?.tsrc=rss",
-     "when": "Thu Oct 15, 12:57pm MT"
+     "when": "Thu Oct 15, 2:01pm MT"
     },
     {
      "title": "EU plans to fast-track antitrust approval of SpaceX rival",
@@ -127,8 +127,8 @@
    "mcap": 1431474012160,
    "pe": 341.92456,
    "fpe": 167.14551,
-   "post": 362.53,
-   "post_pct": 0.024830686,
+   "post": 362.1,
+   "post_pct": -0.09380762,
    "pre": null,
    "pre_pct": null,
    "day_lo": 355.23,
@@ -226,8 +226,8 @@
    "mcap": 2368861184,
    "pe": 49.5,
    "fpe": 7.120335,
-   "post": 24.68,
-   "post_pct": -0.28282705,
+   "post": 24.62,
+   "post_pct": -0.5252491,
    "pre": null,
    "pre_pct": null,
    "day_lo": 22.27,
@@ -275,8 +275,8 @@
    "mcap": 891224064,
    "pe": null,
    "fpe": -55.17583,
-   "post": 17.83,
-   "post_pct": -0.056055095,
+   "post": 17.84,
+   "post_pct": 0.0,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.02,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82289.44,
-   "chg_pct": 0.75017554,
-   "chg": 612.71875,
+   "price": 82266.11,
+   "chg_pct": 0.72161394,
+   "chg": 589.3906,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1654264954880,
+   "mcap": 1654058254336,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 79789.36,
    "day_hi": 82496.74,
-   "as_of": "Thu Oct 15, 2:01pm MT",
+   "as_of": "Thu Oct 15, 2:07pm MT",
    "news": [
+    {
+     "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195846322.html?.tsrc=rss",
+     "when": "Thu Oct 15, 1:58pm MT"
+    },
     {
      "title": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
      "link": "https://finance.yahoo.com/video/as-chip-stocks-fall-investors-are-turning-elsewhere-in-the-market-chart-of-the-day-194625976.html?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Sector Update: Financial Stocks Advance in Afternoon Trading",
      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-175018660.html?.tsrc=rss",
      "when": "Thu Oct 15, 11:50am MT"
-    },
-    {
-     "title": "Citi Stands Behind 2 Crypto Stocks as Its Top Picks for the Rest of 2026",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/citi-stands-behind-2-crypto-173000818.html?.tsrc=rss",
-     "when": "Thu Oct 15, 11:30am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,28 +487,28 @@
    "as_of": "Thu Oct 15, 12:59pm MT"
   },
   "^VIX": {
-   "price": 16.38,
-   "chg_pct": -2.9011347,
-   "chg": -0.49000168,
-   "as_of": "Thu Oct 15, 1:46pm MT"
-  },
-  "DX-Y.NYB": {
-   "price": 102.039,
-   "chg_pct": -0.5012042,
-   "chg": -0.51399994,
+   "price": 16.46,
+   "chg_pct": -2.43036,
+   "chg": -0.41000175,
    "as_of": "Thu Oct 15, 1:52pm MT"
   },
+  "DX-Y.NYB": {
+   "price": 102.035,
+   "chg_pct": -0.50510246,
+   "chg": -0.51799774,
+   "as_of": "Thu Oct 15, 1:57pm MT"
+  },
   "^GSPC": {
-   "price": 7744.11,
-   "chg_pct": 0.32608002,
-   "chg": 25.169922,
-   "as_of": "Thu Oct 15, 2:02pm MT"
+   "price": 7744.06,
+   "chg_pct": 0.3254348,
+   "chg": 25.120117,
+   "as_of": "Thu Oct 15, 2:07pm MT"
   },
   "^NDX": {
    "price": 29935.594,
    "chg_pct": -0.050825514,
    "chg": -15.222656,
-   "as_of": "Thu Oct 15, 2:02pm MT"
+   "as_of": "Thu Oct 15, 2:07pm MT"
   }
  },
  "errors": [],
@@ -626,17 +626,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 932.2,
-   "oracle": 931.74,
-   "prev": 914.63,
-   "funding": 1.23875e-05,
-   "oi": 185996.8519999999,
-   "oi_usd": 173386265.4343999,
-   "vol": 221091176.60842004,
-   "rsi14": 63.83365708402746,
-   "ema20": 904.6452498940487,
-   "ema50": 918.0592181800737,
-   "hi24": 932.65,
+   "mark": 930.06,
+   "oracle": 929.55,
+   "prev": 912.72,
+   "funding": 1.54778e-05,
+   "oi": 185275.066,
+   "oi_usd": 172316927.88395998,
+   "vol": 220567055.35516012,
+   "rsi14": 62.720108749697516,
+   "ema20": 904.4471546559535,
+   "ema50": 917.9776495526228,
+   "hi24": 932.7,
    "lo24": 859.17
   },
   "SPCX": {
@@ -644,16 +644,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.87,
-   "oracle": 148.82,
-   "prev": 152.33,
+   "mark": 149.02,
+   "oracle": 148.97,
+   "prev": 151.87,
    "funding": 6.25e-06,
-   "oi": 867370.7200000001,
-   "oi_usd": 129125479.08640002,
-   "vol": 166941428.64509994,
-   "rsi14": 48.62414764874083,
-   "ema20": 148.45639816657655,
-   "ema50": 151.80920654637254,
+   "oi": 864355.7599999997,
+   "oi_usd": 128806295.35519996,
+   "vol": 166136038.19409996,
+   "rsi14": 49.20242875402989,
+   "ema20": 148.47258864276702,
+   "ema50": 151.8158732130392,
    "hi24": 152.19,
    "lo24": 140.79
   },
@@ -665,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 362.7,
-   "oracle": 362.53,
-   "prev": 367.32,
-   "funding": 2.27167e-05,
-   "oi": 120575.11,
-   "oi_usd": 43732592.397,
-   "vol": 53972992.51863996,
-   "rsi14": 47.75394383707628,
-   "ema20": 362.5291149327791,
-   "ema50": 366.49345824648594,
+   "mark": 362.34,
+   "oracle": 362.08,
+   "prev": 366.58,
+   "funding": 2.44852e-05,
+   "oi": 120436.486,
+   "oi_usd": 43638956.337239996,
+   "vol": 53781778.97583997,
+   "rsi14": 47.002876246230834,
+   "ema20": 362.5005435042077,
+   "ema50": 366.48169354060354,
    "hi24": 367.32,
    "lo24": 355.43
   },
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82350.1,
-   "oracle": 82373.9,
-   "prev": 81812.0,
+   "mark": 82328.0,
+   "oracle": 82346.8,
+   "prev": 81937.0,
    "funding": 1.25e-05,
-   "oi": 41762.30412,
-   "oi_usd": 3439129920.512412,
-   "vol": 4425487656.111408,
-   "rsi14": 56.57456426105645,
-   "ema20": 81794.4801818555,
-   "ema50": 82079.36627071525,
+   "oi": 41739.55832,
+   "oi_usd": 3436334357.36896,
+   "vol": 4407678283.786293,
+   "rsi14": 56.22485649364292,
+   "ema20": 81791.90875328406,
+   "ema50": 82078.30744718584,
    "hi24": 82613.0,
    "lo24": 79732.0
   },
-  "_at": 1792094525
+  "_at": 1792094831
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 15, 7:30am MT",
