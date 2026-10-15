@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T17:26:25.019893-06:00",
- "generated_mt": "Wed Oct 14 2026, 5:26pm MT",
+ "generated_at": "2026-10-14T18:33:44.865171-06:00",
+ "generated_mt": "Wed Oct 14 2026, 6:33pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -17,15 +17,15 @@
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
    "price": 914.13,
-   "chg_pct": -4.082722,
-   "chg": -38.909973,
+   "chg_pct": -4.08272,
+   "chg": -38.91,
    "lo52": 187.42,
    "hi52": 1255.0,
    "mcap": 1034267918336,
    "pe": 12.2982645,
    "fpe": 4.430375,
-   "post": 891.23,
-   "post_pct": -2.5051167,
+   "post": 889.1,
+   "post_pct": -2.7381258,
    "pre": null,
    "pre_pct": null,
    "day_lo": 913.56,
@@ -44,14 +44,14 @@
      "when": "Wed Oct 14, 2:23pm MT"
     },
     {
-     "title": "'Smart move': What Elon Musk had to say about Micron",
-     "link": "https://finance.yahoo.com/video/smart-move-what-elon-musk-had-to-say-about-micron-142355324.html?.tsrc=rss",
-     "when": "Wed Oct 14, 8:23am MT"
-    },
-    {
      "title": "China's Competitive Threat To Micron Called 'Paper Tiger'",
      "link": "https://finance.yahoo.com/m/b08ed198-5955-39e9-b525-b9d4a6049dd8/china%27s-competitive-threat-to.html?.tsrc=rss",
      "when": "Wed Oct 14, 2:48pm MT"
+    },
+    {
+     "title": "3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays",
+     "link": "https://www.fool.com/investing/2026/10/14/3-trillion-dollar-giants-that-could-be-the-next-bi/?.tsrc=rss",
+     "when": "Wed Oct 14, 2:35pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -68,15 +68,15 @@
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
    "price": 152.16,
-   "chg_pct": -2.7980003,
-   "chg": -4.3799896,
+   "chg_pct": -2.798,
+   "chg": -4.37999,
    "lo52": 104.83,
    "hi52": 225.64,
    "mcap": 2004584366080,
    "pe": null,
    "fpe": 76.49768,
-   "post": 150.02,
-   "post_pct": -1.4064139,
+   "post": 150.25,
+   "post_pct": -1.25526,
    "pre": null,
    "pre_pct": null,
    "day_lo": 151.101,
@@ -120,15 +120,15 @@
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
    "price": 367.16,
-   "chg_pct": -2.1506827,
-   "chg": -8.070007,
+   "chg_pct": -2.15068,
+   "chg": -8.07001,
    "lo52": 297.38,
    "hi52": 498.83,
    "mcap": 1450115858432,
    "pe": 339.96295,
    "fpe": 168.43207,
-   "post": 364.5208,
-   "post_pct": -0.71881217,
+   "post": 363.89,
+   "post_pct": -0.8906169,
    "pre": null,
    "pre_pct": null,
    "day_lo": 363.82,
@@ -147,14 +147,14 @@
      "when": "Wed Oct 14, 8:26am MT"
     },
     {
+     "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-space-x-merger-could-be-announced-as-early-as-before-december-agm-says-barclays/cZxQdGeRBqr?.tsrc=rss",
+     "when": "Wed Oct 14, 5:47pm MT"
+    },
+    {
      "title": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
      "link": "https://www.fool.com/investing/2026/10/14/teslas-elon-musk-might-have-gone-back-on-his-word/?.tsrc=rss",
      "when": "Wed Oct 14, 5:05pm MT"
-    },
-    {
-     "title": "What Does Tesla (TSLA) NHTSA School Zone Probe Mean For Robotaxis?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-nhtsa-school-221707829.html?.tsrc=rss",
-     "when": "Wed Oct 14, 4:17pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -219,15 +219,15 @@
    ],
    "watch": "Price, yields & news",
    "price": 22.74,
-   "chg_pct": -4.5740666,
-   "chg": -1.0900002,
+   "chg_pct": -4.57407,
+   "chg": -1.09,
    "lo52": 22.21,
    "hi52": 55.22,
    "mcap": 2176481024,
    "pe": 45.48,
    "fpe": 6.5420775,
-   "post": 22.63,
-   "post_pct": -0.4837318,
+   "post": 22.56,
+   "post_pct": -0.7915581,
    "pre": null,
    "pre_pct": null,
    "day_lo": 22.21,
@@ -275,8 +275,8 @@
    "mcap": 885728768,
    "pe": null,
    "fpe": -54.835617,
-   "post": 17.52,
-   "post_pct": -1.184428,
+   "post": 17.54,
+   "post_pct": -1.0716223,
    "pre": null,
    "pre_pct": null,
    "day_lo": 17.52,
@@ -317,15 +317,15 @@
    ],
    "watch": "Price & news",
    "price": 9.725,
-   "chg_pct": -22.262188,
-   "chg": -2.7849998,
+   "chg_pct": -22.2622,
+   "chg": -2.785,
    "lo52": 3.261,
    "hi52": 23.99,
    "mcap": 601977536,
    "pe": null,
    "fpe": 36.01852,
-   "post": 9.84,
-   "post_pct": 1.1825169,
+   "post": 9.82,
+   "post_pct": 0.97685665,
    "pre": null,
    "pre_pct": null,
    "day_lo": 9.535,
@@ -374,8 +374,8 @@
    "mcap": 10592696320,
    "pe": 26.604652,
    "fpe": 15.452915,
-   "post": 34.05,
-   "post_pct": -0.7867146,
+   "post": 33.99,
+   "post_pct": -0.9615327,
    "pre": null,
    "pre_pct": null,
    "day_lo": 33.212,
@@ -415,21 +415,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81456.95,
-   "chg_pct": -1.9795424,
-   "chg": -1645.0391,
+   "price": 81675.38,
+   "chg_pct": -2.0017078,
+   "chg": -1668.2969,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1637196759040,
+   "mcap": 1641487269888,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81378.016,
-   "day_hi": 84005.72,
-   "as_of": "Wed Oct 14, 5:25pm MT",
+   "day_lo": 81573.1,
+   "day_hi": 81707.74,
+   "as_of": "Wed Oct 14, 6:33pm MT",
    "news": [
     {
      "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
@@ -458,8 +458,8 @@
  "macro": {
   "SMH": {
    "price": 564.74,
-   "chg_pct": -3.9753802,
-   "chg": -23.380005,
+   "chg_pct": -3.97538,
+   "chg": -23.38,
    "as_of": "Wed Oct 14, 2:00pm MT"
   },
   "^TNX": {
@@ -493,10 +493,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.528,
-   "chg_pct": -0.024379127,
-   "chg": -0.025001526,
-   "as_of": "Wed Oct 14, 4:04pm MT"
+   "price": 102.199,
+   "chg_pct": -0.34519118,
+   "chg": -0.3540039,
+   "as_of": "Wed Oct 14, 6:23pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -622,36 +622,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 890.61,
-   "oracle": 890.63,
-   "prev": 955.03,
-   "funding": 6.25e-06,
-   "oi": 138481.7319999999,
-   "oi_usd": 123333215.33651991,
-   "vol": 164689841.78540012,
-   "rsi14": 19.675785375671296,
-   "ema20": 924.6305645718169,
-   "ema50": 946.8057092507869,
-   "hi24": 966.83,
-   "lo24": 889.2
+   "mark": 896.46,
+   "oracle": 896.08,
+   "prev": 962.99,
+   "funding": 1.24755e-05,
+   "oi": 137168.9820000001,
+   "oi_usd": 122966505.6037201,
+   "vol": 168235759.24650955,
+   "rsi14": 27.2803519634506,
+   "ema20": 921.8487061003257,
+   "ema50": 944.80172528948,
+   "hi24": 964.01,
+   "lo24": 887.68
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 150.08,
-   "oracle": 149.97,
-   "prev": 157.01,
-   "funding": 2.75561e-05,
-   "oi": 836038.1800000003,
-   "oi_usd": 125472610.05440006,
-   "vol": 108505201.9076,
-   "rsi14": 23.84749389809376,
-   "ema20": 153.81780214069352,
-   "ema50": 156.89958407270635,
+   "mark": 150.8,
+   "oracle": 150.75,
+   "prev": 157.59,
+   "funding": 2.63577e-05,
+   "oi": 832738.9400000086,
+   "oi_usd": 125577032.1520013,
+   "vol": 112176000.18489943,
+   "rsi14": 28.30286238636245,
+   "ema20": 153.55452011261028,
+   "ema50": 156.67196173958138,
    "hi24": 158.42,
-   "lo24": 150.0
+   "lo24": 149.36
   },
   "TSLA": {
    "stale": [
@@ -661,18 +661,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 364.36,
-   "oracle": 364.24,
-   "prev": 374.87,
+   "mark": 365.57,
+   "oracle": 365.49,
+   "prev": 375.63,
    "funding": 6.25e-06,
-   "oi": 115628.432,
-   "oi_usd": 42130375.48352,
-   "vol": 35571011.13339002,
-   "rsi14": 32.81847199038597,
-   "ema20": 369.07058726290825,
-   "ema50": 372.882586036548,
+   "oi": 114764.3519999999,
+   "oi_usd": 41954404.160639964,
+   "vol": 37563526.85757999,
+   "rsi14": 37.67521790838212,
+   "ema20": 368.7015063897968,
+   "ema50": 372.58030853722926,
    "hi24": 377.17,
-   "lo24": 364.0
+   "lo24": 363.68
   },
   "LMND": {
    "stale": []
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81527.0,
-   "oracle": 81552.0,
-   "prev": 83146.0,
+   "mark": 81747.0,
+   "oracle": 81776.1,
+   "prev": 83425.0,
    "funding": 1.25e-05,
-   "oi": 40267.01648,
-   "oi_usd": 3282849052.56496,
-   "vol": 2997065366.469339,
-   "rsi14": 32.00761256764649,
-   "ema20": 82268.21355780939,
-   "ema50": 82735.11719687682,
+   "oi": 40229.28244,
+   "oi_usd": 3288623151.62268,
+   "vol": 3018737131.7028203,
+   "rsi14": 36.272666815069286,
+   "ema20": 82229.78473098954,
+   "ema50": 82700.80094170544,
    "hi24": 84103.0,
    "lo24": 81414.0
   },
-  "_at": 1792020388
+  "_at": 1792024429
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
