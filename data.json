@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T23:42:19.598601-06:00",
- "generated_mt": "Wed Oct 14 2026, 11:42pm MT",
+ "generated_at": "2026-10-15T00:42:26.169836-06:00",
+ "generated_mt": "Thu Oct 15 2026, 12:42am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -90,19 +90,19 @@
      "when": "Wed Oct 14, 12:39pm MT"
     },
     {
+     "title": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
+     "link": "https://www.fool.com/investing/2026/10/15/google-just-started-paying-spacex-920-million-a-mo/?.tsrc=rss",
+     "when": "Thu Oct 15, 12:25am MT"
+    },
+    {
+     "title": "Will SpaceX Be Worth $100 Trillion Within 10 Years? Musk Says Probably",
+     "link": "https://beincrypto.com/musk-spacex-100-trillion-valuation-forecast/?.tsrc=rss",
+     "when": "Wed Oct 14, 11:23pm MT"
+    },
+    {
      "title": "SpaceX Stock Looks Expensive. Here's the Valuation Case for and Against.",
      "link": "https://www.fool.com/investing/2026/10/14/spacex-stock-looks-expensive-heres-the-valuation-c/?.tsrc=rss",
      "when": "Wed Oct 14, 4:50pm MT"
-    },
-    {
-     "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
-     "link": "https://www.thestreet.com/crypto/markets/spacexs-bitcoin-stash-has-lost-millions-this-year-heres-what-musks-company-still-holds-now?.tsrc=rss",
-     "when": "Wed Oct 14, 4:00pm MT"
-    },
-    {
-     "title": "AST SpaceMobile Is the New Battleground Stock",
-     "link": "https://finance.yahoo.com/m/ee43bb70-dbb9-3a9d-88a0-c18f1014c2a0/ast-spacemobile-is-the-new.html?.tsrc=rss",
-     "when": "Wed Oct 14, 2:23pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -142,19 +142,19 @@
      "when": "Wed Oct 14, 10:33am MT"
     },
     {
+     "title": "Analyst Sees TSLA-SPCX Merger Coming By December, but Prediction Markets Aren\u2019t Buying It",
+     "link": "https://www.benzinga.com/markets/tech/26/10/62372757/analyst-sees-tsla-spcx-merger-coming-by-december-but-prediction-markets-arent-buying-it?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+     "when": "Wed Oct 14, 11:57pm MT"
+    },
+    {
+     "title": "TSLA Stock Slips Overnight Ahead Of Roadster Event \u2014 Elon Musk Promises \u2018Greatest Product Demo Of All Time\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-roadster-event-elon-musk-greatest-product-demo-of-all-time/cZxWmPlRBA3?.tsrc=rss",
+     "when": "Wed Oct 14, 11:39pm MT"
+    },
+    {
      "title": "Elon Musk Sees \u2018Almost All Cars\u2019 Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62372456/elon-musk-gasoline-cars-electric-vehicle-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
      "when": "Wed Oct 14, 10:38pm MT"
-    },
-    {
-     "title": "How Laptops Brought EVs Back From The Dead",
-     "link": "https://thehustle.videonest.co/videos/1786774/how-laptops-brought-evs-back-from-the-dead-8zSEMHMYOX?.tsrc=rss",
-     "when": "Wed Oct 14, 9:32pm MT"
-    },
-    {
-     "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-space-x-merger-could-be-announced-as-early-as-before-december-agm-says-barclays/cZxQdGeRBqr?.tsrc=rss",
-     "when": "Wed Oct 14, 5:47pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -415,22 +415,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80972.29,
-   "chg_pct": -2.894942,
-   "chg": -2413.9844,
+   "price": 80943.27,
+   "chg_pct": -2.8822513,
+   "chg": -2402.2266,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1627982135296,
+   "mcap": 1626016972800,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 80642.59,
+   "day_lo": 80474.07,
    "day_hi": 81773.766,
-   "as_of": "Wed Oct 14, 11:42pm MT",
+   "as_of": "Thu Oct 15, 12:42am MT",
    "news": [
+    {
+     "title": "Bitcoin slides below $81k as hot U.S. CPI spurs rate hike bets",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-below-81k-hot-062545038.html?.tsrc=rss",
+     "when": "Thu Oct 15, 12:25am MT"
+    },
     {
      "title": "Mamdani's $29M quantum deal sparks panic: 'Is Zohran coming for our coins..'",
      "link": "https://www.thestreet.com/crypto/markets/mamdanis-29-2m-quantum-deal-sparks-panic?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Peter Schiff Calls Bitcoin\u2019s Long-Term Performance \u2018Meaningless\u2019: There\u2019s a Difference Between Bubble \u2018Blowing Up\u2019 and Air Coming Out",
      "link": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-calls-bitcoin-long-033008337.html?.tsrc=rss",
      "when": "Wed Oct 14, 9:30pm MT"
-    },
-    {
-     "title": "South Korea Faces a 1997-Style Economic Crisis. Can Crypto Help?",
-     "link": "https://beincrypto.com/south-korea-1997-nightmare-xrp-bitcoin-lifeline/?.tsrc=rss",
-     "when": "Wed Oct 14, 8:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -493,10 +493,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.109,
-   "chg_pct": -0.43295133,
-   "chg": -0.44400024,
-   "as_of": "Wed Oct 14, 11:32pm MT"
+   "price": 102.118,
+   "chg_pct": -0.4241718,
+   "chg": -0.4350052,
+   "as_of": "Thu Oct 15, 12:32am MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -622,16 +622,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 878.83,
-   "oracle": 878.25,
-   "prev": 945.76,
-   "funding": 9.8748e-06,
-   "oi": 145269.048,
-   "oi_usd": 127666797.45384002,
-   "vol": 176619774.39257002,
-   "rsi14": 25.312904758060384,
-   "ema20": 906.4279644436899,
-   "ema50": 933.6071515244128,
+   "mark": 877.64,
+   "oracle": 876.98,
+   "prev": 945.36,
+   "funding": 3.92903e-05,
+   "oi": 154527.0160000001,
+   "oi_usd": 135619090.32224008,
+   "vol": 186546673.29235008,
+   "rsi14": 24.827405416596378,
+   "ema20": 903.5420242995446,
+   "ema50": 931.3330220717594,
    "hi24": 953.88,
    "lo24": 872.0
   },
@@ -640,16 +640,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.03,
-   "oracle": 149.03,
-   "prev": 157.19,
+   "mark": 149.46,
+   "oracle": 149.39,
+   "prev": 157.46,
    "funding": 6.25e-06,
-   "oi": 838899.38,
-   "oi_usd": 125021174.6014,
-   "vol": 134469112.21099985,
-   "rsi14": 28.531221788134843,
-   "ema20": 151.91608329190922,
-   "ema50": 155.36262418626583,
+   "oi": 838706.3599999999,
+   "oi_usd": 125353052.5656,
+   "vol": 135663099.5846999,
+   "rsi14": 32.6521586954443,
+   "ema20": 151.67210174468283,
+   "ema50": 155.12548823336718,
    "hi24": 157.66,
    "lo24": 148.25
   },
@@ -661,16 +661,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 362.16,
-   "oracle": 362.16,
-   "prev": 375.58,
+   "mark": 361.68,
+   "oracle": 361.51,
+   "prev": 376.19,
    "funding": 6.25e-06,
-   "oi": 114617.36,
-   "oi_usd": 41509823.097600006,
-   "vol": 39325745.404500015,
-   "rsi14": 32.80606219665793,
-   "ema20": 366.1040444340749,
-   "ema50": 370.6764564063479,
+   "oi": 113810.496,
+   "oi_usd": 41162980.193280004,
+   "vol": 39845486.99702003,
+   "rsi14": 31.927136562286023,
+   "ema20": 365.66805812270184,
+   "ema50": 370.3169328875045,
    "hi24": 376.68,
    "lo24": 360.72
   },
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81050.0,
-   "oracle": 81081.0,
-   "prev": 83511.0,
-   "funding": 1.04832e-05,
-   "oi": 39745.43648,
-   "oi_usd": 3221367626.7039995,
-   "vol": 3905175275.103412,
-   "rsi14": 34.10692665067174,
-   "ema20": 81858.16680267309,
-   "ema50": 82448.11385994618,
+   "mark": 81004.0,
+   "oracle": 81043.0,
+   "prev": 83456.0,
+   "funding": 7.805e-06,
+   "oi": 39184.27184,
+   "oi_usd": 3174082756.12736,
+   "vol": 4134787321.1290445,
+   "rsi14": 37.50651679731085,
+   "ema20": 81734.62650177858,
+   "ema50": 82372.1790498191,
    "hi24": 84103.0,
    "lo24": 80193.0
   },
-  "_at": 1792042943
+  "_at": 1792046550
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
