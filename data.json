@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T21:42:04.370147-06:00",
- "generated_mt": "Wed Oct 14 2026, 9:42pm MT",
+ "generated_at": "2026-10-14T22:42:11.878207-06:00",
+ "generated_mt": "Wed Oct 14 2026, 10:42pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,7 +22,7 @@
    "lo52": 192.4,
    "hi52": 1255.0,
    "mcap": 1034267918336,
-   "pe": 12.2982645,
+   "pe": 12.824495,
    "fpe": 4.430375,
    "post": 889.1,
    "post_pct": -2.7381258,
@@ -142,19 +142,19 @@
      "when": "Wed Oct 14, 10:33am MT"
     },
     {
-     "title": "Why this billionaire investor says SpaceX could reach a $50 trillion valuation someday",
-     "link": "https://finance.yahoo.com/video/why-this-billionaire-investor-says-spacex-could-reach-a-50-trillion-valuation-someday-142625102.html?.tsrc=rss",
-     "when": "Wed Oct 14, 8:26am MT"
+     "title": "Elon Musk Sees \u2018Almost All Cars\u2019 Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
+     "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62372456/elon-musk-gasoline-cars-electric-vehicle-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+     "when": "Wed Oct 14, 10:38pm MT"
+    },
+    {
+     "title": "How Laptops Brought EVs Back From The Dead",
+     "link": "https://thehustle.videonest.co/videos/1786774/how-laptops-brought-evs-back-from-the-dead-8zSEMHMYOX?.tsrc=rss",
+     "when": "Wed Oct 14, 9:32pm MT"
     },
     {
      "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-space-x-merger-could-be-announced-as-early-as-before-december-agm-says-barclays/cZxQdGeRBqr?.tsrc=rss",
      "when": "Wed Oct 14, 5:47pm MT"
-    },
-    {
-     "title": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
-     "link": "https://www.fool.com/investing/2026/10/14/teslas-elon-musk-might-have-gone-back-on-his-word/?.tsrc=rss",
-     "when": "Wed Oct 14, 5:05pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -372,7 +372,7 @@
    "lo52": 10.69,
    "hi52": 35.01,
    "mcap": 10592696320,
-   "pe": 26.604652,
+   "pe": 26.198475,
    "fpe": 15.452915,
    "post": 33.99,
    "post_pct": -0.9615327,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80852.01,
-   "chg_pct": -3.3150814,
-   "chg": -2772.211,
+   "price": 81474.91,
+   "chg_pct": -2.624441,
+   "chg": -2195.8906,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1624261525504,
+   "mcap": 1635897966592,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,18 @@
    "pre_pct": null,
    "day_lo": 80642.59,
    "day_hi": 81773.766,
-   "as_of": "Wed Oct 14, 9:41pm MT",
+   "as_of": "Wed Oct 14, 10:42pm MT",
    "news": [
+    {
+     "title": "Crypto Liquidations Near $1 Billion as Longs Take the Majority of Losses",
+     "link": "https://beincrypto.com/crypto-liquidations-1-billion-bitcoin-ethereum-drop/?.tsrc=rss",
+     "when": "Wed Oct 14, 9:31pm MT"
+    },
+    {
+     "title": "Peter Schiff Calls Bitcoin\u2019s Long-Term Performance \u2018Meaningless\u2019: There\u2019s a Difference Between Bubble \u2018Blowing Up\u2019 and Air Coming Out",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-calls-bitcoin-long-033008337.html?.tsrc=rss",
+     "when": "Wed Oct 14, 9:30pm MT"
+    },
     {
      "title": "South Korea Faces a 1997-Style Economic Crisis. Can Crypto Help?",
      "link": "https://beincrypto.com/south-korea-1997-nightmare-xrp-bitcoin-lifeline/?.tsrc=rss",
@@ -440,11 +450,6 @@
      "title": "What Needs To Be True To Buy Cipher Digital Stock Now?",
      "link": "https://www.trefis.com/articles/618664/what-needs-to-be-true-to-buy-cipher-digital-stock-now/2026-10-14?.tsrc=rss",
      "when": "Wed Oct 14, 7:33pm MT"
-    },
-    {
-     "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
-     "link": "https://www.thestreet.com/crypto/markets/spacexs-bitcoin-stash-has-lost-millions-this-year-heres-what-musks-company-still-holds-now?.tsrc=rss",
-     "when": "Wed Oct 14, 4:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,10 +493,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.98,
-   "chg_pct": -0.5587336,
-   "chg": -0.57299805,
-   "as_of": "Wed Oct 14, 9:32pm MT"
+   "price": 102.037,
+   "chg_pct": -0.5031533,
+   "chg": -0.51599884,
+   "as_of": "Wed Oct 14, 10:32pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -617,36 +622,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 885.03,
-   "oracle": 884.3,
-   "prev": 958.45,
-   "funding": 3.16365e-05,
-   "oi": 142836.468,
-   "oi_usd": 126414559.27403998,
-   "vol": 167058287.98299995,
-   "rsi14": 24.0731439788253,
-   "ema20": 912.7920683125869,
-   "ema50": 938.2849123193507,
-   "hi24": 959.2,
-   "lo24": 884.37
+   "mark": 884.42,
+   "oracle": 884.22,
+   "prev": 953.65,
+   "funding": 6.25e-06,
+   "oi": 139844.0899999999,
+   "oi_usd": 123680910.07779992,
+   "vol": 174525595.28735012,
+   "rsi14": 28.081282188147057,
+   "ema20": 909.4662488484,
+   "ema50": 935.9016095660812,
+   "hi24": 954.6,
+   "lo24": 872.0
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.31,
-   "oracle": 149.24,
-   "prev": 158.25,
-   "funding": 6.25e-06,
-   "oi": 838960.08,
-   "oi_usd": 125265129.5448,
-   "vol": 127300443.66340004,
-   "rsi14": 27.963700839488084,
-   "ema20": 152.61100564233607,
-   "ema50": 155.91053498346216,
-   "hi24": 158.42,
-   "lo24": 149.19
+   "mark": 149.14,
+   "oracle": 149.03,
+   "prev": 157.85,
+   "funding": 1.19507e-05,
+   "oi": 838047.7399999999,
+   "oi_usd": 124986439.94359997,
+   "vol": 133197425.09790014,
+   "rsi14": 29.267079579068835,
+   "ema20": 152.23045712264766,
+   "ema50": 155.62427694748027,
+   "hi24": 158.05,
+   "lo24": 148.25
   },
   "TSLA": {
    "stale": [
@@ -656,18 +661,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 361.26,
-   "oracle": 361.2,
-   "prev": 376.95,
+   "mark": 362.57,
+   "oracle": 362.49,
+   "prev": 376.84,
    "funding": 6.25e-06,
-   "oi": 115091.59,
-   "oi_usd": 41577987.803399995,
-   "vol": 38355943.67339002,
-   "rsi14": 27.695799282876692,
-   "ema20": 366.87580733503273,
-   "ema50": 371.3457573775583,
-   "hi24": 377.07,
-   "lo24": 361.01
+   "oi": 114878.316,
+   "oi_usd": 41651431.032120004,
+   "vol": 39131303.444520004,
+   "rsi14": 32.9022504139171,
+   "ema20": 366.4796078869294,
+   "ema50": 371.00749581967955,
+   "hi24": 376.98,
+   "lo24": 360.72
   },
   "LMND": {
    "stale": []
@@ -691,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80918.5,
-   "oracle": 80959.9,
-   "prev": 83791.0,
-   "funding": 7.0263e-06,
-   "oi": 40116.69832,
-   "oi_usd": 3246183053.0069203,
-   "vol": 3691252048.183688,
-   "rsi14": 24.872705547433895,
-   "ema20": 81986.59239055883,
-   "ema50": 82542.90222649153,
+   "mark": 81543.0,
+   "oracle": 81579.0,
+   "prev": 83693.0,
+   "funding": 1.25e-05,
+   "oi": 40023.03728,
+   "oi_usd": 3263598528.92304,
+   "vol": 3829202832.7837324,
+   "rsi14": 39.632681227859536,
+   "ema20": 81941.74735209289,
+   "ema50": 82503.29197689211,
    "hi24": 84103.0,
    "lo24": 80193.0
   },
-  "_at": 1792035730
+  "_at": 1792039335
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
