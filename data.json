@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T20:41:58.279139-06:00",
- "generated_mt": "Wed Oct 14 2026, 8:41pm MT",
+ "generated_at": "2026-10-14T21:42:04.370147-06:00",
+ "generated_mt": "Wed Oct 14 2026, 9:42pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Wed Oct 14, 2:00pm MT",
    "news": [
     {
+     "title": "Global chip sell-off deepens as South Korean market plunges",
+     "link": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html?.tsrc=rss",
+     "when": "Wed Oct 14, 8:49pm MT"
+    },
+    {
      "title": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
      "link": "https://finance.yahoo.com/video/coreweave-intel-micron--other-tech-stocks-are-plummeting-heres-why-204044671.html?.tsrc=rss",
      "when": "Wed Oct 14, 2:40pm MT"
@@ -47,11 +52,6 @@
      "title": "China's Competitive Threat To Micron Called 'Paper Tiger'",
      "link": "https://finance.yahoo.com/m/b08ed198-5955-39e9-b525-b9d4a6049dd8/china%27s-competitive-threat-to.html?.tsrc=rss",
      "when": "Wed Oct 14, 2:48pm MT"
-    },
-    {
-     "title": "3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays",
-     "link": "https://www.fool.com/investing/2026/10/14/3-trillion-dollar-giants-that-could-be-the-next-bi/?.tsrc=rss",
-     "when": "Wed Oct 14, 2:35pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81137.2,
-   "chg_pct": -2.9128675,
-   "chg": -2434.3281,
+   "price": 80852.01,
+   "chg_pct": -3.3150814,
+   "chg": -2772.211,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1628455043072,
+   "mcap": 1624261525504,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 80642.59,
    "day_hi": 81773.766,
-   "as_of": "Wed Oct 14, 8:41pm MT",
+   "as_of": "Wed Oct 14, 9:41pm MT",
    "news": [
+    {
+     "title": "South Korea Faces a 1997-Style Economic Crisis. Can Crypto Help?",
+     "link": "https://beincrypto.com/south-korea-1997-nightmare-xrp-bitcoin-lifeline/?.tsrc=rss",
+     "when": "Wed Oct 14, 8:00pm MT"
+    },
     {
      "title": "What Needs To Be True To Buy Cipher Digital Stock Now?",
      "link": "https://www.trefis.com/articles/618664/what-needs-to-be-true-to-buy-cipher-digital-stock-now/2026-10-14?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "SpaceX\u2019s Bitcoin stash has lost millions this year, here\u2019s what Musk\u2019s company still holds now",
      "link": "https://www.thestreet.com/crypto/markets/spacexs-bitcoin-stash-has-lost-millions-this-year-heres-what-musks-company-still-holds-now?.tsrc=rss",
      "when": "Wed Oct 14, 4:00pm MT"
-    },
-    {
-     "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195419533.html?.tsrc=rss",
-     "when": "Wed Oct 14, 1:54pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -488,10 +488,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.023,
-   "chg_pct": -0.51680976,
-   "chg": -0.5299988,
-   "as_of": "Wed Oct 14, 8:31pm MT"
+   "price": 101.98,
+   "chg_pct": -0.5587336,
+   "chg": -0.57299805,
+   "as_of": "Wed Oct 14, 9:32pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -617,34 +617,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 888.01,
-   "oracle": 887.65,
-   "prev": 962.78,
-   "funding": 2.17041e-05,
-   "oi": 140988.016,
-   "oi_usd": 125198768.08816001,
-   "vol": 165708743.47432998,
-   "rsi14": 24.402154653548067,
-   "ema20": 915.6054647290053,
-   "ema50": 940.4083032649104,
-   "hi24": 963.2,
-   "lo24": 885.26
+   "mark": 885.03,
+   "oracle": 884.3,
+   "prev": 958.45,
+   "funding": 3.16365e-05,
+   "oi": 142836.468,
+   "oi_usd": 126414559.27403998,
+   "vol": 167058287.98299995,
+   "rsi14": 24.0731439788253,
+   "ema20": 912.7920683125869,
+   "ema50": 938.2849123193507,
+   "hi24": 959.2,
+   "lo24": 884.37
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.73,
-   "oracle": 149.7,
-   "prev": 158.0,
+   "mark": 149.31,
+   "oracle": 149.24,
+   "prev": 158.25,
    "funding": 6.25e-06,
-   "oi": 833585.62,
-   "oi_usd": 124812774.8826,
-   "vol": 119632955.3441001,
-   "rsi14": 27.06365454677102,
-   "ema20": 152.90409438137334,
-   "ema50": 156.15815134067512,
+   "oi": 838960.08,
+   "oi_usd": 125265129.5448,
+   "vol": 127300443.66340004,
+   "rsi14": 27.963700839488084,
+   "ema20": 152.61100564233607,
+   "ema50": 155.91053498346216,
    "hi24": 158.42,
    "lo24": 149.19
   },
@@ -656,18 +656,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 361.7,
-   "oracle": 361.63,
-   "prev": 376.51,
+   "mark": 361.26,
+   "oracle": 361.2,
+   "prev": 376.95,
    "funding": 6.25e-06,
-   "oi": 114215.584,
-   "oi_usd": 41311776.7328,
-   "vol": 39417570.25799999,
-   "rsi14": 28.406266401823487,
-   "ema20": 367.4380715521987,
-   "ema50": 371.74396332281265,
-   "hi24": 377.17,
-   "lo24": 361.41
+   "oi": 115091.59,
+   "oi_usd": 41577987.803399995,
+   "vol": 38355943.67339002,
+   "rsi14": 27.695799282876692,
+   "ema20": 366.87580733503273,
+   "ema50": 371.3457573775583,
+   "hi24": 377.07,
+   "lo24": 361.01
   },
   "LMND": {
    "stale": []
@@ -691,20 +691,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81197.0,
-   "oracle": 81237.0,
-   "prev": 83361.0,
-   "funding": 8.0208e-06,
-   "oi": 39919.14382,
-   "oi_usd": 3241314720.7525396,
-   "vol": 3532245163.8593087,
-   "rsi14": 27.503800539366324,
-   "ema20": 82065.82274025508,
-   "ema50": 82595.65879424714,
+   "mark": 80918.5,
+   "oracle": 80959.9,
+   "prev": 83791.0,
+   "funding": 7.0263e-06,
+   "oi": 40116.69832,
+   "oi_usd": 3246183053.0069203,
+   "vol": 3691252048.183688,
+   "rsi14": 24.872705547433895,
+   "ema20": 81986.59239055883,
+   "ema50": 82542.90222649153,
    "hi24": 84103.0,
    "lo24": 80193.0
   },
-  "_at": 1792032122
+  "_at": 1792035730
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
