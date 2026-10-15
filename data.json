@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T22:42:11.878207-06:00",
- "generated_mt": "Wed Oct 14 2026, 10:42pm MT",
+ "generated_at": "2026-10-14T23:42:19.598601-06:00",
+ "generated_mt": "Wed Oct 14 2026, 11:42pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81474.91,
-   "chg_pct": -2.624441,
-   "chg": -2195.8906,
+   "price": 80972.29,
+   "chg_pct": -2.894942,
+   "chg": -2413.9844,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1635897966592,
+   "mcap": 1627982135296,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 80642.59,
    "day_hi": 81773.766,
-   "as_of": "Wed Oct 14, 10:42pm MT",
+   "as_of": "Wed Oct 14, 11:42pm MT",
    "news": [
+    {
+     "title": "Mamdani's $29M quantum deal sparks panic: 'Is Zohran coming for our coins..'",
+     "link": "https://www.thestreet.com/crypto/markets/mamdanis-29-2m-quantum-deal-sparks-panic?.tsrc=rss",
+     "when": "Wed Oct 14, 10:48pm MT"
+    },
     {
      "title": "Crypto Liquidations Near $1 Billion as Longs Take the Majority of Losses",
      "link": "https://beincrypto.com/crypto-liquidations-1-billion-bitcoin-ethereum-drop/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "South Korea Faces a 1997-Style Economic Crisis. Can Crypto Help?",
      "link": "https://beincrypto.com/south-korea-1997-nightmare-xrp-bitcoin-lifeline/?.tsrc=rss",
      "when": "Wed Oct 14, 8:00pm MT"
-    },
-    {
-     "title": "What Needs To Be True To Buy Cipher Digital Stock Now?",
-     "link": "https://www.trefis.com/articles/618664/what-needs-to-be-true-to-buy-cipher-digital-stock-now/2026-10-14?.tsrc=rss",
-     "when": "Wed Oct 14, 7:33pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -493,10 +493,10 @@
    "as_of": "Wed Oct 14, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.037,
-   "chg_pct": -0.5031533,
-   "chg": -0.51599884,
-   "as_of": "Wed Oct 14, 10:32pm MT"
+   "price": 102.109,
+   "chg_pct": -0.43295133,
+   "chg": -0.44400024,
+   "as_of": "Wed Oct 14, 11:32pm MT"
   },
   "^GSPC": {
    "price": 7718.94,
@@ -622,17 +622,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 884.42,
-   "oracle": 884.22,
-   "prev": 953.65,
-   "funding": 6.25e-06,
-   "oi": 139844.0899999999,
-   "oi_usd": 123680910.07779992,
-   "vol": 174525595.28735012,
-   "rsi14": 28.081282188147057,
-   "ema20": 909.4662488484,
-   "ema50": 935.9016095660812,
-   "hi24": 954.6,
+   "mark": 878.83,
+   "oracle": 878.25,
+   "prev": 945.76,
+   "funding": 9.8748e-06,
+   "oi": 145269.048,
+   "oi_usd": 127666797.45384002,
+   "vol": 176619774.39257002,
+   "rsi14": 25.312904758060384,
+   "ema20": 906.4279644436899,
+   "ema50": 933.6071515244128,
+   "hi24": 953.88,
    "lo24": 872.0
   },
   "SPCX": {
@@ -640,17 +640,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.14,
+   "mark": 149.03,
    "oracle": 149.03,
-   "prev": 157.85,
-   "funding": 1.19507e-05,
-   "oi": 838047.7399999999,
-   "oi_usd": 124986439.94359997,
-   "vol": 133197425.09790014,
-   "rsi14": 29.267079579068835,
-   "ema20": 152.23045712264766,
-   "ema50": 155.62427694748027,
-   "hi24": 158.05,
+   "prev": 157.19,
+   "funding": 6.25e-06,
+   "oi": 838899.38,
+   "oi_usd": 125021174.6014,
+   "vol": 134469112.21099985,
+   "rsi14": 28.531221788134843,
+   "ema20": 151.91608329190922,
+   "ema50": 155.36262418626583,
+   "hi24": 157.66,
    "lo24": 148.25
   },
   "TSLA": {
@@ -661,17 +661,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 362.57,
-   "oracle": 362.49,
-   "prev": 376.84,
+   "mark": 362.16,
+   "oracle": 362.16,
+   "prev": 375.58,
    "funding": 6.25e-06,
-   "oi": 114878.316,
-   "oi_usd": 41651431.032120004,
-   "vol": 39131303.444520004,
-   "rsi14": 32.9022504139171,
-   "ema20": 366.4796078869294,
-   "ema50": 371.00749581967955,
-   "hi24": 376.98,
+   "oi": 114617.36,
+   "oi_usd": 41509823.097600006,
+   "vol": 39325745.404500015,
+   "rsi14": 32.80606219665793,
+   "ema20": 366.1040444340749,
+   "ema50": 370.6764564063479,
+   "hi24": 376.68,
    "lo24": 360.72
   },
   "LMND": {
@@ -696,20 +696,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81543.0,
-   "oracle": 81579.0,
-   "prev": 83693.0,
-   "funding": 1.25e-05,
-   "oi": 40023.03728,
-   "oi_usd": 3263598528.92304,
-   "vol": 3829202832.7837324,
-   "rsi14": 39.632681227859536,
-   "ema20": 81941.74735209289,
-   "ema50": 82503.29197689211,
+   "mark": 81050.0,
+   "oracle": 81081.0,
+   "prev": 83511.0,
+   "funding": 1.04832e-05,
+   "oi": 39745.43648,
+   "oi_usd": 3221367626.7039995,
+   "vol": 3905175275.103412,
+   "rsi14": 34.10692665067174,
+   "ema20": 81858.16680267309,
+   "ema50": 82448.11385994618,
    "hi24": 84103.0,
    "lo24": 80193.0
   },
-  "_at": 1792039335
+  "_at": 1792042943
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 14, 3:00pm MT",
