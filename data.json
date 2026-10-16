@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T14:06:54.628732-06:00",
- "generated_mt": "Fri Oct 16 2026, 2:06pm MT",
+ "generated_at": "2026-10-16T14:11:59.247330-06:00",
+ "generated_mt": "Fri Oct 16 2026, 2:11pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 994340044800,
    "pe": 11.82349,
    "fpe": 4.247783,
-   "post": 878.41,
-   "post_pct": -0.048934244,
+   "post": 877.1041,
+   "post_pct": -0.19752182,
    "pre": null,
    "pre_pct": null,
    "day_lo": 875.05,
@@ -39,6 +39,11 @@
      "when": "Fri Oct 16, 7:58am MT"
     },
     {
+     "title": "Prediction: Micron Could Turn $10,000 Into a Fortune by 2030",
+     "link": "https://www.fool.com/investing/2026/10/16/prediction-micron-could-turn-10000-into-a-fortune/?.tsrc=rss",
+     "when": "Fri Oct 16, 2:05pm MT"
+    },
+    {
      "title": "Micron stock tumbles despite analyst calls semiconductor selloff overblown",
      "link": "https://www.thestreet.com/investing/stocks/micron-stock-tumbles-despite-analyst-calls-semiconductor-selloff-overblown-mu?.tsrc=rss",
      "when": "Fri Oct 16, 1:42pm MT"
@@ -47,11 +52,6 @@
      "title": "Micron Stock\u2019s Drop Triggers \u2018Buy the Dip\u2019 Calls. No One\u2019s Listening.",
      "link": "https://finance.yahoo.com/m/9ae07559-4c90-3ef7-8c5b-5e2c78fecf42/micron-stock%E2%80%99s-drop-triggers.html?.tsrc=rss",
      "when": "Fri Oct 16, 11:59am MT"
-    },
-    {
-     "title": "Sterne Kessler Client Netlist Negotiates $600 Million Settlement with Micron Technology",
-     "link": "https://finance.yahoo.com/technology/articles/sterne-kessler-client-netlist-negotiates-172400860.html?.tsrc=rss",
-     "when": "Fri Oct 16, 11:24am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,8 +75,8 @@
    "mcap": 1923826450432,
    "pe": null,
    "fpe": 73.45684,
-   "post": 146.05,
-   "post_pct": 0.013698742,
+   "post": 146.08,
+   "post_pct": 0.03424163,
    "pre": null,
    "pre_pct": null,
    "day_lo": 142.9648,
@@ -127,8 +127,8 @@
    "mcap": 1400983519232,
    "pe": 328.44443,
    "fpe": 163.5853,
-   "post": 354.0232,
-   "post_pct": -0.19643885,
+   "post": 353.791,
+   "post_pct": -0.26190126,
    "pre": null,
    "pre_pct": null,
    "day_lo": 349.33,
@@ -275,8 +275,8 @@
    "mcap": 816289280,
    "pe": null,
    "fpe": -50.536606,
-   "post": 16.64,
-   "post_pct": 1.8359807,
+   "post": 16.5,
+   "post_pct": 0.97919124,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.12,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81564.99,
-   "chg_pct": -0.55814326,
-   "chg": -457.8047,
+   "price": 81522.84,
+   "chg_pct": -0.6095295,
+   "chg": -499.95312,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1637509496832,
+   "mcap": 1639501791232,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 80735.26,
    "day_hi": 82717.27,
-   "as_of": "Fri Oct 16, 2:06pm MT",
+   "as_of": "Fri Oct 16, 2:11pm MT",
    "news": [
     {
      "title": "Tech stocks stumble as sell-off spreads to software",
@@ -442,7 +442,7 @@
      "when": "Fri Oct 16, 1:41pm MT"
     },
     {
-     "title": "Who Pays for Proof-of-Work? Pearl Has an Answer",
+     "title": "Pearl and the Security Budget Bitcoin Can't Solve",
      "link": "https://www.bankless.com/read/who-pays-for-proof-of-work-pearl-has-an-answer?.tsrc=rss",
      "when": "Fri Oct 16, 1:34pm MT"
     }
@@ -482,28 +482,28 @@
    "as_of": "Fri Oct 16, 12:59pm MT"
   },
   "^VIX": {
-   "price": 20.24,
-   "chg_pct": 22.964767,
-   "chg": 3.7800007,
-   "as_of": "Fri Oct 16, 1:51pm MT"
+   "price": 20.07,
+   "chg_pct": 21.945293,
+   "chg": 3.6100006,
+   "as_of": "Fri Oct 16, 1:56pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.793,
-   "chg_pct": -0.25672534,
-   "chg": -0.26200104,
-   "as_of": "Fri Oct 16, 1:56pm MT"
+   "price": 101.779,
+   "chg_pct": -0.27044335,
+   "chg": -0.27600098,
+   "as_of": "Fri Oct 16, 2:01pm MT"
   },
   "^GSPC": {
    "price": 7659.44,
    "chg_pct": -1.09271,
    "chg": -84.62012,
-   "as_of": "Fri Oct 16, 2:06pm MT"
+   "as_of": "Fri Oct 16, 2:11pm MT"
   },
   "^NDX": {
    "price": 29187.549,
    "chg_pct": -2.4988477,
    "chg": -748.0449,
-   "as_of": "Fri Oct 16, 2:06pm MT"
+   "as_of": "Fri Oct 16, 2:11pm MT"
   }
  },
  "errors": [],
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 878.72,
-   "oracle": 878.41,
+   "mark": 877.39,
+   "oracle": 876.97,
    "prev": 928.89,
-   "funding": 6.25e-06,
-   "oi": 176801.536,
-   "oi_usd": 155359045.71392,
-   "vol": 111364380.40414996,
-   "rsi14": 31.07684485464175,
-   "ema20": 901.7177900848558,
-   "ema50": 911.5491419092224,
+   "funding": 6.4996e-06,
+   "oi": 176873.076,
+   "oi_usd": 155186668.15164,
+   "vol": 111459148.94342004,
+   "rsi14": 30.602506737438404,
+   "ema20": 901.6101710372367,
+   "ema50": 911.5048281837321,
    "hi24": 938.37,
    "lo24": 875.75
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 146.12,
-   "oracle": 146.05,
+   "mark": 146.25,
+   "oracle": 146.22,
    "prev": 148.88,
-   "funding": 1.41596e-05,
-   "oi": 897715.6199999999,
-   "oi_usd": 131174206.39439999,
-   "vol": 185008064.29039988,
-   "rsi14": 41.20421393514659,
-   "ema20": 147.8523850149838,
-   "ema50": 149.84434626539297,
+   "funding": 1.37877e-05,
+   "oi": 898132.0399999997,
+   "oi_usd": 131351810.84999995,
+   "vol": 185861451.94720003,
+   "rsi14": 41.7227153527295,
+   "ema20": 147.86381358641236,
+   "ema50": 149.84905214774594,
    "hi24": 153.5,
    "lo24": 143.05
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 354.1,
-   "oracle": 354.05,
+   "mark": 354.01,
+   "oracle": 353.87,
    "prev": 362.51,
    "funding": 6.25e-06,
-   "oi": 213969.2099999999,
-   "oi_usd": 75766497.26099998,
-   "vol": 273475861.3636196,
-   "rsi14": 34.15487451690052,
-   "ema20": 363.14435386167827,
-   "ema50": 366.0699530397064,
+   "oi": 213018.522,
+   "oi_usd": 75410686.97321999,
+   "vol": 273787520.6119202,
+   "rsi14": 34.01477544525842,
+   "ema20": 363.13102052834495,
+   "ema50": 366.06446284362795,
    "hi24": 382.55,
    "lo24": 349.36
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81652.0,
-   "oracle": 81683.0,
+   "mark": 81595.0,
+   "oracle": 81632.0,
    "prev": 82289.0,
    "funding": 1.25e-05,
-   "oi": 41282.66326,
-   "oi_usd": 3370812020.50552,
-   "vol": 2878999197.9869986,
-   "rsi14": 47.15676987961363,
-   "ema20": 81773.04913337893,
-   "ema50": 81966.1504672052,
+   "oi": 41256.2011,
+   "oi_usd": 3366299728.7545,
+   "vol": 2895533144.99073,
+   "rsi14": 45.78619704511872,
+   "ema20": 81765.62056195036,
+   "ema50": 81963.09164367578,
    "hi24": 82898.0,
    "lo24": 80772.0
   },
-  "_at": 1792181218
+  "_at": 1792181523
  },
  "xdrivers": {
   "generated_mt": "Fri Oct 16, 7:30am MT",
