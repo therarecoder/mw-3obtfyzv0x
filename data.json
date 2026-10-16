@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T01:28:14.394593-06:00",
- "generated_mt": "Fri Oct 16 2026, 1:28am MT",
+ "generated_at": "2026-10-16T02:29:40.811681-06:00",
+ "generated_mt": "Fri Oct 16 2026, 2:29am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,15 +24,20 @@
    "mcap": 1053626531840,
    "pe": 12.528454,
    "fpe": 4.5544996,
-   "post": 923.018,
-   "post_pct": -0.8829072,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 920.9,
+   "pre_pct": -1.1103438,
    "day_lo": 858.0,
    "day_hi": 931.65,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Thu Oct 15, 2:00pm MT",
    "news": [
+    {
+     "title": "Micron Stock Is 25% Below Its June Record. Is It a Buy Now?",
+     "link": "https://www.fool.com/investing/2026/10/16/micron-stock-is-25-below-its-june-record-is-it-a-buy-now/?.tsrc=rss",
+     "when": "Fri Oct 16, 1:57am MT"
+    },
     {
      "title": "Is Chinese Memory Competition Altering The Investment Case For Micron Stock (MU)?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-memory-competition-altering-investment-051632891.html?.tsrc=rss",
@@ -47,11 +52,6 @@
      "title": "Cathie Wood Says the Memory Chip Trend Is Up but the Cycles Are \u2018Vicious\u2019",
      "link": "https://247wallst.com/investing/2026/10/15/cathie-wood-says-the-memory-chip-trend-is-up-but-the-cycles-are-vicious/?.tsrc=rss",
      "when": "Thu Oct 15, 3:00pm MT"
-    },
-    {
-     "title": "Prediction: This Is What $2,000 Invested in Micron Stock Today Could Be Worth by 2029",
-     "link": "https://www.fool.com/investing/2026/10/15/prediction-this-is-what-2000-in-micron-stock-could/?.tsrc=rss",
-     "when": "Thu Oct 15, 2:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,10 +75,10 @@
    "mcap": 1957947637760,
    "pe": null,
    "fpe": 74.71796,
-   "post": 148.2068,
-   "post_pct": -0.27801964,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 152.5,
+   "pre_pct": 2.6106884,
    "day_lo": 140.66,
    "day_hi": 149.04,
    "next_earnings": "Tue Nov 3, 2026 (est.)",
@@ -127,15 +127,25 @@
    "mcap": 1431474012160,
    "pe": 335.5926,
    "fpe": 167.14551,
-   "post": 362.2744,
-   "post_pct": -0.045687113,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 378.6492,
+   "pre_pct": 4.4722433,
    "day_lo": 355.23,
    "day_hi": 363.75,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Thu Oct 15, 2:00pm MT",
    "news": [
+    {
+     "title": "Clash of the Billionaires: Bill Gates Says Musk Is \u201cMean\u201d to Him, but He\u2019s \u201cBrilliant\u201d",
+     "link": "https://247wallst.com/investing/2026/10/16/clash-of-the-billionaires-bill-gates-says-musk-is-mean-to-him-but-hes-brilliant/?.tsrc=rss",
+     "when": "Fri Oct 16, 1:45am MT"
+    },
+    {
+     "title": "Tesla\u2019s $250,000 Roadster Deposit: Is It a Rounding Error at 186x Earnings?",
+     "link": "https://www.tikr.com/blog/teslas-250000-roadster-deposit-is-it-a-rounding-error-at-186x-earnings?ref=yahoofinance&.tsrc=rss",
+     "when": "Fri Oct 16, 1:24am MT"
+    },
     {
      "title": "Top 3 Founder Led Stocks To Watch In October 2026",
      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-051755764.html?.tsrc=rss",
@@ -145,16 +155,6 @@
      "title": "Tesla unveils 'flying' sports car",
      "link": "https://uk.finance.yahoo.com/news/tesla-unveils-flying-sports-car-050027047.html?.tsrc=rss",
      "when": "Thu Oct 15, 11:00pm MT"
-    },
-    {
-     "title": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters",
-     "link": "https://finance.yahoo.com/technology/articles/elon-musk-unveils-tesla-roadster-043453351.html?.tsrc=rss",
-     "when": "Thu Oct 15, 10:34pm MT"
-    },
-    {
-     "title": "TSLA Stock Gets Some Thrust From \u2018Flying\u2019 Roadster Reveal \u2014 Munster Calls It \u2018Engineering Flex\u2019 With A Tesla-SpaceX Clue",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-thrust-flying-roadster-reveal-munster-engineering-flex-tesla-spacex-clue/cZx0oWSRBrs?.tsrc=rss",
-     "when": "Thu Oct 15, 9:52pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -176,10 +176,10 @@
    "mcap": 3549408768,
    "pe": null,
    "fpe": -52.712643,
-   "post": 46.0,
-   "post_pct": 0.3052756,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 45.93,
+   "pre_pct": 0.21819435,
    "day_lo": 43.01,
    "day_hi": 46.19,
    "next_earnings": "Wed Nov 4, 2026",
@@ -226,10 +226,10 @@
    "mcap": 2368861184,
    "pe": 49.5,
    "fpe": 7.120335,
-   "post": 24.59,
-   "post_pct": -0.64646405,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 24.75,
+   "pre_pct": 0.0,
    "day_lo": 22.27,
    "day_hi": 24.75,
    "next_earnings": "Tue Nov 3, 2026",
@@ -275,10 +275,10 @@
    "mcap": 890724480,
    "pe": null,
    "fpe": -55.1449,
-   "post": 18.16,
-   "post_pct": 1.8508128,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 18.159,
+   "pre_pct": 1.7881179,
    "day_lo": 16.02,
    "day_hi": 17.92,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -324,8 +324,8 @@
    "mcap": 613428992,
    "pe": null,
    "fpe": 36.7037,
-   "post": 9.9,
-   "post_pct": -0.100910485,
+   "post": null,
+   "post_pct": null,
    "pre": null,
    "pre_pct": null,
    "day_lo": 9.181,
@@ -374,8 +374,8 @@
    "mcap": 10330348544,
    "pe": 25.945738,
    "fpe": 15.070195,
-   "post": 33.67,
-   "post_pct": 0.5975409,
+   "post": null,
+   "post_pct": null,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.65,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82131.82,
-   "chg_pct": 0.85936326,
-   "chg": 699.7969,
+   "price": 82166.42,
+   "chg_pct": 1.0978662,
+   "chg": 892.28125,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1651248594944,
+   "mcap": 1650652086272,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 81712.43,
    "day_hi": 82340.22,
-   "as_of": "Fri Oct 16, 1:28am MT",
+   "as_of": "Fri Oct 16, 2:29am MT",
    "news": [
+    {
+     "title": "Cardano Is Up 16% This Month, Nearly Double Bitcoin\u2019s Gain. Is ADA Finally Turning?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/16/cardano-is-up-16-this-month-nearly-double-bitcoins-gain-is-ada-finally-turning/?.tsrc=rss",
+     "when": "Fri Oct 16, 2:09am MT"
+    },
     {
      "title": "Bitcoin recovers to $82k but set for second week in red",
      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-82k-set-second-065608980.html?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "ASST Stock Slips Overnight: Strive Upsizes SATS Preferred Offering At 10% Discount; CEO Calls 5-Year Chart \u2018Meaningless\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/asst-stock-strive-upsizes-sats-preferred-offering-discount-ceo-5-year-meaningless/cZx0ricRBrx?.tsrc=rss",
      "when": "Thu Oct 15, 11:46pm MT"
-    },
-    {
-     "title": "Chainalysis Explains Why US Is Hoarding Bitcoin While the World Buys Its Dollars",
-     "link": "https://beincrypto.com/us-hoards-bitcoin-world-buys-dollars/?.tsrc=rss",
-     "when": "Thu Oct 15, 9:35pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -482,16 +482,16 @@
    "as_of": "Thu Oct 15, 12:59pm MT"
   },
   "^VIX": {
-   "price": 16.46,
-   "chg_pct": 0.0,
-   "chg": 0.0,
-   "as_of": "Thu Oct 15, 2:15pm MT"
+   "price": 16.04,
+   "chg_pct": -2.5516293,
+   "chg": -0.41999817,
+   "as_of": "Fri Oct 16, 2:14am MT"
   },
   "DX-Y.NYB": {
-   "price": 101.83,
-   "chg_pct": -0.22047001,
-   "chg": -0.22499847,
-   "as_of": "Fri Oct 16, 1:18am MT"
+   "price": 101.818,
+   "chg_pct": -0.23222952,
+   "chg": -0.23699951,
+   "as_of": "Fri Oct 16, 2:19am MT"
   },
   "^GSPC": {
    "price": 7744.06,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 924.42,
-   "oracle": 923.92,
-   "prev": 877.88,
-   "funding": 3.30828e-05,
-   "oi": 182573.7939999998,
-   "oi_usd": 168774866.6494798,
-   "vol": 160482871.8398204,
-   "rsi14": 55.28308191377878,
-   "ema20": 918.666321358605,
-   "ema50": 920.6560827000756,
+   "mark": 921.39,
+   "oracle": 920.9,
+   "prev": 877.0,
+   "funding": 3.11878e-05,
+   "oi": 183002.1060000001,
+   "oi_usd": 168616310.44734007,
+   "vol": 155526747.5891,
+   "rsi14": 53.506653452930294,
+   "ema20": 918.7110331520157,
+   "ema50": 920.601393631192,
    "hi24": 938.37,
    "lo24": 859.17
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 152.49,
-   "oracle": 152.41,
-   "prev": 149.21,
-   "funding": 1.09909e-05,
-   "oi": 856693.4799999994,
-   "oi_usd": 130637188.76519991,
-   "vol": 165110881.09940007,
-   "rsi14": 59.56732786280269,
-   "ema20": 150.37994842458951,
-   "ema50": 151.53580098323485,
+   "mark": 152.61,
+   "oracle": 152.54,
+   "prev": 148.64,
+   "funding": 1.21838e-05,
+   "oi": 857322.9799999999,
+   "oi_usd": 130836059.9778,
+   "vol": 165646798.4460002,
+   "rsi14": 59.842936937550284,
+   "ema20": 150.5852600643842,
+   "ema50": 151.57575066687048,
    "hi24": 153.5,
    "lo24": 140.79
   },
@@ -660,17 +660,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 377.23,
-   "oracle": 376.77,
-   "prev": 362.41,
-   "funding": 5.6098e-05,
-   "oi": 255710.386,
-   "oi_usd": 96461628.91078,
-   "vol": 154283922.09796,
-   "rsi14": 69.87338293219129,
-   "ema20": 368.9281832290223,
-   "ema50": 368.11271001168257,
-   "hi24": 379.57,
+   "mark": 379.01,
+   "oracle": 378.62,
+   "prev": 360.61,
+   "funding": 4.57894e-05,
+   "oi": 261136.2140000002,
+   "oi_usd": 98973236.46814008,
+   "vol": 158880613.9070401,
+   "rsi14": 72.37444943937024,
+   "ema20": 369.9095812399544,
+   "ema50": 368.5499008408646,
+   "hi24": 380.51,
    "lo24": 355.43
   },
   "LMND": {
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82213.0,
-   "oracle": 82234.0,
-   "prev": 81126.0,
+   "mark": 82242.0,
+   "oracle": 82264.0,
+   "prev": 81234.0,
    "funding": 1.25e-05,
-   "oi": 41363.42474,
-   "oi_usd": 3400611238.14962,
-   "vol": 3074944655.8227153,
-   "rsi14": 53.86689562798826,
-   "ema20": 82044.7714315294,
-   "ema50": 82112.95460276208,
+   "oi": 41382.08034,
+   "oi_usd": 3403345051.32228,
+   "vol": 2993668347.7144856,
+   "rsi14": 54.207392450172065,
+   "ema20": 82068.90668871306,
+   "ema50": 82120.51080808704,
    "hi24": 82613.0,
    "lo24": 79732.0
   },
-  "_at": 1792135698
+  "_at": 1792139384
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 15, 2:59pm MT",
