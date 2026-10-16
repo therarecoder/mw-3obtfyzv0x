@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T18:17:43.795710-06:00",
- "generated_mt": "Thu Oct 15 2026, 6:17pm MT",
+ "generated_at": "2026-10-15T19:17:49.435798-06:00",
+ "generated_mt": "Thu Oct 15 2026, 7:17pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,7 +22,7 @@
    "lo52": 192.4,
    "hi52": 1255.0,
    "mcap": 1053626531840,
-   "pe": 13.064534,
+   "pe": 12.823464,
    "fpe": 4.5544996,
    "post": 923.018,
    "post_pct": -0.8829072,
@@ -90,6 +90,11 @@
      "when": "Thu Oct 15, 11:51am MT"
     },
     {
+     "title": "SpaceX Launched 3 Rockets in 13 Hours and the Stock Jumped 7%. Here's the Number That Actually Matters.",
+     "link": "https://www.fool.com/investing/2026/10/15/spacex-launched-3-rockets-in-13-hours-and-the-stoc/?.tsrc=rss",
+     "when": "Thu Oct 15, 6:25pm MT"
+    },
+    {
      "title": "SPCX Stock Down For Third Straight Session: The European Union Is Preparing To Fast Track Approvals For SpaceX's Satellite Rival",
      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-down-for-third-straight-session-the-european-union-is-preparing-to-fast-track-approvals-for-space-x-s-satellite-rival/cZxh9OhRBrm?.tsrc=rss",
      "when": "Thu Oct 15, 4:38pm MT"
@@ -98,11 +103,6 @@
      "title": "Could $2,000 Invested in SpaceX Help You Retire Early?",
      "link": "https://www.fool.com/investing/2026/10/15/could-2000-invested-in-spacex-help-you-retire-earl/?.tsrc=rss",
      "when": "Thu Oct 15, 4:35pm MT"
-    },
-    {
-     "title": "SpaceX Has a Ukraine Problem. What It Means for the Stock.",
-     "link": "https://finance.yahoo.com/m/18863637-f34e-31b5-9003-1d7d9d2f69c5/spacex-has-a-ukraine-problem..html?.tsrc=rss",
-     "when": "Thu Oct 15, 2:07pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -147,9 +147,9 @@
      "when": "Thu Oct 15, 11:51am MT"
     },
     {
-     "title": "Dow Jones Futures: Techs Slide On Anthropic Valuation Doubts; Tesla Roadster On Tap",
+     "title": "Dow Jones Futures: Techs Slide On Anthropic Valuation Report; Tesla Roadster Event Underway",
      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-techs.html?.tsrc=rss",
-     "when": "Thu Oct 15, 6:09pm MT"
+     "when": "Thu Oct 15, 7:03pm MT"
     },
     {
      "title": "Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot",
@@ -372,7 +372,7 @@
    "lo52": 10.69,
    "hi52": 35.01,
    "mcap": 10330348544,
-   "pe": 25.54962,
+   "pe": 26.14844,
    "fpe": 15.070195,
    "post": 33.67,
    "post_pct": 0.5975409,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82260.0,
-   "chg_pct": 0.86284333,
-   "chg": 703.7031,
+   "price": 82368.51,
+   "chg_pct": 1.0158914,
+   "chg": 828.3594,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1653508014080,
+   "mcap": 1654758047744,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,8 +428,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 82132.23,
-   "day_hi": 82268.914,
-   "as_of": "Thu Oct 15, 6:17pm MT",
+   "day_hi": 82340.22,
+   "as_of": "Thu Oct 15, 7:17pm MT",
    "news": [
     {
      "title": "Trump's crypto council is out of people",
@@ -493,10 +493,10 @@
    "as_of": "Thu Oct 15, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.057,
-   "chg_pct": 0.001958632,
-   "chg": 0.0019989014,
-   "as_of": "Thu Oct 15, 6:07pm MT"
+   "price": 102.068,
+   "chg_pct": 0.0127387075,
+   "chg": 0.013000488,
+   "as_of": "Thu Oct 15, 7:07pm MT"
   },
   "^GSPC": {
    "price": 7744.06,
@@ -626,16 +626,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 918.17,
-   "oracle": 917.54,
-   "prev": 888.54,
-   "funding": 1.48738e-05,
-   "oi": 182418.366,
-   "oi_usd": 167491071.11022002,
-   "vol": 193463209.26714,
-   "rsi14": 54.647237392047664,
-   "ema20": 910.6400767639064,
-   "ema50": 918.7684148715791,
+   "mark": 928.15,
+   "oracle": 927.6,
+   "prev": 891.13,
+   "funding": 1.90488e-05,
+   "oi": 183526.2480000001,
+   "oi_usd": 170339887.0812001,
+   "vol": 194218687.25017995,
+   "rsi14": 60.07204666756284,
+   "ema20": 912.627961159886,
+   "ema50": 919.2767643451502,
    "hi24": 932.7,
    "lo24": 859.17
   },
@@ -644,17 +644,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.4,
-   "oracle": 148.36,
-   "prev": 150.33,
-   "funding": 1.11335e-05,
-   "oi": 867129.88,
-   "oi_usd": 128682074.192,
-   "vol": 163362850.23569998,
-   "rsi14": 46.85409916215143,
-   "ema20": 148.4981951225308,
-   "ema50": 151.33609295277208,
-   "hi24": 151.49,
+   "mark": 149.33,
+   "oracle": 149.28,
+   "prev": 150.83,
+   "funding": 6.25e-06,
+   "oi": 862119.06,
+   "oi_usd": 128740239.22980002,
+   "vol": 162506046.41229996,
+   "rsi14": 50.863647258308596,
+   "ema20": 148.62480720010285,
+   "ema50": 151.2785405374115,
+   "hi24": 150.43,
    "lo24": 140.79
   },
   "TSLA": {
@@ -665,17 +665,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 362.91,
-   "oracle": 362.73,
-   "prev": 363.95,
-   "funding": 2.82886e-05,
-   "oi": 125281.508,
-   "oi_usd": 45465912.068280004,
-   "vol": 49917943.136779994,
-   "rsi14": 49.032360129775114,
-   "ema20": 362.61732485104227,
-   "ema50": 365.94401588842675,
-   "hi24": 365.08,
+   "mark": 364.16,
+   "oracle": 363.7,
+   "prev": 364.64,
+   "funding": 4.63757e-05,
+   "oi": 157580.028,
+   "oi_usd": 57384342.99648,
+   "vol": 60533900.92080983,
+   "rsi14": 53.13085814558687,
+   "ema20": 362.9269676574182,
+   "ema50": 365.9449455417181,
+   "hi24": 366.14,
    "lo24": 355.43
   },
   "LMND": {
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82340.0,
-   "oracle": 82365.0,
-   "prev": 81772.0,
+   "mark": 82460.0,
+   "oracle": 82485.0,
+   "prev": 81702.0,
    "funding": 1.25e-05,
-   "oi": 41375.65158,
-   "oi_usd": 3406871151.0972,
-   "vol": 4299482299.277483,
-   "rsi14": 55.23808565359701,
-   "ema20": 81958.37119007824,
-   "ema50": 82109.34016860243,
+   "oi": 41444.2802600001,
+   "oi_usd": 3417495350.2396083,
+   "vol": 4195351101.716463,
+   "rsi14": 56.841315424450414,
+   "ema20": 82005.57437967623,
+   "ema50": 82123.45016241529,
    "hi24": 82613.0,
    "lo24": 79732.0
   },
-  "_at": 1792109867
+  "_at": 1792113473
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 15, 2:59pm MT",
