@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T20:17:55.311624-06:00",
- "generated_mt": "Thu Oct 15 2026, 8:17pm MT",
+ "generated_at": "2026-10-15T21:18:00.996753-06:00",
+ "generated_mt": "Thu Oct 15 2026, 9:18pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -137,9 +137,14 @@
    "as_of": "Thu Oct 15, 2:00pm MT",
    "news": [
     {
-     "title": "Dow Jones Futures: Techs Slide On Anthropic Valuation Report; Tesla Reveals Flying Roadster",
-     "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-techs.html?.tsrc=rss",
-     "when": "Thu Oct 15, 8:00pm MT"
+     "title": "Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus",
+     "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B.html?.tsrc=rss",
+     "when": "Thu Oct 15, 9:00pm MT"
+    },
+    {
+     "title": "Roadster Reveal Could Be A Big Moment For Tesla Stock",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/roadster-reveal-could-big-moment-021355480.html?.tsrc=rss",
+     "when": "Thu Oct 15, 8:13pm MT"
     },
     {
      "title": "Elon Musk Promised \"a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
@@ -150,11 +155,6 @@
      "title": "Did Elon Musk Just Hint at Tesla x SpaceX Merger, or Will Cars Fly First?",
      "link": "https://beincrypto.com/tesla-spacex-merger-hint-roadster-fly/?.tsrc=rss",
      "when": "Thu Oct 15, 7:16pm MT"
-    },
-    {
-     "title": "Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-energy-chief-mike-snyder-reportedly-exits-as-elon-musk-pushes-ai-and-robotics-pivot/cZxhOgzRBrZ?.tsrc=rss",
-     "when": "Thu Oct 15, 5:18pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -415,22 +415,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82043.63,
-   "chg_pct": 0.7620974,
-   "chg": 620.52344,
+   "price": 82077.37,
+   "chg_pct": 1.5719726,
+   "chg": 1270.2656,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1649146462208,
+   "mcap": 1649587126272,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81968.05,
+   "day_lo": 81918.54,
    "day_hi": 82340.22,
-   "as_of": "Thu Oct 15, 8:17pm MT",
+   "as_of": "Thu Oct 15, 9:17pm MT",
    "news": [
+    {
+     "title": "10-Year Yield Falls and Bitcoin Bounces Back: Correlation or Coincidence?",
+     "link": "https://beincrypto.com/bitcoin-10-year-yield-treasury-buyback/?.tsrc=rss",
+     "when": "Thu Oct 15, 8:36pm MT"
+    },
     {
      "title": "Trump's crypto council is out of people",
      "link": "https://www.thestreet.com/crypto/markets/trumps-crypto-council-is-out-of-people?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "MicroStrategy Could Be Removed From Major Global Stock Indexes",
      "link": "https://beincrypto.com/microstrategy-msci-removal-mstr-stock-crash/?.tsrc=rss",
      "when": "Thu Oct 15, 5:08pm MT"
-    },
-    {
-     "title": "Grayscale Says Bitcoin\u2019s Volatility Falls to 43%, Now Within S&P 500 Range",
-     "link": "https://beincrypto.com/bitcoin-volatility-falls-to-sp-500-levels-grayscale/?.tsrc=rss",
-     "when": "Thu Oct 15, 5:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -459,20 +459,20 @@
   },
   "^TNX": {
    "price": 5.0889997,
-   "chg_pct": -1.946056,
+   "chg_pct": -1.9460561,
    "chg": -0.10100031,
    "as_of": "Thu Oct 15, 12:59pm MT"
   },
   "^TYX": {
    "price": 5.429,
-   "chg_pct": -1.73756,
+   "chg_pct": -1.7375599,
    "chg": -0.096000195,
    "as_of": "Thu Oct 15, 12:59pm MT"
   },
   "^FVX": {
    "price": 4.899,
-   "chg_pct": -1.8629701,
-   "chg": -0.09299946,
+   "chg_pct": -1.8629795,
+   "chg": -0.092999935,
    "as_of": "Thu Oct 15, 12:59pm MT"
   },
   "^IRX": {
@@ -488,16 +488,16 @@
    "as_of": "Thu Oct 15, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.021,
-   "chg_pct": -0.033312347,
-   "chg": -0.033996582,
-   "as_of": "Thu Oct 15, 8:07pm MT"
+   "price": 101.988,
+   "chg_pct": -0.06565219,
+   "chg": -0.06700134,
+   "as_of": "Thu Oct 15, 9:08pm MT"
   },
   "^GSPC": {
    "price": 7744.06,
    "chg_pct": 0.3254348,
    "chg": 25.120117,
-   "as_of": "Thu Oct 15, 2:33pm MT"
+   "as_of": "Thu Oct 15, 2:00pm MT"
   },
   "^NDX": {
    "price": 29935.594,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 923.03,
-   "oracle": 922.56,
-   "prev": 890.15,
-   "funding": 9.3618e-06,
-   "oi": 181595.238,
-   "oi_usd": 167617852.53114,
-   "vol": 193109638.03601024,
-   "rsi14": 57.40466729306024,
-   "ema20": 912.9464330798564,
-   "ema50": 919.131628102211,
+   "mark": 922.45,
+   "oracle": 921.83,
+   "prev": 888.36,
+   "funding": 2.51894e-05,
+   "oi": 181529.484,
+   "oi_usd": 167451872.5158,
+   "vol": 190768292.03629002,
+   "rsi14": 57.17085031517863,
+   "ema20": 913.7288457455699,
+   "ema50": 919.1890086442077,
    "hi24": 932.7,
    "lo24": 859.17
   },
@@ -639,17 +639,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.79,
-   "oracle": 149.75,
-   "prev": 149.97,
+   "mark": 152.1,
+   "oracle": 152.09,
+   "prev": 150.11,
    "funding": 6.25e-06,
-   "oi": 861463.8599999998,
-   "oi_usd": 129038671.58939996,
-   "vol": 160901031.78339994,
-   "rsi14": 53.07641696310342,
-   "ema20": 148.7441679105894,
-   "ema50": 151.22358603353538,
-   "hi24": 150.41,
+   "oi": 867340.3799999998,
+   "oi_usd": 131922471.79799996,
+   "vol": 157236199.0165,
+   "rsi14": 60.797356099681465,
+   "ema20": 149.20268110039976,
+   "ema50": 151.3165927427484,
+   "hi24": 152.34,
    "lo24": 140.79
   },
   "TSLA": {
@@ -660,17 +660,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 369.23,
-   "oracle": 368.79,
-   "prev": 362.95,
-   "funding": 7.43389e-05,
-   "oi": 192532.1120000002,
-   "oi_usd": 71088631.71376008,
-   "vol": 105282033.55586952,
-   "rsi14": 64.03685321060746,
-   "ema20": 363.74594274519234,
-   "ema50": 366.1715756295409,
-   "hi24": 370.23,
+   "mark": 373.2,
+   "oracle": 372.71,
+   "prev": 361.66,
+   "funding": 6.34484e-05,
+   "oi": 220843.6639999998,
+   "oi_usd": 82418855.40479992,
+   "vol": 123949332.18396004,
+   "rsi14": 70.09394712829642,
+   "ema20": 364.90877631379846,
+   "ema50": 366.55944829524964,
+   "hi24": 374.57,
    "lo24": 355.43
   },
   "LMND": {
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82125.0,
-   "oracle": 82150.0,
-   "prev": 81421.0,
+   "mark": 82162.0,
+   "oracle": 82183.2,
+   "prev": 81243.0,
    "funding": 1.25e-05,
-   "oi": 41547.71356,
-   "oi_usd": 3412105976.115,
-   "vol": 4107515081.1220326,
-   "rsi14": 52.29453276675601,
-   "ema20": 81981.86919690736,
-   "ema50": 82108.62494253826,
+   "oi": 41509.72386,
+   "oi_usd": 3410521931.78532,
+   "vol": 3571610727.0510783,
+   "rsi14": 52.864005994243016,
+   "ema20": 81991.36306248994,
+   "ema50": 82105.09053215769,
    "hi24": 82613.0,
    "lo24": 79732.0
   },
-  "_at": 1792117079
+  "_at": 1792120685
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 15, 2:59pm MT",
