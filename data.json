@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T00:28:09.289492-06:00",
- "generated_mt": "Fri Oct 16 2026, 12:28am MT",
+ "generated_at": "2026-10-16T01:28:14.394593-06:00",
+ "generated_mt": "Fri Oct 16 2026, 1:28am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -142,7 +142,7 @@
      "when": "Thu Oct 15, 11:17pm MT"
     },
     {
-     "title": "Tesla unveils \u2018flying\u2019 sports car",
+     "title": "Tesla unveils 'flying' sports car",
      "link": "https://uk.finance.yahoo.com/news/tesla-unveils-flying-sports-car-050027047.html?.tsrc=rss",
      "when": "Thu Oct 15, 11:00pm MT"
     },
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81991.2,
-   "chg_pct": 1.4913558,
-   "chg": 1204.8125,
+   "price": 82131.82,
+   "chg_pct": 0.85936326,
+   "chg": 699.7969,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1647553675264,
+   "mcap": 1651248594944,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 81712.43,
    "day_hi": 82340.22,
-   "as_of": "Fri Oct 16, 12:28am MT",
+   "as_of": "Fri Oct 16, 1:28am MT",
    "news": [
+    {
+     "title": "Bitcoin recovers to $82k but set for second week in red",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-82k-set-second-065608980.html?.tsrc=rss",
+     "when": "Fri Oct 16, 12:56am MT"
+    },
     {
      "title": "ASST Stock Slips Overnight: Strive Upsizes SATS Preferred Offering At 10% Discount; CEO Calls 5-Year Chart \u2018Meaningless\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/asst-stock-strive-upsizes-sats-preferred-offering-discount-ceo-5-year-meaningless/cZx0ricRBrx?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "Chainalysis Explains Why US Is Hoarding Bitcoin While the World Buys Its Dollars",
      "link": "https://beincrypto.com/us-hoards-bitcoin-world-buys-dollars/?.tsrc=rss",
      "when": "Thu Oct 15, 9:35pm MT"
-    },
-    {
-     "title": "10-Year Yield Falls and Bitcoin Bounces Back: Correlation or Coincidence?",
-     "link": "https://beincrypto.com/bitcoin-10-year-yield-treasury-buyback/?.tsrc=rss",
-     "when": "Thu Oct 15, 8:36pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -483,15 +483,15 @@
   },
   "^VIX": {
    "price": 16.46,
-   "chg_pct": -2.43036,
-   "chg": -0.41000175,
+   "chg_pct": 0.0,
+   "chg": 0.0,
    "as_of": "Thu Oct 15, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.906,
-   "chg_pct": -0.1460046,
-   "chg": -0.14900208,
-   "as_of": "Fri Oct 16, 12:18am MT"
+   "price": 101.83,
+   "chg_pct": -0.22047001,
+   "chg": -0.22499847,
+   "as_of": "Fri Oct 16, 1:18am MT"
   },
   "^GSPC": {
    "price": 7744.06,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 923.47,
-   "oracle": 922.67,
-   "prev": 878.79,
-   "funding": 2.1521e-05,
-   "oi": 181789.702,
-   "oi_usd": 167877336.10593998,
-   "vol": 167099725.25781006,
-   "rsi14": 54.78685132005825,
-   "ema20": 918.1283015805909,
-   "ema50": 920.5459230726042,
+   "mark": 924.42,
+   "oracle": 923.92,
+   "prev": 877.88,
+   "funding": 3.30828e-05,
+   "oi": 182573.7939999998,
+   "oi_usd": 168774866.6494798,
+   "vol": 160482871.8398204,
+   "rsi14": 55.28308191377878,
+   "ema20": 918.666321358605,
+   "ema50": 920.6560827000756,
    "hi24": 938.37,
    "lo24": 859.17
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 152.3,
-   "oracle": 152.23,
-   "prev": 149.46,
-   "funding": 1.12633e-05,
-   "oi": 855049.5199999997,
-   "oi_usd": 130224041.89599995,
-   "vol": 161937897.71940014,
-   "rsi14": 60.031606879575826,
-   "ema20": 150.09212411585509,
-   "ema50": 151.47069995390956,
+   "mark": 152.49,
+   "oracle": 152.41,
+   "prev": 149.21,
+   "funding": 1.09909e-05,
+   "oi": 856693.4799999994,
+   "oi_usd": 130637188.76519991,
+   "vol": 165110881.09940007,
+   "rsi14": 59.56732786280269,
+   "ema20": 150.37994842458951,
+   "ema50": 151.53580098323485,
    "hi24": 153.5,
    "lo24": 140.79
   },
@@ -660,17 +660,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 376.23,
-   "oracle": 375.7,
-   "prev": 361.86,
-   "funding": 7.07091e-05,
-   "oi": 246960.186,
-   "oi_usd": 92913830.77878,
-   "vol": 146764619.87514016,
-   "rsi14": 72.03233519283229,
-   "ema20": 367.77049740401833,
-   "ema50": 367.6225615540866,
-   "hi24": 376.59,
+   "mark": 377.23,
+   "oracle": 376.77,
+   "prev": 362.41,
+   "funding": 5.6098e-05,
+   "oi": 255710.386,
+   "oi_usd": 96461628.91078,
+   "vol": 154283922.09796,
+   "rsi14": 69.87338293219129,
+   "ema20": 368.9281832290223,
+   "ema50": 368.11271001168257,
+   "hi24": 379.57,
    "lo24": 355.43
   },
   "LMND": {
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82067.0,
-   "oracle": 82094.0,
-   "prev": 80936.0,
+   "mark": 82213.0,
+   "oracle": 82234.0,
+   "prev": 81126.0,
    "funding": 1.25e-05,
-   "oi": 41223.6005,
-   "oi_usd": 3383097222.2335,
-   "vol": 3122596396.132006,
-   "rsi14": 51.30974420089544,
-   "ema20": 82017.72075171374,
-   "ema50": 82106.30939821282,
+   "oi": 41363.42474,
+   "oi_usd": 3400611238.14962,
+   "vol": 3074944655.8227153,
+   "rsi14": 53.86689562798826,
+   "ema20": 82044.7714315294,
+   "ema50": 82112.95460276208,
    "hi24": 82613.0,
    "lo24": 79732.0
   },
-  "_at": 1792132093
+  "_at": 1792135698
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 15, 2:59pm MT",
