@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T15:17:09.808126-06:00",
- "generated_mt": "Fri Oct 16 2026, 3:17pm MT",
+ "generated_at": "2026-10-16T16:18:53.795333-06:00",
+ "generated_mt": "Fri Oct 16 2026, 4:18pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 994340044800,
    "pe": 11.82349,
    "fpe": 4.247783,
-   "post": 878.58,
-   "post_pct": -0.029585563,
+   "post": 873.999,
+   "post_pct": -0.55084014,
    "pre": null,
    "pre_pct": null,
    "day_lo": 875.08,
@@ -70,8 +70,8 @@
    "mcap": 1924935319552,
    "pe": null,
    "fpe": 73.45684,
-   "post": 146.15,
-   "post_pct": 0.08217155,
+   "post": 145.9301,
+   "post_pct": -0.06841011,
    "pre": null,
    "pre_pct": null,
    "day_lo": 142.9648,
@@ -80,24 +80,24 @@
    "as_of": "Fri Oct 16, 2:00pm MT",
    "news": [
     {
+     "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
+     "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+     "when": "Fri Oct 16, 3:08pm MT"
+    },
+    {
+     "title": "Tesla, SpaceX, CoreWeave, Lam Research, Netflix, Strategy, and More Stocks That Explain Today\u2019s Market",
+     "link": "https://finance.yahoo.com/m/c6ccb9fa-69f9-3a76-9ab4-a63df71bca8a/tesla%2C-spacex%2C-coreweave%2C-lam.html?.tsrc=rss",
+     "when": "Fri Oct 16, 2:32pm MT"
+    },
+    {
      "title": "Blue Origin\u2019s Latest Move Shows How It\u2019s Quietly Taking On SpaceX",
      "link": "https://finance.yahoo.com/m/8a824e15-462c-38cb-8fe5-70b39546aa8e/blue-origin%E2%80%99s-latest-move.html?.tsrc=rss",
      "when": "Fri Oct 16, 2:23pm MT"
     },
     {
-     "title": "Sector Update: Tech Stocks Fall Friday Afternoon",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-friday-174215504.html?.tsrc=rss",
-     "when": "Fri Oct 16, 11:42am MT"
-    },
-    {
-     "title": "SpaceX Will Target Rural America Before Big Cities, Telecom Analyst Predicts",
-     "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62419606/spacex-mobile-network-rural-america?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-     "when": "Fri Oct 16, 11:37am MT"
-    },
-    {
-     "title": "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz",
-     "link": "https://finance.yahoo.com/m/cf765310-a5f1-33be-a2ed-39ba4441e750/spacex-earnings-due-amid-ai.html?.tsrc=rss",
-     "when": "Fri Oct 16, 11:32am MT"
+     "title": "Tesla investors hardly impressed with Elon Musk's 'flying car'",
+     "link": "https://www.thestreet.com/crypto/markets/tesla-investors-hardly-impressed-with-elon-musks-flying-car?.tsrc=rss",
+     "when": "Fri Oct 16, 3:25pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -122,8 +122,8 @@
    "mcap": 1400983519232,
    "pe": 328.44443,
    "fpe": 163.5853,
-   "post": 353.4946,
-   "post_pct": -0.34545636,
+   "post": 352.67,
+   "post_pct": -0.57791716,
    "pre": null,
    "pre_pct": null,
    "day_lo": 349.33,
@@ -132,24 +132,24 @@
    "as_of": "Fri Oct 16, 2:00pm MT",
    "news": [
     {
-     "title": "Tesla Roadster reaction, the state of housing, and making sense of Skydance",
-     "link": "https://finance.yahoo.com/video/tesla-roadster-reaction-the-state-of-housing-and-making-sense-of-skydance-181035777.html?.tsrc=rss",
-     "when": "Fri Oct 16, 12:10pm MT"
+     "title": "Stock Market Today, Oct. 16: Tesla Slips 2% as Roadster Reveal Fades Before Earnings",
+     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-tesla-falls-as-roadster-reveal-fades-before-earnings/?.tsrc=rss",
+     "when": "Fri Oct 16, 3:43pm MT"
     },
     {
-     "title": "Was Tesla's Roadster reveal just a big marketing stunt?",
-     "link": "https://finance.yahoo.com/video/was-teslas-roadster-reveal-just-a-big-marketing-stunt-175933516.html?.tsrc=rss",
-     "when": "Fri Oct 16, 11:59am MT"
+     "title": "Tesla investors hardly impressed with Elon Musk's 'flying car'",
+     "link": "https://www.thestreet.com/crypto/markets/tesla-investors-hardly-impressed-with-elon-musks-flying-car?.tsrc=rss",
+     "when": "Fri Oct 16, 3:25pm MT"
+    },
+    {
+     "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
+     "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+     "when": "Fri Oct 16, 3:08pm MT"
     },
     {
      "title": "Tesla Retreats After Flying Roadster Demo; Musk Cites SpaceX Collaboration",
      "link": "https://finance.yahoo.com/m/742f39e4-fd25-3539-8b7a-19a6f7c16be8/tesla-retreats-after-flying.html?.tsrc=rss",
      "when": "Fri Oct 16, 2:31pm MT"
-    },
-    {
-     "title": "Tesla Has Built a Flying Car. It Will Blow Your Mind.",
-     "link": "https://finance.yahoo.com/m/33917906-5253-3056-8faf-6a7077a9d6dc/tesla-has-built-a-flying-car..html?.tsrc=rss",
-     "when": "Fri Oct 16, 2:22pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -221,8 +221,8 @@
    "mcap": 2292695296,
    "pe": 47.12,
    "fpe": 6.591666,
-   "post": 23.5325,
-   "post_pct": -0.11672391,
+   "post": 23.48,
+   "post_pct": -0.33955824,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.2501,
@@ -270,8 +270,8 @@
    "mcap": 814790528,
    "pe": null,
    "fpe": -50.44382,
-   "post": 16.5613,
-   "post_pct": 1.5407776,
+   "post": 16.6,
+   "post_pct": 1.7780559,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.12,
@@ -369,8 +369,8 @@
    "mcap": 9842689024,
    "pe": 24.72093,
    "fpe": 14.358784,
-   "post": 31.85,
-   "post_pct": -0.12542807,
+   "post": 31.81,
+   "post_pct": -0.2508621,
    "pre": null,
    "pre_pct": null,
    "day_lo": 31.65,
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81633.81,
-   "chg_pct": -0.8548825,
-   "chg": -703.8906,
+   "price": 81668.63,
+   "chg_pct": -0.84308547,
+   "chg": -694.3906,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1640184152064,
+   "mcap": 1641534324736,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,8 +424,18 @@
    "pre_pct": null,
    "day_lo": 80735.26,
    "day_hi": 82717.27,
-   "as_of": "Fri Oct 16, 3:17pm MT",
+   "as_of": "Fri Oct 16, 4:18pm MT",
    "news": [
+    {
+     "title": "Bitcoin's $350,000 price target comes with a terrifying warning, analyst says",
+     "link": "https://www.thestreet.com/crypto/markets/bitcoins-350000-price-target-comes-with-a-terrifying-warning-analyst-says?.tsrc=rss",
+     "when": "Fri Oct 16, 4:00pm MT"
+    },
+    {
+     "title": "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
+     "link": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-under-pressure-as-ai-trade-unwinds-7345?.tsrc=rss",
+     "when": "Fri Oct 16, 3:44pm MT"
+    },
     {
      "title": "Why Strategy (MSTR) Stock Is Down Today",
      "link": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-mstr-stock-down-203539823.html?.tsrc=rss",
@@ -435,16 +445,6 @@
      "title": "Tech stocks stumble as sell-off spreads to software",
      "link": "https://finance.yahoo.com/video/tech-stocks-stumble-as-sell-off-spreads-to-software-194829195.html?.tsrc=rss",
      "when": "Fri Oct 16, 1:48pm MT"
-    },
-    {
-     "title": "Sector Update: Financial Stocks Edge Higher Late Afternoon",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-higher-194139421.html?.tsrc=rss",
-     "when": "Fri Oct 16, 1:41pm MT"
-    },
-    {
-     "title": "Pearl and the Security Budget Bitcoin Can't Solve",
-     "link": "https://www.bankless.com/read/who-pays-for-proof-of-work-pearl-has-an-answer?.tsrc=rss",
-     "when": "Fri Oct 16, 1:34pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -489,7 +489,7 @@
   },
   "DX-Y.NYB": {
    "price": 101.779,
-   "chg_pct": -0.270446,
+   "chg_pct": -0.27044335,
    "chg": -0.27600098,
    "as_of": "Fri Oct 16, 2:59pm MT"
   },
@@ -503,7 +503,7 @@
    "price": 29187.549,
    "chg_pct": -2.4988477,
    "chg": -748.0449,
-   "as_of": "Fri Oct 16, 3:16pm MT"
+   "as_of": "Fri Oct 16, 3:15pm MT"
   }
  },
  "errors": [],
@@ -621,34 +621,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 878.78,
-   "oracle": 878.29,
-   "prev": 923.88,
-   "funding": 2.58964e-05,
-   "oi": 177453.642,
-   "oi_usd": 155942711.51676,
-   "vol": 107897207.33947998,
-   "rsi14": 31.508756061024258,
-   "ema20": 899.6128730845849,
-   "ema50": 910.2948516504601,
+   "mark": 874.48,
+   "oracle": 873.74,
+   "prev": 931.16,
+   "funding": 3.13495e-05,
+   "oi": 177907.5399999999,
+   "oi_usd": 155576585.5791999,
+   "vol": 107538551.25411987,
+   "rsi14": 29.53677110935972,
+   "ema20": 897.0054443815427,
+   "ema50": 908.8121280007846,
    "hi24": 938.37,
-   "lo24": 875.75
+   "lo24": 872.62
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 146.19,
-   "oracle": 146.12,
-   "prev": 148.55,
-   "funding": 8.7395e-06,
-   "oi": 882377.66,
-   "oi_usd": 128994790.1154,
-   "vol": 180772956.93509996,
-   "rsi14": 41.64450152603679,
-   "ema20": 147.72050243182835,
-   "ema50": 149.71251451660325,
+   "mark": 146.04,
+   "oracle": 145.98,
+   "prev": 149.14,
+   "funding": 7.9462e-06,
+   "oi": 880754.0000000002,
+   "oi_usd": 128625314.16000003,
+   "vol": 179492248.08740002,
+   "rsi14": 41.232229448066875,
+   "ema20": 147.56303922993595,
+   "ema50": 149.56907153734312,
    "hi24": 153.5,
    "lo24": 143.05
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 353.61,
-   "oracle": 353.49,
-   "prev": 362.28,
-   "funding": 1.59095e-05,
-   "oi": 212648.44,
-   "oi_usd": 75194614.86840001,
-   "vol": 274137425.4375601,
-   "rsi14": 34.59538059586403,
-   "ema20": 362.12158065635845,
-   "ema50": 365.5305670885798,
+   "mark": 352.71,
+   "oracle": 352.71,
+   "prev": 363.41,
+   "funding": 6.25e-06,
+   "oi": 210564.2,
+   "oi_usd": 74268098.982,
+   "vol": 274460224.9575401,
+   "rsi14": 32.7010101933799,
+   "ema20": 361.1441524168967,
+   "ema50": 364.9941056552146,
    "hi24": 382.55,
    "lo24": 349.36
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81711.4,
-   "oracle": 81740.0,
-   "prev": 82145.0,
+   "mark": 81762.0,
+   "oracle": 81776.3,
+   "prev": 82435.0,
    "funding": 1.25e-05,
-   "oi": 41157.25656,
-   "oi_usd": 3363017053.676784,
-   "vol": 2886598811.847261,
-   "rsi14": 48.1149955766885,
-   "ema20": 81770.00959834515,
-   "ema50": 81956.18354945251,
+   "oi": 41183.59442,
+   "oi_usd": 3367253046.96804,
+   "vol": 2878552808.3244624,
+   "rsi14": 49.20529920758054,
+   "ema20": 81763.68283055411,
+   "ema50": 81947.09754179302,
    "hi24": 82898.0,
    "lo24": 80772.0
   },
-  "_at": 1792185434
+  "_at": 1792189138
  },
  "xdrivers": {
   "generated_mt": "Fri Oct 16, 3:00pm MT",
