@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T23:14:06.370791-06:00",
- "generated_mt": "Sun Oct 18 2026, 11:14pm MT",
+ "generated_at": "2026-10-19T00:14:11.015301-06:00",
+ "generated_mt": "Mon Oct 19 2026, 12:14am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -90,6 +90,11 @@
      "when": "Sun Oct 18, 4:34pm MT"
     },
     {
+     "title": "ASTS Stock Jumps Overnight: Boost Mobile Founder Turns Buyer \u2014 Floats Potential Telecom Takeover For SpaceX Rival",
+     "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-boost-mobile-founder-buyer-telecom-takeover-spacex-rival/cZx8QeURBMc?.tsrc=rss",
+     "when": "Sun Oct 18, 11:21pm MT"
+    },
+    {
      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
      "when": "Sun Oct 18, 9:08pm MT"
@@ -98,11 +103,6 @@
      "title": "Here's What $5,000 Invested in SpaceX Could Be Worth in 2030",
      "link": "https://www.fool.com/investing/2026/10/18/heres-what-5000-invested-in-spacex-could-be-worth/?.tsrc=rss",
      "when": "Sun Oct 18, 5:20pm MT"
-    },
-    {
-     "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
-     "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
-     "when": "Sun Oct 18, 5:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82530.99,
-   "chg_pct": 1.1096833,
-   "chg": 905.78125,
+   "price": 82684.5,
+   "chg_pct": 1.3129036,
+   "chg": 1071.5,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1659351465984,
+   "mcap": 1662141595648,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 81942.16,
    "day_hi": 82772.29,
-   "as_of": "Sun Oct 18, 11:14pm MT",
+   "as_of": "Mon Oct 19, 12:14am MT",
    "news": [
     {
      "title": "Riot Stock Selloff Raises Questions About Its AI Data Center Shift",
@@ -493,10 +493,10 @@
    "as_of": "Fri Oct 16, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.825,
-   "chg_pct": -0.011784555,
-   "chg": -0.012001038,
-   "as_of": "Sun Oct 18, 11:04pm MT"
+   "price": 101.849,
+   "chg_pct": 0.011784555,
+   "chg": 0.012001038,
+   "as_of": "Mon Oct 19, 12:04am MT"
   },
   "^GSPC": {
    "price": 7659.44,
@@ -626,17 +626,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 898.78,
-   "oracle": 898.78,
-   "prev": 866.18,
+   "mark": 900.97,
+   "oracle": 900.97,
+   "prev": 866.19,
    "funding": 6.25e-06,
-   "oi": 182175.406,
-   "oi_usd": 163735611.40467998,
-   "vol": 93262366.84687993,
-   "rsi14": 73.26227758261001,
-   "ema20": 880.6324767469413,
-   "ema50": 878.5158813157633,
-   "hi24": 901.68,
+   "oi": 182003.086,
+   "oi_usd": 163979320.39342,
+   "vol": 91835373.43589985,
+   "rsi14": 75.03072671752783,
+   "ema20": 882.618956847051,
+   "ema50": 879.4236776436928,
+   "hi24": 903.69,
    "lo24": 852.55
   },
   "SPCX": {
@@ -644,16 +644,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.87,
-   "oracle": 147.88,
-   "prev": 145.11,
-   "funding": 6.25e-06,
-   "oi": 898925.08,
-   "oi_usd": 132924051.57959999,
-   "vol": 37438388.65049999,
-   "rsi14": 68.46005238773041,
-   "ema20": 145.8734945872209,
-   "ema50": 145.75547834102338,
+   "mark": 148.12,
+   "oracle": 148.09,
+   "prev": 144.46,
+   "funding": 1.10742e-05,
+   "oi": 901763.3399999995,
+   "oi_usd": 133569185.92079993,
+   "vol": 38278586.424799986,
+   "rsi14": 70.22187744376716,
+   "ema20": 146.11597482661372,
+   "ema50": 145.86247118755696,
    "hi24": 148.66,
    "lo24": 142.02
   },
@@ -665,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 357.47,
-   "oracle": 357.19,
-   "prev": 350.25,
-   "funding": 3.33794e-05,
-   "oi": 340263.7800000001,
-   "oi_usd": 121634093.43660004,
-   "vol": 97250068.90229015,
-   "rsi14": 59.77758983337324,
-   "ema20": 354.3957012121981,
-   "ema50": 354.1073199039395,
+   "mark": 357.78,
+   "oracle": 357.51,
+   "prev": 350.41,
+   "funding": 3.08948e-05,
+   "oi": 340418.2479999999,
+   "oi_usd": 121794840.76943995,
+   "vol": 97757924.88587,
+   "rsi14": 60.679928649014,
+   "ema20": 354.7588816285016,
+   "ema50": 354.27567528278485,
    "hi24": 365.47,
    "lo24": 347.0
   },
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82598.9,
-   "oracle": 82631.1,
-   "prev": 81794.0,
-   "funding": 1.25e-05,
-   "oi": 39509.3150799999,
-   "oi_usd": 3263425965.3614035,
-   "vol": 2140190459.0076542,
-   "rsi14": 64.27079577234464,
-   "ema20": 81951.56732265525,
-   "ema50": 81770.45426650628,
+   "mark": 82750.0,
+   "oracle": 82782.4,
+   "prev": 81709.0,
+   "funding": 1.02823e-05,
+   "oi": 39612.79944,
+   "oi_usd": 3277959153.6600003,
+   "vol": 2146933588.0448534,
+   "rsi14": 67.63942092699557,
+   "ema20": 82038.2342207556,
+   "ema50": 81813.27765308642,
    "hi24": 82853.0,
    "lo24": 80644.0
   },
-  "_at": 1792386850
+  "_at": 1792390455
  },
  "xdrivers": {
   "generated_mt": "Sun Oct 18, 7:10pm MT",
