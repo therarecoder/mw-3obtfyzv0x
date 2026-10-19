@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T14:03:17.329841-06:00",
- "generated_mt": "Mon Oct 19 2026, 2:03pm MT",
+ "generated_at": "2026-10-19T14:08:22.004582-06:00",
+ "generated_mt": "Mon Oct 19 2026, 2:08pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1023824887808,
    "pe": 12.1740885,
    "fpe": 4.373741,
-   "post": 904.9,
-   "post_pct": 0.0,
+   "post": 904.8,
+   "post_pct": -0.011054992,
    "pre": null,
    "pre_pct": null,
    "day_lo": 900.6,
@@ -75,8 +75,8 @@
    "mcap": 1949252845568,
    "pe": null,
    "fpe": 72.33617,
-   "post": 147.9621,
-   "post_pct": 0.0014128508,
+   "post": 148.0286,
+   "post_pct": 0.046355944,
    "pre": null,
    "pre_pct": null,
    "day_lo": 146.84,
@@ -84,6 +84,11 @@
    "next_earnings": "Tue Oct 20, 2026",
    "as_of": "Mon Oct 19, 2:00pm MT",
    "news": [
+    {
+     "title": "A bad case of when your crypto thesis is based on one guy",
+     "link": "https://finance.yahoo.com/video/bad-case-crypto-thesis-based-200000972.html?.tsrc=rss",
+     "when": "Mon Oct 19, 2:00pm MT"
+    },
     {
      "title": "The number to watch in SpaceX's earnings: AI spending",
      "link": "https://finance.yahoo.com/video/the-number-to-watch-in-spacexs-earnings-ai-spending-184154308.html?.tsrc=rss",
@@ -98,11 +103,6 @@
      "title": "Buying dip in tech market, Anthropic's \"Public Benefit\" fund, and Musk's SpaceX pledge",
      "link": "https://finance.yahoo.com/video/buying-dip-in-tech-market-anthropics-public-benefit-fund-and-musks-spacex-pledge-174544378.html?.tsrc=rss",
      "when": "Mon Oct 19, 11:45am MT"
-    },
-    {
-     "title": "Elon Musk's SpaceX stock giveaway: Wealth building or political play?",
-     "link": "https://finance.yahoo.com/video/elon-musks-spacex-stock-giveaway-wealth-building-or-political-play-174444888.html?.tsrc=rss",
-     "when": "Mon Oct 19, 11:44am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,8 +127,8 @@
    "mcap": 1453670400000,
    "pe": 340.7963,
    "fpe": 169.73727,
-   "post": 368.27,
-   "post_pct": 0.057053592,
+   "post": 367.7372,
+   "post_pct": -0.08769886,
    "pre": null,
    "pre_pct": null,
    "day_lo": 354.47,
@@ -176,8 +176,8 @@
    "mcap": 3337341952,
    "pe": null,
    "fpe": -49.563217,
-   "post": 43.15,
-   "post_pct": 0.0695793,
+   "post": 43.03,
+   "post_pct": -0.2087202,
    "pre": null,
    "pre_pct": null,
    "day_lo": 43.0606,
@@ -374,8 +374,8 @@
    "mcap": 10043308032,
    "pe": 25.224808,
    "fpe": 14.651454,
-   "post": 32.78,
-   "post_pct": 0.7375472,
+   "post": 32.3744,
+   "post_pct": -0.50891155,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.0941,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81826.78,
-   "chg_pct": 1.1885453,
-   "chg": 961.125,
+   "price": 81806.04,
+   "chg_pct": 1.1628952,
+   "chg": 940.3828,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1643809603584,
+   "mcap": 1644575326208,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,7 +429,7 @@
    "pre_pct": null,
    "day_lo": 81706.25,
    "day_hi": 83014.36,
-   "as_of": "Mon Oct 19, 2:03pm MT",
+   "as_of": "Mon Oct 19, 2:08pm MT",
    "news": [
     {
      "title": "Coinbase (COIN) Is Leaning on Institutions as Retail Revenue Fell 31%",
@@ -487,28 +487,28 @@
    "as_of": "Mon Oct 19, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.29,
-   "chg_pct": -8.504246,
-   "chg": -1.6999989,
-   "as_of": "Mon Oct 19, 1:48pm MT"
-  },
-  "DX-Y.NYB": {
-   "price": 101.989,
-   "chg_pct": 0.14925855,
-   "chg": 0.15200043,
+   "price": 18.53,
+   "chg_pct": -7.2999954,
+   "chg": -1.4599991,
    "as_of": "Mon Oct 19, 1:53pm MT"
   },
+  "DX-Y.NYB": {
+   "price": 101.991,
+   "chg_pct": 0.1512214,
+   "chg": 0.15399933,
+   "as_of": "Mon Oct 19, 1:58pm MT"
+  },
   "^GSPC": {
-   "price": 7690.79,
-   "chg_pct": 0.40930012,
-   "chg": 31.350098,
-   "as_of": "Mon Oct 19, 2:03pm MT"
+   "price": 7690.73,
+   "chg_pct": 0.40851602,
+   "chg": 31.29004,
+   "as_of": "Mon Oct 19, 2:08pm MT"
   },
   "^NDX": {
    "price": 29529.344,
    "chg_pct": 1.1710299,
    "chg": 341.79492,
-   "as_of": "Mon Oct 19, 2:03pm MT"
+   "as_of": "Mon Oct 19, 2:08pm MT"
   }
  },
  "errors": [],
@@ -626,16 +626,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 904.89,
-   "oracle": 904.57,
-   "prev": 854.73,
+   "mark": 905.32,
+   "oracle": 905.0,
+   "prev": 854.24,
    "funding": 6.25e-06,
-   "oi": 165475.1619999998,
-   "oi_usd": 149736819.34217983,
-   "vol": 157293410.49782005,
-   "rsi14": 58.01818398837878,
-   "ema20": 902.3503062579155,
-   "ema50": 891.7755064973699,
+   "oi": 165445.266,
+   "oi_usd": 149780908.21512002,
+   "vol": 157167573.63256004,
+   "rsi14": 57.95462855030316,
+   "ema20": 902.3455443531536,
+   "ema50": 891.7735457130561,
    "hi24": 927.17,
    "lo24": 853.31
   },
@@ -644,16 +644,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.0,
-   "oracle": 148.0,
-   "prev": 142.55,
+   "mark": 148.1,
+   "oracle": 148.1,
+   "prev": 142.42,
    "funding": 6.25e-06,
-   "oi": 917104.7599999997,
-   "oi_usd": 135731504.47999996,
-   "vol": 117639024.7788,
-   "rsi14": 54.54594761839609,
-   "ema20": 147.64645660215493,
-   "ema50": 146.794215209288,
+   "oi": 916075.5199999999,
+   "oi_usd": 135670784.512,
+   "vol": 117786010.74910004,
+   "rsi14": 55.38843608686689,
+   "ema20": 147.65978993548825,
+   "ema50": 146.79970540536644,
    "hi24": 151.03,
    "lo24": 142.71
   },
@@ -665,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 368.24,
-   "oracle": 368.26,
-   "prev": 347.73,
+   "mark": 367.71,
+   "oracle": 367.71,
+   "prev": 347.37,
    "funding": 6.25e-06,
-   "oi": 185024.0520000001,
-   "oi_usd": 68133256.90848005,
-   "vol": 207713273.26433006,
-   "rsi14": 70.16250525561217,
-   "ema20": 361.9795087311792,
-   "ema50": 358.0176207523707,
+   "oi": 184836.2859999999,
+   "oi_usd": 67966150.72505996,
+   "vol": 207942676.77166942,
+   "rsi14": 68.96609462532378,
+   "ema20": 361.9404611121316,
+   "ema50": 358.00154232099817,
    "hi24": 369.52,
    "lo24": 347.68
   },
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81897.0,
-   "oracle": 81925.1,
-   "prev": 80834.0,
+   "mark": 81875.0,
+   "oracle": 81903.1,
+   "prev": 80812.0,
    "funding": 1.25e-05,
-   "oi": 39765.50268,
-   "oi_usd": 3256675372.9839597,
-   "vol": 2464027477.669234,
-   "rsi14": 45.95173648557538,
-   "ema20": 82102.31717808601,
-   "ema50": 81966.21129353184,
+   "oi": 39769.91816,
+   "oi_usd": 3256162049.35,
+   "vol": 2430666077.0175915,
+   "rsi14": 45.19678311445883,
+   "ema20": 82099.36479713363,
+   "ema50": 81964.99560725734,
    "hi24": 83138.0,
    "lo24": 80866.0
   },
-  "_at": 1792440201
+  "_at": 1792440506
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 19, 7:34am MT",
