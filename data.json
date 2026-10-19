@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T04:23:21.506070-06:00",
- "generated_mt": "Mon Oct 19 2026, 4:23am MT",
+ "generated_at": "2026-10-19T05:23:38.852224-06:00",
+ "generated_mt": "Mon Oct 19 2026, 5:23am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,8 +26,8 @@
    "fpe": 4.247783,
    "post": null,
    "post_pct": null,
-   "pre": 904.5,
-   "pre_pct": 2.9197547,
+   "pre": 906.49,
+   "pre_pct": 3.1461885,
    "day_lo": 875.0,
    "day_hi": 907.5,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -77,22 +77,27 @@
    "fpe": 71.3926,
    "post": null,
    "post_pct": null,
-   "pre": 147.37,
-   "pre_pct": 0.91761714,
+   "pre": 145.64,
+   "pre_pct": -0.267068,
    "day_lo": 142.9648,
    "day_hi": 147.92,
    "next_earnings": "Tue Oct 20, 2026",
    "as_of": "Fri Oct 16, 2:00pm MT",
    "news": [
     {
+     "title": "Tesla\u2019s rocket-thrusted Roadster hints at a SpaceX merger",
+     "link": "https://finance.yahoo.com/video/tesla-rocket-thrusted-roadster-hints-110000210.html?.tsrc=rss",
+     "when": "Mon Oct 19, 5:00am MT"
+    },
+    {
      "title": "Elon Musk says he is going to give SpaceX stock away to kids",
      "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-he-is-going-to-give-spacex-stock-away-to-kids-090305874.html?.tsrc=rss",
      "when": "Mon Oct 19, 3:03am MT"
     },
     {
-     "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
-     "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-soaring-premarket-nbis-mu-tsla-spcx-asts-sls-stocks-in-focus/cZx8K91RBMX?.tsrc=rss",
-     "when": "Mon Oct 19, 2:31am MT"
+     "title": "Prediction: This Will Be SpaceX's Stock Price By the End of 2027",
+     "link": "https://www.fool.com/investing/2026/10/19/prediction-this-will-be-spacexs-stock-price-by-the/?.tsrc=rss",
+     "when": "Mon Oct 19, 4:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -119,32 +124,27 @@
    "fpe": 163.5853,
    "post": null,
    "post_pct": null,
-   "pre": 355.3187,
-   "pre_pct": 0.16877927,
+   "pre": 353.12,
+   "pre_pct": -0.4510617,
    "day_lo": 349.33,
    "day_hi": 370.5799,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Fri Oct 16, 2:00pm MT",
    "news": [
     {
+     "title": "Tesla\u2019s rocket-thrusted Roadster hints at a SpaceX merger",
+     "link": "https://finance.yahoo.com/video/tesla-rocket-thrusted-roadster-hints-110000210.html?.tsrc=rss",
+     "when": "Mon Oct 19, 5:00am MT"
+    },
+    {
      "title": "A big 'yikes' still hangs over the AI trade as Meta and Tesla report: What to watch this week",
      "link": "https://finance.yahoo.com/markets/article/a-big-yikes-still-hangs-over-the-ai-trade-as-meta-and-tesla-report-what-to-watch-this-week-100000328.html?.tsrc=rss",
      "when": "Mon Oct 19, 4:00am MT"
     },
     {
-     "title": "US Equity Investors to Monitor Meta Platform, Tesla's Earnings While Watching Treasury Yields Alongside Crude Oil This Week",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-monitor-meta-101427671.html?.tsrc=rss",
-     "when": "Mon Oct 19, 4:14am MT"
-    },
-    {
-     "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
-     "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-soaring-premarket-nbis-mu-tsla-spcx-asts-sls-stocks-in-focus/cZx8K91RBMX?.tsrc=rss",
-     "when": "Mon Oct 19, 2:31am MT"
-    },
-    {
-     "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla \u2014 Sees Announcement In \u2018Next Few Weeks\u2019",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-gary-black-spacex-buyout-tesla-announcement-next-few-weeks/cZx8LWQRBMJ?.tsrc=rss",
-     "when": "Mon Oct 19, 1:20am MT"
+     "title": "Tesla Costs More Than $350 a Share. Here's Why I'd Still Buy One.",
+     "link": "https://www.fool.com/investing/2026/10/19/tesla-costs-more-than-350-a-share-heres-why-id-sti/?.tsrc=rss",
+     "when": "Mon Oct 19, 4:32am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -168,8 +168,8 @@
    "fpe": -50.8046,
    "post": null,
    "post_pct": null,
-   "pre": 44.55,
-   "pre_pct": 0.8260673,
+   "pre": 44.5,
+   "pre_pct": 0.7129085,
    "day_lo": 43.52,
    "day_hi": 46.24,
    "next_earnings": "Wed Nov 4, 2026",
@@ -267,8 +267,8 @@
    "fpe": -50.44382,
    "post": null,
    "post_pct": null,
-   "pre": 16.83,
-   "pre_pct": 3.188231,
+   "pre": 16.9966,
+   "pre_pct": 4.018354,
    "day_lo": 16.12,
    "day_hi": 18.21,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -316,8 +316,8 @@
    "fpe": 31.851852,
    "post": null,
    "post_pct": null,
-   "pre": null,
-   "pre_pct": null,
+   "pre": 8.7859,
+   "pre_pct": 2.1616247,
    "day_lo": 8.5,
    "day_hi": 9.695,
    "next_earnings": "Mon Nov 2, 2026",
@@ -405,12 +405,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82399.17,
-   "chg_pct": 0.50878125,
-   "chg": 417.10938,
+   "price": 82148.69,
+   "chg_pct": 0.22994193,
+   "chg": 188.46094,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1656261574656,
+   "mcap": 1651450576896,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -419,27 +419,27 @@
    "pre_pct": null,
    "day_lo": 81942.16,
    "day_hi": 83014.36,
-   "as_of": "Mon Oct 19, 4:23am MT",
+   "as_of": "Mon Oct 19, 5:23am MT",
    "news": [
     {
-     "title": "XRP Beat Bitcoin as the Most-Traded Coin on Upbit Last Week. Is South Korea Still XRP\u2019s Biggest Market?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/19/xrp-beat-bitcoin-as-the-most-traded-coin-on-upbit-last-week-is-south-korea-still-xrps-biggest-market/?.tsrc=rss",
-     "when": "Mon Oct 19, 4:14am MT"
+     "title": "\u2018Black Monday\u2019 Fears Grip Crypto Twitter After Bitcoin, Ethereum and $33M AI Perps Flash Crash",
+     "link": "https://www.ccn.com/news/crypto/black-monday-crypto-crash-bitcoin-ethereum-xrp-ai-perps/?.tsrc=rss",
+     "when": "Mon Oct 19, 5:02am MT"
     },
     {
-     "title": "Bitcoin News: MARA Sent 1,000 BTC to Exchanges as Saylor Hints at Another Buy. Is the Biggest Miner Selling?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/19/bitcoin-news-mara-sent-1000-btc-to-exchanges-as-saylor-hints-at-another-buy-is-the-biggest-miner-selling/?.tsrc=rss",
-     "when": "Mon Oct 19, 3:51am MT"
+     "title": "CZ Says Peter Schiff Will Be Right About Bitcoin One Day. There\u2019s a Catch",
+     "link": "https://beincrypto.com/cz-mocks-peter-schiff-bitcoin-zero/?.tsrc=rss",
+     "when": "Mon Oct 19, 5:00am MT"
     },
     {
-     "title": "Bitcoin Mining Just Got 6% Harder While BTC Fell. Could Miners Start Selling?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/19/bitcoin-mining-just-got-6-harder-while-btc-fell-could-miners-start-selling/?.tsrc=rss",
-     "when": "Mon Oct 19, 3:36am MT"
+     "title": "Crypto Lending Vaults Now Hold Over $10 Billion. Is the Yield Worth the Risk?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/19/crypto-lending-vaults-now-hold-over-10-billion-is-the-yield-worth-the-risk/?.tsrc=rss",
+     "when": "Mon Oct 19, 4:57am MT"
     },
     {
-     "title": "Hackers Are Moving Stolen Crypto Into Zcash. Could That Hurt ZEC Before Its Upgrade Decision?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/19/hackers-are-moving-stolen-crypto-into-zcash-could-that-hurt-zec-before-its-upgrade-decision/?.tsrc=rss",
-     "when": "Mon Oct 19, 3:13am MT"
+     "title": "Michael Saylor Calls Bitcoin Bull Market Return, While MARA Moves 1,000 BTC to Exchanges",
+     "link": "https://www.ccn.com/news/crypto/saylor-bitcoin-bull-market-mara-1000-btc-exchanges/?.tsrc=rss",
+     "when": "Mon Oct 19, 4:42am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -477,16 +477,16 @@
    "as_of": "Fri Oct 16, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.63,
-   "chg_pct": -6.800003,
-   "chg": -1.3600006,
-   "as_of": "Mon Oct 19, 4:08am MT"
+   "price": 18.64,
+   "chg_pct": -6.7500014,
+   "chg": -1.3500004,
+   "as_of": "Mon Oct 19, 5:08am MT"
   },
   "DX-Y.NYB": {
-   "price": 101.947,
-   "chg_pct": 0.10801423,
-   "chg": 0.11000061,
-   "as_of": "Mon Oct 19, 4:13am MT"
+   "price": 101.842,
+   "chg_pct": 0.004914602,
+   "chg": 0.005004883,
+   "as_of": "Mon Oct 19, 5:13am MT"
   },
   "^GSPC": {
    "price": 7659.44,
@@ -616,17 +616,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 905.03,
-   "oracle": 904.75,
-   "prev": 870.9,
-   "funding": 1.25736e-05,
-   "oi": 174872.276,
-   "oi_usd": 158264655.94828,
-   "vol": 96382703.47111002,
-   "rsi14": 74.58233297729578,
-   "ema20": 889.3836170058587,
-   "ema50": 882.9004591559208,
-   "hi24": 907.33,
+   "mark": 906.87,
+   "oracle": 906.87,
+   "prev": 868.97,
+   "funding": 6.25e-06,
+   "oi": 174880.8779999999,
+   "oi_usd": 158594221.83185992,
+   "vol": 103338534.94742002,
+   "rsi14": 71.27915302078473,
+   "ema20": 891.5745859599988,
+   "ema50": 884.1000648757123,
+   "hi24": 912.21,
    "lo24": 852.55
   },
   "SPCX": {
@@ -634,16 +634,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.33,
-   "oracle": 147.28,
-   "prev": 144.92,
-   "funding": 8.3031e-06,
-   "oi": 900118.6200000001,
-   "oi_usd": 132614476.28460003,
-   "vol": 43883259.290300004,
-   "rsi14": 58.33360868737147,
-   "ema20": 146.64681777070595,
-   "ema50": 146.1397793301002,
+   "mark": 145.69,
+   "oracle": 145.65,
+   "prev": 144.65,
+   "funding": 6.25e-06,
+   "oi": 937115.7400000005,
+   "oi_usd": 136528392.16060007,
+   "vol": 56202356.87610006,
+   "rsi14": 46.29831414357138,
+   "ema20": 146.4687551443197,
+   "ema50": 146.0864722948484,
    "hi24": 148.66,
    "lo24": 142.02
   },
@@ -655,16 +655,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 355.43,
-   "oracle": 355.24,
-   "prev": 351.57,
-   "funding": 1.96801e-05,
-   "oi": 340379.4919999999,
-   "oi_usd": 120981082.84155998,
-   "vol": 103432032.67913999,
-   "rsi14": 52.60748517952113,
-   "ema20": 355.14239476871995,
-   "ema50": 354.5195447057678,
+   "mark": 353.32,
+   "oracle": 353.24,
+   "prev": 351.69,
+   "funding": 1.6086e-05,
+   "oi": 340679.3259999999,
+   "oi_usd": 120368819.46231996,
+   "vol": 107317882.73280007,
+   "rsi14": 46.60566509225993,
+   "ema20": 354.8444776393634,
+   "ema50": 354.41535684280564,
    "hi24": 365.47,
    "lo24": 347.0
   },
@@ -690,20 +690,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82452.0,
-   "oracle": 82486.0,
-   "prev": 82203.0,
+   "mark": 82208.0,
+   "oracle": 82234.0,
+   "prev": 82064.0,
    "funding": 1.25e-05,
-   "oi": 39878.10654,
-   "oi_usd": 3288029640.43608,
-   "vol": 2283967698.171196,
-   "rsi14": 57.17903642324816,
-   "ema20": 82247.7452767591,
-   "ema50": 81942.03463386683,
+   "oi": 39870.77084,
+   "oi_usd": 3277696329.21472,
+   "vol": 2359001919.5972204,
+   "rsi14": 51.72746897405763,
+   "ema20": 82238.4453116024,
+   "ema50": 81950.10858164914,
    "hi24": 83138.0,
    "lo24": 80644.0
   },
-  "_at": 1792405405
+  "_at": 1792409022
  },
  "xdrivers": {
   "generated_mt": "Sun Oct 18, 7:10pm MT",
