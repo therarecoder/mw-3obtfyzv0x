@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T16:22:25.677731-06:00",
- "generated_mt": "Mon Oct 19 2026, 4:22pm MT",
+ "generated_at": "2026-10-19T17:22:56.010334-06:00",
+ "generated_mt": "Mon Oct 19 2026, 5:22pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1023824887808,
    "pe": 12.1740885,
    "fpe": 4.373741,
-   "post": 906.38,
-   "post_pct": 0.16355182,
+   "post": 907.6601,
+   "post_pct": 0.3050139,
    "pre": null,
    "pre_pct": null,
    "day_lo": 900.6,
@@ -75,8 +75,8 @@
    "mcap": 1949252845568,
    "pe": null,
    "fpe": 72.33617,
-   "post": 148.8139,
-   "post_pct": 0.57711345,
+   "post": 148.76,
+   "post_pct": 0.5406784,
    "pre": null,
    "pre_pct": null,
    "day_lo": 146.84,
@@ -90,14 +90,14 @@
      "when": "Mon Oct 19, 2:00pm MT"
     },
     {
-     "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-     "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
-     "when": "Mon Oct 19, 3:30pm MT"
+     "title": "Market Chatter: CAVU Consumer Partners' Oza Sees Public Markets Correcting Richly Valued Private Firms",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-cavu-consumer-partners-230309635.html?.tsrc=rss",
+     "when": "Mon Oct 19, 5:03pm MT"
     },
     {
-     "title": "Elon Musk pledges one SpaceX share to every child in America \u2014 a $10.5 billion giveaway with major unknowns",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-pledges-one-spacex-210000264.html?.tsrc=rss",
-     "when": "Mon Oct 19, 3:00pm MT"
+     "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+     "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
+     "when": "Mon Oct 19, 4:18pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -122,8 +122,8 @@
    "mcap": 1453670400000,
    "pe": 340.7963,
    "fpe": 169.73727,
-   "post": 368.27,
-   "post_pct": 0.057053592,
+   "post": 368.49,
+   "post_pct": 0.11682679,
    "pre": null,
    "pre_pct": null,
    "day_lo": 354.47,
@@ -131,11 +131,6 @@
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Mon Oct 19, 2:00pm MT",
    "news": [
-    {
-     "title": "Tesla-SpaceX merger is 'not so easy': Analyst",
-     "link": "https://finance.yahoo.com/markets/stocks/article/tesla-spacex-merger-is-not-so-easy-analyst-181019482.html?.tsrc=rss",
-     "when": "Mon Oct 19, 12:10pm MT"
-    },
     {
      "title": "Datadog, Intel, CoreWeave, Tesla, Amazon, Cleveland-Cliffs, and More Stocks That Explain Today\u2019s Market",
      "link": "https://finance.yahoo.com/m/81a4deae-1e16-3913-a37f-3c4abe680ee4/datadog%2C-intel%2C-coreweave%2C.html?.tsrc=rss",
@@ -150,6 +145,11 @@
      "title": "Musk's Tesla jumps 32 spots on the Roundtable 100 after 'flying car' reveal",
      "link": "https://www.thestreet.com/crypto/markets/musks-tesla-jumps-32-spots-on-the-roundtable-100-after-flying-car-reveal?.tsrc=rss",
      "when": "Mon Oct 19, 1:45pm MT"
+    },
+    {
+     "title": "Here\u2019s How Much Tesla Stock Is Expected to Move After Earnings",
+     "link": "https://www.investopedia.com/here-is-how-much-tesla-stock-is-expected-to-move-after-earnings-tsla-q3-fy2026-12181693?.tsrc=rss",
+     "when": "Mon Oct 19, 1:32pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -171,8 +171,8 @@
    "mcap": 3339664128,
    "pe": null,
    "fpe": -49.597702,
-   "post": 43.15,
-   "post_pct": 0.0,
+   "post": 43.8,
+   "post_pct": 1.5063678,
    "pre": null,
    "pre_pct": null,
    "day_lo": 43.0606,
@@ -270,8 +270,8 @@
    "mcap": 819286656,
    "pe": null,
    "fpe": -50.72217,
-   "post": 16.58,
-   "post_pct": 1.0975629,
+   "post": 16.5,
+   "post_pct": 0.60975844,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.11,
@@ -369,8 +369,8 @@
    "mcap": 10043308032,
    "pe": 25.224808,
    "fpe": 14.651454,
-   "post": 32.44,
-   "post_pct": -0.3073211,
+   "post": 32.7441,
+   "post_pct": 0.6272211,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.0941,
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82111.21,
-   "chg_pct": 0.53409094,
-   "chg": 436.21875,
+   "price": 81903.39,
+   "chg_pct": -0.12616134,
+   "chg": -103.46094,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1651557269504,
+   "mcap": 1645924319232,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,8 +424,13 @@
    "pre_pct": null,
    "day_lo": 81706.25,
    "day_hi": 83014.36,
-   "as_of": "Mon Oct 19, 4:22pm MT",
+   "as_of": "Mon Oct 19, 5:22pm MT",
    "news": [
+    {
+     "title": "Bitcoin Volatility Hits 2.5-Year Low as Traders Brace for 30% Move",
+     "link": "https://beincrypto.com/bitcoin-price-30-percent-swing-volatility-low/?.tsrc=rss",
+     "when": "Mon Oct 19, 4:20pm MT"
+    },
     {
      "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-iren-rallies-on-ai-infrastructure-sentiment-rebound/?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "Gaming media stock surges on major stockholder approval",
      "link": "https://www.thestreet.com/crypto/investing/gaming-media-stock-surges-on-major-stockholder-approval?.tsrc=rss",
      "when": "Mon Oct 19, 3:34pm MT"
-    },
-    {
-     "title": "Bitdeer stock jumps on $2.9B AI Cloud revenue backlog",
-     "link": "https://finance.yahoo.com/technology/ai/articles/bitdeer-stock-jumps-2-9b-213250169.html?.tsrc=rss",
-     "when": "Mon Oct 19, 3:32pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -489,8 +489,8 @@
   },
   "DX-Y.NYB": {
    "price": 101.973,
-   "chg_pct": 0.1335483,
-   "chg": 0.13600159,
+   "chg_pct": -0.0068678013,
+   "chg": -0.007003784,
    "as_of": "Mon Oct 19, 4:04pm MT"
   },
   "^GSPC": {
@@ -621,36 +621,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 906.63,
-   "oracle": 906.24,
-   "prev": 877.46,
-   "funding": 6.25e-06,
-   "oi": 165043.8859999999,
-   "oi_usd": 149633738.3641799,
-   "vol": 147886380.61672002,
-   "rsi14": 59.55894805502037,
-   "ema20": 903.1039007368989,
-   "ema50": 892.7943192138412,
+   "mark": 908.11,
+   "oracle": 907.73,
+   "prev": 879.79,
+   "funding": 6.369e-06,
+   "oi": 164750.5379999999,
+   "oi_usd": 149611611.0631799,
+   "vol": 135944738.63652974,
+   "rsi14": 60.47371189349072,
+   "ema20": 903.7439566105338,
+   "ema50": 893.4286878418056,
    "hi24": 927.17,
-   "lo24": 872.77
+   "lo24": 882.61
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.93,
-   "oracle": 148.86,
-   "prev": 145.49,
-   "funding": 1.37421e-05,
-   "oi": 842018.46,
-   "oi_usd": 125401809.24780001,
-   "vol": 132035393.04240005,
-   "rsi14": 59.768993196903885,
-   "ema20": 147.93783088205794,
-   "ema50": 146.9767585125232,
+   "mark": 148.82,
+   "oracle": 148.73,
+   "prev": 145.26,
+   "funding": 1.23618e-05,
+   "oi": 838943.7999999999,
+   "oi_usd": 124851616.31599998,
+   "vol": 129777437.45980002,
+   "rsi14": 58.735160146828434,
+   "ema20": 148.01504195590587,
+   "ema50": 147.04272482607587,
    "hi24": 151.03,
-   "lo24": 144.94
+   "lo24": 145.15
   },
   "TSLA": {
    "stale": [
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 368.15,
-   "oracle": 368.21,
-   "prev": 354.45,
+   "mark": 368.48,
+   "oracle": 368.49,
+   "prev": 362.5,
    "funding": 6.25e-06,
-   "oi": 184371.236,
-   "oi_usd": 67876270.5334,
-   "vol": 205396504.27293006,
-   "rsi14": 69.41954022541367,
-   "ema20": 363.0247143324103,
-   "ema50": 358.7451038875241,
+   "oi": 183457.798,
+   "oi_usd": 67600529.40704,
+   "vol": 175124704.77584004,
+   "rsi14": 69.95070937265642,
+   "ema20": 363.5726960994523,
+   "ema50": 359.1326605592381,
    "hi24": 369.52,
    "lo24": 352.53
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82212.0,
-   "oracle": 82218.0,
-   "prev": 81529.0,
+   "mark": 81983.0,
+   "oracle": 82000.0,
+   "prev": 82127.0,
    "funding": 1.25e-05,
-   "oi": 40189.23396,
-   "oi_usd": 3304037302.31952,
-   "vol": 2092444529.877659,
-   "rsi14": 53.05916620272119,
-   "ema20": 82114.26823998125,
-   "ema50": 81980.85363243624,
+   "oi": 39990.48542,
+   "oi_usd": 3278539966.18786,
+   "vol": 1973659759.6550796,
+   "rsi14": 47.726631279014185,
+   "ema20": 82088.00694270311,
+   "ema50": 81975.02459405255,
    "hi24": 83138.0,
-   "lo24": 81669.0
+   "lo24": 81719.0
   },
-  "_at": 1792448549
+  "_at": 1792452180
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 19, 2:58pm MT",
