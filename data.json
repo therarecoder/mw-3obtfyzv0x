@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T02:19:30.489074-06:00",
- "generated_mt": "Mon Oct 19 2026, 2:19am MT",
+ "generated_at": "2026-10-19T03:19:35.845219-06:00",
+ "generated_mt": "Mon Oct 19 2026, 3:19am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -26,8 +26,8 @@
    "fpe": 4.247783,
    "post": null,
    "post_pct": null,
-   "pre": 896.62,
-   "pre_pct": 2.0231178,
+   "pre": 901.82,
+   "pre_pct": 2.614808,
    "day_lo": 875.0,
    "day_hi": 907.5,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
@@ -77,32 +77,27 @@
    "fpe": 71.3926,
    "post": null,
    "post_pct": null,
-   "pre": 147.64,
-   "pre_pct": 1.1025136,
+   "pre": 147.37,
+   "pre_pct": 0.91761714,
    "day_lo": 142.9648,
    "day_hi": 147.92,
    "next_earnings": "Tue Oct 20, 2026",
    "as_of": "Fri Oct 16, 2:00pm MT",
    "news": [
     {
+     "title": "Elon Musk says he is going to give SpaceX stock away to kids",
+     "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-he-is-going-to-give-spacex-stock-away-to-kids-090305874.html?.tsrc=rss",
+     "when": "Mon Oct 19, 3:03am MT"
+    },
+    {
      "title": "SpaceX throttled Starlink in Ukraine. Neither Trump nor Elon Musk wants to own the decision.",
      "link": "https://finance.yahoo.com/technology/article/spacex-throttled-starlink-in-ukraine-neither-trump-nor-elon-musk-wants-to-own-the-decision-223411010.html?.tsrc=rss",
      "when": "Sun Oct 18, 4:34pm MT"
     },
     {
-     "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla \u2014 Sees Announcement In \u2018Next Few Weeks\u2019",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-gary-black-spacex-buyout-tesla-announcement-next-few-weeks/cZx8LWQRBMJ?.tsrc=rss",
-     "when": "Mon Oct 19, 1:20am MT"
-    },
-    {
-     "title": "ASTS Stock Jumps Overnight: Boost Mobile Founder Turns Buyer \u2014 Floats Potential Telecom Takeover For SpaceX Rival",
-     "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-boost-mobile-founder-buyer-telecom-takeover-spacex-rival/cZx8QeURBMc?.tsrc=rss",
-     "when": "Sun Oct 18, 11:21pm MT"
-    },
-    {
-     "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-     "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
-     "when": "Sun Oct 18, 9:08pm MT"
+     "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
+     "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-soaring-premarket-nbis-mu-tsla-spcx-asts-sls-stocks-in-focus/cZx8K91RBMX?.tsrc=rss",
+     "when": "Mon Oct 19, 2:31am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -129,13 +124,18 @@
    "fpe": 163.5853,
    "post": null,
    "post_pct": null,
-   "pre": 356.0501,
-   "pre_pct": 0.37497425,
+   "pre": 355.46,
+   "pre_pct": 0.20861249,
    "day_lo": 349.33,
    "day_hi": 370.5799,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Fri Oct 16, 2:00pm MT",
    "news": [
+    {
+     "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
+     "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-soaring-premarket-nbis-mu-tsla-spcx-asts-sls-stocks-in-focus/cZx8K91RBMX?.tsrc=rss",
+     "when": "Mon Oct 19, 2:31am MT"
+    },
     {
      "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla \u2014 Sees Announcement In \u2018Next Few Weeks\u2019",
      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-gary-black-spacex-buyout-tesla-announcement-next-few-weeks/cZx8LWQRBMJ?.tsrc=rss",
@@ -150,11 +150,6 @@
      "title": "No \u2018Black Monday\u2019? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week \u2014 Retail Stays Cautious",
      "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss",
      "when": "Sun Oct 18, 10:07pm MT"
-    },
-    {
-     "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-     "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
-     "when": "Sun Oct 18, 9:08pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -277,8 +272,8 @@
    "fpe": -50.44382,
    "post": null,
    "post_pct": null,
-   "pre": 16.82,
-   "pre_pct": 3.1269176,
+   "pre": 16.9,
+   "pre_pct": 3.4271693,
    "day_lo": 16.12,
    "day_hi": 18.21,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -376,8 +371,8 @@
    "fpe": 14.358784,
    "post": null,
    "post_pct": null,
-   "pre": 31.96,
-   "pre_pct": 0.2195036,
+   "pre": 32.02,
+   "pre_pct": 0.43915087,
    "day_lo": 31.65,
    "day_hi": 33.43,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82853.54,
-   "chg_pct": 1.5097262,
-   "chg": 1232.2578,
+   "price": 82804.28,
+   "chg_pct": 0.9369594,
+   "chg": 768.6406,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1660428091392,
+   "mcap": 1662797873152,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +424,18 @@
    "pre_pct": null,
    "day_lo": 81942.16,
    "day_hi": 83014.36,
-   "as_of": "Mon Oct 19, 2:19am MT",
+   "as_of": "Mon Oct 19, 3:19am MT",
    "news": [
+    {
+     "title": "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html?.tsrc=rss",
+     "when": "Sun Oct 18, 10:15pm MT"
+    },
+    {
+     "title": "Strategy MSCI Delisting Could Trigger Another Market Shock After Indonesia",
+     "link": "https://cryptonews.com/news/bitcoin-msci-strategy-risk/?.tsrc=rss",
+     "when": "Mon Oct 19, 2:24am MT"
+    },
     {
      "title": "MARA Sends $82.8 Million in Bitcoin to Exchanges During a Shaky October",
      "link": "https://beincrypto.com/mara-moves-bitcoin-exchanges-october-volatility/?.tsrc=rss",
@@ -440,16 +445,6 @@
      "title": "Bitcoin at $1 Million? Micha\u00ebl van de Poppe Points to a Dot-Com-Style Rally",
      "link": "https://beincrypto.com/van-de-poppe-bitcoin-1-million-dot-com-rally/?.tsrc=rss",
      "when": "Mon Oct 19, 1:25am MT"
-    },
-    {
-     "title": "Saylor Blames Trade Policy, Rising Yields and AI Spending for Bitcoin\u2019s Struggles",
-     "link": "https://beincrypto.com/saylor-bitcoin-struggles-trade-yields-ai/?.tsrc=rss",
-     "when": "Mon Oct 19, 1:00am MT"
-    },
-    {
-     "title": "Bitcoin rises to near $83k amid some relief from falling oil prices",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-near-83k-amid-065748169.html?.tsrc=rss",
-     "when": "Mon Oct 19, 12:57am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +482,16 @@
    "as_of": "Fri Oct 16, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.58,
-   "chg_pct": -7.049999,
-   "chg": -1.4099998,
-   "as_of": "Mon Oct 19, 2:04am MT"
+   "price": 18.73,
+   "chg_pct": -6.3031526,
+   "chg": -1.2600002,
+   "as_of": "Mon Oct 19, 3:04am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.007,
-   "chg_pct": 0.16693749,
-   "chg": 0.1700058,
-   "as_of": "Mon Oct 19, 2:09am MT"
+   "price": 101.912,
+   "chg_pct": 0.07364943,
+   "chg": 0.07500458,
+   "as_of": "Mon Oct 19, 3:09am MT"
   },
   "^GSPC": {
    "price": 7659.44,
@@ -626,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 897.05,
-   "oracle": 896.76,
-   "prev": 868.06,
-   "funding": 6.25e-06,
-   "oi": 176845.3199999999,
-   "oi_usd": 158639094.3059999,
-   "vol": 95432418.97749001,
-   "rsi14": 67.1716741779905,
-   "ema20": 885.7536594938601,
-   "ema50": 881.0007282627249,
+   "mark": 902.4,
+   "oracle": 901.77,
+   "prev": 871.09,
+   "funding": 8.916e-06,
+   "oi": 175576.422,
+   "oi_usd": 158440163.2128,
+   "vol": 95131339.47607987,
+   "rsi14": 73.01022162943798,
+   "ema20": 887.5607498781987,
+   "ema50": 881.9386109623867,
    "hi24": 905.72,
    "lo24": 852.55
   },
@@ -644,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.67,
-   "oracle": 147.6,
-   "prev": 144.59,
-   "funding": 6.25e-06,
-   "oi": 898173.9199999996,
-   "oi_usd": 132633342.76639992,
-   "vol": 40606100.124800034,
-   "rsi14": 62.9040175920858,
-   "ema20": 146.4802923226366,
-   "ema50": 146.03465833975955,
+   "mark": 147.43,
+   "oracle": 147.35,
+   "prev": 144.93,
+   "funding": 1.24161e-05,
+   "oi": 899903.1200000001,
+   "oi_usd": 132672716.98160002,
+   "vol": 42430646.692600004,
+   "rsi14": 60.50884381292175,
+   "ema20": 146.5492909116825,
+   "ema50": 146.0821070721804,
    "hi24": 148.66,
    "lo24": 142.02
   },
@@ -665,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 356.45,
-   "oracle": 356.18,
-   "prev": 350.83,
-   "funding": 3.06984e-05,
-   "oi": 339775.9719999994,
-   "oi_usd": 121113145.2193998,
-   "vol": 100136713.49588999,
-   "rsi14": 55.91814207563983,
-   "ema20": 355.15283465327343,
-   "ema50": 354.47534441262076,
+   "mark": 355.6,
+   "oracle": 355.43,
+   "prev": 351.1,
+   "funding": 2.21315e-05,
+   "oi": 339310.8719999999,
+   "oi_usd": 120658946.08319998,
+   "vol": 101682477.78507005,
+   "rsi14": 53.24531233213953,
+   "ema20": 355.09297461072936,
+   "ema50": 354.47715595526773,
    "hi24": 365.47,
    "lo24": 347.0
   },
@@ -700,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82899.0,
-   "oracle": 82927.5,
-   "prev": 81647.0,
+   "mark": 82856.0,
+   "oracle": 82881.0,
+   "prev": 81934.0,
    "funding": 1.25e-05,
-   "oi": 40115.48576,
-   "oi_usd": 3325533654.0182405,
-   "vol": 2297272973.030937,
-   "rsi14": 67.88441609014299,
-   "ema20": 82183.10730785654,
-   "ema50": 81891.92074826181,
+   "oi": 40185.01748,
+   "oi_usd": 3329569808.3228803,
+   "vol": 2293157177.511443,
+   "rsi14": 67.3818486268442,
+   "ema20": 82239.10068758702,
+   "ema50": 81924.84426908272,
    "hi24": 83138.0,
    "lo24": 80644.0
   },
-  "_at": 1792397974
+  "_at": 1792401579
  },
  "xdrivers": {
   "generated_mt": "Sun Oct 18, 7:10pm MT",
