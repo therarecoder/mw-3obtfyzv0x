@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T18:59:35.263993-06:00",
- "generated_mt": "Sun Oct 18 2026, 6:59pm MT",
+ "generated_at": "2026-10-18T19:59:39.660647-06:00",
+ "generated_mt": "Sun Oct 18 2026, 7:59pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -92,7 +92,7 @@
     {
      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
-     "when": "Sun Oct 18, 6:51pm MT"
+     "when": "Sun Oct 18, 7:47pm MT"
     },
     {
      "title": "Here's What $5,000 Invested in SpaceX Could Be Worth in 2030",
@@ -139,7 +139,7 @@
     {
      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
-     "when": "Sun Oct 18, 6:51pm MT"
+     "when": "Sun Oct 18, 7:47pm MT"
     },
     {
      "title": "Tesla\u2019s Flying Roadster and the SpaceX Halo",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82210.27,
-   "chg_pct": 0.9554242,
-   "chg": 778.02344,
+   "price": 82342.33,
+   "chg_pct": 0.960637,
+   "chg": 783.4844,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1652154302464,
+   "mcap": 1655242883072,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,8 +428,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 81942.16,
-   "day_hi": 82331.336,
-   "as_of": "Sun Oct 18, 6:59pm MT",
+   "day_hi": 82433.89,
+   "as_of": "Sun Oct 18, 7:59pm MT",
    "news": [
     {
      "title": "Analysts Pick One Altcoin Above Bitcoin and Solana, But It's Falling Anyway",
@@ -493,10 +493,10 @@
    "as_of": "Fri Oct 16, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.83,
-   "chg_pct": -0.006869954,
-   "chg": -0.006996155,
-   "as_of": "Sun Oct 18, 6:49pm MT"
+   "price": 101.829,
+   "chg_pct": -0.007851453,
+   "chg": -0.0079956055,
+   "as_of": "Sun Oct 18, 7:49pm MT"
   },
   "^GSPC": {
    "price": 7659.44,
@@ -626,17 +626,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 891.38,
-   "oracle": 890.94,
-   "prev": 860.92,
-   "funding": 5.07545e-05,
-   "oi": 182564.8340000003,
-   "oi_usd": 162734641.73092026,
-   "vol": 94085983.24709979,
-   "rsi14": 70.992611874925,
-   "ema20": 869.133956189483,
-   "ema50": 874.3378738058552,
-   "hi24": 894.44,
+   "mark": 895.54,
+   "oracle": 895.32,
+   "prev": 857.37,
+   "funding": 1.31727e-05,
+   "oi": 181271.766,
+   "oi_usd": 162336117.32364,
+   "vol": 97567897.67816006,
+   "rsi14": 73.07999151266255,
+   "ema20": 871.6412859679801,
+   "ema50": 875.1611633657839,
+   "hi24": 901.68,
    "lo24": 852.55
   },
   "SPCX": {
@@ -644,17 +644,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 146.57,
-   "oracle": 146.56,
-   "prev": 144.72,
-   "funding": 1.21055e-05,
-   "oi": 866209.9000000005,
-   "oi_usd": 126960385.04300007,
-   "vol": 26268479.720999982,
-   "rsi14": 65.40244654178258,
-   "ema20": 144.5268636725282,
-   "ema50": 145.28174224413704,
-   "hi24": 147.07,
+   "mark": 147.16,
+   "oracle": 147.18,
+   "prev": 144.74,
+   "funding": 6.25e-06,
+   "oi": 869798.6600000005,
+   "oi_usd": 127999570.80560008,
+   "vol": 27565279.166099984,
+   "rsi14": 67.94904368293024,
+   "ema20": 144.77106232195737,
+   "ema50": 145.3522745941055,
+   "hi24": 147.73,
    "lo24": 142.02
   },
   "TSLA": {
@@ -665,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 357.43,
-   "oracle": 357.14,
-   "prev": 349.85,
-   "funding": 2.62526e-05,
-   "oi": 340742.7559999991,
-   "oi_usd": 121791683.27707969,
-   "vol": 91272912.8262799,
-   "rsi14": 60.47241465309757,
-   "ema20": 352.2708725311092,
-   "ema50": 353.3237055656552,
+   "mark": 357.44,
+   "oracle": 357.05,
+   "prev": 350.12,
+   "funding": 4.54878e-05,
+   "oi": 340216.2000000001,
+   "oi_usd": 121606878.52800004,
+   "vol": 92622014.45635007,
+   "rsi14": 60.48045789707944,
+   "ema20": 352.7623121195496,
+   "ema50": 353.4896513087521,
    "hi24": 365.47,
    "lo24": 347.0
   },
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82283.0,
-   "oracle": 82312.0,
-   "prev": 81506.0,
+   "mark": 82406.7,
+   "oracle": 82439.8,
+   "prev": 81621.0,
    "funding": 1.25e-05,
-   "oi": 39244.97514,
-   "oi_usd": 3229194289.44462,
-   "vol": 2058594023.3940392,
-   "rsi14": 64.4773290239313,
-   "ema20": 81537.11575920512,
-   "ema50": 81590.01529325526,
-   "hi24": 82517.0,
+   "oi": 39501.29606,
+   "oi_usd": 3255171454.0276017,
+   "vol": 2050868578.2086318,
+   "rsi14": 66.108019873842,
+   "ema20": 81618.92732441258,
+   "ema50": 81620.82738413611,
+   "hi24": 82533.0,
    "lo24": 80644.0
   },
-  "_at": 1792371579
+  "_at": 1792375183
  },
  "xdrivers": {
   "generated_mt": "Sun Oct 18, 7:10pm MT",
