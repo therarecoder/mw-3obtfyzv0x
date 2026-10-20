@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T18:23:43.553778-06:00",
- "generated_mt": "Mon Oct 19 2026, 6:23pm MT",
+ "generated_at": "2026-10-19T19:23:48.615931-06:00",
+ "generated_mt": "Mon Oct 19 2026, 7:23pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -90,14 +90,19 @@
      "when": "Mon Oct 19, 6:00pm MT"
     },
     {
-     "title": "Market Chatter: CAVU Consumer Partners' Oza Sees Public Markets Correcting Richly Valued Private Firms",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-cavu-consumer-partners-230309635.html?.tsrc=rss",
-     "when": "Mon Oct 19, 5:03pm MT"
+     "title": "SpaceX Investors, Mark Your Calendars: A Massive Stock Lockup Expiration Is Coming",
+     "link": "https://www.fool.com/investing/2026/10/19/spacex-investors-mark-your-calendars-a-massive-stock-lockup-expiration-is-coming/?.tsrc=rss",
+     "when": "Mon Oct 19, 7:04pm MT"
     },
     {
      "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
      "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
-     "when": "Mon Oct 19, 4:18pm MT"
+     "when": "Mon Oct 19, 6:36pm MT"
+    },
+    {
+     "title": "Market Chatter: CAVU Consumer Partners' Oza Sees Public Markets Correcting Richly Valued Private Firms",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-cavu-consumer-partners-230309635.html?.tsrc=rss",
+     "when": "Mon Oct 19, 5:03pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -132,6 +137,11 @@
    "as_of": "Mon Oct 19, 2:00pm MT",
    "news": [
     {
+     "title": "SpaceX, Tesla Earnings on Deck: Key Metrics to Watch",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-earnings-deck-key-232400685.html?.tsrc=rss",
+     "when": "Mon Oct 19, 5:24pm MT"
+    },
+    {
      "title": "Datadog, Intel, CoreWeave, Tesla, Amazon, Cleveland-Cliffs, and More Stocks That Explain Today\u2019s Market",
      "link": "https://finance.yahoo.com/m/81a4deae-1e16-3913-a37f-3c4abe680ee4/datadog%2C-intel%2C-coreweave%2C.html?.tsrc=rss",
      "when": "Mon Oct 19, 2:28pm MT"
@@ -145,11 +155,6 @@
      "title": "Musk's Tesla jumps 32 spots on the Roundtable 100 after 'flying car' reveal",
      "link": "https://www.thestreet.com/crypto/markets/musks-tesla-jumps-32-spots-on-the-roundtable-100-after-flying-car-reveal?.tsrc=rss",
      "when": "Mon Oct 19, 1:45pm MT"
-    },
-    {
-     "title": "Here\u2019s How Much Tesla Stock Is Expected to Move After Earnings",
-     "link": "https://www.investopedia.com/here-is-how-much-tesla-stock-is-expected-to-move-after-earnings-tsla-q3-fy2026-12181693?.tsrc=rss",
-     "when": "Mon Oct 19, 1:32pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -410,21 +415,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81433.6,
-   "chg_pct": -0.93210393,
-   "chg": -766.1875,
+   "price": 81332.55,
+   "chg_pct": -1.2363943,
+   "chg": -1018.1797,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1638461341696,
+   "mcap": 1635677765632,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81520.18,
+   "day_lo": 81131.63,
    "day_hi": 81844.43,
-   "as_of": "Mon Oct 19, 6:23pm MT",
+   "as_of": "Mon Oct 19, 7:23pm MT",
    "news": [
     {
      "title": "Bitcoin Volatility Hits 2.5-Year Low as Traders Brace for 30% Move",
@@ -488,10 +493,10 @@
    "as_of": "Mon Oct 19, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.93,
-   "chg_pct": -0.049032692,
-   "chg": -0.05000305,
-   "as_of": "Mon Oct 19, 6:12pm MT"
+   "price": 101.931,
+   "chg_pct": -0.048051696,
+   "chg": -0.0490036,
+   "as_of": "Mon Oct 19, 7:13pm MT"
   },
   "^GSPC": {
    "price": 7690.73,
@@ -621,34 +626,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 896.58,
-   "oracle": 896.15,
-   "prev": 888.17,
-   "funding": 6.25e-06,
-   "oi": 164951.2560000003,
-   "oi_usd": 147891997.1044803,
-   "vol": 124364999.25513004,
-   "rsi14": 46.478939521004285,
-   "ema20": 902.8217571994915,
-   "ema50": 893.4996271934368,
+   "mark": 889.45,
+   "oracle": 889.12,
+   "prev": 896.06,
+   "funding": 9.9397e-06,
+   "oi": 165163.578,
+   "oi_usd": 146904744.4521,
+   "vol": 120112231.14988999,
+   "rsi14": 40.167223881651076,
+   "ema20": 901.0591859452305,
+   "ema50": 893.061600992073,
    "hi24": 927.17,
-   "lo24": 891.61
+   "lo24": 883.66
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.11,
-   "oracle": 148.03,
-   "prev": 146.5,
-   "funding": 1.94833e-05,
-   "oi": 844245.6600000004,
-   "oi_usd": 125041224.70260006,
-   "vol": 126225135.79350005,
-   "rsi14": 53.16068129407793,
-   "ema20": 148.0312559552475,
-   "ema50": 147.09459283343787,
+   "mark": 147.29,
+   "oracle": 147.24,
+   "prev": 147.39,
+   "funding": 1.09919e-05,
+   "oi": 840168.2800000003,
+   "oi_usd": 123748385.96120003,
+   "vol": 125972461.36970009,
+   "rsi14": 47.38087007966384,
+   "ema20": 147.9391103296485,
+   "ema50": 147.08153661446474,
    "hi24": 151.03,
    "lo24": 145.15
   },
@@ -660,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 366.74,
-   "oracle": 366.71,
-   "prev": 358.29,
-   "funding": 1.8226e-06,
-   "oi": 181717.606,
-   "oi_usd": 66643114.82444,
-   "vol": 129835635.20291996,
-   "rsi14": 62.91545724092147,
-   "ema20": 363.9093564735432,
-   "ema50": 359.4476523656632,
+   "mark": 366.0,
+   "oracle": 366.0,
+   "prev": 358.83,
+   "funding": 6.25e-06,
+   "oi": 180230.2120000001,
+   "oi_usd": 65964257.59200003,
+   "vol": 128184906.31717005,
+   "rsi14": 60.27166029689288,
+   "ema20": 364.07752923633524,
+   "ema50": 359.6818132561206,
    "hi24": 369.52,
    "lo24": 352.53
   },
@@ -695,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81503.0,
-   "oracle": 81531.0,
-   "prev": 82153.0,
+   "mark": 81423.2,
+   "oracle": 81446.0,
+   "prev": 82441.0,
    "funding": 1.25e-05,
-   "oi": 39619.39158,
-   "oi_usd": 3229099271.9447403,
-   "vol": 1951080910.7909296,
-   "rsi14": 38.164403002658005,
-   "ema20": 82027.5163810055,
-   "ema50": 81954.23912110033,
+   "oi": 39624.59148,
+   "oi_usd": 3226361036.994336,
+   "vol": 1891478867.2965488,
+   "rsi14": 36.18168836802704,
+   "ema20": 81985.54420030203,
+   "ema50": 81940.10750098068,
    "hi24": 83138.0,
-   "lo24": 81417.0
+   "lo24": 81171.0
   },
-  "_at": 1792455828
+  "_at": 1792459432
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 19, 2:58pm MT",
