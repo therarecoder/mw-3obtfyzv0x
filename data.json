@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T14:02:08.040646-06:00",
- "generated_mt": "Tue Oct 20 2026, 2:02pm MT",
+ "generated_at": "2026-10-20T14:07:13.501225-06:00",
+ "generated_mt": "Tue Oct 20 2026, 2:07pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1013834448896,
    "pe": 12.055294,
    "fpe": 4.3310623,
-   "post": 895.9999,
-   "post_pct": -0.00782633,
+   "post": 897.9,
+   "post_pct": 0.20422702,
    "pre": null,
    "pre_pct": null,
    "day_lo": 881.52,
@@ -75,8 +75,8 @@
    "mcap": 1947012956160,
    "pe": null,
    "fpe": 72.253044,
-   "post": 148.5,
-   "post_pct": 0.48041597,
+   "post": 146.86,
+   "post_pct": -0.6292663,
    "pre": null,
    "pre_pct": null,
    "day_lo": 143.27,
@@ -127,8 +127,8 @@
    "mcap": 1475985408000,
    "pe": 346.02777,
    "fpe": 172.34286,
-   "post": 374.0,
-   "post_pct": 0.077602565,
+   "post": 373.91,
+   "post_pct": 0.0535207,
    "pre": null,
    "pre_pct": null,
    "day_lo": 363.64,
@@ -270,8 +270,8 @@
    "mcap": 818367424,
    "pe": null,
    "fpe": -50.665264,
-   "post": 16.38,
-   "post_pct": -0.009768677,
+   "post": 16.39,
+   "post_pct": 0.05127682,
    "pre": null,
    "pre_pct": null,
    "day_lo": 15.47,
@@ -369,8 +369,8 @@
    "mcap": 10388989952,
    "pe": 26.093023,
    "fpe": 15.155744,
-   "post": 33.5,
-   "post_pct": -0.4753412,
+   "post": 33.7,
+   "post_pct": 0.11883813,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.64,
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82424.44,
-   "chg_pct": 0.62725556,
-   "chg": 513.78906,
+   "price": 82514.26,
+   "chg_pct": 0.73691195,
+   "chg": 603.6094,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1657887260672,
+   "mcap": 1657694060544,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,8 +424,13 @@
    "pre_pct": null,
    "day_lo": 81131.63,
    "day_hi": 83199.875,
-   "as_of": "Tue Oct 20, 2:02pm MT",
+   "as_of": "Tue Oct 20, 2:07pm MT",
    "news": [
+    {
+     "title": "Sector Update: Financial Stocks Higher Late Afternoon",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-afternoon-195815872.html?.tsrc=rss",
+     "when": "Tue Oct 20, 1:58pm MT"
+    },
     {
      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
      "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly?.tsrc=rss",
@@ -440,11 +445,6 @@
      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
      "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying?.tsrc=rss",
      "when": "Tue Oct 20, 12:31pm MT"
-    },
-    {
-     "title": "Mesh and Visa Now Let You Spend Crypto at 175 Million Locations Without a Crypto Card. How Does It Work?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/20/mesh-and-visa-now-let-you-spend-crypto-at-175-million-locations-without-a-crypto-card-how-does-it-work/?.tsrc=rss",
-     "when": "Tue Oct 20, 12:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -482,28 +482,28 @@
    "as_of": "Tue Oct 20, 12:59pm MT"
   },
   "^VIX": {
-   "price": 17.47,
-   "chg_pct": -5.257459,
-   "chg": -0.9700012,
-   "as_of": "Tue Oct 20, 1:47pm MT"
-  },
-  "DX-Y.NYB": {
-   "price": 101.717,
-   "chg_pct": -0.2578967,
-   "chg": -0.2630005,
+   "price": 17.45,
+   "chg_pct": -5.368762,
+   "chg": -0.9899998,
    "as_of": "Tue Oct 20, 1:52pm MT"
   },
+  "DX-Y.NYB": {
+   "price": 101.728,
+   "chg_pct": -0.24711367,
+   "chg": -0.25200653,
+   "as_of": "Tue Oct 20, 1:57pm MT"
+  },
   "^GSPC": {
-   "price": 7712.75,
-   "chg_pct": 0.286319,
-   "chg": 22.02002,
-   "as_of": "Tue Oct 20, 2:02pm MT"
+   "price": 7712.57,
+   "chg_pct": 0.28397623,
+   "chg": 21.839844,
+   "as_of": "Tue Oct 20, 2:07pm MT"
   },
   "^NDX": {
    "price": 29490.283,
    "chg_pct": -0.13227706,
    "chg": -39.060547,
-   "as_of": "Tue Oct 20, 2:02pm MT"
+   "as_of": "Tue Oct 20, 2:07pm MT"
   }
  },
  "errors": [],
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 896.25,
-   "oracle": 895.84,
-   "prev": 905.54,
-   "funding": 9.0178e-06,
-   "oi": 163227.704,
-   "oi_usd": 146292829.71,
-   "vol": 106395834.08010003,
-   "rsi14": 48.62881015679323,
-   "ema20": 899.0100714254198,
-   "ema50": 895.4034418434051,
+   "mark": 898.2,
+   "oracle": 897.98,
+   "prev": 905.19,
+   "funding": 6.25e-06,
+   "oi": 163513.9400000001,
+   "oi_usd": 146868220.90800008,
+   "vol": 106553913.18436012,
+   "rsi14": 49.41697319084097,
+   "ema20": 899.112928568277,
+   "ema50": 895.4457947845816,
    "hi24": 919.09,
    "lo24": 877.53
   },
@@ -639,17 +639,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.64,
-   "oracle": 148.54,
-   "prev": 147.97,
-   "funding": 3.15647e-05,
-   "oi": 905812.9799999994,
-   "oi_usd": 134640041.3471999,
-   "vol": 96959274.68859993,
-   "rsi14": 60.260741091654474,
-   "ema20": 147.62557577845934,
-   "ema50": 147.3034662905885,
-   "hi24": 149.38,
+   "mark": 147.26,
+   "oracle": 147.2,
+   "prev": 148.35,
+   "funding": 6.25e-06,
+   "oi": 936154.5599999997,
+   "oi_usd": 137858120.50559995,
+   "vol": 119964272.41790009,
+   "rsi14": 52.18539481311263,
+   "ema20": 147.47319482607838,
+   "ema50": 147.24072119254927,
+   "hi24": 151.64,
    "lo24": 143.42
   },
   "TSLA": {
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 373.95,
-   "oracle": 373.95,
-   "prev": 368.0,
+   "mark": 373.84,
+   "oracle": 373.9,
+   "prev": 367.76,
    "funding": 6.25e-06,
-   "oi": 162461.918,
-   "oi_usd": 60752634.2361,
-   "vol": 46966321.277789965,
-   "rsi14": 63.02770524671239,
-   "ema20": 370.64641875993277,
-   "ema50": 365.6399336652284,
+   "oi": 163061.3040000003,
+   "oi_usd": 60958837.8873601,
+   "vol": 47217645.30514989,
+   "rsi14": 62.355700514391195,
+   "ema20": 370.61213304564706,
+   "ema50": 365.62581601816953,
    "hi24": 377.47,
    "lo24": 363.78
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82498.3,
-   "oracle": 82527.0,
-   "prev": 81846.0,
+   "mark": 82574.0,
+   "oracle": 82600.0,
+   "prev": 81969.0,
    "funding": 1.25e-05,
-   "oi": 41112.594,
-   "oi_usd": 3391719113.5902,
-   "vol": 2603542407.7935696,
-   "rsi14": 55.98173821740529,
-   "ema20": 82240.96409632056,
-   "ema50": 82071.07826299685,
+   "oi": 41087.6791,
+   "oi_usd": 3392774014.0034003,
+   "vol": 2599826996.7456145,
+   "rsi14": 56.89786278896829,
+   "ema20": 82245.91647727294,
+   "ema50": 82073.11747868313,
    "hi24": 83425.0,
    "lo24": 81171.0
   },
-  "_at": 1792526532
+  "_at": 1792526837
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 20, 7:27am MT",
