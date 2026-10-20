@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T01:59:07.560162-06:00",
- "generated_mt": "Tue Oct 20 2026, 1:59am MT",
+ "generated_at": "2026-10-20T02:59:12.410708-06:00",
+ "generated_mt": "Tue Oct 20 2026, 2:59am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,15 +24,25 @@
    "mcap": 1023824887808,
    "pe": 12.1740885,
    "fpe": 4.373741,
-   "post": 905.26,
-   "post_pct": 0.039781783,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 884.9514,
+   "pre_pct": -2.2045097,
    "day_lo": 900.6,
    "day_hi": 926.81,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Mon Oct 19, 2:00pm MT",
    "news": [
+    {
+     "title": "SKHY Stock Slides Premarket: Retail Eyes Buying Opportunity As Rival Micron\u2019s Taiwan Strike Plan Adds Uncertainty To Memory Trade",
+     "link": "https://stocktwits.com/news-articles/markets/equity/skhy-stock-retail-buying-opportunity-micron-taiwan-strike-uncertainty-memory-trade/cZxq8o1RBuK?.tsrc=rss",
+     "when": "Tue Oct 20, 2:41am MT"
+    },
+    {
+     "title": "Should You Forget Micron and Buy These 3 Memory Stocks Instead?",
+     "link": "https://www.fool.com/investing/2026/10/20/forget-micron-buy-memory-stock-skhy-sndk-alab/?.tsrc=rss",
+     "when": "Tue Oct 20, 2:35am MT"
+    },
     {
      "title": "Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-looks-cheap-5-153626120.html?.tsrc=rss",
@@ -42,16 +52,6 @@
      "title": "Micron vs. Lam Research: Does Buying the Tool Supplier Reduce Memory-Cycle Risk?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-lam-research-does-185704251.html?.tsrc=rss",
      "when": "Mon Oct 19, 7:57pm MT"
-    },
-    {
-     "title": "Micron (MU) vs. Sandisk (SNDK): Is the Smaller Factory Bill Really an Advantage?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-vs-sandisk-sndk-185824641.html?.tsrc=rss",
-     "when": "Mon Oct 19, 12:58pm MT"
-    },
-    {
-     "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
-     "link": "https://finance.yahoo.com/m/0fd6799f-74ed-31f1-8227-cd65f95b1ad8/micron-stock-rallies-as-china.html?.tsrc=rss",
-     "when": "Mon Oct 19, 12:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,10 +75,10 @@
    "mcap": 1949252845568,
    "pe": null,
    "fpe": 72.33617,
-   "post": 148.78,
-   "post_pct": 0.55419844,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 147.01,
+   "pre_pct": -0.64207363,
    "day_lo": 146.84,
    "day_hi": 151.01,
    "next_earnings": "Tue Oct 20, 2026",
@@ -90,19 +90,19 @@
      "when": "Mon Oct 19, 6:00pm MT"
     },
     {
-     "title": "SpaceX Faces Earnings Test Today: RBC Flags Over 50% Upside As Tesla Merger Buzz Builds, S&P Flags AI Financing Risks",
-     "link": "https://stocktwits.com/news-articles/markets/equity/spacex-earnings-test-rbc-upside-tesla-merger-buzz-sandp-ai-financing-risks/cZxqVYwRBuh?.tsrc=rss",
-     "when": "Tue Oct 20, 1:26am MT"
+     "title": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
+     "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-falling-premarket-crwv-nbis-tsla-spcx-mu-asts-nflx-sls-stocks-in-focus/cZxq8CeRBu1?.tsrc=rss",
+     "when": "Tue Oct 20, 2:52am MT"
     },
     {
-     "title": "SpaceX vs. Tesla: Which Is the Better Elon Musk Stock to Own for the Next 5 Years",
-     "link": "https://www.fool.com/investing/2026/10/20/spacex-vs-tesla-which-is-the-better-elon-musk-stoc/?.tsrc=rss",
-     "when": "Tue Oct 20, 1:20am MT"
+     "title": "SpaceX Earnings: How the Stock Might React",
+     "link": "https://finance.yahoo.com/m/12f484a1-84c8-346e-87ef-6e1609a5fb4b/spacex-earnings%3A-how-the.html?.tsrc=rss",
+     "when": "Tue Oct 20, 2:02am MT"
     },
     {
-     "title": "JPMorgan sees 67% upside in a hidden SpaceX bet",
-     "link": "https://www.thestreet.com/investing/jpmorgan-sees-67-upside-in-echostar-hidden-spacex-bet?.tsrc=rss",
-     "when": "Mon Oct 19, 8:17pm MT"
+     "title": "What Wall Street Thinks Ahead of the Results",
+     "link": "https://finance.yahoo.com/m/6e68aea1-a00a-3401-8d47-b75389ddb88b/what-wall-street-thinks-ahead.html?.tsrc=rss",
+     "when": "Tue Oct 20, 2:00am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,15 +127,25 @@
    "mcap": 1453670400000,
    "pe": 328.625,
    "fpe": 169.73727,
-   "post": 368.8299,
-   "post_pct": 0.20917717,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 367.81,
+   "pre_pct": -0.06792371,
    "day_lo": 354.47,
    "day_hi": 369.5808,
    "next_earnings": "Wed Oct 21, 2026",
    "as_of": "Mon Oct 19, 2:00pm MT",
    "news": [
+    {
+     "title": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
+     "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-falling-premarket-crwv-nbis-tsla-spcx-mu-asts-nflx-sls-stocks-in-focus/cZxq8CeRBu1?.tsrc=rss",
+     "when": "Tue Oct 20, 2:52am MT"
+    },
+    {
+     "title": "ARK Invest Bets One Business Can Lift Tesla Stock to $4,400",
+     "link": "https://beincrypto.com/ark-invest-tesla-price-target-2031/?.tsrc=rss",
+     "when": "Tue Oct 20, 2:00am MT"
+    },
     {
      "title": "Tesla (TSLA) Reports Earnings Tomorrow: What To Expect",
      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-earnings-tomorrow-074950484.html?.tsrc=rss",
@@ -145,16 +155,6 @@
      "title": "SpaceX Faces Earnings Test Today: RBC Flags Over 50% Upside As Tesla Merger Buzz Builds, S&P Flags AI Financing Risks",
      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-earnings-test-rbc-upside-tesla-merger-buzz-sandp-ai-financing-risks/cZxqVYwRBuh?.tsrc=rss",
      "when": "Tue Oct 20, 1:26am MT"
-    },
-    {
-     "title": "SpaceX vs. Tesla: Which Is the Better Elon Musk Stock to Own for the Next 5 Years",
-     "link": "https://www.fool.com/investing/2026/10/20/spacex-vs-tesla-which-is-the-better-elon-musk-stoc/?.tsrc=rss",
-     "when": "Tue Oct 20, 1:20am MT"
-    },
-    {
-     "title": "Tesla Stock At $4,400? Cathie Wood's ARK Pins Hopes On Robotaxis, Sees SpaceX Merger In 5 Years",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-cathie-wood-ark-robotaxis-spacex-merger-5-years/cZxqgkXRBuE?.tsrc=rss",
-     "when": "Mon Oct 19, 7:43pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -176,10 +176,10 @@
    "mcap": 3339664128,
    "pe": null,
    "fpe": -49.597702,
-   "post": 43.8,
-   "post_pct": 1.5063678,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 43.16,
+   "pre_pct": 0.0927665,
    "day_lo": 43.0606,
    "day_hi": 44.92,
    "next_earnings": "Thu Nov 5, 2026",
@@ -226,10 +226,10 @@
    "mcap": 2225294080,
    "pe": 46.5,
    "fpe": 6.5049343,
-   "post": 23.21,
-   "post_pct": -0.17204694,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 23.2,
+   "pre_pct": -0.21505049,
    "day_lo": 22.95,
    "day_hi": 23.53,
    "next_earnings": "Tue Nov 3, 2026",
@@ -275,10 +275,10 @@
    "mcap": 819286656,
    "pe": null,
    "fpe": -50.72217,
-   "post": 16.53,
-   "post_pct": 0.79268944,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 16.19,
+   "pre_pct": -1.2804823,
    "day_lo": 16.11,
    "day_hi": 17.15,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
@@ -324,10 +324,10 @@
    "mcap": 575051008,
    "pe": null,
    "fpe": 34.407406,
-   "post": 9.11,
-   "post_pct": -1.9375706,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 9.2903,
+   "pre_pct": 0.0032336642,
    "day_lo": 8.82,
    "day_hi": 9.31,
    "next_earnings": "Mon Nov 2, 2026",
@@ -374,10 +374,10 @@
    "mcap": 10043308032,
    "pe": 25.224808,
    "fpe": 14.651454,
-   "post": 32.7441,
-   "post_pct": 0.6272211,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 32.78,
+   "pre_pct": 0.7375472,
    "day_lo": 32.0941,
    "day_hi": 33.59,
    "next_earnings": "Thu Nov 5, 2026",
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81426.32,
-   "chg_pct": -1.4660357,
-   "chg": -1211.5,
+   "price": 81370.76,
+   "chg_pct": -1.6408496,
+   "chg": -1357.4453,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1636395909120,
+   "mcap": 1634808889344,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 81131.63,
    "day_hi": 82065.766,
-   "as_of": "Tue Oct 20, 1:59am MT",
+   "as_of": "Tue Oct 20, 2:59am MT",
    "news": [
+    {
+     "title": "BlackRock Files for Bitcoin ETF That Trades Capped Gains for a 10% Loss Floor",
+     "link": "https://unchainedcrypto.com/blackrock-files-for-bitcoin-etf-that-trades-capped-gains-for-a-10-loss-floor/?.tsrc=rss",
+     "when": "Tue Oct 20, 2:15am MT"
+    },
     {
      "title": "JPMorgan Bitcoin Forecast Gives BTC a Major Edge Over US Stocks",
      "link": "https://cryptonews.com/news/bitcoin-forecast-jpmorgan/?.tsrc=rss",
@@ -445,11 +450,6 @@
      "title": "Sparkasse Savings Banks Open Crypto Trading in Germany Alongside Usual Banking",
      "link": "https://beincrypto.com/sparkasse-crypto-trading-dekabank/?.tsrc=rss",
      "when": "Mon Oct 19, 11:35pm MT"
-    },
-    {
-     "title": "Is Korea\u2019s Chip Selloff a Crypto Buying Opportunity? Tom Lee\u2019s Case and Its Catch",
-     "link": "https://beincrypto.com/tom-lee-asia-chip-selloff-crypto/?.tsrc=rss",
-     "when": "Mon Oct 19, 11:14pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,16 +487,16 @@
    "as_of": "Mon Oct 19, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.57,
-   "chg_pct": 0.7053671,
-   "chg": 0.12999916,
-   "as_of": "Tue Oct 20, 1:44am MT"
+   "price": 18.43,
+   "chg_pct": -0.05420178,
+   "chg": -0.010000229,
+   "as_of": "Tue Oct 20, 2:44am MT"
   },
   "DX-Y.NYB": {
-   "price": 101.761,
-   "chg_pct": -0.21475182,
-   "chg": -0.21900177,
-   "as_of": "Tue Oct 20, 1:49am MT"
+   "price": 101.747,
+   "chg_pct": -0.22848009,
+   "chg": -0.23300171,
+   "as_of": "Tue Oct 20, 2:49am MT"
   },
   "^GSPC": {
    "price": 7690.73,
@@ -626,16 +626,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 883.37,
-   "oracle": 883.0,
-   "prev": 902.2,
+   "mark": 884.98,
+   "oracle": 884.98,
+   "prev": 900.06,
    "funding": 6.25e-06,
-   "oi": 166528.784,
-   "oi_usd": 147106531.92208,
-   "vol": 114717158.24696998,
-   "rsi14": 38.516768416482705,
-   "ema20": 896.3849467384144,
-   "ema50": 892.632914453306,
+   "oi": 167432.38,
+   "oi_usd": 148174307.65240002,
+   "vol": 116664646.98638996,
+   "rsi14": 39.874823709364954,
+   "ema20": 895.2722281344218,
+   "ema50": 892.3832333129552,
    "hi24": 927.17,
    "lo24": 882.15
   },
@@ -644,16 +644,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.24,
-   "oracle": 147.17,
-   "prev": 148.51,
-   "funding": 7.5503e-06,
-   "oi": 847135.3800000001,
-   "oi_usd": 124732213.35120003,
-   "vol": 118344586.70090002,
-   "rsi14": 46.325926947872496,
-   "ema20": 147.8720623673157,
-   "ema50": 147.2417245577343,
+   "mark": 147.23,
+   "oracle": 147.13,
+   "prev": 147.45,
+   "funding": 7.8309e-06,
+   "oi": 848711.1000000001,
+   "oi_usd": 124955735.253,
+   "vol": 118116112.57270004,
+   "rsi14": 46.4046805488175,
+   "ema20": 147.8249686747874,
+   "ema50": 147.2418079916024,
    "hi24": 151.03,
    "lo24": 145.15
   },
@@ -665,17 +665,17 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 367.02,
-   "oracle": 367.02,
-   "prev": 357.15,
+   "mark": 367.99,
+   "oracle": 368.1,
+   "prev": 355.28,
    "funding": 6.25e-06,
-   "oi": 175463.404,
-   "oi_usd": 64398578.53608,
-   "vol": 125287882.61831008,
-   "rsi14": 60.28325239308372,
-   "ema20": 365.3920841309438,
-   "ema50": 361.2521481087169,
-   "hi24": 369.52,
+   "oi": 176174.778,
+   "oi_usd": 64830556.556219995,
+   "vol": 124461270.85176997,
+   "rsi14": 62.372269665340305,
+   "ema20": 365.6260732787251,
+   "ema50": 361.50028340447477,
+   "hi24": 369.96,
    "lo24": 352.53
   },
   "LMND": {
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81510.0,
-   "oracle": 81536.0,
-   "prev": 82701.0,
+   "mark": 81460.0,
+   "oracle": 81486.0,
+   "prev": 82804.0,
    "funding": 1.25e-05,
-   "oi": 40064.56536,
-   "oi_usd": 3265662722.4936,
-   "vol": 1904563845.386103,
-   "rsi14": 39.83063563127777,
-   "ema20": 81923.02007610873,
-   "ema50": 81925.41126386408,
+   "oi": 40424.5341,
+   "oi_usd": 3292982547.786,
+   "vol": 1934169550.3611822,
+   "rsi14": 38.96462200861786,
+   "ema20": 81881.37104702508,
+   "ema50": 81906.98826760733,
    "hi24": 83073.0,
    "lo24": 81171.0
   },
-  "_at": 1792483152
+  "_at": 1792486756
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 19, 2:58pm MT",
