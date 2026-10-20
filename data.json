@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T21:34:01.556086-06:00",
- "generated_mt": "Mon Oct 19 2026, 9:34pm MT",
+ "generated_at": "2026-10-19T22:35:38.100119-06:00",
+ "generated_mt": "Mon Oct 19 2026, 10:35pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,7 +22,7 @@
    "lo52": 192.4,
    "hi52": 1255.0,
    "mcap": 1023824887808,
-   "pe": 12.1740885,
+   "pe": 11.824121,
    "fpe": 4.373741,
    "post": 905.26,
    "post_pct": 0.039781783,
@@ -147,14 +147,14 @@
      "when": "Mon Oct 19, 5:24pm MT"
     },
     {
+     "title": "Why December 3 Could Be a Critical Date for Tesla and SpaceX Stocks",
+     "link": "https://www.barchart.com/story/news/8207056/why-december-3-could-be-a-critical-date-for-tesla-and-spacex-stocks?.tsrc=rss",
+     "when": "Mon Oct 19, 3:27pm MT"
+    },
+    {
      "title": "Datadog, Intel, CoreWeave, Tesla, Amazon, Cleveland-Cliffs, and More Stocks That Explain Today\u2019s Market",
      "link": "https://finance.yahoo.com/m/81a4deae-1e16-3913-a37f-3c4abe680ee4/datadog%2C-intel%2C-coreweave%2C.html?.tsrc=rss",
      "when": "Mon Oct 19, 2:28pm MT"
-    },
-    {
-     "title": "Wall Street Projects A Down Quarter For Tesla Earnings; Stock Rebounds",
-     "link": "https://finance.yahoo.com/m/c61444d9-580f-35fc-a535-18525c5e82ea/wall-street-projects-a-down.html?.tsrc=rss",
-     "when": "Mon Oct 19, 2:01pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81891.52,
-   "chg_pct": -0.64852613,
-   "chg": -534.5547,
+   "price": 82040.21,
+   "chg_pct": -0.7818575,
+   "chg": -646.4922,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1643290558464,
+   "mcap": 1647883321344,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -428,8 +428,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 81131.63,
-   "day_hi": 81862.984,
-   "as_of": "Mon Oct 19, 9:33pm MT",
+   "day_hi": 82065.766,
+   "as_of": "Mon Oct 19, 10:35pm MT",
    "news": [
     {
      "title": "MSCI (MSCI) Tightens Bitcoin Index Rules",
@@ -493,16 +493,16 @@
    "as_of": "Mon Oct 19, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.837,
-   "chg_pct": -0.14023158,
-   "chg": -0.14300537,
-   "as_of": "Mon Oct 19, 9:24pm MT"
+   "price": 101.804,
+   "chg_pct": -0.17258531,
+   "chg": -0.1760025,
+   "as_of": "Mon Oct 19, 10:25pm MT"
   },
   "^GSPC": {
    "price": 7690.73,
    "chg_pct": 0.40851602,
    "chg": 31.29004,
-   "as_of": "Mon Oct 19, 2:00pm MT"
+   "as_of": "Mon Oct 19, 2:44pm MT"
   },
   "^NDX": {
    "price": 29529.344,
@@ -626,16 +626,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 897.77,
-   "oracle": 897.38,
-   "prev": 899.75,
+   "mark": 891.25,
+   "oracle": 891.01,
+   "prev": 898.29,
    "funding": 6.25e-06,
-   "oi": 165265.378,
-   "oi_usd": 148370298.40706,
-   "vol": 119221061.87851994,
-   "rsi14": 48.518216099382144,
-   "ema20": 901.2566787358085,
-   "ema50": 893.7110623860578,
+   "oi": 165084.976,
+   "oi_usd": 147131984.85999998,
+   "vol": 117682148.09735999,
+   "rsi14": 43.05023389062981,
+   "ema20": 899.9462273180965,
+   "ema50": 893.4956591397716,
    "hi24": 927.17,
    "lo24": 883.66
   },
@@ -644,16 +644,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.59,
-   "oracle": 148.53,
-   "prev": 148.23,
-   "funding": 6.6313e-06,
-   "oi": 839697.1000000001,
-   "oi_usd": 124770592.08900002,
-   "vol": 121551732.34470007,
-   "rsi14": 56.09783797246063,
-   "ema20": 148.10572063587477,
-   "ema50": 147.21169007325688,
+   "mark": 147.81,
+   "oracle": 147.74,
+   "prev": 148.16,
+   "funding": 6.25e-06,
+   "oi": 838904.4600000001,
+   "oi_usd": 123998468.23260002,
+   "vol": 117653494.64730002,
+   "rsi14": 50.18408779755131,
+   "ema20": 148.02499605861075,
+   "ema50": 147.2145403252784,
    "hi24": 151.03,
    "lo24": 145.15
   },
@@ -665,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 368.18,
-   "oracle": 368.15,
-   "prev": 358.25,
+   "mark": 366.47,
+   "oracle": 366.42,
+   "prev": 357.61,
    "funding": 6.25e-06,
-   "oi": 179141.7720000001,
-   "oi_usd": 65956417.614960045,
-   "vol": 125441868.91394001,
-   "rsi14": 65.42744098668064,
-   "ema20": 364.8879207661959,
-   "ema50": 360.3546038811595,
+   "oi": 179015.972,
+   "oi_usd": 65603983.25884001,
+   "vol": 124890542.33393002,
+   "rsi14": 59.38070090904094,
+   "ema20": 364.95551988455736,
+   "ema50": 360.5708342412835,
    "hi24": 369.52,
    "lo24": 352.53
   },
@@ -700,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81980.0,
-   "oracle": 81995.1,
-   "prev": 82527.0,
+   "mark": 82124.0,
+   "oracle": 82141.0,
+   "prev": 82735.0,
    "funding": 1.25e-05,
-   "oi": 39678.63744,
-   "oi_usd": 3252854697.3312,
-   "vol": 1864252667.7990587,
-   "rsi14": 49.49029662036631,
-   "ema20": 81995.69801915562,
-   "ema50": 81943.30759672374,
+   "oi": 39683.49892,
+   "oi_usd": 3258967665.30608,
+   "vol": 1907588917.4379604,
+   "rsi14": 52.821786849587724,
+   "ema20": 82019.53535077634,
+   "ema50": 81960.621173387,
    "hi24": 83138.0,
    "lo24": 81171.0
   },
-  "_at": 1792467246
+  "_at": 1792470942
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 19, 2:58pm MT",
