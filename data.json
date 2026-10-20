@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T16:25:23.886136-06:00",
- "generated_mt": "Tue Oct 20 2026, 4:25pm MT",
+ "generated_at": "2026-10-20T17:25:30.185217-06:00",
+ "generated_mt": "Tue Oct 20 2026, 5:25pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1013834448896,
    "pe": 12.055294,
    "fpe": 4.3310623,
-   "post": 920.0,
-   "post_pct": 2.6705494,
+   "post": 913.75,
+   "post_pct": 1.9730593,
    "pre": null,
    "pre_pct": null,
    "day_lo": 881.52,
@@ -75,8 +75,8 @@
    "mcap": 1947012956160,
    "pe": null,
    "fpe": 72.253044,
-   "post": 157.8411,
-   "post_pct": 6.8009353,
+   "post": 157.9899,
+   "post_pct": 6.9016213,
    "pre": null,
    "pre_pct": null,
    "day_lo": 143.27,
@@ -90,19 +90,19 @@
      "when": "Tue Oct 20, 3:57pm MT"
     },
     {
-     "title": "Musk: SpaceX's 2027 annual recurring revenue could reach $1 trillion",
-     "link": "https://finance.yahoo.com/video/musk-spacexs-2027-annual-recurring-revenue-could-reach-1-trillion-213210598.html?.tsrc=rss",
-     "when": "Tue Oct 20, 3:32pm MT"
+     "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
+     "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+     "when": "Tue Oct 20, 5:08pm MT"
     },
     {
-     "title": "SpaceX COO: Starlink Wi-Fi contracted for 12,000 planes",
-     "link": "https://finance.yahoo.com/video/spacex-coo-starlink-wi-fi-contracted-for-12000-planes-212441331.html?.tsrc=rss",
-     "when": "Tue Oct 20, 3:19pm MT"
+     "title": "SpaceX and Tesla boards form special committees to review merger",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-boards-form-special-225757753.html?.tsrc=rss",
+     "when": "Tue Oct 20, 4:57pm MT"
     },
     {
-     "title": "CEO Elon Musk Just Gave SpaceX Investors Great News",
-     "link": "https://www.fool.com/investing/2026/10/20/ceo-elon-musk-just-gave-spacex-investors-great-news/?.tsrc=rss",
-     "when": "Tue Oct 20, 4:19pm MT"
+     "title": "SpaceX, Tesla Form Independent Committees To Explore Merger: Elon Musk Says Deal \u2018Not A Certainty\u2019",
+     "link": "https://stocktwits.com/news-articles/markets/equity/space-x-tesla-form-independent-committees-to-explore-merger-elon-musk-says-deal-not-a-certainty/cZxABS0RBHQ?.tsrc=rss",
+     "when": "Tue Oct 20, 4:56pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -127,8 +127,8 @@
    "mcap": 1475985408000,
    "pe": 346.02777,
    "fpe": 172.34286,
-   "post": 379.55,
-   "post_pct": 1.5627081,
+   "post": 379.3,
+   "post_pct": 1.4958113,
    "pre": null,
    "pre_pct": null,
    "day_lo": 363.64,
@@ -147,14 +147,14 @@
      "when": "Tue Oct 20, 2:06pm MT"
     },
     {
-     "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
-     "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html?.tsrc=rss",
-     "when": "Tue Oct 20, 10:06am MT"
+     "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
+     "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+     "when": "Tue Oct 20, 5:08pm MT"
     },
     {
-     "title": "Dow Jones Futures Rise; SpaceX Crushes Views, Eyes Tesla Merger; Supermicro Reports Blowout Sales",
-     "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise%3B.html?.tsrc=rss",
-     "when": "Tue Oct 20, 4:10pm MT"
+     "title": "SpaceX and Tesla boards form special committees to review merger",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-boards-form-special-225757753.html?.tsrc=rss",
+     "when": "Tue Oct 20, 4:57pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -176,8 +176,8 @@
    "mcap": 3513806592,
    "pe": null,
    "fpe": -52.18391,
-   "post": 45.86,
-   "post_pct": 1.0132138,
+   "post": 45.8,
+   "post_pct": 0.8810522,
    "pre": null,
    "pre_pct": null,
    "day_lo": 43.27,
@@ -275,8 +275,8 @@
    "mcap": 818287488,
    "pe": null,
    "fpe": -50.660316,
-   "post": 16.7425,
-   "post_pct": 2.2130718,
+   "post": 16.7,
+   "post_pct": 1.9536119,
    "pre": null,
    "pre_pct": null,
    "day_lo": 15.47,
@@ -324,8 +324,8 @@
    "mcap": 567622976,
    "pe": null,
    "fpe": 33.962963,
-   "post": 9.3,
-   "post_pct": 1.4176675,
+   "post": 9.19,
+   "post_pct": 0.2180971,
    "pre": null,
    "pre_pct": null,
    "day_lo": 8.56,
@@ -374,8 +374,8 @@
    "mcap": 10388989952,
    "pe": 26.093023,
    "fpe": 15.155744,
-   "post": 33.82,
-   "post_pct": 0.4753412,
+   "post": 33.7,
+   "post_pct": 0.11883813,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.64,
@@ -415,12 +415,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83054.02,
-   "chg_pct": 1.339598,
-   "chg": 1097.8828,
+   "price": 82841.02,
+   "chg_pct": 1.2259879,
+   "chg": 1003.3203,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1668724031488,
+   "mcap": 1664892928000,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -429,8 +429,13 @@
    "pre_pct": null,
    "day_lo": 81131.63,
    "day_hi": 83199.875,
-   "as_of": "Tue Oct 20, 4:25pm MT",
+   "as_of": "Tue Oct 20, 5:25pm MT",
    "news": [
+    {
+     "title": "Forget GBTC. BlackRock Charges $1,250 Less a Year to Hold the Same Bitcoin on $100,000",
+     "link": "https://247wallst.com/investing/etf/2026/10/20/forget-gbtc-blackrock-charges-1250-less-a-year-to-hold-the-same-bitcoin-on-100000/?.tsrc=rss",
+     "when": "Tue Oct 20, 4:33pm MT"
+    },
     {
      "title": "JPMorgan\u2019s 31-year-old report embraces once-mocked asset",
      "link": "https://www.thestreet.com/crypto/markets/jpmorgans-31-year-old-report-embraces-once-mocked-asset?.tsrc=rss",
@@ -489,8 +494,8 @@
   },
   "DX-Y.NYB": {
    "price": 101.73,
-   "chg_pct": -0.2451461,
-   "chg": -0.25,
+   "chg_pct": 0.028521802,
+   "chg": 0.029006958,
    "as_of": "Tue Oct 20, 4:04pm MT"
   },
   "^GSPC": {
@@ -621,16 +626,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 920.98,
-   "oracle": 920.5,
-   "prev": 908.33,
-   "funding": 1.21595e-05,
-   "oi": 162958.764,
-   "oi_usd": 150081762.46872,
-   "vol": 116055477.21409003,
-   "rsi14": 62.546696448347774,
-   "ema20": 903.9883361608642,
-   "ema50": 897.8340264594426,
+   "mark": 914.19,
+   "oracle": 913.72,
+   "prev": 907.84,
+   "funding": 6.25e-06,
+   "oi": 163175.574,
+   "oi_usd": 149173477.99506,
+   "vol": 113973268.39909005,
+   "rsi14": 57.91018256901909,
+   "ema20": 904.7884362266025,
+   "ema50": 898.3812693454838,
    "hi24": 922.69,
    "lo24": 877.53
   },
@@ -639,17 +644,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.8,
-   "oracle": 157.84,
-   "prev": 148.99,
-   "funding": -2.0932e-06,
-   "oi": 935828.8,
-   "oi_usd": 147673784.64000002,
-   "vol": 205219948.25170007,
-   "rsi14": 79.41649832657902,
-   "ema20": 149.6336233532753,
-   "ema50": 148.19077446217193,
-   "hi24": 158.1,
+   "mark": 157.86,
+   "oracle": 157.96,
+   "prev": 148.92,
+   "funding": -2.07192e-05,
+   "oi": 990933.16,
+   "oi_usd": 156428708.6376,
+   "vol": 229760056.04909995,
+   "rsi14": 72.71683532098137,
+   "ema20": 150.62098444520342,
+   "ema50": 148.6538354272116,
+   "hi24": 160.33,
    "lo24": 143.42
   },
   "TSLA": {
@@ -660,16 +665,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 379.41,
-   "oracle": 379.51,
-   "prev": 368.36,
-   "funding": 5.0486e-06,
-   "oi": 156604.264,
-   "oi_usd": 59417223.80424,
-   "vol": 55978321.93354001,
-   "rsi14": 71.17771437034598,
-   "ema20": 372.21636062405196,
-   "ema50": 366.69680343587146,
+   "mark": 379.18,
+   "oracle": 379.3,
+   "prev": 368.53,
+   "funding": 6.25e-06,
+   "oi": 155926.902,
+   "oi_usd": 59124362.70036,
+   "vol": 56482077.41583,
+   "rsi14": 70.26144471241506,
+   "ema20": 372.88196442488584,
+   "ema50": 367.18230386445697,
    "hi24": 379.87,
    "lo24": 363.78
   },
@@ -695,20 +700,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83110.0,
-   "oracle": 83129.2,
-   "prev": 82114.0,
+   "mark": 82889.0,
+   "oracle": 82926.6,
+   "prev": 82019.0,
    "funding": 1.25e-05,
-   "oi": 41194.78636,
-   "oi_usd": 3423698694.3796,
-   "vol": 2613650207.8470707,
-   "rsi14": 64.0050175091647,
-   "ema20": 82410.38637240134,
-   "ema50": 82159.28325947477,
+   "oi": 40884.839,
+   "oi_usd": 3388903419.871,
+   "vol": 2656995038.20993,
+   "rsi14": 59.54633440054123,
+   "ema20": 82453.30528032586,
+   "ema50": 82184.9946984142,
    "hi24": 83425.0,
    "lo24": 81171.0
   },
-  "_at": 1792535128
+  "_at": 1792538734
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 20, 3:00pm MT",
