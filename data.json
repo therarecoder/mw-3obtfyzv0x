@@ -493,6 +493,18 @@
    "chg": -0.26200104,
    "as_of": "Tue Oct 20, 2:07pm MT"
   },
+  "^VIX": {
+   "price": 17.4,
+   "chg_pct": -5.642978,
+   "chg": -1.0400009,
+   "as_of": "Tue Oct 20, 12:04pm MT"
+  },
+  "DX-Y.NYB": {
+   "price": 101.719,
+   "chg_pct": -0.2559341,
+   "chg": -0.2610016,
+   "as_of": "Tue Oct 20, 12:09pm MT"
+  },
   "^GSPC": {
    "price": 7712.57,
    "chg_pct": 0.28397623,
