@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T13:01:06.766117-06:00",
- "generated_mt": "Tue Oct 20 2026, 1:01pm MT",
+ "generated_at": "2026-10-20T13:06:11.616698-06:00",
+ "generated_mt": "Tue Oct 20 2026, 1:06pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -16,14 +16,14 @@
     "Street: D.A. Davidson $3,000 Buy (10/7); consensus ~$1,520-1,630"
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
-   "price": 905.78,
-   "chg_pct": 0.09724885,
-   "chg": 0.8800049,
+   "price": 905.19,
+   "chg_pct": 0.032045312,
+   "chg": 0.28997803,
    "lo52": 192.4,
    "hi52": 1255.0,
-   "mcap": 1024820576256,
-   "pe": 12.185927,
-   "fpe": 4.3779945,
+   "mcap": 1024153026560,
+   "pe": 12.17799,
+   "fpe": 4.375143,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -31,7 +31,7 @@
    "day_lo": 881.52,
    "day_hi": 918.89,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "AI's next canary in the coal mine: Is it OpenAI, memory, or something else?",
@@ -44,14 +44,14 @@
      "when": "Tue Oct 20, 7:04am MT"
     },
     {
-     "title": "Micron Stock Rises to Defy 3 Warning Signals",
-     "link": "https://finance.yahoo.com/m/c9d6ac79-78a8-3511-b9dc-1046e485c8f8/micron-stock-rises-to-defy-3.html?.tsrc=rss",
-     "when": "Tue Oct 20, 12:14pm MT"
+     "title": "Trump Dumped Micron, Up 338% in a Year. The Memory Cycle Decides Who\u2019s Right",
+     "link": "https://www.tikr.com/blog/trump-dumped-micron-up-338-in-a-year-the-memory-cycle-decides-whos-right?ref=yahoofinance&.tsrc=rss",
+     "when": "Tue Oct 20, 12:53pm MT"
     },
     {
-     "title": "Not Micron. Not Sandisk. This Storage Stock Is Riding the Same AI Infrastructure Wave.",
-     "link": "https://www.fool.com/investing/2026/10/20/not-micron-not-sandisk-this-storage-stock-is-ridin/?.tsrc=rss",
-     "when": "Tue Oct 20, 11:35am MT"
+     "title": "Micron Just Dropped 10% in a Month. Is It Time to Sell, or Load Up?",
+     "link": "https://www.tikr.com/blog/micron-just-dropped-10-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+     "when": "Tue Oct 20, 12:46pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -67,14 +67,14 @@
     "Watch: Starship milestones, lock-up/unlock dates, merger-process filings"
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
-   "price": 147.39,
-   "chg_pct": -0.3852442,
-   "chg": -0.5700073,
+   "price": 147.31,
+   "chg_pct": -0.4393141,
+   "chg": -0.65000916,
    "lo52": 104.83,
    "hi52": 225.64,
-   "mcap": 1941743468544,
+   "mcap": 1940689518592,
    "pe": null,
-   "fpe": 72.057495,
+   "fpe": 72.01838,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -82,7 +82,7 @@
    "day_lo": 143.27,
    "day_hi": 148.66,
    "next_earnings": "Tue Oct 20, 2026",
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
@@ -119,14 +119,14 @@
     "View: merger committee in 2026, deal in 2027, ~$600 on merger + Robotaxi"
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
-   "price": 375.71,
-   "chg_pct": 2.0784638,
-   "chg": 7.649994,
+   "price": 375.645,
+   "chg_pct": 2.060803,
+   "chg": 7.5849915,
    "lo52": 297.38,
    "hi52": 498.83,
-   "mcap": 1483884462080,
-   "pe": 347.8796,
-   "fpe": 173.2652,
+   "mcap": 1483627692032,
+   "pe": 347.81943,
+   "fpe": 173.23521,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -134,7 +134,7 @@
    "day_lo": 363.64,
    "day_hi": 377.59,
    "next_earnings": "Wed Oct 21, 2026",
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
@@ -163,14 +163,14 @@
     "Watch: loss ratio, gross written premium growth, car insurance ramp"
    ],
    "watch": "Price & news",
-   "price": 45.715,
-   "chg_pct": 5.9436884,
-   "chg": 2.5649986,
+   "price": 45.72,
+   "chg_pct": 5.9559665,
+   "chg": 2.5699997,
    "lo52": 42.7,
    "hi52": 99.9,
-   "mcap": 3538186240,
+   "mcap": 3538573312,
    "pe": null,
-   "fpe": -52.54598,
+   "fpe": -52.551723,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -178,7 +178,7 @@
    "day_lo": 43.27,
    "day_hi": 45.735,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "Lemonade Renters Insurance Expands to Alabama",
@@ -213,14 +213,14 @@
     "Watch: origination volume, conversion, guidance"
    ],
    "watch": "Price, yields & news",
-   "price": 23.84,
-   "chg_pct": 2.537635,
-   "chg": 0.59000015,
+   "price": 23.785,
+   "chg_pct": 2.3010745,
+   "chg": 0.53499985,
    "lo52": 22.21,
    "hi52": 55.22,
-   "mcap": 2281763840,
-   "pe": 47.68,
-   "fpe": 6.670006,
+   "mcap": 2276499712,
+   "pe": 47.57,
+   "fpe": 6.6546173,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -228,7 +228,7 @@
    "day_lo": 23.05,
    "day_hi": 24.346,
    "next_earnings": "Tue Nov 3, 2026",
-   "as_of": "Tue Oct 20, 1:00pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "Upstart Holdings, Inc. (UPST) Stock Dips While Market Gains: Key Facts",
@@ -262,14 +262,14 @@
     "Watch: drone-component orders, US defense/drone policy headlines"
    ],
    "watch": "Price & news",
-   "price": 16.565,
-   "chg_pct": 1.0061032,
-   "chg": 0.16500092,
+   "price": 16.5,
+   "chg_pct": 0.60975844,
+   "chg": 0.10000038,
    "lo52": 7.245,
    "hi52": 34.926,
-   "mcap": 827529536,
+   "mcap": 824282304,
    "pe": null,
-   "fpe": -51.23249,
+   "fpe": -51.031456,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -277,7 +277,7 @@
    "day_lo": 15.47,
    "day_hi": 16.8793,
    "next_earnings": "Thu Nov 5, 2026 (est.)",
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:03pm MT",
    "news": [
     {
      "title": "Unusual Machines Completes Acquisition of Upgrade Energy, Expanding U.S. Drone Battery Manufacturing",
@@ -311,14 +311,14 @@
     "Watch: B2 cloud storage growth, AI storage demand, net revenue retention"
    ],
    "watch": "Price & news",
-   "price": 9.1,
-   "chg_pct": -2.0452054,
-   "chg": -0.18999958,
+   "price": 9.09,
+   "chg_pct": -2.1528504,
+   "chg": -0.19999981,
    "lo52": 3.261,
    "hi52": 23.99,
-   "mcap": 563290048,
+   "mcap": 562671040,
    "pe": null,
-   "fpe": 33.703705,
+   "fpe": 33.666664,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -326,7 +326,7 @@
    "day_lo": 8.56,
    "day_hi": 9.33,
    "next_earnings": "Mon Nov 2, 2026",
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "Backblaze to Announce Third Quarter 2026 Results on November 2, 2026",
@@ -361,14 +361,14 @@
     "Watch: ACA subsidy policy, medical loss ratio"
    ],
    "watch": "Price & news",
-   "price": 33.86,
-   "chg_pct": 4.056545,
-   "chg": 1.3199997,
+   "price": 33.8,
+   "chg_pct": 3.872152,
+   "chg": 1.2599983,
    "lo52": 10.69,
    "hi52": 35.01,
-   "mcap": 10450719744,
-   "pe": 26.248064,
-   "fpe": 15.245796,
+   "mcap": 10432200704,
+   "pe": 26.201551,
+   "fpe": 15.2187805,
    "post": null,
    "post_pct": null,
    "pre": null,
@@ -376,7 +376,7 @@
    "day_lo": 32.64,
    "day_hi": 34.03,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Tue Oct 20, 1:00pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "3 Big Reasons to Love Oscar Health (OSCR)",
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82447.35,
-   "chg_pct": 0.8292771,
-   "chg": 678.09375,
+   "price": 82420.33,
+   "chg_pct": 0.79622877,
+   "chg": 651.0703,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1657415139328,
+   "mcap": 1657035292672,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,7 +424,7 @@
    "pre_pct": null,
    "day_lo": 81131.63,
    "day_hi": 83199.875,
-   "as_of": "Tue Oct 20, 1:01pm MT",
+   "as_of": "Tue Oct 20, 1:06pm MT",
    "news": [
     {
      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
@@ -452,58 +452,58 @@
  ],
  "macro": {
   "SMH": {
-   "price": 548.87,
-   "chg_pct": 0.07474987,
-   "chg": 0.40997314,
-   "as_of": "Tue Oct 20, 1:01pm MT"
+   "price": 548.86,
+   "chg_pct": 0.0729248,
+   "chg": 0.39996338,
+   "as_of": "Tue Oct 20, 1:06pm MT"
   },
   "^TNX": {
-   "price": 5.119,
-   "chg_pct": -0.3311297,
-   "chg": -0.017000198,
-   "as_of": "Tue Oct 20, 12:46pm MT"
+   "price": 5.121,
+   "chg_pct": -0.2921765,
+   "chg": -0.015000343,
+   "as_of": "Tue Oct 20, 12:51pm MT"
   },
   "^TYX": {
-   "price": 5.43,
-   "chg_pct": -0.7675492,
-   "chg": -0.042000294,
-   "as_of": "Tue Oct 20, 12:46pm MT"
+   "price": 5.431,
+   "chg_pct": -0.74940395,
+   "chg": -0.04099989,
+   "as_of": "Tue Oct 20, 12:51pm MT"
   },
   "^FVX": {
-   "price": 4.936,
-   "chg_pct": 0.14201602,
-   "chg": 0.0069999695,
-   "as_of": "Tue Oct 20, 12:46pm MT"
+   "price": 4.94,
+   "chg_pct": 0.22326276,
+   "chg": 0.011000156,
+   "as_of": "Tue Oct 20, 12:51pm MT"
   },
   "^IRX": {
    "price": 4.08,
    "chg_pct": 0.1227022,
    "chg": 0.0050001144,
-   "as_of": "Tue Oct 20, 12:46pm MT"
-  },
-  "^VIX": {
-   "price": 17.48,
-   "chg_pct": -5.2004385,
-   "chg": -0.960001,
-   "as_of": "Tue Oct 20, 12:46pm MT"
-  },
-  "DX-Y.NYB": {
-   "price": 101.695,
-   "chg_pct": -0.27947015,
-   "chg": -0.28500366,
    "as_of": "Tue Oct 20, 12:51pm MT"
   },
+  "^VIX": {
+   "price": 17.44,
+   "chg_pct": -5.422993,
+   "chg": -1.0,
+   "as_of": "Tue Oct 20, 12:51pm MT"
+  },
+  "DX-Y.NYB": {
+   "price": 101.697,
+   "chg_pct": -0.27751005,
+   "chg": -0.28300476,
+   "as_of": "Tue Oct 20, 12:56pm MT"
+  },
   "^GSPC": {
-   "price": 7715.22,
-   "chg_pct": 0.31844127,
-   "chg": 24.490234,
-   "as_of": "Tue Oct 20, 1:01pm MT"
+   "price": 7715.4,
+   "chg_pct": 0.32076976,
+   "chg": 24.669922,
+   "as_of": "Tue Oct 20, 1:06pm MT"
   },
   "^NDX": {
-   "price": 29540.17,
-   "chg_pct": 0.036662295,
-   "chg": 10.826172,
-   "as_of": "Tue Oct 20, 1:01pm MT"
+   "price": 29535.086,
+   "chg_pct": 0.019445507,
+   "chg": 5.7421875,
+   "as_of": "Tue Oct 20, 1:06pm MT"
   }
  },
  "errors": [],
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 906.08,
-   "oracle": 905.78,
-   "prev": 906.83,
+   "mark": 905.48,
+   "oracle": 905.21,
+   "prev": 906.67,
    "funding": 6.25e-06,
-   "oi": 163880.206,
-   "oi_usd": 148488577.05248,
-   "vol": 107967294.31168003,
-   "rsi14": 55.75928237336018,
-   "ema20": 900.2078032294198,
-   "ema50": 895.7834109400168,
+   "oi": 163938.6459999999,
+   "oi_usd": 148443165.1800799,
+   "vol": 107557810.69926003,
+   "rsi14": 55.44110724278267,
+   "ema20": 900.1678032294199,
+   "ema50": 895.7669403517815,
    "hi24": 919.09,
    "lo24": 877.53
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.47,
-   "oracle": 147.39,
-   "prev": 147.65,
-   "funding": 1.81184e-05,
-   "oi": 897848.42,
-   "oi_usd": 132405706.4974,
-   "vol": 94459449.1842001,
-   "rsi14": 50.56112621885668,
-   "ema20": 147.40089729390854,
-   "ema50": 147.199196166658,
+   "mark": 147.39,
+   "oracle": 147.32,
+   "prev": 147.06,
+   "funding": 1.35271e-05,
+   "oi": 897771.06,
+   "oi_usd": 132322476.5334,
+   "vol": 93901245.29700005,
+   "rsi14": 50.02504477444978,
+   "ema20": 147.3923258653371,
+   "ema50": 147.1956667548933,
    "hi24": 149.29,
    "lo24": 143.42
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 375.7,
-   "oracle": 375.74,
-   "prev": 368.73,
+   "mark": 375.65,
+   "oracle": 375.65,
+   "prev": 368.85,
    "funding": 6.25e-06,
-   "oi": 164766.92,
-   "oi_usd": 61902931.844000004,
-   "vol": 48846731.56577999,
-   "rsi14": 68.23953003813958,
-   "ema20": 370.47697135629437,
-   "ema50": 365.3776358801926,
+   "oi": 164759.816,
+   "oi_usd": 61892024.880399995,
+   "vol": 48320387.75781,
+   "rsi14": 68.04527841936881,
+   "ema20": 370.46554278486576,
+   "ema50": 365.37292999783966,
    "hi24": 377.47,
    "lo24": 363.78
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82517.0,
-   "oracle": 82543.3,
-   "prev": 81939.0,
+   "mark": 82487.0,
+   "oracle": 82515.7,
+   "prev": 81877.0,
    "funding": 1.25e-05,
-   "oi": 41241.98614,
-   "oi_usd": 3403164970.31438,
-   "vol": 2605729716.3339086,
-   "rsi14": 56.249881636009526,
-   "ema20": 82209.57844599836,
-   "ema50": 82054.05157620953,
+   "oi": 41240.66022,
+   "oi_usd": 3401818339.5671396,
+   "vol": 2599884158.403972,
+   "rsi14": 55.74085593928209,
+   "ema20": 82206.72130314121,
+   "ema50": 82052.8751056213,
    "hi24": 83425.0,
    "lo24": 81171.0
   },
-  "_at": 1792522870
+  "_at": 1792523175
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 20, 7:27am MT",
