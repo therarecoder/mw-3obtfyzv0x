@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T18:25:35.683629-06:00",
- "generated_mt": "Tue Oct 20 2026, 6:25pm MT",
+ "generated_at": "2026-10-20T19:25:41.054795-06:00",
+ "generated_mt": "Tue Oct 20 2026, 7:25pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -87,22 +87,17 @@
     {
      "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
-     "when": "Tue Oct 20, 6:14pm MT"
+     "when": "Tue Oct 20, 7:10pm MT"
     },
     {
-     "title": "Market Chatter: Musk Ordered Starlink Slowdown for Ukraine",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-musk-ordered-starlink-000354549.html?.tsrc=rss",
-     "when": "Tue Oct 20, 6:03pm MT"
+     "title": "SpaceX (SPCX) Q3 2026 Earnings Call Transcript",
+     "link": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/?.tsrc=rss",
+     "when": "Tue Oct 20, 6:58pm MT"
     },
     {
-     "title": "What SpaceX (SPCX) Said on Its Q3 Earnings Call",
-     "link": "https://www.marketbeat.com/instant-alerts/transcript-what-spacex-spcx-said-on-its-q3-earnings-call-2026-10-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "when": "Tue Oct 20, 6:02pm MT"
-    },
-    {
-     "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours \u2014 SPCX, BA, MMM, NFLX, QCOM In Focus",
-     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-gain-as-earnings-season-sets-in-while-space-x-aids-nasdaq-after-hours-spcx-ba-mmm-nflx-qcom-in-focus/cZxAawhRBHX?.tsrc=rss",
-     "when": "Tue Oct 20, 5:47pm MT"
+     "title": "SpaceX's latest earnings humble the rocket industry",
+     "link": "https://www.thestreet.com/crypto/markets/spacexs-latest-earnings-humble-the-rocket-industry?.tsrc=rss",
+     "when": "Tue Oct 20, 6:25pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -144,7 +139,7 @@
     {
      "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
-     "when": "Tue Oct 20, 6:14pm MT"
+     "when": "Tue Oct 20, 7:10pm MT"
     },
     {
      "title": "Musk Says SpaceX and Tesla Formed Committees to Discuss Potential Merger",
@@ -415,21 +410,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 83115.02,
-   "chg_pct": 1.8149642,
-   "chg": 1481.6172,
+   "price": 82823.56,
+   "chg_pct": 1.3816861,
+   "chg": 1128.7656,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1669157879808,
+   "mcap": 1665341325312,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 82886.5,
-   "day_hi": 83047.46,
-   "as_of": "Tue Oct 20, 6:25pm MT",
+   "day_lo": 82744.57,
+   "day_hi": 83112.45,
+   "as_of": "Tue Oct 20, 7:25pm MT",
    "news": [
     {
      "title": "The Future of Crypto Exchanges Heading Into 2027",
@@ -493,10 +488,10 @@
    "as_of": "Tue Oct 20, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.793,
-   "chg_pct": 0.09046408,
-   "chg": 0.09200287,
-   "as_of": "Tue Oct 20, 6:15pm MT"
+   "price": 101.774,
+   "chg_pct": 0.07178674,
+   "chg": 0.073005676,
+   "as_of": "Tue Oct 20, 7:15pm MT"
   },
   "^GSPC": {
    "price": 7712.57,
@@ -626,17 +621,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 926.33,
-   "oracle": 926.08,
-   "prev": 895.53,
-   "funding": 2.95869e-05,
-   "oi": 162705.0719999999,
-   "oi_usd": 150718589.3457599,
-   "vol": 113558307.22621997,
-   "rsi14": 64.13603933346386,
-   "ema20": 906.9315665768635,
-   "ema50": 899.500134073218,
-   "hi24": 926.52,
+   "mark": 924.83,
+   "oracle": 925.07,
+   "prev": 891.26,
+   "funding": 6.25e-06,
+   "oi": 158804.982,
+   "oi_usd": 146867611.50305998,
+   "vol": 122811402.02419992,
+   "rsi14": 62.913745438161634,
+   "ema20": 908.488281467946,
+   "ema50": 900.4203021711977,
+   "hi24": 930.57,
    "lo24": 877.53
   },
   "SPCX": {
@@ -644,17 +639,17 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 159.3,
-   "oracle": 159.32,
-   "prev": 148.05,
-   "funding": -2.66158e-05,
-   "oi": 952217.84,
-   "oi_usd": 151688301.912,
-   "vol": 248050956.5024,
-   "rsi14": 78.06095287673149,
-   "ema20": 151.58669952973668,
-   "ema50": 149.13782461215771,
-   "hi24": 160.33,
+   "mark": 159.67,
+   "oracle": 159.78,
+   "prev": 147.46,
+   "funding": -7.8005e-06,
+   "oi": 949613.94,
+   "oi_usd": 151624857.79979998,
+   "vol": 267314850.6414003,
+   "rsi14": 78.17603055499092,
+   "ema20": 152.42710687472012,
+   "ema50": 149.58505034831,
+   "hi24": 161.56,
    "lo24": 143.42
   },
   "TSLA": {
@@ -665,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 381.95,
-   "oracle": 381.93,
-   "prev": 366.79,
+   "mark": 380.26,
+   "oracle": 380.26,
+   "prev": 366.22,
    "funding": 6.25e-06,
-   "oi": 153492.94,
-   "oi_usd": 58626628.433,
-   "vol": 56927949.89659,
-   "rsi14": 74.4795182394729,
-   "ema20": 373.83521337104645,
-   "ema50": 367.81784038687687,
+   "oi": 158812.9820000001,
+   "oi_usd": 60390224.535320036,
+   "vol": 61553227.271630034,
+   "rsi14": 71.09871527489858,
+   "ema20": 374.31314287677134,
+   "ema50": 368.26665179937663,
    "hi24": 382.47,
    "lo24": 363.78
   },
@@ -700,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 83180.0,
-   "oracle": 83206.3,
-   "prev": 81554.0,
+   "mark": 82884.4,
+   "oracle": 82905.9,
+   "prev": 81431.0,
    "funding": 1.25e-05,
-   "oi": 40735.10572,
-   "oi_usd": 3388346093.7896,
-   "vol": 2587171375.32874,
-   "rsi14": 64.16515324779164,
-   "ema20": 82531.51260605345,
-   "ema50": 82228.7609615162,
+   "oi": 40995.70444,
+   "oi_usd": 3397904365.0867357,
+   "vol": 2590366638.3797703,
+   "rsi14": 58.847846837114844,
+   "ema20": 82550.06106097909,
+   "ema50": 82245.93637240754,
    "hi24": 83425.0,
-   "lo24": 81171.0
+   "lo24": 81300.0
   },
-  "_at": 1792542339
+  "_at": 1792545945
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 20, 3:00pm MT",
