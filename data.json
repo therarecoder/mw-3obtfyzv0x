@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T22:28:35.996461-06:00",
- "generated_mt": "Tue Oct 20 2026, 10:28pm MT",
+ "generated_at": "2026-10-20T23:28:41.686812-06:00",
+ "generated_mt": "Tue Oct 20 2026, 11:28pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -85,24 +85,24 @@
    "as_of": "Tue Oct 20, 2:00pm MT",
    "news": [
     {
+     "title": "3 AI Infrastructure Stocks Investors Are Watching After Elon Musk Floated A SpaceX Tesla Tie Up",
+     "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-investors-051546903.html?.tsrc=rss",
+     "when": "Tue Oct 20, 11:15pm MT"
+    },
+    {
      "title": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
-     "when": "Tue Oct 20, 10:19pm MT"
+     "when": "Tue Oct 20, 10:40pm MT"
     },
     {
-     "title": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-rebound-spacex-super-041739951.html?.tsrc=rss",
-     "when": "Tue Oct 20, 10:17pm MT"
+     "title": "Elon Musk backs SpaceX-Tesla merger as rocket firm turns profit",
+     "link": "https://www.euronews.com/2026/10/21/elon-musk-backs-spacex-tesla-merger-as-rocket-firm-turns-profit?.tsrc=rss",
+     "when": "Tue Oct 20, 10:37pm MT"
     },
     {
-     "title": "Nasdaq, S&P 500 Futures Climb After SpaceX\u2019s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
-     "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ?.tsrc=rss",
-     "when": "Tue Oct 20, 9:38pm MT"
-    },
-    {
-     "title": "Asian stocks rally as tech firms enjoy bounce ahead of key earnings",
-     "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-tech-firms-025217752.html?.tsrc=rss",
-     "when": "Tue Oct 20, 8:52pm MT"
+     "title": "Asian space stocks rise tracking blowout SpaceX Q3 earnings",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/asian-space-stocks-rise-tracking-042950765.html?.tsrc=rss",
+     "when": "Tue Oct 20, 10:29pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -125,7 +125,7 @@
    "lo52": 297.38,
    "hi52": 498.83,
    "mcap": 1475985408000,
-   "pe": 339.73636,
+   "pe": 346.02777,
    "fpe": 172.34286,
    "post": 380.45,
    "post_pct": 1.8035431,
@@ -137,6 +137,11 @@
    "as_of": "Tue Oct 20, 2:00pm MT",
    "news": [
     {
+     "title": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
+     "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
+     "when": "Tue Oct 20, 10:40pm MT"
+    },
+    {
      "title": "Elon Musk Teases Tesla Merger and $1 Trillion Milestone for SpaceX",
      "link": "https://beincrypto.com/spacex-musk-tesla-merger-q3-2026/?.tsrc=rss",
      "when": "Tue Oct 20, 8:00pm MT"
@@ -145,11 +150,6 @@
      "title": "Tesla (TSLA) Just Formed A Special Committee To Explore A Merger",
      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-just-formed-special-010957562.html?.tsrc=rss",
      "when": "Tue Oct 20, 7:09pm MT"
-    },
-    {
-     "title": "Musk Says SpaceX and Tesla Formed Committees to Discuss Potential Merger",
-     "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-formed-234400202.html?.tsrc=rss",
-     "when": "Tue Oct 20, 5:44pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -367,7 +367,7 @@
    "lo52": 10.69,
    "hi52": 35.01,
    "mcap": 10388989952,
-   "pe": 25.30827,
+   "pe": 26.093023,
    "fpe": 15.155744,
    "post": 33.85,
    "post_pct": 0.56446415,
@@ -410,12 +410,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82726.14,
-   "chg_pct": 0.8997745,
-   "chg": 737.71094,
+   "price": 82750.73,
+   "chg_pct": 1.3928956,
+   "chg": 1136.7969,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1662699175936,
+   "mcap": 1663606325248,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -424,7 +424,7 @@
    "pre_pct": null,
    "day_lo": 82635.96,
    "day_hi": 83112.45,
-   "as_of": "Tue Oct 20, 10:28pm MT",
+   "as_of": "Tue Oct 20, 11:28pm MT",
    "news": [
     {
      "title": "Jim Cramer Prefers Gold to Bitcoin for Portfolio Insurance, but Backs 2 \u2018Vetted\u2019 Cryptos",
@@ -483,15 +483,15 @@
   },
   "^VIX": {
    "price": 17.31,
-   "chg_pct": -51.58042,
-   "chg": -18.44,
+   "chg_pct": -6.1279883,
+   "chg": -1.1300011,
    "as_of": "Tue Oct 20, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.741,
-   "chg_pct": 0.039331496,
-   "chg": 0.040000916,
-   "as_of": "Tue Oct 20, 10:18pm MT"
+   "price": 101.785,
+   "chg_pct": 0.0826022,
+   "chg": 0.08400726,
+   "as_of": "Tue Oct 20, 11:18pm MT"
   },
   "^GSPC": {
    "price": 7712.57,
@@ -621,16 +621,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 920.94,
-   "oracle": 921.77,
-   "prev": 889.96,
-   "funding": -7.74251e-05,
-   "oi": 162926.736,
-   "oi_usd": 150045748.25184003,
-   "vol": 131765315.8552699,
-   "rsi14": 58.46819680575611,
-   "ema20": 912.5586816349504,
-   "ema50": 903.2498823843837,
+   "mark": 921.47,
+   "oracle": 920.88,
+   "prev": 888.07,
+   "funding": 2.829e-06,
+   "oi": 163233.114,
+   "oi_usd": 150414417.55758,
+   "vol": 131988335.71532995,
+   "rsi14": 58.846399744045414,
+   "ema20": 913.389710976536,
+   "ema50": 903.9188817988415,
    "hi24": 930.57,
    "lo24": 877.53
   },
@@ -639,16 +639,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 161.3,
-   "oracle": 161.44,
-   "prev": 147.76,
-   "funding": -4.60781e-05,
-   "oi": 952089.8400000004,
-   "oi_usd": 153572091.1920001,
-   "vol": 298780538.4281997,
-   "rsi14": 80.62433497741259,
-   "ema20": 154.8479700407637,
-   "ema50": 150.99479851245414,
+   "mark": 161.63,
+   "oracle": 161.59,
+   "prev": 147.66,
+   "funding": 2.08432e-05,
+   "oi": 945595.6399999999,
+   "oi_usd": 152836623.2932,
+   "vol": 302002642.6381999,
+   "rsi14": 82.0310328529178,
+   "ema20": 155.52221885982945,
+   "ema50": 151.41930530848308,
    "hi24": 162.05,
    "lo24": 143.42
   },
@@ -660,16 +660,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 379.57,
-   "oracle": 379.67,
-   "prev": 366.35,
+   "mark": 379.54,
+   "oracle": 379.53,
+   "prev": 365.85,
    "funding": 6.25e-06,
-   "oi": 154103.4280000002,
-   "oi_usd": 58493038.16596007,
-   "vol": 64705701.77889996,
-   "rsi14": 68.67101232509754,
-   "ema20": 375.7201277953001,
-   "ema50": 369.61502583992956,
+   "oi": 153881.584,
+   "oi_usd": 58404216.39136001,
+   "vol": 65086306.59491002,
+   "rsi14": 68.72841204564412,
+   "ema20": 376.0867972609222,
+   "ema50": 370.0269102923249,
    "hi24": 382.47,
    "lo24": 363.78
   },
@@ -695,20 +695,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82794.0,
-   "oracle": 82818.0,
-   "prev": 82064.0,
+   "mark": 82830.0,
+   "oracle": 82847.0,
+   "prev": 81964.0,
    "funding": 1.25e-05,
-   "oi": 40944.01942,
-   "oi_usd": 3389919143.85948,
-   "vol": 2514096912.558551,
-   "rsi14": 56.58231676253684,
-   "ema20": 82614.23846967088,
-   "ema50": 82309.29788868262,
+   "oi": 41072.53006,
+   "oi_usd": 3402037664.8697996,
+   "vol": 2517344295.7489963,
+   "rsi14": 57.12499338695626,
+   "ema20": 82633.78036761306,
+   "ema50": 82329.24635328262,
    "hi24": 83425.0,
    "lo24": 81300.0
   },
-  "_at": 1792556920
+  "_at": 1792560525
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 20, 3:00pm MT",
