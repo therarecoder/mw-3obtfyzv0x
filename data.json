@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T15:01:55.095989-06:00",
- "generated_mt": "Wed Oct 21 2026, 3:01pm MT",
+ "generated_at": "2026-10-21T16:07:47.804785-06:00",
+ "generated_mt": "Wed Oct 21 2026, 4:07pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1033747431424,
    "pe": 12.292075,
    "fpe": 4.417067,
-   "post": 915.4601,
-   "post_pct": 0.19592415,
+   "post": 908.9639,
+   "post_pct": -0.51507163,
    "pre": null,
    "pre_pct": null,
    "day_lo": 889.45,
@@ -70,8 +70,8 @@
    "mcap": 2098779652096,
    "pe": null,
    "fpe": 77.88506,
-   "post": 159.16,
-   "post_pct": -0.09415222,
+   "post": 157.7999,
+   "post_pct": -0.9479012,
    "pre": null,
    "pre_pct": null,
    "day_lo": 156.9301,
@@ -79,24 +79,24 @@
    "as_of": "Wed Oct 21, 2:00pm MT",
    "news": [
     {
-     "title": "Tesla Earnings Mixed, FSD Revenue Strong; Elon Musk Looms (Live Coverage)",
-     "link": "https://finance.yahoo.com/m/0e6f45c4-f583-3080-9285-aee877fe5b99/tesla-earnings-mixed%2C-fsd.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:48pm MT"
-    },
-    {
-     "title": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+     "title": "Dow Jones Futures: Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:44pm MT"
+     "when": "Wed Oct 21, 3:53pm MT"
     },
     {
-     "title": "Stock Market Today: Dow Pops; Nasdaq Charges Higher As SpaceX Soars On Earnings, Tesla Talks",
-     "link": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-dow-pops%3B.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:41pm MT"
+     "title": "Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat",
+     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-space-exploration-technologies-surges-on-q3-earnings-beat/?.tsrc=rss",
+     "when": "Wed Oct 21, 3:40pm MT"
     },
     {
-     "title": "SpaceX Soars 10% After Earnings\u2014and Could Climb to $500 Next",
-     "link": "https://finance.yahoo.com/m/7e6c6710-5dff-3324-8767-a75f42c88bbc/spacex-soars-10%25-after.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:31pm MT"
+     "title": "Update: US Equity Indexes Rise as Blockbuster SpaceX Results, Super Micro Computer's Fiscal Q1 Update Boosts AI Trade",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-blockbuster-213900431.html?.tsrc=rss",
+     "when": "Wed Oct 21, 3:39pm MT"
+    },
+    {
+     "title": "SpaceX Tesla Merger: Elon Musk Just Called it a Good Idea",
+     "link": "https://www.fool.com/investing/2026/10/21/spacex-tesla-merger-elon-musk-just-called-it-a-good-idea/?.tsrc=rss",
+     "when": "Wed Oct 21, 3:23pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -121,8 +121,8 @@
    "mcap": 1526381674496,
    "pe": 357.8426,
    "fpe": 178.22244,
-   "post": 387.57,
-   "post_pct": 0.2846291,
+   "post": 377.9315,
+   "post_pct": -2.20936,
    "pre": null,
    "pre_pct": null,
    "day_lo": 380.51,
@@ -131,24 +131,24 @@
    "as_of": "Wed Oct 21, 2:00pm MT",
    "news": [
     {
-     "title": "Full self-driving is a 'differentiator' for Tesla amid declining sales",
-     "link": "https://finance.yahoo.com/video/full-self-driving-is-a-differentiator-for-tesla-amid-declining-sales-204324918.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:43pm MT"
+     "title": "Musk: Optimus will be 'the biggest product on earth,' but ramp-up will take a year",
+     "link": "https://finance.yahoo.com/video/musk-optimus-will-be-the-biggest-product-on-earth-but-ramp-up-will-take-a-year-220230403.html?.tsrc=rss",
+     "when": "Wed Oct 21, 4:02pm MT"
     },
     {
-     "title": "Tesla stock gets boost after beating Q3 earnings expectations",
-     "link": "https://finance.yahoo.com/video/tesla-stock-gets-boost-after-beating-q3-earnings-expectations-202718010.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:27pm MT"
+     "title": "Tesla Earnings Beat, FSD Revenue Strong, But TSLA Falls With Elon Musk On Call (Live Coverage)",
+     "link": "https://finance.yahoo.com/m/0e6f45c4-f583-3080-9285-aee877fe5b99/tesla-earnings-beat%2C-fsd.html?.tsrc=rss",
+     "when": "Wed Oct 21, 3:58pm MT"
     },
     {
-     "title": "Tesla profits drop but top analyst estimates",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-profits-drop-top-analyst-205828910.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:58pm MT"
+     "title": "Dow Jones Futures: Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+     "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html?.tsrc=rss",
+     "when": "Wed Oct 21, 3:53pm MT"
     },
     {
-     "title": "Tesla Earnings Mixed, FSD Revenue Strong; Elon Musk Looms (Live Coverage)",
-     "link": "https://finance.yahoo.com/m/0e6f45c4-f583-3080-9285-aee877fe5b99/tesla-earnings-mixed%2C-fsd.html?.tsrc=rss",
-     "when": "Wed Oct 21, 2:48pm MT"
+     "title": "Tesla  revenue flat as Elon Musk eyes possible SpaceX deal",
+     "link": "https://www.axios.com/2026/10/21/tesla-earnings-elon-musk#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+     "when": "Wed Oct 21, 3:46pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -170,8 +170,8 @@
    "mcap": 3504518656,
    "pe": null,
    "fpe": -52.045975,
-   "post": 45.28,
-   "post_pct": 0.0,
+   "post": 45.0594,
+   "post_pct": -0.4871911,
    "pre": null,
    "pre_pct": null,
    "day_lo": 44.9101,
@@ -220,8 +220,8 @@
    "mcap": 2264535808,
    "pe": 47.32,
    "fpe": 6.6196446,
-   "post": 23.65,
-   "post_pct": -0.042266395,
+   "post": 23.642,
+   "post_pct": -0.076076284,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.36,
@@ -269,8 +269,8 @@
    "mcap": 848261440,
    "pe": null,
    "fpe": -52.516006,
-   "post": 17.1208,
-   "post_pct": 0.8292137,
+   "post": 17.0172,
+   "post_pct": 0.21908674,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.76,
@@ -368,8 +368,8 @@
    "mcap": 10324174848,
    "pe": 25.930233,
    "fpe": 15.06119,
-   "post": 33.495,
-   "post_pct": 0.13452367,
+   "post": 33.45,
+   "post_pct": 0.0,
    "pre": null,
    "pre_pct": null,
    "day_lo": 33.05,
@@ -409,12 +409,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 84599.45,
-   "chg_pct": 2.0790656,
-   "chg": 1723.0547,
+   "price": 84716.18,
+   "chg_pct": 2.0527396,
+   "chg": 1704.0234,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1701185847296,
+   "mcap": 1701532139520,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -423,27 +423,27 @@
    "pre_pct": null,
    "day_lo": 82565.87,
    "day_hi": 84835.48,
-   "as_of": "Wed Oct 21, 3:01pm MT",
+   "as_of": "Wed Oct 21, 4:07pm MT",
    "news": [
     {
-     "title": "U.S. housing squeeze could keep rents higher for longer, experts warn",
-     "link": "https://www.thestreet.com/crypto/markets/u-s-housing-squeeze-could-keep-rents-higher-for-longer-experts-warn?.tsrc=rss",
-     "when": "Wed Oct 21, 2:57pm MT"
+     "title": "Robinhood (HOOD) stock is up, what you need to know",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-stock-know-215039760.html?.tsrc=rss",
+     "when": "Wed Oct 21, 3:50pm MT"
     },
     {
-     "title": "Gas Prices Are Skyrocketing. Can Bitcoin Actually Hedge Against Inflation?",
-     "link": "https://www.fool.com/investing/2026/10/21/bitcoin-and-skyrocketing-gas-prices/?.tsrc=rss",
-     "when": "Wed Oct 21, 2:51pm MT"
+     "title": "Crypto Market Today, Oct. 21: Bitcoin Rebounds on Tech Rally",
+     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/crypto-market-today-oct-21-bitcoin-rebounds-on-tech-rally/?.tsrc=rss",
+     "when": "Wed Oct 21, 3:36pm MT"
     },
     {
-     "title": "Ethereum Price Prediction: What Could ETH Be Worth by 2028?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/21/ethereum-price-prediction-what-could-eth-be-worth-by-2028/?.tsrc=rss",
-     "when": "Wed Oct 21, 2:30pm MT"
+     "title": "What Will 10,000 Cardano (ADA) Be Worth by 2030?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/21/what-will-10000-cardano-ada-be-worth-by-2030/?.tsrc=rss",
+     "when": "Wed Oct 21, 3:30pm MT"
     },
     {
-     "title": "Jim Cramer picks gold over Bitcoin to balance a young investor\u2019s portfolio",
-     "link": "https://www.thestreet.com/crypto/markets/jim-cramer-picks-gold-over-bitcoin-to-balance-a-young-investors-portfolio?.tsrc=rss",
-     "when": "Wed Oct 21, 2:30pm MT"
+     "title": "Grayscale Opens 10 Crypto ETFs to Investors, But There's a Catch",
+     "link": "https://beincrypto.com/grayscale-opens-10-crypto-etfs-in-kind-investing/?.tsrc=rss",
+     "when": "Wed Oct 21, 3:01pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -487,10 +487,10 @@
    "as_of": "Wed Oct 21, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.684,
-   "chg_pct": -0.016713986,
-   "chg": -0.016998291,
-   "as_of": "Wed Oct 21, 2:51pm MT"
+   "price": 101.699,
+   "chg_pct": -0.0019654687,
+   "chg": -0.0019989014,
+   "as_of": "Wed Oct 21, 3:57pm MT"
   },
   "^GSPC": {
    "price": 7757.17,
@@ -502,7 +502,7 @@
    "price": 29822.518,
    "chg_pct": 1.1265893,
    "chg": 332.23438,
-   "as_of": "Wed Oct 21, 3:01pm MT"
+   "as_of": "Wed Oct 21, 3:15pm MT"
   }
  },
  "errors": [],
@@ -545,17 +545,17 @@
    "runs_logged": 61
   },
   "tsla": {
-   "polymarket_2026": 19.5,
-   "polymarket_2027": 66,
+   "polymarket_2026": 19,
+   "polymarket_2027": 71,
    "seen": [
-    "2026-10-20-spcx-call-musk-confirms-special-committees-both-cos-good-idea",
-    "2026-10-20-reuters-source-tesla-working-with-investment-bank-spacex-acquire-tesla",
-    "2026-10-20-musk-50pct-all-tesla-holders-approval-high-hurdle-recused",
-    "2026-10-20-terafab-test-chip-may-jun-2027-volume-q3-2028",
-    "2026-10-21-ives-no-brainer-munster-slam-dunk",
-    "2026-10-21-tsla-premarket-378-up-1.2-2pct",
-    "2026-10-21-polymarket-2026-odds-18.5-to-19.5",
-    "2026-10-20-musk-1t-spacex-revenue-2028-not-impossible"
+    "2026-10-21-tsla-q3-deck-nearly-2m-unsupervised-miles-austin-6am-midnight-optimus-fremont-production",
+    "2026-10-21-robotaxi-x-coming-soon-las-vegas-jacksonville-phoenix-san-antonio",
+    "2026-10-21-robotaxi-safety-report-3.3m-miles-zero-injuries-jan22-oct18",
+    "2026-10-21-reuters-wallst-merger-inevitable-premium-0-35pct-rbc-jpm-20-35",
+    "2026-10-21-tsla-close-386.47-up-3.41pct-ah-391-394",
+    "2026-10-21-spcx-up-11pct-reuters",
+    "2026-10-21-polymarket-2026-odds-19.5-to-19-2027-66-to-71",
+    "2026-10-21-musk-interesting-reply-jonas-ms-spacex-note"
    ],
    "robotaxi_price_log": [
     {
@@ -571,10 +571,17 @@
      "tsla_same_day": "378.03 close (\u22121.22% vs Fri 382.70); also FSD Europe rebrand + soft Nasdaq",
      "tsla_next_session": "2026-10-13 close $375.23 (\u22120.74% vs Mon $378.03; \u22121.95% vs Fri $382.70)",
      "note": "Next session softer with broad risk-off; petition still not an isolated tape driver; Oct 13\u201314 press is rehash"
+    },
+    {
+     "date": "2026-10-21",
+     "event": "Q3 deck ~2M unsupervised miles; Robotaxi Safety Report 3.3M miles zero injuries; 4 'coming soon' cities (Las Vegas, Jacksonville, Phoenix, San Antonio)",
+     "tsla_same_day": "close 386.47 (+3.41%) - confounded by merger-committee news and Q3 beat",
+     "tsla_next_session": "pending (AH ~391-394)",
+     "note": "Robotaxi news not isolable today"
     }
    ],
-   "last_logged_tsla": 373.71,
-   "last_run": "2026-10-21T07:20:00-06:00"
+   "last_logged_tsla": 386.47,
+   "last_run": "2026-10-21T15:20:00-06:00"
   },
   "gavin": {
    "posts": [
@@ -620,16 +627,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 914.98,
-   "oracle": 914.98,
-   "prev": 912.08,
+   "mark": 908.86,
+   "oracle": 908.76,
+   "prev": 920.59,
    "funding": 6.25e-06,
-   "oi": 160823.3780000001,
-   "oi_usd": 147150174.4024401,
-   "vol": 115131106.36904971,
-   "rsi14": 50.753580071682386,
-   "ema20": 914.9614434105938,
-   "ema50": 909.203043418023,
+   "oi": 160846.646,
+   "oi_usd": 146187082.68356,
+   "vol": 110155791.55502996,
+   "rsi14": 46.22386135488003,
+   "ema20": 914.132711839296,
+   "ema50": 909.0486148550731,
    "hi24": 930.57,
    "lo24": 890.19
   },
@@ -638,18 +645,18 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 159.18,
-   "oracle": 159.16,
-   "prev": 154.05,
+   "mark": 157.8,
+   "oracle": 157.8,
+   "prev": 157.38,
    "funding": 6.25e-06,
-   "oi": 891111.4400000001,
-   "oi_usd": 141847119.01920003,
-   "vol": 408241113.0142,
-   "rsi14": 52.27304762516789,
-   "ema20": 159.30896945403973,
-   "ema50": 155.67209251813077,
+   "oi": 885789.9999999998,
+   "oi_usd": 139777661.99999997,
+   "vol": 376435584.8280997,
+   "rsi14": 48.35826327235238,
+   "ema20": 159.08148746585476,
+   "ema50": 155.70971634763026,
    "hi24": 166.09,
-   "lo24": 155.49
+   "lo24": 157.1
   },
   "TSLA": {
    "stale": [
@@ -659,18 +666,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 387.68,
-   "oracle": 387.58,
-   "prev": 374.43,
+   "mark": 378.03,
+   "oracle": 377.93,
+   "prev": 379.68,
    "funding": 6.25e-06,
-   "oi": 140393.238,
-   "oi_usd": 54427650.50784001,
-   "vol": 97525226.03919996,
-   "rsi14": 69.40975685692447,
-   "ema20": 383.33026235740874,
-   "ema50": 376.65152096374186,
+   "oi": 138800.16,
+   "oi_usd": 52470624.484799996,
+   "vol": 110304097.0408601,
+   "rsi14": 44.89989309238434,
+   "ema20": 381.966651192284,
+   "ema50": 376.32461670238314,
    "hi24": 395.32,
-   "lo24": 377.82
+   "lo24": 375.71
   },
   "LMND": {
    "stale": []
@@ -694,20 +701,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 84625.0,
-   "oracle": 84669.7,
-   "prev": 82826.0,
-   "funding": -1.9709e-06,
-   "oi": 40693.42928,
-   "oi_usd": 3443681452.8199997,
-   "vol": 2111596056.3069904,
-   "rsi14": 73.38843757776667,
-   "ema20": 83871.40777165935,
-   "ema50": 83133.48380684697,
+   "mark": 84740.6,
+   "oracle": 84784.1,
+   "prev": 83069.0,
+   "funding": -5.8384e-06,
+   "oi": 40655.67494,
+   "oi_usd": 3445186287.820564,
+   "vol": 2080010438.8454792,
+   "rsi14": 73.8067585642286,
+   "ema20": 83968.80722191399,
+   "ema50": 83203.81881260012,
    "hi24": 84850.0,
    "lo24": 82613.0
   },
-  "_at": 1792616519
+  "_at": 1792620472
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 21, 3:05pm MT",
