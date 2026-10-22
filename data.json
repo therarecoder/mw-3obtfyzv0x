@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T21:08:52.267138-06:00",
- "generated_mt": "Wed Oct 21 2026, 9:08pm MT",
+ "generated_at": "2026-10-21T22:08:58.631445-06:00",
+ "generated_mt": "Wed Oct 21 2026, 10:08pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Wed Oct 21, 2:00pm MT",
    "news": [
     {
+     "title": "Micron Stock Could Be Worth Buying Before Its Next Earnings Report",
+     "link": "https://www.fool.com/investing/2026/10/21/micron-stock-could-be-worth-buying-before-its-next/?.tsrc=rss",
+     "when": "Wed Oct 21, 9:20pm MT"
+    },
+    {
      "title": "Micron (MU) Stock Looks Fully Valued After A Critical Minerals Deal",
      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-looks-fully-012333510.html?.tsrc=rss",
      "when": "Wed Oct 21, 7:23pm MT"
@@ -47,11 +52,6 @@
      "title": "Micron Stock\u2019s Welcome AI Boost After Tough Few Weeks",
      "link": "https://finance.yahoo.com/m/e703f518-92c5-37e1-a30b-67fdc1265d91/micron-stock%E2%80%99s-welcome-ai.html?.tsrc=rss",
      "when": "Wed Oct 21, 11:31am MT"
-    },
-    {
-     "title": "Micron Technology Maps AI Memory Future With HBM, DRAM and NAND Roadmap",
-     "link": "https://www.marketbeat.com/instant-alerts/event-micron-technology-maps-ai-memory-future-with-hbm-dram-and-nand-roadmap-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "when": "Wed Oct 21, 11:04am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -86,7 +86,7 @@
     {
      "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
-     "when": "Wed Oct 21, 8:50pm MT"
+     "when": "Wed Oct 21, 9:09pm MT"
     },
     {
      "title": "Skydance (SKYD) Soars on Potential Billion-Dollar Investment \u2014 The Next Key Event to Watch",
@@ -136,24 +136,24 @@
    "as_of": "Wed Oct 21, 2:00pm MT",
    "news": [
     {
+     "title": "Why Tesla Stock Is Putting AI Infrastructure Leaders On More Watchlists",
+     "link": "https://finance.yahoo.com/technology/ai/articles/why-tesla-stock-putting-ai-031724263.html?.tsrc=rss",
+     "when": "Wed Oct 21, 9:17pm MT"
+    },
+    {
+     "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
+     "link": "https://stocktwits.com/news-articles/markets/equity/how-are-dow-s-and-p-500-nasdaq-futures-trading-after-meta-tsla-earnings/cZxvH4HRBwI?.tsrc=rss",
+     "when": "Wed Oct 21, 9:11pm MT"
+    },
+    {
      "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
-     "when": "Wed Oct 21, 8:50pm MT"
+     "when": "Wed Oct 21, 9:09pm MT"
     },
     {
      "title": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump\u2019s Exit \u2014 ARK Sees Tesla Holders \u20185x Better Off\u2019 By 2036",
      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-musk-merger-before-trump-exit-ark-tesla-holders-5x-better-off-2036/cZxvrHoRBwd?.tsrc=rss",
      "when": "Wed Oct 21, 7:44pm MT"
-    },
-    {
-     "title": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-fall-investors-014050459.html?.tsrc=rss",
-     "when": "Wed Oct 21, 7:40pm MT"
-    },
-    {
-     "title": "Tesla profits fall on higher spending as 'Elon Inc.' talk builds",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-profits-drop-top-analyst-205828910.html?.tsrc=rss",
-     "when": "Wed Oct 21, 6:57pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -414,22 +414,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 82773.57,
-   "chg_pct": 0.16884498,
-   "chg": 139.52344,
+   "price": 82859.28,
+   "chg_pct": 0.17287065,
+   "chg": 142.99219,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1664632094720,
+   "mcap": 1664530907136,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 82797.2,
+   "day_lo": 82598.14,
    "day_hi": 84280.19,
-   "as_of": "Wed Oct 21, 9:08pm MT",
+   "as_of": "Wed Oct 21, 10:08pm MT",
    "news": [
+    {
+     "title": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
+     "link": "https://beincrypto.com/circle-ceo-bitcoin-slump-digital-dollars/?.tsrc=rss",
+     "when": "Wed Oct 21, 9:13pm MT"
+    },
     {
      "title": "Should You Wait Before Buying Cipher Digital Stock?",
      "link": "https://www.trefis.com/articles/619688/should-you-wait-before-buying-cipher-digital-stock/2026-10-21?.tsrc=rss",
@@ -444,11 +449,6 @@
      "title": "CME CEO Says Crypto Perps Are Swaps While Suing CFTC Over Their Approval",
      "link": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/?.tsrc=rss",
      "when": "Wed Oct 21, 8:05pm MT"
-    },
-    {
-     "title": "How Did Strategy Stock Leave Its Industry Behind?",
-     "link": "https://www.trefis.com/articles/619699/how-did-strategy-stock-leave-its-industry-behind/2026-10-21?.tsrc=rss",
-     "when": "Wed Oct 21, 6:59pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -492,16 +492,16 @@
    "as_of": "Wed Oct 21, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.6,
-   "chg_pct": -0.1768506,
-   "chg": -0.1800003,
-   "as_of": "Wed Oct 21, 8:58pm MT"
+   "price": 101.601,
+   "chg_pct": -0.17587036,
+   "chg": -0.17900085,
+   "as_of": "Wed Oct 21, 9:58pm MT"
   },
   "^GSPC": {
    "price": 7757.17,
    "chg_pct": 0.57827806,
    "chg": 44.600098,
-   "as_of": "Wed Oct 21, 2:31pm MT"
+   "as_of": "Wed Oct 21, 2:00pm MT"
   },
   "^NDX": {
    "price": 29822.518,
@@ -632,16 +632,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 895.01,
-   "oracle": 895.01,
-   "prev": 924.86,
+   "mark": 892.02,
+   "oracle": 891.93,
+   "prev": 920.73,
    "funding": 6.25e-06,
-   "oi": 159826.4800000001,
-   "oi_usd": 143046297.8648001,
-   "vol": 104306101.50191996,
-   "rsi14": 38.573130352812925,
-   "ema20": 907.4748888541877,
-   "ema50": 906.9746845819747,
+   "oi": 159674.0679999999,
+   "oi_usd": 142432462.13735992,
+   "vol": 96939469.66463006,
+   "rsi14": 37.16658173516901,
+   "ema20": 905.7794644173816,
+   "ema50": 906.2999291195448,
    "hi24": 928.73,
    "lo24": 890.19
   },
@@ -650,16 +650,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 156.23,
-   "oracle": 156.2,
-   "prev": 161.42,
+   "mark": 156.48,
+   "oracle": 156.48,
+   "prev": 161.23,
    "funding": 6.25e-06,
-   "oi": 897137.4,
-   "oi_usd": 140159776.002,
-   "vol": 306508219.46690035,
-   "rsi14": 44.64573331014387,
-   "ema20": 158.0582258774463,
-   "ema50": 155.85430042119978,
+   "oi": 902499.7800000001,
+   "oi_usd": 141223165.5744,
+   "vol": 303035398.1913,
+   "rsi14": 45.71435877079265,
+   "ema20": 157.89948327687316,
+   "ema50": 155.87510063536266,
    "hi24": 166.09,
    "lo24": 156.0
   },
@@ -671,18 +671,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 369.21,
-   "oracle": 369.05,
-   "prev": 379.99,
-   "funding": 1.00929e-05,
-   "oi": 148778.058,
-   "oi_usd": 54930346.79417999,
-   "vol": 113266393.67740007,
-   "rsi14": 32.39742942606577,
-   "ema20": 377.71084873583897,
-   "ema50": 375.3954115631185,
+   "mark": 369.79,
+   "oracle": 369.7,
+   "prev": 379.6,
+   "funding": 6.25e-06,
+   "oi": 148355.1640000001,
+   "oi_usd": 54860256.095560044,
+   "vol": 111472772.86098006,
+   "rsi14": 33.09420075351589,
+   "ema20": 377.0159408337811,
+   "ema50": 375.2056982099444,
    "hi24": 395.32,
-   "lo24": 369.15
+   "lo24": 368.92
   },
   "LMND": {
    "stale": []
@@ -706,20 +706,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 82834.0,
-   "oracle": 82856.0,
-   "prev": 82762.0,
+   "mark": 82915.0,
+   "oracle": 82936.0,
+   "prev": 82784.0,
    "funding": 1.25e-05,
-   "oi": 40190.2147,
-   "oi_usd": 3329116244.4598,
-   "vol": 2690384256.370971,
-   "rsi14": 37.51832528189745,
-   "ema20": 83720.27412841632,
-   "ema50": 83232.76836062476,
+   "oi": 39928.91754,
+   "oi_usd": 3310706197.8291,
+   "vol": 2817301552.5446367,
+   "rsi14": 38.57050228815027,
+   "ema20": 83650.60151478031,
+   "ema50": 83223.03316003623,
    "hi24": 84850.0,
    "lo24": 82613.0
   },
-  "_at": 1792638536
+  "_at": 1792642143
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 21, 3:05pm MT",
