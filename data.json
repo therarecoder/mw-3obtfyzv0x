@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T14:14:55.935596-06:00",
- "generated_mt": "Thu Oct 22 2026, 2:14pm MT",
- "market_open": true,
+ "generated_at": "2026-10-22T14:20:01.882806-06:00",
+ "generated_mt": "Thu Oct 22 2026, 2:20pm MT",
+ "market_open": false,
  "watchlist": [
   {
    "symbol": "MU",
@@ -24,8 +24,8 @@
    "mcap": 969052651520,
    "pe": 11.522803,
    "fpe": 4.1406345,
-   "post": 857.75,
-   "post_pct": 0.14711319,
+   "post": 857.2,
+   "post_pct": 0.08289904,
    "pre": null,
    "pre_pct": null,
    "day_lo": 849.25,
@@ -75,14 +75,24 @@
    "mcap": 1906963513344,
    "pe": null,
    "fpe": 61.38755,
-   "post": 144.4501,
-   "post_pct": -0.2071822,
+   "post": 144.46,
+   "post_pct": -0.20034078,
    "pre": null,
    "pre_pct": null,
    "day_lo": 143.31,
    "day_hi": 154.22,
    "as_of": "Thu Oct 22, 2:00pm MT",
    "news": [
+    {
+     "title": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
+     "link": "https://www.fool.com/investing/2026/10/22/google-is-paying-spacex-11-billion-a-year-for-comp/?.tsrc=rss",
+     "when": "Thu Oct 22, 2:10pm MT"
+    },
+    {
+     "title": "Harvard's Endowment Has 75% of Its Stock Portfolio in 5 AI Stocks. Genius Move or Dangerous Trap?",
+     "link": "https://www.fool.com/investing/2026/10/22/harvards-endowment-has-75-of-its-stock-portfolio-i/?.tsrc=rss",
+     "when": "Thu Oct 22, 2:05pm MT"
+    },
     {
      "title": "SpaceX Says It\u2019s on Pace to Bring 200,000 Nvidia Chips Online a Month. Here\u2019s Why Jensen Huang Calls GPU-Backed Loans \u201cthe Big Idea\u201d",
      "link": "https://www.tikr.com/blog/spacex-says-its-on-pace-to-bring-200000-nvidia-chips-online-a-month-heres-why-jensen-huang-calls-gpu-backed-loans-the-big-idea?ref=yahoofinance&.tsrc=rss",
@@ -92,16 +102,6 @@
      "title": "Early SpaceX investor Diamandis: Elon\u2019s empire could hit $1 trillion revenue by 2028-29",
      "link": "https://247wallst.com/investing/2026/10/22/early-spacex-investor-diamandis-elons-empire-could-hit-1-trillion-revenue-by-2028-29/?.tsrc=rss",
      "when": "Thu Oct 22, 12:20pm MT"
-    },
-    {
-     "title": "SpaceX Is Working With Nvidia, Apollo And Other Top Tech And Consulting Firms On A Grok Partnership Program",
-     "link": "https://stocktwits.com/news-articles/markets/equity/space-x-is-working-with-nvidia-apollo-and-other-top-tech-and-consulting-firms-on-a-grok-partnership-program/cZxwis6RBDa?.tsrc=rss",
-     "when": "Thu Oct 22, 11:56am MT"
-    },
-    {
-     "title": "CLSA Says SpaceX Merger Buzz Overshadows Tesla\u2019s Concerns, But Musk\u2019s Public Endorsement Could Reportedly Complicate Deal Talks",
-     "link": "https://stocktwits.com/news-articles/markets/equity/spacex-tesla-merger-buzz-musk-public-endorsement-could-complicate-deal-talks/cZxwiYoRBD9?.tsrc=rss",
-     "when": "Thu Oct 22, 11:53am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -126,8 +126,8 @@
    "mcap": 1479421460480,
    "pe": 346.8333,
    "fpe": 176.01202,
-   "post": 373.69,
-   "post_pct": -0.23759522,
+   "post": 373.75,
+   "post_pct": -0.22157793,
    "pre": null,
    "pre_pct": null,
    "day_lo": 373.71,
@@ -167,8 +167,8 @@
    ],
    "watch": "Price & news",
    "price": 45.41,
-   "chg_pct": 0.28710485,
-   "chg": 0.13000107,
+   "chg_pct": 0.287105,
+   "chg": 0.130001,
    "lo52": 42.7,
    "hi52": 99.9,
    "mcap": 3514580224,
@@ -181,7 +181,7 @@
    "day_lo": 44.42,
    "day_hi": 46.2406,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Thu Oct 22, 1:59pm MT",
+   "as_of": "Thu Oct 22, 2:00pm MT",
    "news": [
     {
      "title": "Lemonade Renters Insurance Expands to Alabama",
@@ -265,16 +265,16 @@
     "Watch: drone-component orders, US defense/drone policy headlines"
    ],
    "watch": "Price & news",
-   "price": 16.29,
-   "chg_pct": -4.0635962,
-   "chg": -0.6899986,
+   "price": 16.27,
+   "chg_pct": -4.18138,
+   "chg": -0.709999,
    "lo52": 7.245,
    "hi52": 34.926,
-   "mcap": 813791488,
+   "mcap": 812792320,
    "pe": null,
-   "fpe": -50.38197,
-   "post": 16.3205,
-   "post_pct": 0.18722224,
+   "fpe": -50.32011,
+   "post": 16.25,
+   "post_pct": -0.12292844,
    "pre": null,
    "pre_pct": null,
    "day_lo": 15.65,
@@ -364,22 +364,22 @@
     "Watch: ACA subsidy policy, medical loss ratio"
    ],
    "watch": "Price & news",
-   "price": 33.31,
-   "chg_pct": -0.4185333,
-   "chg": -0.13999939,
+   "price": 33.32,
+   "chg_pct": -0.388643,
+   "chg": -0.130001,
    "lo52": 10.69,
    "hi52": 35.01,
-   "mcap": 10280965120,
-   "pe": 25.821707,
-   "fpe": 14.998154,
-   "post": 33.3137,
-   "post_pct": 0.011108545,
+   "mcap": 10284051456,
+   "pe": 25.829458,
+   "fpe": 15.002656,
+   "post": 33.4225,
+   "post_pct": 0.3076258,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.755,
    "day_hi": 34.1,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Thu Oct 22, 1:59pm MT",
+   "as_of": "Thu Oct 22, 2:00pm MT",
    "news": [
     {
      "title": "\u2018You Have No Idea What You\u2019re Getting\u2019: Healthcare CEO Calls Out Medical Costs",
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81330.73,
-   "chg_pct": -3.879204,
-   "chg": -3282.3125,
+   "price": 81241.05,
+   "chg_pct": -3.9851923,
+   "chg": -3371.9922,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1634715566080,
+   "mcap": 1633867399168,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,7 +427,7 @@
    "pre_pct": null,
    "day_lo": 80948.71,
    "day_hi": 84280.19,
-   "as_of": "Thu Oct 22, 2:14pm MT",
+   "as_of": "Thu Oct 22, 2:19pm MT",
    "news": [
     {
      "title": "Do You Pay Taxes on Crypto You Haven\u2019t Sold?",
@@ -485,28 +485,28 @@
    "as_of": "Thu Oct 22, 12:59pm MT"
   },
   "^VIX": {
-   "price": 19.12,
-   "chg_pct": 14.610783,
-   "chg": 2.4400005,
-   "as_of": "Thu Oct 22, 1:59pm MT"
+   "price": 18.87,
+   "chg_pct": 13.129499,
+   "chg": 2.1900005,
+   "as_of": "Thu Oct 22, 2:04pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.646,
-   "chg_pct": -0.13165036,
-   "chg": -0.13399506,
-   "as_of": "Thu Oct 22, 2:04pm MT"
+   "price": 101.655,
+   "chg_pct": -0.12281391,
+   "chg": -0.125,
+   "as_of": "Thu Oct 22, 2:10pm MT"
   },
   "^GSPC": {
    "price": 7663.43,
    "chg_pct": -1.2084272,
    "chg": -93.739746,
-   "as_of": "Thu Oct 22, 2:14pm MT"
+   "as_of": "Thu Oct 22, 2:20pm MT"
   },
   "^NDX": {
    "price": 28958.688,
    "chg_pct": -2.89657,
    "chg": -863.8301,
-   "as_of": "Thu Oct 22, 2:14pm MT"
+   "as_of": "Thu Oct 22, 2:20pm MT"
   }
  },
  "errors": [],
@@ -638,16 +638,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 857.79,
-   "oracle": 857.43,
-   "prev": 908.7,
-   "funding": 1.48438e-05,
-   "oi": 165164.6879999998,
-   "oi_usd": 141676617.71951982,
-   "vol": 131558773.06484963,
-   "rsi14": 33.547405386164826,
-   "ema20": 878.1308205333817,
-   "ema50": 890.9950812077375,
+   "mark": 857.77,
+   "oracle": 857.31,
+   "prev": 913.18,
+   "funding": 1.50892e-05,
+   "oi": 165067.76,
+   "oi_usd": 141590172.4952,
+   "vol": 131413206.30314998,
+   "rsi14": 33.99217954182119,
+   "ema20": 878.1851062476674,
+   "ema50": 891.0174341489139,
    "hi24": 915.79,
    "lo24": 849.8
   },
@@ -656,16 +656,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 144.54,
-   "oracle": 144.45,
-   "prev": 158.37,
-   "funding": 1.70246e-05,
-   "oi": 1034784.0600000005,
-   "oi_usd": 149567688.03240007,
-   "vol": 231681418.48850006,
-   "rsi14": 21.61084883958992,
-   "ema20": 151.39171759504126,
-   "ema50": 153.51602618262106,
+   "mark": 144.55,
+   "oracle": 144.46,
+   "prev": 159.17,
+   "funding": 1.78433e-05,
+   "oi": 1034864.22,
+   "oi_usd": 149589623.00100002,
+   "vol": 231228168.57550007,
+   "rsi14": 21.55346244354314,
+   "ema20": 151.38790807123175,
+   "ema50": 153.51445755517008,
    "hi24": 159.27,
    "lo24": 143.81
   },
@@ -677,16 +677,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 373.57,
-   "oracle": 373.64,
-   "prev": 391.6,
-   "funding": 3.2238e-06,
-   "oi": 141498.0520000001,
-   "oi_usd": 52859427.28564004,
-   "vol": 127133629.95025006,
-   "rsi14": 45.66542170534376,
-   "ema20": 376.16050643603415,
-   "ema50": 375.22870200457044,
+   "mark": 373.66,
+   "oracle": 373.75,
+   "prev": 392.05,
+   "funding": 2.3823e-06,
+   "oi": 141469.148,
+   "oi_usd": 52861361.84168,
+   "vol": 120201947.22946,
+   "rsi14": 46.12246054583319,
+   "ema20": 376.19098262651033,
+   "ema50": 375.2412510241783,
    "hi24": 390.7,
    "lo24": 365.28
   },
@@ -712,20 +712,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81442.0,
-   "oracle": 81440.6,
-   "prev": 84480.0,
+   "mark": 81350.0,
+   "oracle": 81358.0,
+   "prev": 84494.0,
    "funding": 1.25e-05,
-   "oi": 43474.7642999999,
-   "oi_usd": 3540671754.120592,
-   "vol": 3587170854.284145,
-   "rsi14": 33.05916115695918,
-   "ema20": 82051.59017232912,
-   "ema50": 82519.80996809872,
+   "oi": 43450.36672,
+   "oi_usd": 3534687332.672,
+   "vol": 3576597625.3484497,
+   "rsi14": 31.927576617744734,
+   "ema20": 82042.82826756722,
+   "ema50": 82516.20212496146,
    "hi24": 84799.0,
    "lo24": 80911.0
   },
-  "_at": 1792700099
+  "_at": 1792700406
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 22, 7:40am MT",
