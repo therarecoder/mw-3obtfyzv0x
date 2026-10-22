@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T18:08:00.799366-06:00",
- "generated_mt": "Wed Oct 21 2026, 6:08pm MT",
+ "generated_at": "2026-10-21T19:08:37.364871-06:00",
+ "generated_mt": "Wed Oct 21 2026, 7:08pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,8 +22,8 @@
    "lo52": 192.4,
    "hi52": 1255.0,
    "mcap": 1033747431424,
-   "pe": 12.292075,
-   "fpe": 4.4193254,
+   "pe": 12.055284,
+   "fpe": 4.417067,
    "post": 898.31,
    "post_pct": -1.6811305,
    "pre": null,
@@ -84,14 +84,19 @@
    "as_of": "Wed Oct 21, 2:00pm MT",
    "news": [
     {
+     "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
+     "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
+     "when": "Wed Oct 21, 6:44pm MT"
+    },
+    {
      "title": "MACOM, Semtech, FormFactor, Penguin Solutions, and Seagate stocks trade up, what you need to know",
      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-semtech-formfactor-penguin-solutions-235839743.html?.tsrc=rss",
      "when": "Wed Oct 21, 5:58pm MT"
     },
     {
-     "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-     "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
-     "when": "Wed Oct 21, 5:47pm MT"
+     "title": "Review & Preview: Here We Go Ag-AI-n",
+     "link": "https://finance.yahoo.com/m/1d7fd465-82c9-34ac-89d9-4f59facce108/review-%26-preview%3A-here-we-go.html?.tsrc=rss",
+     "when": "Wed Oct 21, 5:55pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -126,24 +131,24 @@
    "as_of": "Wed Oct 21, 2:00pm MT",
    "news": [
     {
-     "title": "What Tesla (TSLA) Said on Its Q3 Earnings Call",
-     "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tesla-tsla-said-on-its-q3-earnings-call-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "when": "Wed Oct 21, 6:04pm MT"
-    },
-    {
-     "title": "TSLA Stock Reverses After-Hours Gains As Tesla Cuts Full-Year Capex Guidance To $20B, Musk Tempers Optimus Timeline",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-reverses-after-hours-gains-as-tesla-cuts-full-year-capex-guidance-to-20-b-musk-tempers-optimus-timeline/cZxMSJuRBwc?.tsrc=rss",
-     "when": "Wed Oct 21, 5:56pm MT"
+     "title": "Tesla profits fall on higher spending as 'Elon Inc.' talk builds",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-profits-drop-top-analyst-205828910.html?.tsrc=rss",
+     "when": "Wed Oct 21, 6:57pm MT"
     },
     {
      "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
-     "when": "Wed Oct 21, 5:47pm MT"
+     "when": "Wed Oct 21, 6:44pm MT"
     },
     {
-     "title": "Tesla profits drop on tech spending spree as 'Elon Inc.' talk builds",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-profits-drop-top-analyst-205828910.html?.tsrc=rss",
-     "when": "Wed Oct 21, 5:41pm MT"
+     "title": "Tesla says it will start selling Cybercabs by end of year",
+     "link": "https://finance.yahoo.com/technology/articles/tesla-says-start-selling-cybercabs-001754003.html?.tsrc=rss",
+     "when": "Wed Oct 21, 6:17pm MT"
+    },
+    {
+     "title": "Tesla Semi enters volume production as 2027 rollout approaches",
+     "link": "https://finance.yahoo.com/technology/articles/tesla-semi-enters-volume-production-001611911.html?.tsrc=rss",
+     "when": "Wed Oct 21, 6:16pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -361,7 +366,7 @@
    "lo52": 10.69,
    "hi52": 35.01,
    "mcap": 10324174848,
-   "pe": 25.930233,
+   "pe": 26.132814,
    "fpe": 15.06119,
    "post": 33.5535,
    "post_pct": 0.30941814,
@@ -404,21 +409,21 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 84220.59,
-   "chg_pct": 1.5349813,
-   "chg": 1273.2266,
+   "price": 84164.88,
+   "chg_pct": 1.5129935,
+   "chg": 1254.4297,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1690730233856,
+   "mcap": 1690264272896,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 82565.87,
-   "day_hi": 84835.48,
-   "as_of": "Wed Oct 21, 6:07pm MT",
+   "day_lo": 84024.44,
+   "day_hi": 84275.93,
+   "as_of": "Wed Oct 21, 7:08pm MT",
    "news": [
     {
      "title": "Why Strategy (MSTR) stock is up today",
@@ -482,10 +487,10 @@
    "as_of": "Wed Oct 21, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.686,
-   "chg_pct": -0.0923578,
-   "chg": -0.09400177,
-   "as_of": "Wed Oct 21, 5:57pm MT"
+   "price": 101.692,
+   "chg_pct": -0.086458474,
+   "chg": -0.08799744,
+   "as_of": "Wed Oct 21, 6:58pm MT"
   },
   "^GSPC": {
    "price": 7757.17,
@@ -622,17 +627,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 905.45,
-   "oracle": 905.45,
-   "prev": 923.17,
-   "funding": 0.0001411825,
-   "oi": 162246.4179999999,
-   "oi_usd": 146906019.1780999,
-   "vol": 113180628.76604015,
-   "rsi14": 45.147545320597466,
-   "ema20": 911.6601999401782,
-   "ema50": 908.4326908112606,
-   "hi24": 929.88,
+   "mark": 904.15,
+   "oracle": 904.15,
+   "prev": 922.91,
+   "funding": 7.1082e-06,
+   "oi": 161547.194,
+   "oi_usd": 146062895.4551,
+   "vol": 104529315.97990997,
+   "rsi14": 44.49432435264895,
+   "ema20": 910.8471624385237,
+   "ema50": 908.2176910566466,
+   "hi24": 929.83,
    "lo24": 890.19
   },
   "SPCX": {
@@ -640,13 +645,18 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 157.44,
-   "oracle": 157.44,
-   "prev": 159.73,
-   "funding": 8.0981e-05,
-   "oi": 903901.9599999997,
-   "oi_usd": 142310324.58239996,
-   "vol": 343423635.3668
+   "mark": 157.99,
+   "oracle": 157.96,
+   "prev": 159.96,
+   "funding": 6.25e-06,
+   "oi": 896850.4,
+   "oi_usd": 141693394.696,
+   "vol": 324686769.15980035,
+   "rsi14": 49.7543392731794,
+   "ema20": 158.595680997581,
+   "ema50": 155.8756426356319,
+   "hi24": 166.09,
+   "lo24": 156.16
   },
   "TSLA": {
    "stale": [
@@ -656,16 +666,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 374.9,
-   "oracle": 374.9,
-   "prev": 381.93,
-   "funding": 7.99309e-05,
-   "oi": 142422.7819999999,
-   "oi_usd": 53394300.971799955,
-   "vol": 115341425.42599998,
-   "rsi14": 40.16679408877328,
-   "ema20": 380.30714191573117,
-   "ema50": 376.03979870967174,
+   "mark": 374.5,
+   "oracle": 374.5,
+   "prev": 380.51,
+   "funding": 6.25e-06,
+   "oi": 142630.746,
+   "oi_usd": 53415214.377000004,
+   "vol": 112069622.77253999,
+   "rsi14": 39.705812783083644,
+   "ema20": 379.756072283122,
+   "ema50": 375.97452473368605,
    "hi24": 395.32,
    "lo24": 372.24
   },
@@ -691,20 +701,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 84250.0,
-   "oracle": 84297.4,
-   "prev": 83065.0,
-   "funding": -5.1772e-06,
-   "oi": 40943.3471,
-   "oi_usd": 3449476993.1749997,
-   "vol": 2186628716.6556315,
-   "rsi14": 59.245936049527714,
-   "ema20": 83976.31366149143,
-   "ema50": 83262.81106770018,
+   "mark": 84193.0,
+   "oracle": 84233.1,
+   "prev": 82807.0,
+   "funding": 1.4537e-06,
+   "oi": 40752.82494,
+   "oi_usd": 3431102590.17342,
+   "vol": 2166698089.3347387,
+   "rsi14": 58.44875578256396,
+   "ema20": 83988.76434948243,
+   "ema50": 83295.4726139503,
    "hi24": 84850.0,
    "lo24": 82613.0
   },
-  "_at": 1792627714
+  "_at": 1792631322
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 21, 3:05pm MT",
