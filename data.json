@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T14:09:49.977684-06:00",
- "generated_mt": "Thu Oct 22 2026, 2:09pm MT",
+ "generated_at": "2026-10-22T14:14:55.935596-06:00",
+ "generated_mt": "Thu Oct 22 2026, 2:14pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 969052651520,
    "pe": 11.522803,
    "fpe": 4.1406345,
-   "post": 859.9353,
-   "post_pct": 0.40225953,
+   "post": 857.75,
+   "post_pct": 0.14711319,
    "pre": null,
    "pre_pct": null,
    "day_lo": 849.25,
@@ -44,14 +44,14 @@
      "when": "Thu Oct 22, 7:47am MT"
     },
     {
+     "title": "Micron Says Its Next AI Chips Need Even More Wafers. Here\u2019s What That Means for the Stock",
+     "link": "https://www.tikr.com/blog/micron-says-its-next-ai-chips-need-even-more-wafers-heres-what-that-means-for-the-stock?ref=yahoofinance&.tsrc=rss",
+     "when": "Thu Oct 22, 1:51pm MT"
+    },
+    {
      "title": "Why Micron Stock Is Falling Hard Today",
      "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-is-falling-hard-today/?.tsrc=rss",
      "when": "Thu Oct 22, 12:05pm MT"
-    },
-    {
-     "title": "Micron charts a different course on DRAM, Wedbush says",
-     "link": "https://www.proactiveinvestors.com/companies/news/1100573/micron-charts-a-different-course-on-dram-wedbush-says-1100573.html?.tsrc=rss",
-     "when": "Thu Oct 22, 10:45am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,8 +75,8 @@
    "mcap": 1906963513344,
    "pe": null,
    "fpe": 61.38755,
-   "post": 144.31,
-   "post_pct": -0.30397406,
+   "post": 144.4501,
+   "post_pct": -0.2071822,
    "pre": null,
    "pre_pct": null,
    "day_lo": 143.31,
@@ -126,8 +126,8 @@
    "mcap": 1479421460480,
    "pe": 346.8333,
    "fpe": 176.01202,
-   "post": 373.68,
-   "post_pct": -0.24026749,
+   "post": 373.69,
+   "post_pct": -0.23759522,
    "pre": null,
    "pre_pct": null,
    "day_lo": 373.71,
@@ -174,8 +174,8 @@
    "mcap": 3514580224,
    "pe": null,
    "fpe": -52.1954,
-   "post": 45.41,
-   "post_pct": 0.0,
+   "post": 45.5,
+   "post_pct": 0.19819456,
    "pre": null,
    "pre_pct": null,
    "day_lo": 44.42,
@@ -224,8 +224,8 @@
    "mcap": 2282721024,
    "pe": 47.7,
    "fpe": 6.6728034,
-   "post": 23.85,
-   "post_pct": 0.0,
+   "post": 23.6394,
+   "post_pct": -0.88301843,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.42,
@@ -372,8 +372,8 @@
    "mcap": 10280965120,
    "pe": 25.821707,
    "fpe": 14.998154,
-   "post": 33.2,
-   "post_pct": -0.33023298,
+   "post": 33.3137,
+   "post_pct": 0.011108545,
    "pre": null,
    "pre_pct": null,
    "day_lo": 32.755,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81343.45,
-   "chg_pct": -3.8641632,
-   "chg": -3269.586,
+   "price": 81330.73,
+   "chg_pct": -3.879204,
+   "chg": -3282.3125,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1635100917760,
+   "mcap": 1634715566080,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,8 +427,13 @@
    "pre_pct": null,
    "day_lo": 80948.71,
    "day_hi": 84280.19,
-   "as_of": "Thu Oct 22, 2:09pm MT",
+   "as_of": "Thu Oct 22, 2:14pm MT",
    "news": [
+    {
+     "title": "Do You Pay Taxes on Crypto You Haven\u2019t Sold?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/do-you-pay-taxes-on-crypto-you-havent-sold/?.tsrc=rss",
+     "when": "Thu Oct 22, 2:00pm MT"
+    },
     {
      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195728507.html?.tsrc=rss",
@@ -443,11 +448,6 @@
      "title": "What Would Have to Happen for Hedera (HBAR) to Reach $0.25?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/what-would-have-to-happen-for-hedera-hbar-to-reach-0-25/?.tsrc=rss",
      "when": "Thu Oct 22, 1:00pm MT"
-    },
-    {
-     "title": "How Much of Your Portfolio Should Be in Bitcoin After JPMorgan\u2019s 10% Forecast?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/how-much-of-your-portfolio-should-be-in-bitcoin-after-jpmorgans-10-forecast/?.tsrc=rss",
-     "when": "Thu Oct 22, 12:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -485,28 +485,28 @@
    "as_of": "Thu Oct 22, 12:59pm MT"
   },
   "^VIX": {
-   "price": 19.33,
-   "chg_pct": 15.906361,
-   "chg": 2.6499996,
-   "as_of": "Thu Oct 22, 1:54pm MT"
+   "price": 19.12,
+   "chg_pct": 14.610783,
+   "chg": 2.4400005,
+   "as_of": "Thu Oct 22, 1:59pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.631,
-   "chg_pct": -0.14639622,
-   "chg": -0.14900208,
-   "as_of": "Thu Oct 22, 1:59pm MT"
+   "price": 101.646,
+   "chg_pct": -0.13165036,
+   "chg": -0.13399506,
+   "as_of": "Thu Oct 22, 2:04pm MT"
   },
   "^GSPC": {
    "price": 7663.43,
    "chg_pct": -1.2084272,
    "chg": -93.739746,
-   "as_of": "Thu Oct 22, 2:09pm MT"
+   "as_of": "Thu Oct 22, 2:14pm MT"
   },
   "^NDX": {
    "price": 28958.688,
    "chg_pct": -2.89657,
    "chg": -863.8301,
-   "as_of": "Thu Oct 22, 2:09pm MT"
+   "as_of": "Thu Oct 22, 2:14pm MT"
   }
  },
  "errors": [],
@@ -638,16 +638,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 859.94,
-   "oracle": 859.64,
+   "mark": 857.79,
+   "oracle": 857.43,
    "prev": 908.7,
-   "funding": 1.60515e-05,
-   "oi": 165283.5119999996,
-   "oi_usd": 142133903.30927968,
-   "vol": 130775232.82292905,
-   "rsi14": 35.91118052868303,
-   "ema20": 878.4279633905245,
-   "ema50": 891.117434148914,
+   "funding": 1.48438e-05,
+   "oi": 165164.6879999998,
+   "oi_usd": 141676617.71951982,
+   "vol": 131558773.06484963,
+   "rsi14": 33.547405386164826,
+   "ema20": 878.1308205333817,
+   "ema50": 890.9950812077375,
    "hi24": 915.79,
    "lo24": 849.8
   },
@@ -656,16 +656,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 144.39,
-   "oracle": 144.31,
+   "mark": 144.54,
+   "oracle": 144.45,
    "prev": 158.37,
-   "funding": 1.6365e-05,
-   "oi": 1030487.3600000001,
-   "oi_usd": 148792069.9104,
-   "vol": 230849339.68950006,
-   "rsi14": 21.383117439255003,
-   "ema20": 151.37647949980317,
-   "ema50": 153.50975167281715,
+   "funding": 1.70246e-05,
+   "oi": 1034784.0600000005,
+   "oi_usd": 149567688.03240007,
+   "vol": 231681418.48850006,
+   "rsi14": 21.61084883958992,
+   "ema20": 151.39171759504126,
+   "ema50": 153.51602618262106,
    "hi24": 159.27,
    "lo24": 143.81
   },
@@ -677,16 +677,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 373.71,
-   "oracle": 373.8,
+   "mark": 373.57,
+   "oracle": 373.64,
    "prev": 391.6,
-   "funding": 2.7898e-06,
-   "oi": 141563.3740000001,
-   "oi_usd": 52903648.497540034,
-   "vol": 127102012.47743015,
-   "rsi14": 45.79304580838344,
-   "ema20": 376.1690778646056,
-   "ema50": 375.23223141633514,
+   "funding": 3.2238e-06,
+   "oi": 141498.0520000001,
+   "oi_usd": 52859427.28564004,
+   "vol": 127133629.95025006,
+   "rsi14": 45.66542170534376,
+   "ema20": 376.16050643603415,
+   "ema50": 375.22870200457044,
    "hi24": 390.7,
    "lo24": 365.28
   },
@@ -712,20 +712,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81458.0,
-   "oracle": 81455.2,
+   "mark": 81442.0,
+   "oracle": 81440.6,
    "prev": 84480.0,
    "funding": 1.25e-05,
-   "oi": 43482.4824199999,
-   "oi_usd": 3541996052.968352,
-   "vol": 3586311234.7597036,
-   "rsi14": 33.225559453740985,
-   "ema20": 82052.82826756722,
-   "ema50": 82520.31977202029,
+   "oi": 43474.7642999999,
+   "oi_usd": 3540671754.120592,
+   "vol": 3587170854.284145,
+   "rsi14": 33.05916115695918,
+   "ema20": 82051.59017232912,
+   "ema50": 82519.80996809872,
    "hi24": 84799.0,
    "lo24": 80911.0
   },
-  "_at": 1792699794
+  "_at": 1792700099
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 22, 7:40am MT",
