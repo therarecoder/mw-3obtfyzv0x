@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T14:02:38.772757-06:00",
- "generated_mt": "Mon Oct 26 2026, 2:02pm MT",
+ "generated_at": "2026-10-26T14:07:43.618644-06:00",
+ "generated_mt": "Mon Oct 26 2026, 2:07pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1022467178496,
    "pe": 12.157944,
    "fpe": 4.3679414,
-   "post": 903.1653,
-   "post_pct": -0.059171073,
+   "post": 904.7,
+   "post_pct": 0.11065619,
    "pre": null,
    "pre_pct": null,
    "day_lo": 882.77,
@@ -75,8 +75,8 @@
    "mcap": 1995058184192,
    "pe": 638.6956,
    "fpe": 58.767048,
-   "post": 147.05,
-   "post_pct": 0.10211652,
+   "post": 147.311,
+   "post_pct": 0.27978948,
    "pre": null,
    "pre_pct": null,
    "day_lo": 144.57,
@@ -89,6 +89,11 @@
      "when": "Mon Oct 26, 12:46pm MT"
     },
     {
+     "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-200002855.html?.tsrc=rss",
+     "when": "Mon Oct 26, 2:00pm MT"
+    },
+    {
      "title": "SpaceX Isn\u2019t Even Anthropic\u2019s Biggest Partner. Here\u2019s Who Is, Plus More of Its Mega Deals.",
      "link": "https://finance.yahoo.com/m/fd545871-c609-330b-8cac-45934c83ed02/spacex-isn%E2%80%99t-even-anthropic%E2%80%99s.html?.tsrc=rss",
      "when": "Mon Oct 26, 12:59pm MT"
@@ -97,11 +102,6 @@
      "title": "Elon Musk Warns of \u201cDeath and Consolidation\u201d Across the AI Cloud Industry. Is SpaceX Really Different?",
      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-warns-of-death-and-consolidation-across-the-ai-cloud-industry-is-spacex-really-different/?.tsrc=rss",
      "when": "Mon Oct 26, 12:53pm MT"
-    },
-    {
-     "title": "Scott Galloway on Tesla and SpaceX: \u201cTesla\u2019s the Patient and SpaceX Is the Organ Donor\u201d",
-     "link": "https://www.tikr.com/blog/scott-galloway-on-tesla-and-spacex-teslas-the-patient-and-spacex-is-the-organ-donor?ref=yahoofinance&.tsrc=rss",
-     "when": "Mon Oct 26, 12:35pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -126,8 +126,8 @@
    "mcap": 1547968184320,
    "pe": 430.35162,
    "fpe": 179.62901,
-   "post": 391.4018,
-   "post_pct": -0.055717453,
+   "post": 391.35,
+   "post_pct": -0.06894158,
    "pre": null,
    "pre_pct": null,
    "day_lo": 383.8406,
@@ -273,8 +273,8 @@
    "mcap": 829602688,
    "pe": null,
    "fpe": -75.48409,
-   "post": 16.62,
-   "post_pct": 0.08129475,
+   "post": 16.5493,
+   "post_pct": -0.34445179,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.2008,
@@ -372,8 +372,8 @@
    "mcap": 9595772928,
    "pe": 24.100777,
    "fpe": 13.998576,
-   "post": 30.66,
-   "post_pct": -1.3830824,
+   "post": 31.28,
+   "post_pct": 0.6111307,
    "pre": null,
    "pre_pct": null,
    "day_lo": 30.63,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 79811.56,
-   "chg_pct": -0.7145507,
-   "chg": -574.39844,
+   "price": 79798.04,
+   "chg_pct": -0.7313738,
+   "chg": -587.9219,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1606208978944,
+   "mcap": 1604113399808,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,8 +427,13 @@
    "pre_pct": null,
    "day_lo": 79343.66,
    "day_hi": 80612.24,
-   "as_of": "Mon Oct 26, 2:02pm MT",
+   "as_of": "Mon Oct 26, 2:07pm MT",
    "news": [
+    {
+     "title": "Sector Update: Financial Stocks Mixed Late Afternoon",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-afternoon-195403842.html?.tsrc=rss",
+     "when": "Mon Oct 26, 1:54pm MT"
+    },
     {
      "title": "Will Bitcoin Hit $100,000 Before the End of 2026?",
      "link": "https://www.fool.com/investing/2026/10/26/will-bitcoin-hit-100-000-before-the-end-of-2026/?.tsrc=rss",
@@ -438,11 +443,6 @@
      "title": "Prediction: Could Bitcoin Reach a New All-Time High Before the 2028 Halving?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/26/prediction-could-bitcoin-reach-a-new-all-time-high-before-the-2028-halving/?.tsrc=rss",
      "when": "Mon Oct 26, 1:00pm MT"
-    },
-    {
-     "title": "Roundtable 100 analysts boost Block's ranking ahead of Q3 earnings",
-     "link": "https://www.thestreet.com/crypto/markets/roundtable-100-analysts-boost-blocks-ranking-ahead-of-q3-earnings?.tsrc=rss",
-     "when": "Mon Oct 26, 12:51pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -480,28 +480,28 @@
    "as_of": "Mon Oct 26, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.33,
-   "chg_pct": -5.7553997,
-   "chg": -1.1200008,
-   "as_of": "Mon Oct 26, 1:47pm MT"
-  },
-  "DX-Y.NYB": {
-   "price": 101.978,
-   "chg_pct": 0.16501416,
-   "chg": 0.16799927,
+   "price": 18.38,
+   "chg_pct": -5.501293,
+   "chg": -1.0700016,
    "as_of": "Mon Oct 26, 1:52pm MT"
   },
+  "DX-Y.NYB": {
+   "price": 101.99,
+   "chg_pct": 0.17680022,
+   "chg": 0.1800003,
+   "as_of": "Mon Oct 26, 1:57pm MT"
+  },
   "^GSPC": {
-   "price": 7676.8,
-   "chg_pct": 0.6967715,
-   "chg": 53.11963,
-   "as_of": "Mon Oct 26, 2:02pm MT"
+   "price": 7676.77,
+   "chg_pct": 0.6963808,
+   "chg": 53.089844,
+   "as_of": "Mon Oct 26, 2:07pm MT"
   },
   "^NDX": {
    "price": 29273.404,
    "chg_pct": 1.0908284,
    "chg": 315.87695,
-   "as_of": "Mon Oct 26, 2:02pm MT"
+   "as_of": "Mon Oct 26, 2:07pm MT"
   }
  },
  "errors": [],
@@ -632,16 +632,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 903.44,
-   "oracle": 903.13,
-   "prev": 893.89,
+   "mark": 904.85,
+   "oracle": 904.51,
+   "prev": 892.94,
    "funding": 6.25e-06,
-   "oi": 164069.428,
-   "oi_usd": 148226884.03232002,
-   "vol": 129339896.36736003,
-   "rsi14": 57.424302263194654,
-   "ema20": 897.6425084725645,
-   "ema50": 891.5531838993589,
+   "oi": 163950.214,
+   "oi_usd": 148350351.13790002,
+   "vol": 128899350.29440005,
+   "rsi14": 58.665452344469564,
+   "ema20": 897.7958418058978,
+   "ema50": 891.616321154261,
    "hi24": 915.95,
    "lo24": 870.01
   },
@@ -650,16 +650,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.13,
-   "oracle": 147.05,
-   "prev": 149.06,
-   "funding": 1.59508e-05,
-   "oi": 1033493.2799999993,
-   "oi_usd": 152057866.2863999,
-   "vol": 111736551.79609996,
-   "rsi14": 44.76570796015654,
-   "ema20": 148.04886301429218,
-   "ema50": 148.12488605300808,
+   "mark": 147.41,
+   "oracle": 147.34,
+   "prev": 149.11,
+   "funding": 1.40149e-05,
+   "oi": 1031661.4199999999,
+   "oi_usd": 152077209.9222,
+   "vol": 111890085.07250002,
+   "rsi14": 46.32899119919376,
+   "ema20": 148.07552968095885,
+   "ema50": 148.13586644516494,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -671,16 +671,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 391.37,
-   "oracle": 391.38,
-   "prev": 373.03,
+   "mark": 391.35,
+   "oracle": 391.35,
+   "prev": 373.07,
    "funding": 6.25e-06,
-   "oi": 119912.364,
-   "oi_usd": 46930101.89868,
-   "vol": 61786952.773000024,
-   "rsi14": 67.28555219716694,
-   "ema20": 385.635166730728,
-   "ema50": 379.42127198433246,
+   "oi": 119729.32,
+   "oi_usd": 46856069.38200001,
+   "vol": 61811281.71000999,
+   "rsi14": 67.20429542045076,
+   "ema20": 385.63230958787085,
+   "ema50": 379.42009551374423,
    "hi24": 397.07,
    "lo24": 369.93
   },
@@ -706,20 +706,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 79921.4,
-   "oracle": 79951.6,
-   "prev": 80533.0,
-   "funding": 1.21777e-05,
-   "oi": 42372.53262,
-   "oi_usd": 3386472128.5360675,
-   "vol": 2825502632.785005,
-   "rsi14": 44.3262657982397,
-   "ema20": 80166.05783299291,
-   "ema50": 80392.26000212673,
+   "mark": 79914.0,
+   "oracle": 79945.0,
+   "prev": 80571.0,
+   "funding": 1.25e-05,
+   "oi": 42384.27398,
+   "oi_usd": 3387096870.83772,
+   "vol": 2822446859.26398,
+   "rsi14": 44.245475500717525,
+   "ema20": 80165.58164251673,
+   "ema50": 80392.06392369536,
    "hi24": 80835.0,
    "lo24": 79347.0
   },
-  "_at": 1793044962
+  "_at": 1793045267
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 7:35am MT",
