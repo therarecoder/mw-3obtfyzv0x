@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T23:19:23.254277-06:00",
- "generated_mt": "Mon Oct 26 2026, 11:19pm MT",
+ "generated_at": "2026-10-27T00:21:45.334167-06:00",
+ "generated_mt": "Tue Oct 27 2026, 12:21am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -84,24 +84,24 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
+     "title": "SPCX Stock Up Nearly 10% Since IPO \u2014 Analyst Sees 82% Upside Without Tesla Merger, Even If Revenue Misses Lofty Goals",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-upside-without-tesla-merger-even-if-revenue-misses-goals/cZUIUX2RBzF?.tsrc=rss",
+     "when": "Mon Oct 26, 11:58pm MT"
+    },
+    {
      "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
      "link": "https://www.fool.com/investing/2026/10/27/elon-musk-predicts-a-wave-of-failures-among-ai-cloud-companies-is-spacex-stock-a-sell/?.tsrc=rss",
      "when": "Mon Oct 26, 10:57pm MT"
     },
     {
+     "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation \u2014 TSLA Could \u2018Own\u2019 Transportation, ARK Says",
+     "link": "https://finance.yahoo.com/technology/articles/tesla-could-beyond-robotaxis-underground-043247703.html?.tsrc=rss",
+     "when": "Mon Oct 26, 10:32pm MT"
+    },
+    {
      "title": "Think You Missed Out on Investing in SpaceX Stock? Think Again.",
      "link": "https://www.fool.com/investing/2026/10/26/think-you-missed-out-on-spacex-think-again/?.tsrc=rss",
      "when": "Mon Oct 26, 9:59pm MT"
-    },
-    {
-     "title": "Cathie Wood Says Tesla, SpaceX Could Drive Up To 9% GDP Growth: ARK Sees Merger As Win For Both Shareholder Bases",
-     "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-spacex-gdp-growth-ark-merger-win-both-shareholders/cZUIApgRBzQ?.tsrc=rss",
-     "when": "Mon Oct 26, 7:49pm MT"
-    },
-    {
-     "title": "SpaceX's Adjusted Earnings Quadrupled in Q3. Is the Stock Heading Back to $200?",
-     "link": "https://www.fool.com/investing/2026/10/26/spacex-s-adjusted-earnings-quadrupled-in-q3-is-the-stock-heading-back-to-usd200/?.tsrc=rss",
-     "when": "Mon Oct 26, 5:40pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -135,6 +135,16 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
+     "title": "SPCX Stock Up Nearly 10% Since IPO \u2014 Analyst Sees 82% Upside Without Tesla Merger, Even If Revenue Misses Lofty Goals",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-upside-without-tesla-merger-even-if-revenue-misses-goals/cZUIUX2RBzF?.tsrc=rss",
+     "when": "Mon Oct 26, 11:58pm MT"
+    },
+    {
+     "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation \u2014 TSLA Could \u2018Own\u2019 Transportation, ARK Says",
+     "link": "https://finance.yahoo.com/technology/articles/tesla-could-beyond-robotaxis-underground-043247703.html?.tsrc=rss",
+     "when": "Mon Oct 26, 10:32pm MT"
+    },
+    {
      "title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html?.tsrc=rss",
      "when": "Mon Oct 26, 9:18pm MT"
@@ -143,16 +153,6 @@
      "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-says-merging-spacex-and-tesla-would-be-a/?.tsrc=rss",
      "when": "Mon Oct 26, 8:46pm MT"
-    },
-    {
-     "title": "Elon Musk Ally Jason Calacanis Targets 40% Tesla Rally \u2014 But His Nearly $1M Uber Bet Aims Higher",
-     "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-tesla-rally-1m-uber-bet-aims-higher/cZUIsMORBzh?.tsrc=rss",
-     "when": "Mon Oct 26, 8:30pm MT"
-    },
-    {
-     "title": "Tesla\u2019s Cybercab Fleet Expands Tenfold in Just a Month, Elon Musk Says Driverless Mileage Is Growing \u2018Like a Rocket Going to Orbit\u2019",
-     "link": "https://finance.yahoo.com/technology/ai/articles/tesla-cybercab-fleet-expands-tenfold-023005579.html?.tsrc=rss",
-     "when": "Mon Oct 26, 8:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -222,7 +222,7 @@
    "lo52": 22.21,
    "hi52": 54.5,
    "mcap": 2238200064,
-   "pe": 47.916668,
+   "pe": 46.0,
    "fpe": 6.4349885,
    "post": 23.1,
    "post_pct": 0.43478426,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 79745.77,
-   "chg_pct": -0.49841163,
-   "chg": -399.45312,
+   "price": 79627.21,
+   "chg_pct": -0.4671527,
+   "chg": -373.72656,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1601719894016,
+   "mcap": 1602024636416,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,7 +427,7 @@
    "pre_pct": null,
    "day_lo": 79517.14,
    "day_hi": 80202.84,
-   "as_of": "Mon Oct 26, 11:19pm MT",
+   "as_of": "Tue Oct 27, 12:21am MT",
    "news": [
     {
      "title": "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves? This New Research Has Important Implications for BTC Investors.",
@@ -491,10 +491,10 @@
    "as_of": "Mon Oct 26, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.076,
-   "chg_pct": 0.11474996,
-   "chg": 0.116996765,
-   "as_of": "Mon Oct 26, 11:09pm MT"
+   "price": 102.083,
+   "chg_pct": 0.121618055,
+   "chg": 0.12400055,
+   "as_of": "Tue Oct 27, 12:11am MT"
   },
   "^GSPC": {
    "price": 7676.77,
@@ -645,16 +645,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 912.86,
-   "oracle": 912.5,
-   "prev": 888.66,
-   "funding": 1.18805e-05,
-   "oi": 163931.192,
-   "oi_usd": 149646227.92912,
-   "vol": 120453343.47579993,
-   "rsi14": 58.017311160497954,
-   "ema20": 907.5042779006926,
-   "ema50": 898.2046821069209,
+   "mark": 909.71,
+   "oracle": 909.51,
+   "prev": 879.13,
+   "funding": 6.25e-06,
+   "oi": 163655.6,
+   "oi_usd": 148879135.87600002,
+   "vol": 118028780.82146999,
+   "rsi14": 55.17643205084956,
+   "ema20": 907.7850471982935,
+   "ema50": 898.6826056422497,
    "hi24": 923.0,
    "lo24": 870.01
   },
@@ -663,16 +663,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.42,
-   "oracle": 147.39,
-   "prev": 148.6,
-   "funding": 6.25e-06,
-   "oi": 1008556.7000000001,
-   "oi_usd": 148681428.714,
-   "vol": 108058406.41039997,
-   "rsi14": 45.9854508090382,
-   "ema20": 147.83127482318073,
-   "ema50": 147.9793754686544,
+   "mark": 147.0,
+   "oracle": 146.95,
+   "prev": 148.05,
+   "funding": 6.5591e-06,
+   "oi": 1008251.16,
+   "oi_usd": 148212920.52,
+   "vol": 108003622.58859996,
+   "rsi14": 42.90171579830247,
+   "ema20": 147.74779723726937,
+   "ema50": 147.93884763816584,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -684,18 +684,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 392.06,
-   "oracle": 392.21,
-   "prev": 374.77,
-   "funding": -3.5616e-06,
-   "oi": 119396.506,
-   "oi_usd": 46810594.142359994,
-   "vol": 58993850.96004001,
-   "rsi14": 62.731228527332036,
-   "ema20": 389.8439029998535,
-   "ema50": 383.3372222113791,
+   "mark": 390.91,
+   "oracle": 390.94,
+   "prev": 374.76,
+   "funding": 6.25e-06,
+   "oi": 119081.12,
+   "oi_usd": 46550000.6192,
+   "vol": 58324089.5409,
+   "rsi14": 58.4549357894315,
+   "ema20": 389.9093864689326,
+   "ema50": 383.62557667268163,
    "hi24": 397.07,
-   "lo24": 374.54
+   "lo24": 374.84
   },
   "LMND": {
    "stale": []
@@ -719,20 +719,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 79864.0,
-   "oracle": 79886.0,
-   "prev": 80108.0,
+   "mark": 79742.0,
+   "oracle": 79768.9,
+   "prev": 79932.0,
    "funding": 1.25e-05,
-   "oi": 41854.57306,
-   "oi_usd": 3342673622.86384,
-   "vol": 2220570222.3879976,
-   "rsi14": 45.16129258350613,
-   "ema20": 80018.11078665125,
-   "ema50": 80240.78621634764,
+   "oi": 41862.76598,
+   "oi_usd": 3338220684.7771597,
+   "vol": 2207140599.816879,
+   "rsi14": 43.07291349701598,
+   "ema20": 79999.63587282762,
+   "ema50": 80222.0992476781,
    "hi24": 80835.0,
    "lo24": 79430.0
   },
-  "_at": 1793078366
+  "_at": 1793082108
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 2:55pm MT",
