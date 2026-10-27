@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T16:29:45.388418-06:00",
- "generated_mt": "Tue Oct 27 2026, 4:29pm MT",
+ "generated_at": "2026-10-27T17:29:50.107366-06:00",
+ "generated_mt": "Tue Oct 27 2026, 5:29pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1050820673536,
    "pe": 12.49509,
    "fpe": 4.489066,
-   "post": 926.4,
-   "post_pct": -0.25410065,
+   "post": 932.0,
+   "post_pct": 0.34885117,
    "pre": null,
    "pre_pct": null,
    "day_lo": 910.6714,
@@ -34,24 +34,19 @@
    "as_of": "Tue Oct 27, 2:00pm MT",
    "news": [
     {
+     "title": "What Could Robot Memory Demand Mean For Micron Technology (MU) Stock?",
+     "link": "https://finance.yahoo.com/technology/ai/articles/could-robot-memory-demand-mean-231405467.html?.tsrc=rss",
+     "when": "Tue Oct 27, 5:14pm MT"
+    },
+    {
+     "title": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns \u2018Everything\u2019s a Meme Stock\u2019 as AAPL, GOOGL and MU Fuel Market Bubble Fears",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/were-trading-them-baseball-cards-220034335.html?.tsrc=rss",
+     "when": "Tue Oct 27, 4:00pm MT"
+    },
+    {
      "title": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
      "link": "https://www.fool.com/investing/2026/10/27/prediction-this-artificial-intelligence-ai-memory/?.tsrc=rss",
      "when": "Tue Oct 27, 1:20pm MT"
-    },
-    {
-     "title": "TSM vs. MU: Which Semiconductor Stock Is the Better Buy Post-Earnings?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tsm-vs-mu-semiconductor-stock-180000593.html?.tsrc=rss",
-     "when": "Tue Oct 27, 12:00pm MT"
-    },
-    {
-     "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
-     "link": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
-     "when": "Tue Oct 27, 11:56am MT"
-    },
-    {
-     "title": "Micron Announces Over $67 Million in New Idaho Community Investments for Transportation, Housing and Children",
-     "link": "https://finance.yahoo.com/small-business/articles/micron-announces-over-67-million-170000178.html?.tsrc=rss",
-     "when": "Tue Oct 27, 11:00am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,8 +70,8 @@
    "mcap": 2017874542592,
    "pe": 646.0,
    "fpe": 59.439133,
-   "post": 149.09,
-   "post_pct": 0.34324571,
+   "post": 149.35,
+   "post_pct": 0.5182422,
    "pre": null,
    "pre_pct": null,
    "day_lo": 146.635,
@@ -89,6 +84,11 @@
      "when": "Tue Oct 27, 1:24pm MT"
     },
     {
+     "title": "Scott Galloway Warns Tesla Is the \u2018Patient\u2019 and SpaceX Its \u2018Organ Donor\u2019 in Elon Musk\u2019s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warns-tesla-patient-213018121.html?.tsrc=rss",
+     "when": "Tue Oct 27, 3:30pm MT"
+    },
+    {
      "title": "SpaceX's multi-trillion-dollar case rests on a bet not yet launched",
      "link": "https://www.thestreet.com/investing/stocks/spcx-spacex-multi-trillion-dollar-case-rests-on-orbital-data-center-launch-stock-price-target-raised-by-8?.tsrc=rss",
      "when": "Tue Oct 27, 3:17pm MT"
@@ -97,11 +97,6 @@
      "title": "Has Space Exploration Technologies (SPCX) Become Fully Valued Following Its $3.42b Shelf Filing?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-become-210745055.html?.tsrc=rss",
      "when": "Tue Oct 27, 3:07pm MT"
-    },
-    {
-     "title": "SpaceX Boosted By Starlink Mobile Buildout; Verizon Dismisses Competition",
-     "link": "https://finance.yahoo.com/m/478893b8-151d-30d5-9575-56ec577ec7f9/spacex-boosted-by-starlink.html?.tsrc=rss",
-     "when": "Tue Oct 27, 3:04pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -126,8 +121,8 @@
    "mcap": 1610579312640,
    "pe": 447.7582,
    "fpe": 189.04938,
-   "post": 408.0076,
-   "post_pct": 0.13439539,
+   "post": 407.9,
+   "post_pct": 0.10798666,
    "pre": null,
    "pre_pct": null,
    "day_lo": 395.25,
@@ -137,22 +132,22 @@
     {
      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss",
-     "when": "Tue Oct 27, 4:12pm MT"
+     "when": "Tue Oct 27, 5:05pm MT"
+    },
+    {
+     "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-cybercabs-overtake-model-ys-in-authorized-texas-robotaxi-fleet/cZUen2iRBCz?.tsrc=rss",
+     "when": "Tue Oct 27, 4:39pm MT"
+    },
+    {
+     "title": "Scott Galloway Warns Tesla Is the \u2018Patient\u2019 and SpaceX Its \u2018Organ Donor\u2019 in Elon Musk\u2019s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warns-tesla-patient-213018121.html?.tsrc=rss",
+     "when": "Tue Oct 27, 3:30pm MT"
     },
     {
      "title": "Tesla Stock Rises In A Buy Range; Musk Touts Cybercab Fleet Expansion",
      "link": "https://finance.yahoo.com/m/85f94354-9e71-320a-a15d-a3a35ca2bddb/tesla-stock-rises-in-a-buy.html?.tsrc=rss",
      "when": "Tue Oct 27, 2:43pm MT"
-    },
-    {
-     "title": "Want to Test Tesla\u2019s Full Self-Driving? Rent It on Turo.",
-     "link": "https://finance.yahoo.com/m/090e3be6-8740-3fee-8c26-265560ecca31/want-to-test-tesla%E2%80%99s-full.html?.tsrc=rss",
-     "when": "Tue Oct 27, 2:21pm MT"
-    },
-    {
-     "title": "Tesla Stock Has Room to Run, If History Is Any Indicator",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-room-run-history-192315323.html?.tsrc=rss",
-     "when": "Tue Oct 27, 1:23pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -273,8 +268,8 @@
    "mcap": 892722752,
    "pe": null,
    "fpe": -81.22728,
-   "post": 17.9241,
-   "post_pct": 0.3027422,
+   "post": 17.9108,
+   "post_pct": 0.22831613,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.76,
@@ -322,8 +317,8 @@
    "mcap": 572574976,
    "pe": null,
    "fpe": 34.25926,
-   "post": 9.26,
-   "post_pct": 0.108110584,
+   "post": 9.3,
+   "post_pct": 0.5405426,
    "pre": null,
    "pre_pct": null,
    "day_lo": 8.595,
@@ -372,8 +367,8 @@
    "mcap": 9676020736,
    "pe": 24.302326,
    "fpe": 14.115644,
-   "post": 31.35,
-   "post_pct": 0.0,
+   "post": 31.31,
+   "post_pct": -0.12759462,
    "pre": null,
    "pre_pct": null,
    "day_lo": 30.85,
@@ -413,12 +408,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80811.14,
-   "chg_pct": 1.1848234,
-   "chg": 946.2578,
+   "price": 80834.39,
+   "chg_pct": 1.0318886,
+   "chg": 825.60156,
    "lo52": 57747.766,
    "hi52": 116078.984,
-   "mcap": 1624878088192,
+   "mcap": 1623008739328,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,27 +422,27 @@
    "pre_pct": null,
    "day_lo": 79380.36,
    "day_hi": 81117.01,
-   "as_of": "Tue Oct 27, 4:29pm MT",
+   "as_of": "Tue Oct 27, 5:29pm MT",
    "news": [
+    {
+     "title": "Strategy (MSTR) Stock May Be Undervalued On Bitcoin Policy Shift",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-stock-may-undervalued-230903046.html?.tsrc=rss",
+     "when": "Tue Oct 27, 5:09pm MT"
+    },
+    {
+     "title": "Ethereum Price Prediction: Can ETH Get Back to $2,700 by the End of November?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/27/ethereum-price-prediction-can-eth-get-back-to-2700-by-the-end-of-november/?.tsrc=rss",
+     "when": "Tue Oct 27, 4:25pm MT"
+    },
+    {
+     "title": "Is Bitcoin\u2019s Bear Market Over? Galaxy Thinks It Might Be",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/27/is-bitcoins-bear-market-over-galaxy-thinks-it-might-be/?.tsrc=rss",
+     "when": "Tue Oct 27, 4:21pm MT"
+    },
     {
      "title": "Hyperliquid\u2019s Biggest Traders Are Shorting Bitcoin for the First Time Since March. Could BTC Drop Below $75,000?",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/27/hyperliquids-biggest-traders-are-shorting-bitcoin-for-the-first-time-since-march-could-btc-drop-below-75000/?.tsrc=rss",
      "when": "Tue Oct 27, 4:19pm MT"
-    },
-    {
-     "title": "'Dump Bitcoin now': Analyst warns Bitcoin may never hit another record",
-     "link": "https://www.thestreet.com/crypto/markets/dump-bitcoin-now-analyst-warns-bitcoin-may-never-hit-another-record?.tsrc=rss",
-     "when": "Tue Oct 27, 3:40pm MT"
-    },
-    {
-     "title": "Crypto Market Today, Oct. 27: Bitcoin Bounces Back, but Whales Are Turning Bearish For the First Time Since June",
-     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/crypto-market-today-oct-27-bitcoin-bounces-back-but-whales-are-turning-bearish-for-the-first-time-since-june/?.tsrc=rss",
-     "when": "Tue Oct 27, 3:35pm MT"
-    },
-    {
-     "title": "Strive Buys 6,182 BTC as Strategy Pauses Its Bitcoin Buying. Can Treasury Buyers Hold BTC Above $80,000?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/27/strive-buys-6182-btc-as-strategy-pauses-its-bitcoin-buying-can-treasury-buyers-hold-btc-above-80000/?.tsrc=rss",
-     "when": "Tue Oct 27, 3:22pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -492,8 +487,8 @@
   },
   "DX-Y.NYB": {
    "price": 102.365,
-   "chg_pct": 0.39819753,
-   "chg": 0.40599823,
+   "chg_pct": 0.044955112,
+   "chg": 0.04599762,
    "as_of": "Tue Oct 27, 4:04pm MT"
   },
   "^GSPC": {
@@ -651,16 +646,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 926.73,
-   "oracle": 926.73,
-   "prev": 909.95,
+   "mark": 931.22,
+   "oracle": 931.13,
+   "prev": 911.35,
    "funding": 6.25e-06,
-   "oi": 161048.0200000001,
-   "oi_usd": 149248031.5746001,
-   "vol": 89796024.83908997,
-   "rsi14": 58.421375614898984,
-   "ema20": 923.0057240005987,
-   "ema50": 911.3302842742395,
+   "oi": 161979.5239999999,
+   "oi_usd": 150838572.3392799,
+   "vol": 90632520.42183982,
+   "rsi14": 62.83413164833776,
+   "ema20": 923.8024538616553,
+   "ema50": 912.110337480945,
    "hi24": 935.9,
    "lo24": 905.05
   },
@@ -669,16 +664,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.18,
-   "oracle": 149.1,
-   "prev": 147.83,
-   "funding": 1.32582e-05,
-   "oi": 1034424.22,
-   "oi_usd": 154315405.1396,
-   "vol": 84196746.32609998,
-   "rsi14": 53.63388491856102,
-   "ema20": 148.9408684667552,
-   "ema50": 148.46272383069285,
+   "mark": 149.41,
+   "oracle": 149.36,
+   "prev": 147.9,
+   "funding": 1.5953e-05,
+   "oi": 1035089.0600000002,
+   "oi_usd": 154652656.45460004,
+   "vol": 83748644.26949994,
+   "rsi14": 55.46642800149285,
+   "ema20": 148.98295849864417,
+   "ema50": 148.492815117436,
    "hi24": 151.41,
    "lo24": 146.83
   },
@@ -690,16 +685,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 408.06,
-   "oracle": 407.98,
-   "prev": 392.08,
+   "mark": 408.09,
+   "oracle": 408.0,
+   "prev": 392.61,
    "funding": 6.25e-06,
-   "oi": 115384.828,
-   "oi_usd": 47083932.913679995,
-   "vol": 59462057.53596998,
-   "rsi14": 75.70788520875331,
-   "ema20": 401.2745616917185,
-   "ema50": 392.6964859691817,
+   "oi": 115066.22,
+   "oi_usd": 46957373.719799995,
+   "vol": 59276617.22557998,
+   "rsi14": 75.31059244671141,
+   "ema20": 401.912039866284,
+   "ema50": 393.2932167559144,
    "hi24": 408.86,
    "lo24": 390.17
   },
@@ -725,20 +720,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80909.0,
-   "oracle": 80923.9,
-   "prev": 79946.0,
+   "mark": 80924.3,
+   "oracle": 80942.0,
+   "prev": 80051.0,
    "funding": 1.25e-05,
-   "oi": 43557.83064,
-   "oi_usd": 3524220519.25176,
-   "vol": 1765205693.9890492,
-   "rsi14": 64.01658056106942,
-   "ema20": 80409.90744459919,
-   "ema50": 80306.7169318602,
+   "oi": 43513.96542,
+   "oi_usd": 3521337191.837706,
+   "vol": 1759075569.7459593,
+   "rsi14": 64.33908569008253,
+   "ema20": 80457.50848138968,
+   "ema50": 80330.87747830863,
    "hi24": 81281.0,
    "lo24": 79489.0
   },
-  "_at": 1793140188
+  "_at": 1793143793
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 27, 2:55pm MT",
