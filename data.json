@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T00:21:45.334167-06:00",
- "generated_mt": "Tue Oct 27 2026, 12:21am MT",
+ "generated_at": "2026-10-27T01:21:49.765887-06:00",
+ "generated_mt": "Tue Oct 27 2026, 1:21am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -84,24 +84,24 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
+     "title": "Elon built the most ridiculous Tesla yet",
+     "link": "https://myfirstmillion.videonest.co/videos/2346241/elon-built-the-most-ridiculous-tesla-yet-Ei3_0WSwUs?.tsrc=rss",
+     "when": "Tue Oct 27, 12:33am MT"
+    },
+    {
      "title": "SPCX Stock Up Nearly 10% Since IPO \u2014 Analyst Sees 82% Upside Without Tesla Merger, Even If Revenue Misses Lofty Goals",
      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-upside-without-tesla-merger-even-if-revenue-misses-goals/cZUIUX2RBzF?.tsrc=rss",
      "when": "Mon Oct 26, 11:58pm MT"
     },
     {
+     "title": "Tesla Jumps 5% as Barclays Raises Its Target to $450 on SpaceX Merger Prospects",
+     "link": "https://www.tikr.com/blog/tesla-jumps-5-as-barclays-raises-its-target-to-450-on-spacex-merger-prospects?ref=yahoofinance&.tsrc=rss",
+     "when": "Mon Oct 26, 11:35pm MT"
+    },
+    {
      "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
      "link": "https://www.fool.com/investing/2026/10/27/elon-musk-predicts-a-wave-of-failures-among-ai-cloud-companies-is-spacex-stock-a-sell/?.tsrc=rss",
      "when": "Mon Oct 26, 10:57pm MT"
-    },
-    {
-     "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation \u2014 TSLA Could \u2018Own\u2019 Transportation, ARK Says",
-     "link": "https://finance.yahoo.com/technology/articles/tesla-could-beyond-robotaxis-underground-043247703.html?.tsrc=rss",
-     "when": "Mon Oct 26, 10:32pm MT"
-    },
-    {
-     "title": "Think You Missed Out on Investing in SpaceX Stock? Think Again.",
-     "link": "https://www.fool.com/investing/2026/10/26/think-you-missed-out-on-spacex-think-again/?.tsrc=rss",
-     "when": "Mon Oct 26, 9:59pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -140,6 +140,11 @@
      "when": "Mon Oct 26, 11:58pm MT"
     },
     {
+     "title": "Tesla Jumps 5% as Barclays Raises Its Target to $450 on SpaceX Merger Prospects",
+     "link": "https://www.tikr.com/blog/tesla-jumps-5-as-barclays-raises-its-target-to-450-on-spacex-merger-prospects?ref=yahoofinance&.tsrc=rss",
+     "when": "Mon Oct 26, 11:35pm MT"
+    },
+    {
      "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation \u2014 TSLA Could \u2018Own\u2019 Transportation, ARK Says",
      "link": "https://finance.yahoo.com/technology/articles/tesla-could-beyond-robotaxis-underground-043247703.html?.tsrc=rss",
      "when": "Mon Oct 26, 10:32pm MT"
@@ -148,11 +153,6 @@
      "title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html?.tsrc=rss",
      "when": "Mon Oct 26, 9:18pm MT"
-    },
-    {
-     "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
-     "link": "https://www.fool.com/investing/2026/10/26/elon-musk-says-merging-spacex-and-tesla-would-be-a/?.tsrc=rss",
-     "when": "Mon Oct 26, 8:46pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -413,22 +413,32 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 79627.21,
-   "chg_pct": -0.4671527,
-   "chg": -373.72656,
+   "price": 79563.59,
+   "chg_pct": -0.43870303,
+   "chg": -350.58594,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1602024636416,
+   "mcap": 1599208685568,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 79517.14,
+   "day_lo": 79515.76,
    "day_hi": 80202.84,
-   "as_of": "Tue Oct 27, 12:21am MT",
+   "as_of": "Tue Oct 27, 1:21am MT",
    "news": [
+    {
+     "title": "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80k-strategy-065649737.html?.tsrc=rss",
+     "when": "Tue Oct 27, 12:56am MT"
+    },
+    {
+     "title": "Bitcoin Heads for a Red October With 4 Bullish Signals Still Intact",
+     "link": "https://beincrypto.com/bitcoin-bullish-signals-red-october-2026/?.tsrc=rss",
+     "when": "Mon Oct 26, 11:59pm MT"
+    },
     {
      "title": "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves? This New Research Has Important Implications for BTC Investors.",
      "link": "https://www.fool.com/investing/2026/10/26/do-bitcoin-etf-flows-really-predict-future-bitcoin/?.tsrc=rss",
@@ -438,16 +448,6 @@
      "title": "Bitcoin and gold are 2026\u2019s worst-performing assets, and history offers no precedent",
      "link": "https://www.thestreet.com/crypto/markets/bitcoin-and-gold-are-2026s-worst-performing-assets-and-history-offers-no-precedent?.tsrc=rss",
      "when": "Mon Oct 26, 8:30pm MT"
-    },
-    {
-     "title": "10,000 Bitcoin Simulations Say BTC's Median Path to $1M Comes in 2033",
-     "link": "https://beincrypto.com/bitcoin-simulations-median-path-1m-2033/?.tsrc=rss",
-     "when": "Mon Oct 26, 7:50pm MT"
-    },
-    {
-     "title": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
-     "link": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/?.tsrc=rss",
-     "when": "Mon Oct 26, 7:29pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -491,16 +491,16 @@
    "as_of": "Mon Oct 26, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.083,
-   "chg_pct": 0.121618055,
-   "chg": 0.12400055,
-   "as_of": "Tue Oct 27, 12:11am MT"
+   "price": 102.166,
+   "chg_pct": 0.20302151,
+   "chg": 0.20700073,
+   "as_of": "Tue Oct 27, 1:11am MT"
   },
   "^GSPC": {
    "price": 7676.77,
    "chg_pct": 0.6963808,
    "chg": 53.089844,
-   "as_of": "Mon Oct 26, 2:43pm MT"
+   "as_of": "Mon Oct 26, 2:00pm MT"
   },
   "^NDX": {
    "price": 29273.404,
@@ -645,16 +645,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 909.71,
-   "oracle": 909.51,
-   "prev": 879.13,
-   "funding": 6.25e-06,
-   "oi": 163655.6,
-   "oi_usd": 148879135.87600002,
-   "vol": 118028780.82146999,
-   "rsi14": 55.17643205084956,
-   "ema20": 907.7850471982935,
-   "ema50": 898.6826056422497,
+   "mark": 908.54,
+   "oracle": 908.27,
+   "prev": 879.62,
+   "funding": 9.9482e-06,
+   "oi": 163748.978,
+   "oi_usd": 148772496.47212,
+   "vol": 116496767.27039997,
+   "rsi14": 53.67086054767289,
+   "ema20": 907.6936592638035,
+   "ema50": 898.9647870501053,
    "hi24": 923.0,
    "lo24": 870.01
   },
@@ -663,16 +663,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.0,
-   "oracle": 146.95,
-   "prev": 148.05,
-   "funding": 6.5591e-06,
-   "oi": 1008251.16,
-   "oi_usd": 148212920.52,
-   "vol": 108003622.58859996,
-   "rsi14": 42.90171579830247,
-   "ema20": 147.74779723726937,
-   "ema50": 147.93884763816584,
+   "mark": 147.07,
+   "oracle": 147.02,
+   "prev": 147.87,
+   "funding": 6.25e-06,
+   "oi": 1009296.3,
+   "oi_usd": 148437206.841,
+   "vol": 107785756.53319997,
+   "rsi14": 43.84808014925986,
+   "ema20": 147.6869603078848,
+   "ema50": 147.90111314233764,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -684,16 +684,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 390.91,
-   "oracle": 390.94,
-   "prev": 374.76,
+   "mark": 391.01,
+   "oracle": 391.07,
+   "prev": 375.85,
    "funding": 6.25e-06,
-   "oi": 119081.12,
-   "oi_usd": 46550000.6192,
-   "vol": 58324089.5409,
-   "rsi14": 58.4549357894315,
-   "ema20": 389.9093864689326,
-   "ema50": 383.62557667268163,
+   "oi": 118469.08,
+   "oi_usd": 46322594.9708,
+   "vol": 58224951.22534001,
+   "rsi14": 58.92764099550498,
+   "ema20": 390.0150558798636,
+   "ema50": 383.8974432097717,
    "hi24": 397.07,
    "lo24": 374.84
   },
@@ -719,20 +719,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 79742.0,
-   "oracle": 79768.9,
-   "prev": 79932.0,
+   "mark": 79685.0,
+   "oracle": 79709.0,
+   "prev": 79972.0,
    "funding": 1.25e-05,
-   "oi": 41862.76598,
-   "oi_usd": 3338220684.7771597,
-   "vol": 2207140599.816879,
-   "rsi14": 43.07291349701598,
-   "ema20": 79999.63587282762,
-   "ema50": 80222.0992476781,
+   "oi": 41815.22296,
+   "oi_usd": 3332046041.5676,
+   "vol": 2242762127.7480607,
+   "rsi14": 42.41871423643088,
+   "ema20": 79961.65549870298,
+   "ema50": 80195.45428185377,
    "hi24": 80835.0,
    "lo24": 79430.0
   },
-  "_at": 1793082108
+  "_at": 1793085713
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 2:55pm MT",
