@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T20:19:08.089858-06:00",
- "generated_mt": "Mon Oct 26 2026, 8:19pm MT",
+ "generated_at": "2026-10-26T21:19:12.682901-06:00",
+ "generated_mt": "Mon Oct 26 2026, 9:19pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -135,6 +135,16 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
+     "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
+     "link": "https://www.fool.com/investing/2026/10/26/elon-musk-says-merging-spacex-and-tesla-would-be-a/?.tsrc=rss",
+     "when": "Mon Oct 26, 8:46pm MT"
+    },
+    {
+     "title": "Elon Musk Ally Jason Calacanis Targets 40% Tesla Rally \u2014 But His Nearly $1M Uber Bet Aims Higher",
+     "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-tesla-rally-1m-uber-bet-aims-higher/cZUIsMORBzh?.tsrc=rss",
+     "when": "Mon Oct 26, 8:30pm MT"
+    },
+    {
      "title": "Cathie Wood Says Tesla, SpaceX Could Drive Up To 9% GDP Growth: ARK Sees Merger As Win For Both Shareholder Bases",
      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-spacex-gdp-growth-ark-merger-win-both-shareholders/cZUIApgRBzQ?.tsrc=rss",
      "when": "Mon Oct 26, 7:49pm MT"
@@ -143,16 +153,6 @@
      "title": "Why Tesla (TSLA) stock is trading up today",
      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-trading-013447799.html?.tsrc=rss",
      "when": "Mon Oct 26, 7:34pm MT"
-    },
-    {
-     "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
-     "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
-     "when": "Mon Oct 26, 7:14pm MT"
-    },
-    {
-     "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-ratings-hit-highest-since-2023-ark-reiterates-4-400-tesla-2031-target-and-80-robotaxi-thesis/cZU3KLWRBzB?.tsrc=rss",
-     "when": "Mon Oct 26, 5:35pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -413,22 +413,32 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 79905.41,
-   "chg_pct": 0.5612336,
-   "chg": 445.95312,
+   "price": 79498.54,
+   "chg_pct": 0.02536067,
+   "chg": 20.15625,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1606516211712,
+   "mcap": 1599203049472,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 79879.68,
+   "day_lo": 79546.03,
    "day_hi": 80202.84,
-   "as_of": "Mon Oct 26, 8:19pm MT",
+   "as_of": "Mon Oct 26, 9:19pm MT",
    "news": [
+    {
+     "title": "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves? This New Research Has Important Implications for BTC Investors.",
+     "link": "https://www.fool.com/investing/2026/10/26/do-bitcoin-etf-flows-really-predict-future-bitcoin/?.tsrc=rss",
+     "when": "Mon Oct 26, 9:07pm MT"
+    },
+    {
+     "title": "Bitcoin and gold are 2026\u2019s worst-performing assets, and history offers no precedent",
+     "link": "https://www.thestreet.com/crypto/markets/bitcoin-and-gold-are-2026s-worst-performing-assets-and-history-offers-no-precedent?.tsrc=rss",
+     "when": "Mon Oct 26, 8:30pm MT"
+    },
     {
      "title": "10,000 Bitcoin Simulations Say BTC's Median Path to $1M Comes in 2033",
      "link": "https://beincrypto.com/bitcoin-simulations-median-path-1m-2033/?.tsrc=rss",
@@ -438,11 +448,6 @@
      "title": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
      "link": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/?.tsrc=rss",
      "when": "Mon Oct 26, 7:29pm MT"
-    },
-    {
-     "title": "Why Do Crypto Traders Keep Losing Money? Analyst Bitbull Explains",
-     "link": "https://beincrypto.com/why-crypto-traders-lose-money-bitbull-explains/?.tsrc=rss",
-     "when": "Mon Oct 26, 4:11pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -486,16 +491,16 @@
    "as_of": "Mon Oct 26, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.024,
-   "chg_pct": 0.06375288,
-   "chg": 0.06500244,
-   "as_of": "Mon Oct 26, 8:09pm MT"
+   "price": 102.039,
+   "chg_pct": 0.07846471,
+   "chg": 0.08000183,
+   "as_of": "Mon Oct 26, 9:09pm MT"
   },
   "^GSPC": {
    "price": 7676.77,
    "chg_pct": 0.6963808,
    "chg": 53.089844,
-   "as_of": "Mon Oct 26, 2:43pm MT"
+   "as_of": "Mon Oct 26, 2:00pm MT"
   },
   "^NDX": {
    "price": 29273.404,
@@ -640,16 +645,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 917.47,
-   "oracle": 917.57,
-   "prev": 880.08,
+   "mark": 911.17,
+   "oracle": 910.96,
+   "prev": 878.31,
    "funding": 6.25e-06,
-   "oi": 164272.81,
-   "oi_usd": 150715374.9907,
-   "vol": 122627855.17543013,
-   "rsi14": 63.88515014152392,
-   "ema20": 905.7829231844069,
-   "ema50": 896.4848160414448,
+   "oi": 163862.7959999999,
+   "oi_usd": 149306863.8313199,
+   "vol": 122804527.25261003,
+   "rsi14": 57.33705722980849,
+   "ema20": 905.909974057941,
+   "ema50": 896.8667820963793,
    "hi24": 923.0,
    "lo24": 870.01
   },
@@ -658,16 +663,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.8,
-   "oracle": 147.74,
-   "prev": 148.63,
+   "mark": 147.2,
+   "oracle": 147.17,
+   "prev": 147.74,
    "funding": 6.25e-06,
-   "oi": 1005945.6199999998,
-   "oi_usd": 148678762.63599998,
-   "vol": 107933124.32259996,
-   "rsi14": 48.35377268313794,
-   "ema20": 147.9644389531052,
-   "ema50": 148.05150897764403,
+   "oi": 1009350.0399999996,
+   "oi_usd": 148576325.88799992,
+   "vol": 108853732.80079995,
+   "rsi14": 44.64351427966219,
+   "ema20": 147.88061395453786,
+   "ema50": 148.01198479772253,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -679,18 +684,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 393.37,
-   "oracle": 393.47,
-   "prev": 371.38,
-   "funding": 6.25e-06,
-   "oi": 119554.412,
-   "oi_usd": 47029119.04844,
-   "vol": 59831559.59394999,
-   "rsi14": 68.13264136604884,
-   "ema20": 389.08780448626266,
-   "ema50": 382.2461329432725,
+   "mark": 392.03,
+   "oracle": 392.08,
+   "prev": 370.91,
+   "funding": 2.7393e-06,
+   "oi": 119528.514,
+   "oi_usd": 46858763.34341999,
+   "vol": 60196654.13803002,
+   "rsi14": 63.79555299876405,
+   "ema20": 389.25073434102524,
+   "ema50": 382.5780826784476,
    "hi24": 397.07,
-   "lo24": 370.68
+   "lo24": 371.11
   },
   "LMND": {
    "stale": []
@@ -714,20 +719,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80013.0,
-   "oracle": 80048.0,
-   "prev": 79755.0,
-   "funding": 7.9411e-06,
-   "oi": 42240.66546,
-   "oi_usd": 3379802365.4509797,
-   "vol": 2272982383.547608,
-   "rsi14": 46.85416435740663,
-   "ema20": 80115.68642554231,
-   "ema50": 80306.70244448954,
+   "mark": 79613.0,
+   "oracle": 79647.9,
+   "prev": 79668.0,
+   "funding": 1.22457e-05,
+   "oi": 42114.14886,
+   "oi_usd": 3352833733.19118,
+   "vol": 2231435610.908935,
+   "rsi14": 39.90487086755414,
+   "ema20": 80048.3286777693,
+   "ema50": 80271.18715346827,
    "hi24": 80835.0,
-   "lo24": 79348.0
+   "lo24": 79430.0
   },
-  "_at": 1793067551
+  "_at": 1793071156
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 2:55pm MT",
