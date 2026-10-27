@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T18:18:55.955950-06:00",
- "generated_mt": "Mon Oct 26 2026, 6:18pm MT",
+ "generated_at": "2026-10-26T19:19:02.352517-06:00",
+ "generated_mt": "Mon Oct 26 2026, 7:19pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
+     "title": "What a $1,000 Investment in Micron Could Be Worth by the End of 2027",
+     "link": "https://www.fool.com/investing/2026/10/26/what-a-1000-investment-in-micron-could-be-worth-by/?.tsrc=rss",
+     "when": "Mon Oct 26, 6:36pm MT"
+    },
+    {
      "title": "Stocks higher by year-end: George Seay on where to deploy cash now",
      "link": "https://www.thestreet.com/video/stocks-higher-by-year-end-george-seay-on-where-to-deploy-your-cash-now?.tsrc=rss",
      "when": "Mon Oct 26, 2:07pm MT"
@@ -47,11 +52,6 @@
      "title": "If You Invest $1,000 in Micron Today, Here\u2019s What It Could Be Worth by 2030",
      "link": "https://247wallst.com/investing/2026/10/26/if-you-invest-1000-in-micron-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
      "when": "Mon Oct 26, 9:30am MT"
-    },
-    {
-     "title": "Micron Stock Finds Its Footing as It Pushes Back on Chinese Memory Threat",
-     "link": "https://finance.yahoo.com/m/8d4d1ea6-fb8d-34bb-85e2-4a1690a07add/micron-stock-finds-its.html?.tsrc=rss",
-     "when": "Mon Oct 26, 8:51am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -140,6 +140,11 @@
      "when": "Mon Oct 26, 5:35pm MT"
     },
     {
+     "title": "Kevin O\u2019Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo \u2014  \u2018If You Own Tesla, You\u2019re Gonna Own New Company\u2019",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-tesla-233006194.html?.tsrc=rss",
+     "when": "Mon Oct 26, 5:30pm MT"
+    },
+    {
      "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
      "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
      "when": "Mon Oct 26, 4:03pm MT"
@@ -148,11 +153,6 @@
      "title": "Tesla Isn\u2019t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
      "link": "https://www.fool.com/investing/2026/10/26/tesla-isnt-a-hyperscaler-why-the-ai-bears-are-misreading-its-5-billion-capex-cut/?.tsrc=rss",
      "when": "Mon Oct 26, 2:53pm MT"
-    },
-    {
-     "title": "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
-     "link": "https://finance.yahoo.com/m/01cd1ea9-015f-3e37-8ef6-7e8f380f0327/tesla-stock%2C-upgraded-on.html?.tsrc=rss",
-     "when": "Mon Oct 26, 2:51pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80124.21,
-   "chg_pct": 0.08081879,
-   "chg": 64.703125,
+   "price": 80120.67,
+   "chg_pct": 0.60711867,
+   "chg": 483.4922,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1610814849024,
+   "mcap": 1611547148288,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -426,8 +426,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 80009.5,
-   "day_hi": 80126.61,
-   "as_of": "Mon Oct 26, 6:18pm MT",
+   "day_hi": 80202.84,
+   "as_of": "Mon Oct 26, 7:19pm MT",
    "news": [
     {
      "title": "Why Do Crypto Traders Keep Losing Money? Analyst Bitbull Explains",
@@ -481,10 +481,10 @@
    "as_of": "Mon Oct 26, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.009,
-   "chg_pct": 0.049041834,
-   "chg": 0.05000305,
-   "as_of": "Mon Oct 26, 6:08pm MT"
+   "price": 102.108,
+   "chg_pct": 0.1461392,
+   "chg": 0.14900208,
+   "as_of": "Mon Oct 26, 7:09pm MT"
   },
   "^GSPC": {
    "price": 7676.77,
@@ -635,17 +635,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 920.14,
-   "oracle": 920.0,
-   "prev": 892.79,
-   "funding": 1.65221e-05,
-   "oi": 163863.018,
-   "oi_usd": 150776917.38252002,
-   "vol": 120157823.81953005,
-   "rsi14": 68.0437123955797,
-   "ema20": 902.959609636171,
-   "ema50": 894.7233709787267,
-   "hi24": 920.27,
+   "mark": 918.87,
+   "oracle": 918.64,
+   "prev": 881.03,
+   "funding": 9.5266e-06,
+   "oi": 164886.492,
+   "oi_usd": 151509250.90404,
+   "vol": 117671297.85972999,
+   "rsi14": 67.47172939576818,
+   "ema20": 904.2689100734027,
+   "ema50": 895.5317296422571,
+   "hi24": 920.35,
    "lo24": 870.01
   },
   "SPCX": {
@@ -653,16 +653,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 148.33,
-   "oracle": 148.29,
-   "prev": 149.13,
-   "funding": 2.53778e-05,
-   "oi": 1010177.0200000001,
-   "oi_usd": 149839557.37660003,
-   "vol": 109348913.68959998,
-   "rsi14": 51.85517694880886,
-   "ema20": 148.05721077950346,
-   "ema50": 148.10673255487131,
+   "mark": 147.93,
+   "oracle": 147.9,
+   "prev": 148.56,
+   "funding": 6.25e-06,
+   "oi": 1009631.5199999998,
+   "oi_usd": 149354790.75359997,
+   "vol": 108270020.1317,
+   "rsi14": 49.28160217147961,
+   "ema20": 148.01062201778734,
+   "ema50": 148.07564349539902,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -675,17 +675,17 @@
    ],
    "market": "xyz:TSLA",
    "mark": 393.99,
-   "oracle": 394.0,
-   "prev": 372.67,
+   "oracle": 393.99,
+   "prev": 370.27,
    "funding": 6.25e-06,
-   "oi": 119847.4460000001,
-   "oi_usd": 47218695.24954004,
-   "vol": 60366368.98953002,
-   "rsi14": 71.33056297022023,
-   "ema20": 388.08746988965385,
-   "ema50": 381.33913232933077,
+   "oi": 119673.71,
+   "oi_usd": 47150245.002900004,
+   "vol": 59780346.86451,
+   "rsi14": 70.62009334452162,
+   "ema20": 388.6601668774978,
+   "ema50": 381.8175937091319,
    "hi24": 397.07,
-   "lo24": 369.93
+   "lo24": 370.33
   },
   "LMND": {
    "stale": []
@@ -709,20 +709,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80226.0,
-   "oracle": 80261.0,
-   "prev": 80078.0,
+   "mark": 80232.0,
+   "oracle": 80260.0,
+   "prev": 80032.0,
    "funding": 1.25e-05,
-   "oi": 42535.70226,
-   "oi_usd": 3412469249.51076,
-   "vol": 2486406009.923637,
-   "rsi14": 50.887084274504105,
-   "ema20": 80139.12708792565,
-   "ema50": 80342.02277951852,
+   "oi": 42261.7018,
+   "oi_usd": 3390740858.8176003,
+   "vol": 2467591486.9449286,
+   "rsi14": 51.05321508273449,
+   "ema20": 80144.8793769326,
+   "ema50": 80330.1820039839,
    "hi24": 80835.0,
-   "lo24": 79347.0
+   "lo24": 79348.0
   },
-  "_at": 1793060340
+  "_at": 1793063946
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 2:55pm MT",
