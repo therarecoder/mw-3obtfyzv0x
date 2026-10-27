@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T19:19:02.352517-06:00",
- "generated_mt": "Mon Oct 26 2026, 7:19pm MT",
+ "generated_at": "2026-10-26T20:19:08.089858-06:00",
+ "generated_mt": "Mon Oct 26 2026, 8:19pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -84,6 +84,11 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
+     "title": "Cathie Wood Says Tesla, SpaceX Could Drive Up To 9% GDP Growth: ARK Sees Merger As Win For Both Shareholder Bases",
+     "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-spacex-gdp-growth-ark-merger-win-both-shareholders/cZUIApgRBzQ?.tsrc=rss",
+     "when": "Mon Oct 26, 7:49pm MT"
+    },
+    {
      "title": "SpaceX's Adjusted Earnings Quadrupled in Q3. Is the Stock Heading Back to $200?",
      "link": "https://www.fool.com/investing/2026/10/26/spacex-s-adjusted-earnings-quadrupled-in-q3-is-the-stock-heading-back-to-usd200/?.tsrc=rss",
      "when": "Mon Oct 26, 5:40pm MT"
@@ -97,11 +102,6 @@
      "title": "Prediction: This Is How Much a $5,000 Investment in Anthropic Will Be Worth in 1 Year",
      "link": "https://www.fool.com/investing/2026/10/26/prediction-this-is-how-much-a-5-000-investment-in-anthropic-will-be-worth-in-1-year/?.tsrc=rss",
      "when": "Mon Oct 26, 4:00pm MT"
-    },
-    {
-     "title": "Musk predicts \u2018guppy-level death\u2019 as SpaceX closes $40B GPU deal",
-     "link": "https://www.thestreet.com/investing/musk-predicts-neocloud-failures-consolidation-as-spacex-closes-40b-gpu-deal?.tsrc=rss",
-     "when": "Mon Oct 26, 3:03pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -125,7 +125,7 @@
    "hi52": 498.83,
    "mcap": 1547968184320,
    "pe": 430.35162,
-   "fpe": 179.62901,
+   "fpe": 179.24342,
    "post": 393.2086,
    "post_pct": 0.40564644,
    "pre": null,
@@ -135,24 +135,24 @@
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
     {
-     "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-ratings-hit-highest-since-2023-ark-reiterates-4-400-tesla-2031-target-and-80-robotaxi-thesis/cZU3KLWRBzB?.tsrc=rss",
-     "when": "Mon Oct 26, 5:35pm MT"
+     "title": "Cathie Wood Says Tesla, SpaceX Could Drive Up To 9% GDP Growth: ARK Sees Merger As Win For Both Shareholder Bases",
+     "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-spacex-gdp-growth-ark-merger-win-both-shareholders/cZUIApgRBzQ?.tsrc=rss",
+     "when": "Mon Oct 26, 7:49pm MT"
     },
     {
-     "title": "Kevin O\u2019Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo \u2014  \u2018If You Own Tesla, You\u2019re Gonna Own New Company\u2019",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-tesla-233006194.html?.tsrc=rss",
-     "when": "Mon Oct 26, 5:30pm MT"
+     "title": "Why Tesla (TSLA) stock is trading up today",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-trading-013447799.html?.tsrc=rss",
+     "when": "Mon Oct 26, 7:34pm MT"
     },
     {
      "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
      "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
-     "when": "Mon Oct 26, 4:03pm MT"
+     "when": "Mon Oct 26, 7:14pm MT"
     },
     {
-     "title": "Tesla Isn\u2019t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
-     "link": "https://www.fool.com/investing/2026/10/26/tesla-isnt-a-hyperscaler-why-the-ai-bears-are-misreading-its-5-billion-capex-cut/?.tsrc=rss",
-     "when": "Mon Oct 26, 2:53pm MT"
+     "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-ratings-hit-highest-since-2023-ark-reiterates-4-400-tesla-2031-target-and-80-robotaxi-thesis/cZU3KLWRBzB?.tsrc=rss",
+     "when": "Mon Oct 26, 5:35pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -413,31 +413,36 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80120.67,
-   "chg_pct": 0.60711867,
-   "chg": 483.4922,
+   "price": 79905.41,
+   "chg_pct": 0.5612336,
+   "chg": 445.95312,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1611547148288,
+   "mcap": 1606516211712,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 80009.5,
+   "day_lo": 79879.68,
    "day_hi": 80202.84,
-   "as_of": "Mon Oct 26, 7:19pm MT",
+   "as_of": "Mon Oct 26, 8:19pm MT",
    "news": [
+    {
+     "title": "10,000 Bitcoin Simulations Say BTC's Median Path to $1M Comes in 2033",
+     "link": "https://beincrypto.com/bitcoin-simulations-median-path-1m-2033/?.tsrc=rss",
+     "when": "Mon Oct 26, 7:50pm MT"
+    },
+    {
+     "title": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
+     "link": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/?.tsrc=rss",
+     "when": "Mon Oct 26, 7:29pm MT"
+    },
     {
      "title": "Why Do Crypto Traders Keep Losing Money? Analyst Bitbull Explains",
      "link": "https://beincrypto.com/why-crypto-traders-lose-money-bitbull-explains/?.tsrc=rss",
      "when": "Mon Oct 26, 4:11pm MT"
-    },
-    {
-     "title": "Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms",
-     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/26/crypto-market-today-oct-26-bitcoin-slips-below-usd80-000-as-fed-decision-looms/?.tsrc=rss",
-     "when": "Mon Oct 26, 3:25pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -481,10 +486,10 @@
    "as_of": "Mon Oct 26, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.108,
-   "chg_pct": 0.1461392,
-   "chg": 0.14900208,
-   "as_of": "Mon Oct 26, 7:09pm MT"
+   "price": 102.024,
+   "chg_pct": 0.06375288,
+   "chg": 0.06500244,
+   "as_of": "Mon Oct 26, 8:09pm MT"
   },
   "^GSPC": {
    "price": 7676.77,
@@ -635,17 +640,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 918.87,
-   "oracle": 918.64,
-   "prev": 881.03,
-   "funding": 9.5266e-06,
-   "oi": 164886.492,
-   "oi_usd": 151509250.90404,
-   "vol": 117671297.85972999,
-   "rsi14": 67.47172939576818,
-   "ema20": 904.2689100734027,
-   "ema50": 895.5317296422571,
-   "hi24": 920.35,
+   "mark": 917.47,
+   "oracle": 917.57,
+   "prev": 880.08,
+   "funding": 6.25e-06,
+   "oi": 164272.81,
+   "oi_usd": 150715374.9907,
+   "vol": 122627855.17543013,
+   "rsi14": 63.88515014152392,
+   "ema20": 905.7829231844069,
+   "ema50": 896.4848160414448,
+   "hi24": 923.0,
    "lo24": 870.01
   },
   "SPCX": {
@@ -653,16 +658,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.93,
-   "oracle": 147.9,
-   "prev": 148.56,
+   "mark": 147.8,
+   "oracle": 147.74,
+   "prev": 148.63,
    "funding": 6.25e-06,
-   "oi": 1009631.5199999998,
-   "oi_usd": 149354790.75359997,
-   "vol": 108270020.1317,
-   "rsi14": 49.28160217147961,
-   "ema20": 148.01062201778734,
-   "ema50": 148.07564349539902,
+   "oi": 1005945.6199999998,
+   "oi_usd": 148678762.63599998,
+   "vol": 107933124.32259996,
+   "rsi14": 48.35377268313794,
+   "ema20": 147.9644389531052,
+   "ema50": 148.05150897764403,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -674,18 +679,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 393.99,
-   "oracle": 393.99,
-   "prev": 370.27,
+   "mark": 393.37,
+   "oracle": 393.47,
+   "prev": 371.38,
    "funding": 6.25e-06,
-   "oi": 119673.71,
-   "oi_usd": 47150245.002900004,
-   "vol": 59780346.86451,
-   "rsi14": 70.62009334452162,
-   "ema20": 388.6601668774978,
-   "ema50": 381.8175937091319,
+   "oi": 119554.412,
+   "oi_usd": 47029119.04844,
+   "vol": 59831559.59394999,
+   "rsi14": 68.13264136604884,
+   "ema20": 389.08780448626266,
+   "ema50": 382.2461329432725,
    "hi24": 397.07,
-   "lo24": 370.33
+   "lo24": 370.68
   },
   "LMND": {
    "stale": []
@@ -709,20 +714,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80232.0,
-   "oracle": 80260.0,
-   "prev": 80032.0,
-   "funding": 1.25e-05,
-   "oi": 42261.7018,
-   "oi_usd": 3390740858.8176003,
-   "vol": 2467591486.9449286,
-   "rsi14": 51.05321508273449,
-   "ema20": 80144.8793769326,
-   "ema50": 80330.1820039839,
+   "mark": 80013.0,
+   "oracle": 80048.0,
+   "prev": 79755.0,
+   "funding": 7.9411e-06,
+   "oi": 42240.66546,
+   "oi_usd": 3379802365.4509797,
+   "vol": 2272982383.547608,
+   "rsi14": 46.85416435740663,
+   "ema20": 80115.68642554231,
+   "ema50": 80306.70244448954,
    "hi24": 80835.0,
    "lo24": 79348.0
   },
-  "_at": 1793063946
+  "_at": 1793067551
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 2:55pm MT",
