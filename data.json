@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T01:21:49.765887-06:00",
- "generated_mt": "Tue Oct 27 2026, 1:21am MT",
+ "generated_at": "2026-10-27T02:24:09.997314-06:00",
+ "generated_mt": "Tue Oct 27 2026, 2:24am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,15 +24,25 @@
    "mcap": 1022467178496,
    "pe": 12.157944,
    "fpe": 4.3679414,
-   "post": 913.25,
-   "post_pct": 1.0567653,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 913.99,
+   "pre_pct": 1.1386497,
    "day_lo": 882.77,
    "day_hi": 915.75,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
+    {
+     "title": "MU, SKHY Stocks Rise As Anthropic Filing Shows $450B In Compute Commitments; Kospi Rally Triggers Program-Trading Pause",
+     "link": "https://stocktwits.com/news-articles/markets/equity/mu-skhy-stocks-rise-as-anthropic-filing-shows-450-b-in-compute-commitments-kospi-rally-triggers-program-trading-pause/cZUI6gARBzq?.tsrc=rss",
+     "when": "Tue Oct 27, 1:13am MT"
+    },
+    {
+     "title": "Elon Musk Says Robots Will Need More Memory Than 'Everything Else on Earth' \u2014 This Analyst Sees 'Much Bigger Volume Story' for Micron, SK Hynix",
+     "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-robots-more-063041305.html?.tsrc=rss",
+     "when": "Tue Oct 27, 12:30am MT"
+    },
     {
      "title": "What a $1,000 Investment in Micron Could Be Worth by the End of 2027",
      "link": "https://www.fool.com/investing/2026/10/26/what-a-1000-investment-in-micron-could-be-worth-by/?.tsrc=rss",
@@ -42,16 +52,6 @@
      "title": "Stocks higher by year-end: George Seay on where to deploy cash now",
      "link": "https://www.thestreet.com/video/stocks-higher-by-year-end-george-seay-on-where-to-deploy-your-cash-now?.tsrc=rss",
      "when": "Mon Oct 26, 2:07pm MT"
-    },
-    {
-     "title": "Micron Climbs 4% as Bank of America Grows More Positive on Memory; Western Digital Rises 5%, SanDisk Gains 3%",
-     "link": "https://247wallst.com/investing/2026/10/26/micron-climbs-4-as-bank-of-america-grows-more-positive-on-memory-western-digital-rises-5-sandisk-gains-3/?.tsrc=rss",
-     "when": "Mon Oct 26, 11:52am MT"
-    },
-    {
-     "title": "If You Invest $1,000 in Micron Today, Here\u2019s What It Could Be Worth by 2030",
-     "link": "https://247wallst.com/investing/2026/10/26/if-you-invest-1000-in-micron-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
-     "when": "Mon Oct 26, 9:30am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,10 +75,10 @@
    "mcap": 1995058184192,
    "pe": 638.6956,
    "fpe": 58.767048,
-   "post": 147.9803,
-   "post_pct": 0.735403,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 147.85,
+   "pre_pct": 0.64670676,
    "day_lo": 144.57,
    "day_hi": 150.24,
    "as_of": "Mon Oct 26, 2:00pm MT",
@@ -126,14 +126,19 @@
    "mcap": 1547968184320,
    "pe": 430.35162,
    "fpe": 179.24342,
-   "post": 393.2086,
-   "post_pct": 0.40564644,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 393.89,
+   "pre_pct": 0.57964855,
    "day_lo": 383.8406,
    "day_hi": 397.27,
    "as_of": "Mon Oct 26, 2:00pm MT",
    "news": [
+    {
+     "title": "Elon Musk Says Robots Will Need More Memory Than 'Everything Else on Earth' \u2014 This Analyst Sees 'Much Bigger Volume Story' for Micron, SK Hynix",
+     "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-robots-more-063041305.html?.tsrc=rss",
+     "when": "Tue Oct 27, 12:30am MT"
+    },
     {
      "title": "SPCX Stock Up Nearly 10% Since IPO \u2014 Analyst Sees 82% Upside Without Tesla Merger, Even If Revenue Misses Lofty Goals",
      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-upside-without-tesla-merger-even-if-revenue-misses-goals/cZUIUX2RBzF?.tsrc=rss",
@@ -148,11 +153,6 @@
      "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation \u2014 TSLA Could \u2018Own\u2019 Transportation, ARK Says",
      "link": "https://finance.yahoo.com/technology/articles/tesla-could-beyond-robotaxis-underground-043247703.html?.tsrc=rss",
      "when": "Mon Oct 26, 10:32pm MT"
-    },
-    {
-     "title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
-     "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html?.tsrc=rss",
-     "when": "Mon Oct 26, 9:18pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -174,8 +174,8 @@
    "mcap": 3489039616,
    "pe": null,
    "fpe": -51.816093,
-   "post": 45.6,
-   "post_pct": 1.1534973,
+   "post": null,
+   "post_pct": null,
    "pre": null,
    "pre_pct": null,
    "day_lo": 43.625,
@@ -224,10 +224,10 @@
    "mcap": 2238200064,
    "pe": 46.0,
    "fpe": 6.4349885,
-   "post": 23.1,
-   "post_pct": 0.43478426,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 22.92,
+   "pre_pct": -0.34782577,
    "day_lo": 22.885,
    "day_hi": 23.715,
    "next_earnings": "Tue Nov 3, 2026",
@@ -273,10 +273,10 @@
    "mcap": 830277120,
    "pe": null,
    "fpe": -75.545456,
-   "post": 16.6,
-   "post_pct": -0.12033969,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 16.64,
+   "pre_pct": 0.12032822,
    "day_lo": 16.2008,
    "day_hi": 17.3245,
    "next_earnings": "Thu Nov 5, 2026",
@@ -322,8 +322,8 @@
    "mcap": 531721024,
    "pe": null,
    "fpe": 31.814814,
-   "post": 8.59,
-   "post_pct": 0.0,
+   "post": null,
+   "post_pct": null,
    "pre": null,
    "pre_pct": null,
    "day_lo": 8.11,
@@ -372,10 +372,10 @@
    "mcap": 9598859264,
    "pe": 24.108528,
    "fpe": 14.003079,
-   "post": 30.78,
-   "post_pct": -1.0289379,
-   "pre": null,
-   "pre_pct": null,
+   "post": null,
+   "post_pct": null,
+   "pre": 31.04,
+   "pre_pct": -0.19292432,
    "day_lo": 30.63,
    "day_hi": 32.35,
    "next_earnings": "Thu Nov 5, 2026",
@@ -413,22 +413,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 79563.59,
-   "chg_pct": -0.43870303,
-   "chg": -350.58594,
+   "price": 79759.66,
+   "chg_pct": -0.44303727,
+   "chg": -354.9375,
    "lo52": 57747.766,
    "hi52": 116273.31,
-   "mcap": 1599208685568,
+   "mcap": 1603326836736,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 79515.76,
+   "day_lo": 79470.21,
    "day_hi": 80202.84,
-   "as_of": "Tue Oct 27, 1:21am MT",
+   "as_of": "Tue Oct 27, 2:24am MT",
    "news": [
+    {
+     "title": "Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns",
+     "link": "https://beincrypto.com/ansem-bearish-on-bitcoin-eth-ai-stocks/?.tsrc=rss",
+     "when": "Tue Oct 27, 1:38am MT"
+    },
     {
      "title": "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80k-strategy-065649737.html?.tsrc=rss",
@@ -443,11 +448,6 @@
      "title": "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves? This New Research Has Important Implications for BTC Investors.",
      "link": "https://www.fool.com/investing/2026/10/26/do-bitcoin-etf-flows-really-predict-future-bitcoin/?.tsrc=rss",
      "when": "Mon Oct 26, 9:07pm MT"
-    },
-    {
-     "title": "Bitcoin and gold are 2026\u2019s worst-performing assets, and history offers no precedent",
-     "link": "https://www.thestreet.com/crypto/markets/bitcoin-and-gold-are-2026s-worst-performing-assets-and-history-offers-no-precedent?.tsrc=rss",
-     "when": "Mon Oct 26, 8:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -485,22 +485,22 @@
    "as_of": "Mon Oct 26, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.39,
-   "chg_pct": -5.449878,
-   "chg": -1.0600014,
-   "as_of": "Mon Oct 26, 2:15pm MT"
+   "price": 18.4,
+   "chg_pct": 0.054378625,
+   "chg": 0.010000229,
+   "as_of": "Tue Oct 27, 2:09am MT"
   },
   "DX-Y.NYB": {
-   "price": 102.166,
-   "chg_pct": 0.20302151,
-   "chg": 0.20700073,
-   "as_of": "Tue Oct 27, 1:11am MT"
+   "price": 102.159,
+   "chg_pct": 0.19615428,
+   "chg": 0.19999695,
+   "as_of": "Tue Oct 27, 2:14am MT"
   },
   "^GSPC": {
    "price": 7676.77,
    "chg_pct": 0.6963808,
    "chg": 53.089844,
-   "as_of": "Mon Oct 26, 2:00pm MT"
+   "as_of": "Mon Oct 26, 2:43pm MT"
   },
   "^NDX": {
    "price": 29273.404,
@@ -645,34 +645,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 908.54,
-   "oracle": 908.27,
-   "prev": 879.62,
-   "funding": 9.9482e-06,
-   "oi": 163748.978,
-   "oi_usd": 148772496.47212,
-   "vol": 116496767.27039997,
-   "rsi14": 53.67086054767289,
-   "ema20": 907.6936592638035,
-   "ema50": 898.9647870501053,
+   "mark": 914.43,
+   "oracle": 913.99,
+   "prev": 875.9,
+   "funding": 1.37666e-05,
+   "oi": 163561.3280000004,
+   "oi_usd": 149565385.16304034,
+   "vol": 116523384.52883,
+   "rsi14": 58.67717200565905,
+   "ema20": 908.4265075460717,
+   "ema50": 899.6107162900112,
    "hi24": 923.0,
-   "lo24": 870.01
+   "lo24": 882.0
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 147.07,
-   "oracle": 147.02,
-   "prev": 147.87,
-   "funding": 6.25e-06,
-   "oi": 1009296.3,
-   "oi_usd": 148437206.841,
-   "vol": 107785756.53319997,
-   "rsi14": 43.84808014925986,
-   "ema20": 147.6869603078848,
-   "ema50": 147.90111314233764,
+   "mark": 147.89,
+   "oracle": 147.85,
+   "prev": 148.23,
+   "funding": 6.6925e-06,
+   "oi": 1005906.6199999998,
+   "oi_usd": 148763530.03179994,
+   "vol": 106949977.31269999,
+   "rsi14": 51.079944417877655,
+   "ema20": 147.70294322855483,
+   "ema50": 147.90179324297574,
    "hi24": 150.28,
    "lo24": 144.69
   },
@@ -684,18 +684,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 391.01,
-   "oracle": 391.07,
-   "prev": 375.85,
+   "mark": 393.81,
+   "oracle": 393.92,
+   "prev": 376.97,
    "funding": 6.25e-06,
-   "oi": 118469.08,
-   "oi_usd": 46322594.9708,
-   "vol": 58224951.22534001,
-   "rsi14": 58.92764099550498,
-   "ema20": 390.0150558798636,
-   "ema50": 383.8974432097717,
+   "oi": 118195.066,
+   "oi_usd": 46546398.941460006,
+   "vol": 57974528.32490996,
+   "rsi14": 64.85401753928856,
+   "ema20": 390.32821530960746,
+   "ema50": 384.2509268562495,
    "hi24": 397.07,
-   "lo24": 374.84
+   "lo24": 378.62
   },
   "LMND": {
    "stale": []
@@ -719,20 +719,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 79685.0,
-   "oracle": 79709.0,
-   "prev": 79972.0,
+   "mark": 79867.0,
+   "oracle": 79892.6,
+   "prev": 80186.0,
    "funding": 1.25e-05,
-   "oi": 41815.22296,
-   "oi_usd": 3332046041.5676,
-   "vol": 2242762127.7480607,
-   "rsi14": 42.41871423643088,
-   "ema20": 79961.65549870298,
-   "ema50": 80195.45428185377,
+   "oi": 41852.53818,
+   "oi_usd": 3342636666.82206,
+   "vol": 2194661942.461628,
+   "rsi14": 46.652725383470894,
+   "ema20": 79961.25531191604,
+   "ema50": 80183.24393830266,
    "hi24": 80835.0,
    "lo24": 79430.0
   },
-  "_at": 1793085713
+  "_at": 1793089464
  },
  "xdrivers": {
   "generated_mt": "Mon Oct 26, 2:55pm MT",
