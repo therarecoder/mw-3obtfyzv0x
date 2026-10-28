@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T14:06:23.901812-06:00",
- "generated_mt": "Wed Oct 28 2026, 2:06pm MT",
+ "generated_at": "2026-10-28T14:11:28.502287-06:00",
+ "generated_mt": "Wed Oct 28 2026, 2:11pm MT",
  "market_open": true,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1112449220608,
    "pe": 13.227902,
    "fpe": 4.7523413,
-   "post": 982.19,
-   "post_pct": -0.105771594,
+   "post": 980.7,
+   "post_pct": -0.25731194,
    "pre": null,
    "pre_pct": null,
    "day_lo": 959.34,
@@ -75,8 +75,8 @@
    "mcap": 1972377878528,
    "pe": 631.43475,
    "fpe": 58.09897,
-   "post": 144.7932,
-   "post_pct": -0.300763,
+   "post": 144.6201,
+   "post_pct": -0.4199503,
    "pre": null,
    "pre_pct": null,
    "day_lo": 142.13,
@@ -99,9 +99,9 @@
      "when": "Wed Oct 28, 8:30am MT"
     },
     {
-     "title": "Elon Musk once backed Buffett\u2019s 5-minute fix for national debt: \u2018This is the way\u2019",
-     "link": "https://www.thestreet.com/economy/elon-musk-backs-warren-buffett-3-percent-gdp-limit-to-fix-national-debt-deficit?.tsrc=rss",
-     "when": "Wed Oct 28, 12:45pm MT"
+     "title": "2 AI Stocks to Buy if the Market Sells Off Before Year-End",
+     "link": "https://www.fool.com/investing/2026/10/28/2-ai-stocks-to-buy-if-the-market-sells-off-before/?.tsrc=rss",
+     "when": "Wed Oct 28, 1:57pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -126,8 +126,8 @@
    "mcap": 1597772529664,
    "pe": 444.19778,
    "fpe": 187.54611,
-   "post": 404.6544,
-   "post_pct": 0.10746307,
+   "post": 403.66,
+   "post_pct": -0.13853781,
    "pre": null,
    "pre_pct": null,
    "day_lo": 397.18,
@@ -224,8 +224,8 @@
    "mcap": 2349136896,
    "pe": 48.28,
    "fpe": 6.750144,
-   "post": 24.15,
-   "post_pct": 0.04142597,
+   "post": 24.014,
+   "post_pct": -0.521953,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.5932,
@@ -273,8 +273,8 @@
    "mcap": 880233664,
    "pe": null,
    "fpe": -80.09091,
-   "post": 17.66,
-   "post_pct": 0.22700912,
+   "post": 17.6488,
+   "post_pct": 0.16344526,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.91,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81462.63,
-   "chg_pct": 0.98133963,
-   "chg": 791.65625,
+   "price": 81358.69,
+   "chg_pct": 0.85248864,
+   "chg": 687.71094,
    "lo52": 57747.766,
    "hi52": 113642.73,
-   "mcap": 1641247801344,
+   "mcap": 1637482758144,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -426,8 +426,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 80330.34,
-   "day_hi": 81634.08,
-   "as_of": "Wed Oct 28, 2:06pm MT",
+   "day_hi": 81547.67,
+   "as_of": "Wed Oct 28, 2:11pm MT",
    "news": [
     {
      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
@@ -485,28 +485,28 @@
    "as_of": "Wed Oct 28, 12:59pm MT"
   },
   "^VIX": {
-   "price": 16.86,
-   "chg_pct": -3.775743,
-   "chg": -0.65999985,
-   "as_of": "Wed Oct 28, 1:51pm MT"
+   "price": 16.92,
+   "chg_pct": -3.4246597,
+   "chg": -0.6000004,
+   "as_of": "Wed Oct 28, 1:56pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.149,
-   "chg_pct": -0.16614364,
-   "chg": -0.16999817,
-   "as_of": "Wed Oct 28, 1:56pm MT"
+   "price": 102.069,
+   "chg_pct": -0.2443339,
+   "chg": -0.25,
+   "as_of": "Wed Oct 28, 2:01pm MT"
   },
   "^GSPC": {
    "price": 7743.98,
    "chg_pct": 0.27684826,
    "chg": 21.379883,
-   "as_of": "Wed Oct 28, 2:06pm MT"
+   "as_of": "Wed Oct 28, 2:11pm MT"
   },
   "^NDX": {
    "price": 29813.156,
    "chg_pct": 0.54538614,
    "chg": 161.71484,
-   "as_of": "Wed Oct 28, 2:06pm MT"
+   "as_of": "Wed Oct 28, 2:11pm MT"
   }
  },
  "errors": [],
@@ -652,16 +652,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 982.8,
-   "oracle": 982.8,
+   "mark": 980.7,
+   "oracle": 980.7,
    "prev": 923.04,
    "funding": 6.25e-06,
-   "oi": 109408.3599999999,
-   "oi_usd": 107526536.2079999,
-   "vol": 239558526.48942992,
-   "rsi14": 70.76866820224326,
-   "ema20": 965.9869395032018,
-   "ema50": 944.9437683651662,
+   "oi": 109410.6540000001,
+   "oi_usd": 107299028.3778001,
+   "vol": 240831168.4397498,
+   "rsi14": 68.25146937811338,
+   "ema20": 965.78217759844,
+   "ema50": 944.8594546396761,
    "hi24": 990.21,
    "lo24": 924.52
   },
@@ -670,16 +670,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 144.86,
-   "oracle": 144.79,
+   "mark": 144.76,
+   "oracle": 144.67,
    "prev": 149.07,
-   "funding": 1.76016e-05,
-   "oi": 1108888.8999999994,
-   "oi_usd": 160633646.05399993,
-   "vol": 93118203.58769995,
-   "rsi14": 33.30789891215878,
-   "ema20": 146.79656848920234,
-   "ema50": 147.76968894450346,
+   "funding": 1.88634e-05,
+   "oi": 1109204.3800000001,
+   "oi_usd": 160568426.04880002,
+   "vol": 93767867.49469995,
+   "rsi14": 33.09322291851241,
+   "ema20": 146.79180658444045,
+   "ema50": 147.76772816018973,
    "hi24": 150.26,
    "lo24": 142.3
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 404.63,
-   "oracle": 404.65,
+   "mark": 403.69,
+   "oracle": 403.69,
    "prev": 406.72,
    "funding": 6.25e-06,
-   "oi": 114893.744,
-   "oi_usd": 46489455.634720005,
-   "vol": 43697165.489470005,
-   "rsi14": 50.59433954269998,
-   "ema20": 404.8616804979147,
-   "ema50": 400.520041681756,
+   "oi": 114356.706,
+   "oi_usd": 46164658.64514,
+   "vol": 43941157.36594999,
+   "rsi14": 48.13212382172164,
+   "ema20": 404.78263287886705,
+   "ema50": 400.48749266214816,
    "hi24": 412.51,
    "lo24": 397.32
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81501.0,
-   "oracle": 81508.0,
+   "mark": 81422.7,
+   "oracle": 81432.0,
    "prev": 80749.0,
    "funding": 1.25e-05,
-   "oi": 44784.4682,
-   "oi_usd": 3649978942.7682004,
-   "vol": 2078131752.2336187,
-   "rsi14": 62.914486607937704,
-   "ema20": 80968.97519740716,
-   "ema50": 80721.95423919836,
+   "oi": 44556.15714,
+   "oi_usd": 3627882615.963078,
+   "vol": 2099465763.32342,
+   "rsi14": 61.19993406422753,
+   "ema20": 80962.3085307405,
+   "ema50": 80719.20914115915,
    "hi24": 81804.0,
    "lo24": 80362.0
   },
-  "_at": 1793217987
+  "_at": 1793218291
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 28, 7:35am MT",
