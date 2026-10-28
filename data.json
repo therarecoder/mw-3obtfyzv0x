@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T15:17:13.155492-06:00",
- "generated_mt": "Wed Oct 28 2026, 3:17pm MT",
+ "generated_at": "2026-10-28T16:17:17.489620-06:00",
+ "generated_mt": "Wed Oct 28 2026, 4:17pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1112449220608,
    "pe": 13.227902,
    "fpe": 4.7523413,
-   "post": 962.9997,
-   "post_pct": -2.0575335,
+   "post": 963.0,
+   "post_pct": -2.0575025,
    "pre": null,
    "pre_pct": null,
    "day_lo": 959.34,
@@ -75,8 +75,8 @@
    "mcap": 1972377878528,
    "pe": 631.43475,
    "fpe": 58.09897,
-   "post": 143.93,
-   "post_pct": -0.895134,
+   "post": 144.07,
+   "post_pct": -0.79872507,
    "pre": null,
    "pre_pct": null,
    "day_lo": 142.13,
@@ -126,8 +126,8 @@
    "mcap": 1597772529664,
    "pe": 444.19778,
    "fpe": 187.54611,
-   "post": 402.4,
-   "post_pct": -0.45025167,
+   "post": 401.25,
+   "post_pct": -0.7347487,
    "pre": null,
    "pre_pct": null,
    "day_lo": 397.18,
@@ -224,8 +224,8 @@
    "mcap": 2349136896,
    "pe": 48.28,
    "fpe": 6.750144,
-   "post": 23.98,
-   "post_pct": -0.6627997,
+   "post": 24.1211,
+   "post_pct": -0.07829295,
    "pre": null,
    "pre_pct": null,
    "day_lo": 23.5932,
@@ -233,6 +233,11 @@
    "next_earnings": "Tue Nov 3, 2026",
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
+    {
+     "title": "Upstart Holdings, Inc. (UPST) Surpasses Market Returns: Some Facts Worth Knowing",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-inc-upst-surpasses-205002256.html?.tsrc=rss",
+     "when": "Wed Oct 28, 2:50pm MT"
+    },
     {
      "title": "Here is What to Know Beyond Why Upstart Holdings, Inc. (UPST) is a Trending Stock",
      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-upstart-holdings-120003381.html?.tsrc=rss",
@@ -247,11 +252,6 @@
      "title": "Does Upstart Holdings (UPST) Auto Lending Expansion Change Its Growth Case?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/does-upstart-holdings-upst-auto-090652455.html?.tsrc=rss",
      "when": "Tue Oct 27, 3:06am MT"
-    },
-    {
-     "title": "Upstart Holdings, Inc. (UPST) Stock Sinks As Market Gains: Here's Why",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-inc-upst-stock-210002542.html?.tsrc=rss",
-     "when": "Mon Oct 26, 3:00pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/UPST"
@@ -273,8 +273,8 @@
    "mcap": 880233664,
    "pe": null,
    "fpe": -80.09091,
-   "post": 17.43,
-   "post_pct": -1.0783231,
+   "post": 17.49,
+   "post_pct": -0.737804,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.91,
@@ -372,8 +372,8 @@
    "mcap": 9407499264,
    "pe": 23.627907,
    "fpe": 13.723918,
-   "post": 30.4521,
-   "post_pct": -0.09153146,
+   "post": 30.391,
+   "post_pct": -0.2919908,
    "pre": null,
    "pre_pct": null,
    "day_lo": 30.18,
@@ -381,6 +381,11 @@
    "next_earnings": "Thu Nov 5, 2026",
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
+    {
+     "title": "Oscar Health (OSCR) Stock May Trade Below Fair Value As New Plans Roll Out",
+     "link": "https://finance.yahoo.com/healthcare/articles/oscar-health-oscr-stock-may-211414327.html?.tsrc=rss",
+     "when": "Wed Oct 28, 3:14pm MT"
+    },
     {
      "title": "Why Oscar Health, Inc. (OSCR) Dipped More Than Broader Market Today",
      "link": "https://finance.yahoo.com/markets/stocks/articles/why-oscar-health-inc-oscr-210003218.html?.tsrc=rss",
@@ -395,11 +400,6 @@
      "title": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
      "link": "https://www.healthcaredive.com/news/centene-oscar-unitedhealthcare-new-counties-aca-2027/833442/?.tsrc=rss",
      "when": "Wed Oct 21, 7:09am MT"
-    },
-    {
-     "title": "3 Big Reasons to Love Oscar Health (OSCR)",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-oscar-164550483.html?.tsrc=rss",
-     "when": "Tue Oct 20, 10:45am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/OSCR"
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81350.96,
-   "chg_pct": 0.7036542,
-   "chg": 568.4297,
+   "price": 81130.31,
+   "chg_pct": 0.41828868,
+   "chg": 337.9453,
    "lo52": 57747.766,
    "hi52": 113642.73,
-   "mcap": 1634538094592,
+   "mcap": 1633096957952,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,27 +427,27 @@
    "pre_pct": null,
    "day_lo": 80330.34,
    "day_hi": 81568.69,
-   "as_of": "Wed Oct 28, 3:17pm MT",
+   "as_of": "Wed Oct 28, 4:17pm MT",
    "news": [
     {
-     "title": "Kevin O\u2019Leary says he still owns Bitcoin, but two risks have his attention",
-     "link": "https://www.thestreet.com/crypto/markets/kevin-oleary-says-he-still-owns-bitcoin-but-two-risks-have-his-attention?.tsrc=rss",
-     "when": "Wed Oct 28, 2:15pm MT"
+     "title": "Bitcoin Shrugs Off a Hawkish Fed as Volatility Bets Barely Budge",
+     "link": "https://unchainedcrypto.com/bitcoin-shrugs-off-a-hawkish-fed-as-volatility-bets-barely-budge/?.tsrc=rss",
+     "when": "Wed Oct 28, 4:03pm MT"
     },
     {
-     "title": "MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?",
-     "link": "https://beincrypto.com/microstrategy-daily-dividends-bitcoin-buying-vote/?.tsrc=rss",
-     "when": "Wed Oct 28, 2:00pm MT"
+     "title": "Bitcoin\u2019s \u2018Uptober\u2019 rally just fell apart as demand weakens",
+     "link": "https://www.thestreet.com/crypto/markets/bitcoins-uptober-rally-just-fell-apart-as-demand-weakens?.tsrc=rss",
+     "when": "Wed Oct 28, 4:02pm MT"
     },
     {
-     "title": "Fifteen-Minute Bets Scratch the Bitcoin Itch",
-     "link": "https://finance.yahoo.com/video/fifteen-minute-bets-scratch-bitcoin-195727501.html?.tsrc=rss",
-     "when": "Wed Oct 28, 1:57pm MT"
+     "title": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
+     "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc?.tsrc=rss",
+     "when": "Wed Oct 28, 3:46pm MT"
     },
     {
-     "title": "Sector Update: Financial Stocks Rise Late Afternoon",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195617586.html?.tsrc=rss",
-     "when": "Wed Oct 28, 1:56pm MT"
+     "title": "Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings",
+     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/28/crypto-market-today-oct-28-bitcoin-and-altcoins-gain-as-fed-decision-clears-the-way-for-big-tech-earnings/?.tsrc=rss",
+     "when": "Wed Oct 28, 3:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -491,22 +491,22 @@
    "as_of": "Wed Oct 28, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.125,
-   "chg_pct": -0.18960519,
-   "chg": -0.19400024,
-   "as_of": "Wed Oct 28, 3:07pm MT"
+   "price": 102.155,
+   "chg_pct": -0.16028447,
+   "chg": -0.16400146,
+   "as_of": "Wed Oct 28, 4:04pm MT"
   },
   "^GSPC": {
    "price": 7743.98,
    "chg_pct": 0.27684826,
    "chg": 21.379883,
-   "as_of": "Wed Oct 28, 2:20pm MT"
+   "as_of": "Wed Oct 28, 3:18pm MT"
   },
   "^NDX": {
    "price": 29813.156,
    "chg_pct": 0.54538614,
    "chg": 161.71484,
-   "as_of": "Wed Oct 28, 3:16pm MT"
+   "as_of": "Wed Oct 28, 3:15pm MT"
   }
  },
  "errors": [],
@@ -652,34 +652,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 962.88,
-   "oracle": 962.88,
-   "prev": 924.53,
+   "mark": 963.0,
+   "oracle": 963.0,
+   "prev": 925.66,
    "funding": 6.25e-06,
-   "oi": 105021.0839999999,
-   "oi_usd": 101122701.36191991,
-   "vol": 269000030.14076,
-   "rsi14": 52.61016516579076,
-   "ema20": 963.9109939956556,
-   "ema50": 944.8675590232466,
+   "oi": 103900.778,
+   "oi_usd": 100056449.214,
+   "vol": 282094601.60140973,
+   "rsi14": 52.11703827537639,
+   "ema20": 964.3337662150984,
+   "ema50": 945.7504699117603,
    "hi24": 990.21,
-   "lo24": 925.38
+   "lo24": 925.4
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 144.01,
-   "oracle": 143.9,
-   "prev": 149.31,
-   "funding": 1.64635e-05,
-   "oi": 1108990.5600000003,
-   "oi_usd": 159705730.54560003,
-   "vol": 97411839.73509997,
-   "rsi14": 30.227846916519965,
-   "ema20": 146.4998430354864,
-   "ema50": 147.6082436035303,
+   "mark": 144.11,
+   "oracle": 144.07,
+   "prev": 149.16,
+   "funding": 1.28036e-05,
+   "oi": 1110734.1,
+   "oi_usd": 160067891.15100002,
+   "vol": 98096232.14579995,
+   "rsi14": 30.529369782371447,
+   "ema20": 146.30497917870304,
+   "ema50": 147.48031790088342,
    "hi24": 150.26,
    "lo24": 142.3
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 402.49,
-   "oracle": 402.42,
-   "prev": 406.67,
+   "mark": 401.26,
+   "oracle": 401.26,
+   "prev": 407.8,
    "funding": 6.25e-06,
-   "oi": 113336.902,
-   "oi_usd": 45616969.68598,
-   "vol": 43969718.49115002,
-   "rsi14": 44.98000949176257,
-   "ema20": 404.49716577337665,
-   "ema50": 400.5353057119133,
+   "oi": 113393.424,
+   "oi_usd": 45500245.31424,
+   "vol": 43235199.924059995,
+   "rsi14": 41.87270902993276,
+   "ema20": 404.15915487295445,
+   "ema50": 400.5446092702249,
    "hi24": 412.51,
    "lo24": 397.32
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81414.0,
-   "oracle": 81430.2,
-   "prev": 80713.0,
+   "mark": 81205.0,
+   "oracle": 81231.6,
+   "prev": 80897.0,
    "funding": 1.25e-05,
-   "oi": 44337.2687,
-   "oi_usd": 3609674393.9418,
-   "vol": 2345172857.9973345,
-   "rsi14": 60.32635947643331,
-   "ema20": 80996.21097105092,
-   "ema50": 80742.2517160279,
+   "oi": 43960.45632,
+   "oi_usd": 3569808855.4656,
+   "vol": 2281870364.5918555,
+   "rsi14": 55.88527683980015,
+   "ema20": 81009.63000091318,
+   "ema50": 80753.18728809706,
    "hi24": 81804.0,
    "lo24": 80362.0
   },
-  "_at": 1793222235
+  "_at": 1793225840
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 28, 2:58pm MT",
