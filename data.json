@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T19:33:14.579008-06:00",
- "generated_mt": "Tue Oct 27 2026, 7:33pm MT",
+ "generated_at": "2026-10-27T20:33:19.487273-06:00",
+ "generated_mt": "Tue Oct 27 2026, 8:33pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -34,6 +34,11 @@
    "as_of": "Tue Oct 27, 2:00pm MT",
    "news": [
     {
+     "title": "Cramer Says Micron Stock Does Whatever SK Hynix Does in Korea, and He Dislikes It",
+     "link": "https://beincrypto.com/cramer-micron-sk-hynix-korea-link/?.tsrc=rss",
+     "when": "Tue Oct 27, 7:39pm MT"
+    },
+    {
      "title": "What Could Robot Memory Demand Mean For Micron Technology (MU) Stock?",
      "link": "https://finance.yahoo.com/technology/ai/articles/could-robot-memory-demand-mean-231405467.html?.tsrc=rss",
      "when": "Tue Oct 27, 5:14pm MT"
@@ -42,11 +47,6 @@
      "title": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns \u2018Everything\u2019s a Meme Stock\u2019 as AAPL, GOOGL and MU Fuel Market Bubble Fears",
      "link": "https://finance.yahoo.com/markets/stocks/articles/were-trading-them-baseball-cards-220034335.html?.tsrc=rss",
      "when": "Tue Oct 27, 4:00pm MT"
-    },
-    {
-     "title": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
-     "link": "https://www.fool.com/investing/2026/10/27/prediction-this-artificial-intelligence-ai-memory/?.tsrc=rss",
-     "when": "Tue Oct 27, 1:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -79,11 +79,6 @@
    "as_of": "Tue Oct 27, 2:00pm MT",
    "news": [
     {
-     "title": "Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla",
-     "link": "https://finance.yahoo.com/markets/stocks/article/why-anthropics-ipo-contrasts-the-cult-of-elon-musk-at-spacex-and-tesla-192424554.html?.tsrc=rss",
-     "when": "Tue Oct 27, 1:24pm MT"
-    },
-    {
      "title": "RBC Says SpaceX Stock Has 50% Upside. S&P Global Just Warned About Its Hidden AI Debt. Here's Who I Think Is Right.",
      "link": "https://www.fool.com/investing/2026/10/27/rbc-says-spacex-stock-has-50-upside-sp-global-just/?.tsrc=rss",
      "when": "Tue Oct 27, 6:30pm MT"
@@ -97,6 +92,11 @@
      "title": "SpaceX's multi-trillion-dollar case rests on a bet not yet launched",
      "link": "https://www.thestreet.com/investing/stocks/spcx-spacex-multi-trillion-dollar-case-rests-on-orbital-data-center-launch-stock-price-target-raised-by-8?.tsrc=rss",
      "when": "Tue Oct 27, 3:17pm MT"
+    },
+    {
+     "title": "Has Space Exploration Technologies (SPCX) Become Fully Valued Following Its $3.42b Shelf Filing?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-become-210745055.html?.tsrc=rss",
+     "when": "Tue Oct 27, 3:07pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -132,7 +132,7 @@
     {
      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss",
-     "when": "Tue Oct 27, 7:17pm MT"
+     "when": "Tue Oct 27, 8:21pm MT"
     },
     {
      "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
@@ -408,12 +408,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80686.07,
-   "chg_pct": 0.94999063,
-   "chg": 759.2969,
+   "price": 80814.63,
+   "chg_pct": 1.430869,
+   "chg": 1140.0391,
    "lo52": 57747.766,
    "hi52": 116078.984,
-   "mcap": 1622111682560,
+   "mcap": 1625112444928,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -421,9 +421,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 80538.88,
-   "day_hi": 80800.42,
-   "as_of": "Tue Oct 27, 7:33pm MT",
+   "day_hi": 80964.555,
+   "as_of": "Tue Oct 27, 8:33pm MT",
    "news": [
+    {
+     "title": "Litecoin Fell 21% in a Month, Over 4 Times Bitcoin\u2019s Drop. Can It Get Back to $70?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/27/litecoin-fell-21-in-a-month-over-4-times-bitcoins-drop-can-it-get-back-to-70/?.tsrc=rss",
+     "when": "Tue Oct 27, 7:53pm MT"
+    },
     {
      "title": "Will China\u2019s Stock Market Crash Hit Bitcoin Price?",
      "link": "https://beincrypto.com/china-ai-bubble-bitcoin-price-scenarios/?.tsrc=rss",
@@ -433,11 +438,6 @@
      "title": "Bitcoin's Quantum Threat Is Real. The Migration Clock Is Ticking",
      "link": "https://beincrypto.com/bitcoin-quantum-threat-migration-deadline/?.tsrc=rss",
      "when": "Tue Oct 27, 6:29pm MT"
-    },
-    {
-     "title": "Swapping One Crypto for Another Can Trigger a Tax Bill. How Much Could You Owe on a $10,000 Trade?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/27/swapping-one-crypto-for-another-can-trigger-a-tax-bill-how-much-could-you-owe-on-a-10000-trade/?.tsrc=rss",
-     "when": "Tue Oct 27, 5:29pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -481,10 +481,10 @@
    "as_of": "Tue Oct 27, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.371,
-   "chg_pct": 0.05082336,
-   "chg": 0.052001953,
-   "as_of": "Tue Oct 27, 7:23pm MT"
+   "price": 102.411,
+   "chg_pct": 0.089918554,
+   "chg": 0.09200287,
+   "as_of": "Tue Oct 27, 8:23pm MT"
   },
   "^GSPC": {
    "price": 7722.6,
@@ -641,17 +641,17 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 954.52,
-   "oracle": 954.3,
-   "prev": 918.83,
-   "funding": 7.6933e-06,
-   "oi": 158983.7420000001,
-   "oi_usd": 151753161.4138401,
-   "vol": 116558287.48787999,
-   "rsi14": 75.99984893659115,
-   "ema20": 929.8284194273404,
-   "ema50": 915.7015808741021,
-   "hi24": 956.58,
+   "mark": 956.51,
+   "oracle": 956.51,
+   "prev": 917.41,
+   "funding": 6.25e-06,
+   "oi": 159478.8839999999,
+   "oi_usd": 152543147.3348399,
+   "vol": 115099965.31263003,
+   "rsi14": 75.28301925662494,
+   "ema20": 932.5839763041004,
+   "ema50": 917.4426241897323,
+   "hi24": 961.65,
    "lo24": 905.05
   },
   "SPCX": {
@@ -659,16 +659,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 149.39,
-   "oracle": 149.3,
-   "prev": 147.63,
-   "funding": 1.60592e-05,
-   "oi": 1038199.3400000001,
-   "oi_usd": 155096599.4026,
-   "vol": 83527466.70289998,
-   "rsi14": 55.39019619242614,
-   "ema20": 149.05616174402647,
-   "ema50": 148.5657543978091,
+   "mark": 149.28,
+   "oracle": 149.18,
+   "prev": 147.77,
+   "funding": 1.86358e-05,
+   "oi": 1038777.0200000001,
+   "oi_usd": 155068633.54560003,
+   "vol": 82947501.89130002,
+   "rsi14": 53.66607481933301,
+   "ema20": 149.07730019354972,
+   "ema50": 148.5964989549923,
    "hi24": 151.41,
    "lo24": 146.83
   },
@@ -680,16 +680,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 406.3,
-   "oracle": 406.32,
-   "prev": 393.52,
+   "mark": 407.27,
+   "oracle": 407.27,
+   "prev": 393.22,
    "funding": 6.25e-06,
-   "oi": 110570.008,
-   "oi_usd": 44924594.2504,
-   "vol": 61516243.766410016,
-   "rsi14": 67.859406794804,
-   "ema20": 402.74667684623967,
-   "ema50": 394.32127200804,
+   "oi": 110566.938,
+   "oi_usd": 45030596.83926,
+   "vol": 61630296.30108996,
+   "rsi14": 68.89528164974035,
+   "ema20": 403.1451858274642,
+   "ema50": 394.8242279085915,
    "hi24": 408.86,
    "lo24": 390.17
   },
@@ -715,20 +715,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80777.4,
-   "oracle": 80809.0,
-   "prev": 80146.0,
+   "mark": 80907.6,
+   "oracle": 80940.4,
+   "prev": 79930.0,
    "funding": 1.25e-05,
-   "oi": 43495.7402,
-   "oi_usd": 3513472804.43148,
-   "vol": 1849097925.123588,
-   "rsi14": 59.665387061714576,
-   "ema20": 80508.13671241161,
-   "ema50": 80361.3363802897,
+   "oi": 43334.88796,
+   "oi_usd": 3506121781.1124964,
+   "vol": 1826386465.1406825,
+   "rsi14": 61.99563405702179,
+   "ema20": 80558.02738073707,
+   "ema50": 80392.90635779535,
    "hi24": 81281.0,
    "lo24": 79489.0
   },
-  "_at": 1793151198
+  "_at": 1793154802
  },
  "xdrivers": {
   "generated_mt": "Tue Oct 27, 2:55pm MT",
