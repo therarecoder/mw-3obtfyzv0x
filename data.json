@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T16:17:17.489620-06:00",
- "generated_mt": "Wed Oct 28 2026, 4:17pm MT",
+ "generated_at": "2026-10-28T17:17:44.267239-06:00",
+ "generated_mt": "Wed Oct 28 2026, 5:17pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -24,8 +24,8 @@
    "mcap": 1112449220608,
    "pe": 13.227902,
    "fpe": 4.7523413,
-   "post": 963.0,
-   "post_pct": -2.0575025,
+   "post": 961.67,
+   "post_pct": -2.1927726,
    "pre": null,
    "pre_pct": null,
    "day_lo": 959.34,
@@ -33,6 +33,11 @@
    "next_earnings": "Wed Dec 23, 2026 (est.)",
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
+    {
+     "title": "Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy\u2019s, Enphase, and More Stocks That Explain Today\u2019s Market",
+     "link": "https://finance.yahoo.com/m/c5c23db3-d508-3c1f-bab0-6408a09c4739/micron%2C-sk-hynix%2C-google%2C.html?.tsrc=rss",
+     "when": "Wed Oct 28, 3:28pm MT"
+    },
     {
      "title": "SK Hynix Just Delivered Great News for Micron Investors",
      "link": "https://www.fool.com/investing/2026/10/28/sk-hynix-just-delivered-great-news-for-micron-investors/?.tsrc=rss",
@@ -47,11 +52,6 @@
      "title": "Why Micron Stock Is Up Today",
      "link": "https://www.fool.com/investing/2026/10/28/why-micron-stock-is-up-today/?.tsrc=rss",
      "when": "Wed Oct 28, 12:51pm MT"
-    },
-    {
-     "title": "3 Reasons Micron Stock Could Keep Climbing From Here",
-     "link": "https://www.fool.com/investing/2026/10/28/3-reasons-micron-stock-could-keep-climbing-from-he/?.tsrc=rss",
-     "when": "Wed Oct 28, 12:28pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -75,8 +75,8 @@
    "mcap": 1972377878528,
    "pe": 631.43475,
    "fpe": 58.09897,
-   "post": 144.07,
-   "post_pct": -0.79872507,
+   "post": 143.94,
+   "post_pct": -0.88824165,
    "pre": null,
    "pre_pct": null,
    "day_lo": 142.13,
@@ -89,6 +89,11 @@
      "when": "Wed Oct 28, 11:09am MT"
     },
     {
+     "title": "Not Space. Not Starlink. Here's My Top Reason to Buy SpaceX Stock.",
+     "link": "https://www.fool.com/investing/2026/10/28/not-space-not-starlink-heres-my-top-reason-to-buy/?.tsrc=rss",
+     "when": "Wed Oct 28, 4:23pm MT"
+    },
+    {
      "title": "SpaceX Retreats As Russia's Putin Says This About Elon Musk",
      "link": "https://finance.yahoo.com/m/33f29059-f908-3ca5-8fbe-4fe10f1ee5dd/spacex-retreats-as-russia%27s.html?.tsrc=rss",
      "when": "Wed Oct 28, 2:24pm MT"
@@ -97,11 +102,6 @@
      "title": "Neocloud Stocks Like CoreWeave Rebound Despite Elon Musk Predicting 'Guppy-Level Death'",
      "link": "https://finance.yahoo.com/m/6151cb22-1b1a-391b-a195-a7411fe60f0d/neocloud-stocks-like.html?.tsrc=rss",
      "when": "Wed Oct 28, 2:17pm MT"
-    },
-    {
-     "title": "SpaceX\u2019s Starlink Just Added 1.6 Million Customers. But That\u2019s Not the Best News",
-     "link": "https://www.fool.com/investing/2026/10/28/spacex-s-starlink-just-added-1-6-million-customers-but-that-s-not-the-best-news/?.tsrc=rss",
-     "when": "Wed Oct 28, 2:08pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -126,8 +126,8 @@
    "mcap": 1597772529664,
    "pe": 444.19778,
    "fpe": 187.54611,
-   "post": 401.25,
-   "post_pct": -0.7347487,
+   "post": 402.5,
+   "post_pct": -0.42551115,
    "pre": null,
    "pre_pct": null,
    "day_lo": 397.18,
@@ -174,8 +174,8 @@
    "mcap": 3510710528,
    "pe": null,
    "fpe": -52.13793,
-   "post": 45.36,
-   "post_pct": 0.0,
+   "post": 45.4865,
+   "post_pct": 0.27887824,
    "pre": null,
    "pre_pct": null,
    "day_lo": 44.94,
@@ -273,8 +273,8 @@
    "mcap": 880233664,
    "pe": null,
    "fpe": -80.09091,
-   "post": 17.49,
-   "post_pct": -0.737804,
+   "post": 17.31,
+   "post_pct": -1.7593721,
    "pre": null,
    "pre_pct": null,
    "day_lo": 16.91,
@@ -372,8 +372,8 @@
    "mcap": 9407499264,
    "pe": 23.627907,
    "fpe": 13.723918,
-   "post": 30.391,
-   "post_pct": -0.2919908,
+   "post": 30.4137,
+   "post_pct": -0.21751785,
    "pre": null,
    "pre_pct": null,
    "day_lo": 30.18,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81130.31,
-   "chg_pct": 0.41828868,
-   "chg": 337.9453,
+   "price": 81216.26,
+   "chg_pct": 0.51579255,
+   "chg": 416.7578,
    "lo52": 57747.766,
    "hi52": 113642.73,
-   "mcap": 1633096957952,
+   "mcap": 1633599881216,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,8 +427,18 @@
    "pre_pct": null,
    "day_lo": 80330.34,
    "day_hi": 81568.69,
-   "as_of": "Wed Oct 28, 4:17pm MT",
+   "as_of": "Wed Oct 28, 5:17pm MT",
    "news": [
+    {
+     "title": "Grant Cardone challenges Bitcoin bear to $1 million bet",
+     "link": "https://www.thestreet.com/crypto/markets/grant-cardone-challenges-bitcoin-bear-to-1-million-bet?.tsrc=rss",
+     "when": "Wed Oct 28, 4:42pm MT"
+    },
+    {
+     "title": "Bitcoin Fell Five Days in a Row While Nearly 15,000 BTC Left Exchanges. Is a Bounce Coming?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/28/bitcoin-fell-five-days-in-a-row-while-nearly-15000-btc-left-exchanges-is-a-bounce-coming/?.tsrc=rss",
+     "when": "Wed Oct 28, 4:37pm MT"
+    },
     {
      "title": "Bitcoin Shrugs Off a Hawkish Fed as Volatility Bets Barely Budge",
      "link": "https://unchainedcrypto.com/bitcoin-shrugs-off-a-hawkish-fed-as-volatility-bets-barely-budge/?.tsrc=rss",
@@ -438,16 +448,6 @@
      "title": "Bitcoin\u2019s \u2018Uptober\u2019 rally just fell apart as demand weakens",
      "link": "https://www.thestreet.com/crypto/markets/bitcoins-uptober-rally-just-fell-apart-as-demand-weakens?.tsrc=rss",
      "when": "Wed Oct 28, 4:02pm MT"
-    },
-    {
-     "title": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
-     "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc?.tsrc=rss",
-     "when": "Wed Oct 28, 3:46pm MT"
-    },
-    {
-     "title": "Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings",
-     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/28/crypto-market-today-oct-28-bitcoin-and-altcoins-gain-as-fed-decision-clears-the-way-for-big-tech-earnings/?.tsrc=rss",
-     "when": "Wed Oct 28, 3:30pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -492,8 +492,8 @@
   },
   "DX-Y.NYB": {
    "price": 102.155,
-   "chg_pct": -0.16028447,
-   "chg": -0.16400146,
+   "chg_pct": -0.038164143,
+   "chg": -0.039001465,
    "as_of": "Wed Oct 28, 4:04pm MT"
   },
   "^GSPC": {
@@ -652,34 +652,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 963.0,
-   "oracle": 963.0,
-   "prev": 925.66,
+   "mark": 961.6,
+   "oracle": 961.6,
+   "prev": 926.02,
    "funding": 6.25e-06,
-   "oi": 103900.778,
-   "oi_usd": 100056449.214,
-   "vol": 282094601.60140973,
-   "rsi14": 52.11703827537639,
-   "ema20": 964.3337662150984,
-   "ema50": 945.7504699117603,
+   "oi": 103735.21,
+   "oi_usd": 99751777.936,
+   "vol": 286265756.9730093,
+   "rsi14": 51.09483530312611,
+   "ema20": 964.0028748672444,
+   "ema50": 946.3907511818315,
    "hi24": 990.21,
-   "lo24": 925.4
+   "lo24": 934.71
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 144.11,
-   "oracle": 144.07,
-   "prev": 149.16,
-   "funding": 1.28036e-05,
-   "oi": 1110734.1,
-   "oi_usd": 160067891.15100002,
-   "vol": 98096232.14579995,
-   "rsi14": 30.529369782371447,
-   "ema20": 146.30497917870304,
-   "ema50": 147.48031790088342,
+   "mark": 144.01,
+   "oracle": 143.94,
+   "prev": 149.17,
+   "funding": 1.74714e-05,
+   "oi": 1109679.04,
+   "oi_usd": 159804878.5504,
+   "vol": 98849775.8128,
+   "rsi14": 30.10251861082635,
+   "ema20": 146.08296516751886,
+   "ema50": 147.34580165135793,
    "hi24": 150.26,
    "lo24": 142.3
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 401.26,
-   "oracle": 401.26,
-   "prev": 407.8,
+   "mark": 402.35,
+   "oracle": 402.35,
+   "prev": 407.75,
    "funding": 6.25e-06,
-   "oi": 113393.424,
-   "oi_usd": 45500245.31424,
-   "vol": 43235199.924059995,
-   "rsi14": 41.87270902993276,
-   "ema20": 404.15915487295445,
-   "ema50": 400.5446092702249,
+   "oi": 113431.296,
+   "oi_usd": 45639081.9456,
+   "vol": 43429515.93372997,
+   "rsi14": 45.16596743565481,
+   "ema20": 404.0151127250035,
+   "ema50": 400.6340543705521,
    "hi24": 412.51,
    "lo24": 397.32
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81205.0,
-   "oracle": 81231.6,
-   "prev": 80897.0,
+   "mark": 81295.0,
+   "oracle": 81317.3,
+   "prev": 80912.0,
    "funding": 1.25e-05,
-   "oi": 43960.45632,
-   "oi_usd": 3569808855.4656,
-   "vol": 2281870364.5918555,
-   "rsi14": 55.88527683980015,
-   "ema20": 81009.63000091318,
-   "ema50": 80753.18728809706,
+   "oi": 43816.83192,
+   "oi_usd": 3562089350.9364,
+   "vol": 2284035647.7577395,
+   "rsi14": 57.780801607826604,
+   "ema20": 81040.9461042829,
+   "ema50": 80779.04857349007,
    "hi24": 81804.0,
    "lo24": 80362.0
   },
-  "_at": 1793225840
+  "_at": 1793229467
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 28, 2:58pm MT",
