@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T18:17:48.665075-06:00",
- "generated_mt": "Wed Oct 28 2026, 6:17pm MT",
+ "generated_at": "2026-10-28T19:17:53.717009-06:00",
+ "generated_mt": "Wed Oct 28 2026, 7:17pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,7 +22,7 @@
    "lo52": 192.59,
    "hi52": 1255.0,
    "mcap": 1112449220608,
-   "pe": 13.227902,
+   "pe": 12.49498,
    "fpe": 4.7523413,
    "post": 958.9613,
    "post_pct": -2.4682605,
@@ -34,6 +34,11 @@
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
     {
+     "title": "Here's Why Micron Is a Top AI Stock to Buy Right Now",
+     "link": "https://www.fool.com/investing/2026/10/28/heres-why-micron-is-a-top-ai-stock-to-buy-right-no/?.tsrc=rss",
+     "when": "Wed Oct 28, 6:38pm MT"
+    },
+    {
      "title": "Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy\u2019s, Enphase, and More Stocks That Explain Today\u2019s Market",
      "link": "https://finance.yahoo.com/m/c5c23db3-d508-3c1f-bab0-6408a09c4739/micron%2C-sk-hynix%2C-google%2C.html?.tsrc=rss",
      "when": "Wed Oct 28, 3:28pm MT"
@@ -42,16 +47,6 @@
      "title": "SK Hynix Just Delivered Great News for Micron Investors",
      "link": "https://www.fool.com/investing/2026/10/28/sk-hynix-just-delivered-great-news-for-micron-investors/?.tsrc=rss",
      "when": "Wed Oct 28, 2:35pm MT"
-    },
-    {
-     "title": "Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells",
-     "link": "https://finance.yahoo.com/m/5116bf4a-8597-32af-92c7-157ac51f5e89/micron-stock-advances-as.html?.tsrc=rss",
-     "when": "Wed Oct 28, 1:26pm MT"
-    },
-    {
-     "title": "Why Micron Stock Is Up Today",
-     "link": "https://www.fool.com/investing/2026/10/28/why-micron-stock-is-up-today/?.tsrc=rss",
-     "when": "Wed Oct 28, 12:51pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -124,7 +119,7 @@
    "lo52": 297.38,
    "hi52": 498.83,
    "mcap": 1597772529664,
-   "pe": 444.19778,
+   "pe": 449.13336,
    "fpe": 187.54611,
    "post": 402.3,
    "post_pct": -0.4749922,
@@ -134,6 +129,11 @@
    "day_hi": 410.85,
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
+    {
+     "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+     "link": "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
+     "when": "Wed Oct 28, 6:08pm MT"
+    },
     {
      "title": "Top Stock Reports for Tesla, Netflix & American Express",
      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-tesla-netflix-190800305.html?.tsrc=rss",
@@ -145,14 +145,9 @@
      "when": "Wed Oct 28, 12:45pm MT"
     },
     {
-     "title": "Tesla Gains Another 4% as ARK Restates $4,400 Robotaxi Target and Musk Teases \u201cA Storm of Cybercabs\u201d",
-     "link": "https://www.tikr.com/blog/tesla-gains-another-4-as-ark-restates-4400-robotaxi-target-and-musk-teases-a-storm-of-cybercabs?ref=yahoofinance&.tsrc=rss",
-     "when": "Wed Oct 28, 10:33am MT"
-    },
-    {
-     "title": "Global Battery Passport Market Report 2026 | Capitalize on 34.2% CAGR to 2030 as Tesla, Siemens, SAP and Circulor Scale EU Compliance, AI and Blockchain",
-     "link": "https://finance.yahoo.com/technology/ai/articles/global-battery-passport-market-report-144100592.html?.tsrc=rss",
-     "when": "Wed Oct 28, 8:41am MT"
+     "title": "History Shows That Buying the Dip Can Yield Huge Profits. Consider Snapping Up These 3 $100+ Stocks Here.",
+     "link": "https://www.barchart.com/story/news/8508656/history-shows-that-buying-the-dip-can-yield-huge-profits-consider-snapping-up-these-3-100-stocks-here?.tsrc=rss",
+     "when": "Wed Oct 28, 12:32pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -413,22 +408,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 81173.25,
-   "chg_pct": 0.66890883,
-   "chg": 539.3672,
+   "price": 80904.78,
+   "chg_pct": 0.09698643,
+   "chg": 78.390625,
    "lo52": 57747.766,
    "hi52": 113642.73,
-   "mcap": 1632646856704,
+   "mcap": 1625746702336,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 81205.984,
+   "day_lo": 80861.08,
    "day_hi": 81262.04,
-   "as_of": "Wed Oct 28, 6:17pm MT",
+   "as_of": "Wed Oct 28, 7:17pm MT",
    "news": [
+    {
+     "title": "What Is Going On With MARA Stock After Its Steep Fall?",
+     "link": "https://www.trefis.com/stock/mara/articles/620984/what-is-going-on-with-mara-stock-after-its-steep-fall/2026-10-28?.tsrc=rss",
+     "when": "Wed Oct 28, 6:14pm MT"
+    },
     {
      "title": "Datavault AI Stock Jumps 31% Even as Its Bitcoin Sits Stuck at Biconomy",
      "link": "https://unchainedcrypto.com/datavault-ai-stock-jumps-31-even-as-its-bitcoin-sits-stuck-at-biconomy/?.tsrc=rss",
@@ -443,11 +443,6 @@
      "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
      "link": "https://www.fool.com/investing/2026/10/28/3-reasons-why-bitcoin-is-worth-buying-right-now/?.tsrc=rss",
      "when": "Wed Oct 28, 5:29pm MT"
-    },
-    {
-     "title": "Fed Holds Rates, but Warsh Is Shrinking Its Rate-Setting Calendar",
-     "link": "https://beincrypto.com/fed-rate-setting-calendar-warsh-2027/?.tsrc=rss",
-     "when": "Wed Oct 28, 5:20pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -491,10 +486,10 @@
    "as_of": "Wed Oct 28, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.17,
-   "chg_pct": -0.023487005,
-   "chg": -0.024002075,
-   "as_of": "Wed Oct 28, 6:07pm MT"
+   "price": 102.252,
+   "chg_pct": 0.05675404,
+   "chg": 0.057998657,
+   "as_of": "Wed Oct 28, 7:07pm MT"
   },
   "^GSPC": {
    "price": 7743.98,
@@ -652,34 +647,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 965.26,
-   "oracle": 964.84,
-   "prev": 940.47,
-   "funding": 4.14276e-05,
-   "oi": 104034.508,
-   "oi_usd": 100420349.19208,
-   "vol": 275125488.42346,
-   "rsi14": 53.453612114896785,
-   "ema20": 963.8836826261718,
-   "ema50": 947.0166689667998,
+   "mark": 960.45,
+   "oracle": 960.0,
+   "prev": 950.71,
+   "funding": 1.46345e-05,
+   "oi": 105812.132,
+   "oi_usd": 101627262.1794,
+   "vol": 263107111.16276005,
+   "rsi14": 50.323592519609115,
+   "ema20": 963.3311493596725,
+   "ema50": 947.4694365419949,
    "hi24": 990.21,
-   "lo24": 948.1
+   "lo24": 953.1
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 144.07,
-   "oracle": 143.98,
-   "prev": 149.2,
-   "funding": 4.78692e-05,
-   "oi": 1107692.4200000013,
-   "oi_usd": 159585246.9494002,
-   "vol": 99623135.15059991,
-   "rsi14": 32.83106081173308,
-   "ema20": 145.87188763383227,
-   "ema50": 147.20661631028884,
+   "mark": 143.89,
+   "oracle": 143.79,
+   "prev": 149.23,
+   "funding": 1.40317e-05,
+   "oi": 1105554.2399999993,
+   "oi_usd": 159078199.5935999,
+   "vol": 99863360.66129988,
+   "rsi14": 31.95620580741101,
+   "ema20": 145.68753651423827,
+   "ema50": 147.0798745464052,
    "hi24": 150.26,
    "lo24": 142.3
   },
@@ -691,16 +686,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 402.0,
-   "oracle": 402.05,
-   "prev": 407.68,
+   "mark": 401.18,
+   "oracle": 401.17,
+   "prev": 406.1,
    "funding": 6.25e-06,
-   "oi": 113185.336,
-   "oi_usd": 45500505.072,
-   "vol": 43058755.30485,
-   "rsi14": 43.784363984754265,
-   "ema20": 403.78972398707185,
-   "ema50": 400.6676488998037,
+   "oi": 112942.616,
+   "oi_usd": 45310318.68688,
+   "vol": 41134239.54230999,
+   "rsi14": 41.56306225801257,
+   "ema20": 403.49877818930065,
+   "ema50": 400.67351526642597,
    "hi24": 412.51,
    "lo24": 397.32
   },
@@ -726,20 +721,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 81251.0,
-   "oracle": 81280.0,
-   "prev": 80778.0,
+   "mark": 80980.0,
+   "oracle": 81008.0,
+   "prev": 80624.0,
    "funding": 1.25e-05,
-   "oi": 43721.44302,
-   "oi_usd": 3552410966.81802,
-   "vol": 2233981323.3634048,
-   "rsi14": 56.43693743601738,
-   "ema20": 81063.01610532236,
-   "ema50": 80793.92501983202,
+   "oi": 43595.46424,
+   "oi_usd": 3530360694.1552,
+   "vol": 2154986368.990486,
+   "rsi14": 50.17579747989665,
+   "ema20": 81040.22264333193,
+   "ema50": 80797.1802023207,
    "hi24": 81804.0,
    "lo24": 80362.0
   },
-  "_at": 1793233072
+  "_at": 1793236676
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 28, 2:58pm MT",
