@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T19:17:53.717009-06:00",
- "generated_mt": "Wed Oct 28 2026, 7:17pm MT",
+ "generated_at": "2026-10-28T20:22:34.286948-06:00",
+ "generated_mt": "Wed Oct 28 2026, 8:22pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -79,6 +79,11 @@
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
     {
+     "title": "SPCX Stock Slips Overnight: T-Mobile CEO Again Rejects SpaceX Mobile Network Deal",
+     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-t-mobile-ceo-again-rejects-spacex-mobile-network-deal/cZUQE8WR9GD?.tsrc=rss",
+     "when": "Wed Oct 28, 8:13pm MT"
+    },
+    {
      "title": "History Shows IPO Stocks Plunge Up to 48% Within 1 Year of Going Public. Here's Why SpaceX Could Defy the Odds in 2027.",
      "link": "https://www.fool.com/investing/2026/10/28/history-shows-ipo-stocks-can-plunge-55-within-1-ye/?.tsrc=rss",
      "when": "Wed Oct 28, 5:20pm MT"
@@ -92,11 +97,6 @@
      "title": "Not Space. Not Starlink. Here's My Top Reason to Buy SpaceX Stock.",
      "link": "https://www.fool.com/investing/2026/10/28/not-space-not-starlink-heres-my-top-reason-to-buy/?.tsrc=rss",
      "when": "Wed Oct 28, 4:23pm MT"
-    },
-    {
-     "title": "How SpaceX Hurt Alphabet\u2019s Third-Quarter Earnings",
-     "link": "https://finance.yahoo.com/m/eb0b6d60-bc93-3c2f-9186-d1300c87e9d7/how-spacex-hurt-alphabet%E2%80%99s.html?.tsrc=rss",
-     "when": "Wed Oct 28, 3:58pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -130,6 +130,11 @@
    "as_of": "Wed Oct 28, 2:00pm MT",
    "news": [
     {
+     "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+     "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-010409773.html?.tsrc=rss",
+     "when": "Wed Oct 28, 7:04pm MT"
+    },
+    {
      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
      "link": "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
      "when": "Wed Oct 28, 6:08pm MT"
@@ -143,11 +148,6 @@
      "title": "Elon Musk once backed Buffett\u2019s 5-minute fix for national debt: \u2018This is the way\u2019",
      "link": "https://www.thestreet.com/economy/elon-musk-backs-warren-buffett-3-percent-gdp-limit-to-fix-national-debt-deficit?.tsrc=rss",
      "when": "Wed Oct 28, 12:45pm MT"
-    },
-    {
-     "title": "History Shows That Buying the Dip Can Yield Huge Profits. Consider Snapping Up These 3 $100+ Stocks Here.",
-     "link": "https://www.barchart.com/story/news/8508656/history-shows-that-buying-the-dip-can-yield-huge-profits-consider-snapping-up-these-3-100-stocks-here?.tsrc=rss",
-     "when": "Wed Oct 28, 12:32pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -408,22 +408,27 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 80904.78,
-   "chg_pct": 0.09698643,
-   "chg": 78.390625,
+   "price": 79901.55,
+   "chg_pct": -1.1333599,
+   "chg": -915.9531,
    "lo52": 57747.766,
    "hi52": 113642.73,
-   "mcap": 1625746702336,
+   "mcap": 1605852069888,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 80861.08,
+   "day_lo": 79848.16,
    "day_hi": 81262.04,
-   "as_of": "Wed Oct 28, 7:17pm MT",
+   "as_of": "Wed Oct 28, 8:22pm MT",
    "news": [
+    {
+     "title": "Bitcoin Controls 59.5% of the Crypto Market. Is Altcoin Season Still Possible?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/28/bitcoin-controls-59-5-of-the-crypto-market-is-altcoin-season-still-possible/?.tsrc=rss",
+     "when": "Wed Oct 28, 7:41pm MT"
+    },
     {
      "title": "What Is Going On With MARA Stock After Its Steep Fall?",
      "link": "https://www.trefis.com/stock/mara/articles/620984/what-is-going-on-with-mara-stock-after-its-steep-fall/2026-10-28?.tsrc=rss",
@@ -438,11 +443,6 @@
      "title": "Could Bitcoin Price Crash Like Silver? Warning Signs Are Showing",
      "link": "https://beincrypto.com/bitcoin-price-warning-sign-silver-crash/?.tsrc=rss",
      "when": "Wed Oct 28, 5:32pm MT"
-    },
-    {
-     "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
-     "link": "https://www.fool.com/investing/2026/10/28/3-reasons-why-bitcoin-is-worth-buying-right-now/?.tsrc=rss",
-     "when": "Wed Oct 28, 5:29pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -486,10 +486,10 @@
    "as_of": "Wed Oct 28, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 102.252,
-   "chg_pct": 0.05675404,
-   "chg": 0.057998657,
-   "as_of": "Wed Oct 28, 7:07pm MT"
+   "price": 102.09,
+   "chg_pct": -0.10177105,
+   "chg": -0.104003906,
+   "as_of": "Wed Oct 28, 8:12pm MT"
   },
   "^GSPC": {
    "price": 7743.98,
@@ -647,34 +647,34 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 960.45,
-   "oracle": 960.0,
-   "prev": 950.71,
-   "funding": 1.46345e-05,
-   "oi": 105812.132,
-   "oi_usd": 101627262.1794,
-   "vol": 263107111.16276005,
-   "rsi14": 50.323592519609115,
-   "ema20": 963.3311493596725,
-   "ema50": 947.4694365419949,
+   "mark": 946.17,
+   "oracle": 945.86,
+   "prev": 955.35,
+   "funding": 1.19642e-05,
+   "oi": 106019.27,
+   "oi_usd": 100312252.6959,
+   "vol": 258420953.12974998,
+   "rsi14": 42.16857035612549,
+   "ema20": 960.8236189862288,
+   "ema50": 947.0598550431798,
    "hi24": 990.21,
-   "lo24": 953.1
+   "lo24": 940.49
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 143.89,
-   "oracle": 143.79,
-   "prev": 149.23,
-   "funding": 1.40317e-05,
-   "oi": 1105554.2399999993,
-   "oi_usd": 159078199.5935999,
-   "vol": 99863360.66129988,
-   "rsi14": 31.95620580741101,
-   "ema20": 145.68753651423827,
-   "ema50": 147.0798745464052,
+   "mark": 143.03,
+   "oracle": 142.93,
+   "prev": 149.27,
+   "funding": 2.39623e-05,
+   "oi": 1110443.4999999998,
+   "oi_usd": 158826733.80499998,
+   "vol": 102581111.98030005,
+   "rsi14": 29.644588307090174,
+   "ema20": 145.34586686535388,
+   "ema50": 146.88298971909288,
    "hi24": 150.26,
    "lo24": 142.3
   },
@@ -686,16 +686,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 401.18,
-   "oracle": 401.17,
-   "prev": 406.1,
+   "mark": 398.65,
+   "oracle": 398.5,
+   "prev": 406.44,
    "funding": 6.25e-06,
-   "oi": 112942.616,
-   "oi_usd": 45310318.68688,
-   "vol": 41134239.54230999,
-   "rsi14": 41.56306225801257,
-   "ema20": 403.49877818930065,
-   "ema50": 400.67351526642597,
+   "oi": 114672.974,
+   "oi_usd": 45714381.085099995,
+   "vol": 42088447.24061998,
+   "rsi14": 35.33359522769982,
+   "ema20": 402.863974357596,
+   "ema50": 400.5190922294987,
    "hi24": 412.51,
    "lo24": 397.32
   },
@@ -721,20 +721,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 80980.0,
-   "oracle": 81008.0,
-   "prev": 80624.0,
+   "mark": 79985.2,
+   "oracle": 80018.0,
+   "prev": 80902.0,
    "funding": 1.25e-05,
-   "oi": 43595.46424,
-   "oi_usd": 3530360694.1552,
-   "vol": 2154986368.990486,
-   "rsi14": 50.17579747989665,
-   "ema20": 81040.22264333193,
-   "ema50": 80797.1802023207,
+   "oi": 43314.17402,
+   "oi_usd": 3464492871.824504,
+   "vol": 2280645293.711607,
+   "rsi14": 35.17687928567908,
+   "ema20": 80852.86846360916,
+   "ema50": 80727.86438642003,
    "hi24": 81804.0,
-   "lo24": 80362.0
+   "lo24": 79841.0
   },
-  "_at": 1793236676
+  "_at": 1793240558
  },
  "xdrivers": {
   "generated_mt": "Wed Oct 28, 2:58pm MT",
