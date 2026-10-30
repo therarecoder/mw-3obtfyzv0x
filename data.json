@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T20:31:23.674670-06:00",
- "generated_mt": "Thu Oct 29 2026, 8:31pm MT",
+ "generated_at": "2026-10-29T21:31:29.889147-06:00",
+ "generated_mt": "Thu Oct 29 2026, 9:31pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,7 +22,7 @@
    "lo52": 192.59,
    "hi52": 1255.0,
    "mcap": 1057054785536,
-   "pe": 12.569219,
+   "pe": 13.227666,
    "fpe": 4.495911,
    "post": 902.25,
    "post_pct": -3.4272768,
@@ -84,6 +84,11 @@
    "as_of": "Thu Oct 29, 2:00pm MT",
    "news": [
     {
+     "title": "Tesla-SpaceX Merger \u2018Does Make Strategic Sense,\u2019 Analyst Says \u2014 But SpaceX Needs Nearly 2x The Growth",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
+     "when": "Thu Oct 29, 8:44pm MT"
+    },
+    {
      "title": "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-accounts-over-third-spacex-014451805.html?.tsrc=rss",
      "when": "Thu Oct 29, 7:44pm MT"
@@ -97,11 +102,6 @@
      "title": "How Much Anthropic Matters to SpaceX and Other Gems From SpaceX\u2019s Filing",
      "link": "https://finance.yahoo.com/m/c55955fb-2fe2-3d22-b550-e4153e867414/how-much-anthropic-matters-to.html?.tsrc=rss",
      "when": "Thu Oct 29, 3:03pm MT"
-    },
-    {
-     "title": "SpaceX Wins Target Lift On AI, Data Center Growth. But Is It A Buy?",
-     "link": "https://finance.yahoo.com/m/660c7337-ed05-359d-9a1b-ba3c35c58d47/spacex-wins-target-lift-on.html?.tsrc=rss",
-     "when": "Thu Oct 29, 2:59pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -135,6 +135,11 @@
    "as_of": "Thu Oct 29, 2:00pm MT",
    "news": [
     {
+     "title": "Tesla-SpaceX Merger \u2018Does Make Strategic Sense,\u2019 Analyst Says \u2014 But SpaceX Needs Nearly 2x The Growth",
+     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
+     "when": "Thu Oct 29, 8:44pm MT"
+    },
+    {
      "title": "Barclays sees major Tesla upside for retirement investors",
      "link": "https://www.thestreet.com/retirement/barclays-tesla-spacex-merger-401k-index-fund-exposure?.tsrc=rss",
      "when": "Thu Oct 29, 11:47am MT"
@@ -148,11 +153,6 @@
      "title": "Tesla Stock Gets Dragged Down by Alphabet\u2019s Misery",
      "link": "https://finance.yahoo.com/m/538805bb-efe9-3dce-af1e-783f67bd3993/tesla-stock-gets-dragged-down.html?.tsrc=rss",
      "when": "Thu Oct 29, 9:39am MT"
-    },
-    {
-     "title": "Musk Says A Tesla-SpaceX Merger Is \u201cA Good Idea,\u201d But Admits It Would Require 1.98 Billion \u201cYes\u201d Votes. He Calls It \u201cQuite A High Hurdle\u201d",
-     "link": "https://247wallst.com/investing/2026/10/29/musk-says-a-tesla-spacex-merger-is-a-good-idea-but-admits-it-would-require-1-98-billion-yes-votes-he-calls-it-quite-a-high-hurdle/?.tsrc=rss",
-     "when": "Thu Oct 29, 8:42am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 77179.71,
-   "chg_pct": -3.3517249,
-   "chg": -2676.5625,
+   "price": 77514.45,
+   "chg_pct": -2.786642,
+   "chg": -2221.9688,
    "lo52": 57747.766,
    "hi52": 111612.35,
-   "mcap": 1553073307648,
+   "mcap": 1556396638208,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -427,27 +427,27 @@
    "pre_pct": null,
    "day_lo": 76418.336,
    "day_hi": 77825.0,
-   "as_of": "Thu Oct 29, 8:31pm MT",
+   "as_of": "Thu Oct 29, 9:31pm MT",
    "news": [
     {
      "title": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html?.tsrc=rss",
-     "when": "Thu Oct 29, 8:24pm MT"
+     "when": "Thu Oct 29, 9:04pm MT"
+    },
+    {
+     "title": "Tech firms take fresh hit as earnings misses fan AI fears",
+     "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
+     "when": "Thu Oct 29, 8:49pm MT"
+    },
+    {
+     "title": "$5,000 in XRP or $5,000 in Bitcoin: Claude AI Says Which Could Be Worth More by 2028",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/29/5000-in-xrp-or-5000-in-bitcoin-claude-ai-says-which-could-be-worth-more-by-2028/?.tsrc=rss",
+     "when": "Thu Oct 29, 8:47pm MT"
     },
     {
      "title": "Bitcoin Bulls Take the Biggest Hit in a $1.49 Billion Crypto Liquidation Day",
      "link": "https://beincrypto.com/crypto-liquidations-bitcoin-longs-binance-hack/?.tsrc=rss",
      "when": "Thu Oct 29, 7:49pm MT"
-    },
-    {
-     "title": "Why Is MSTR Stock Falling More Than 6% Overnight?",
-     "link": "https://stocktwits.com/news-articles/markets/equity/why-is-mstr-stock-falling-more-than-6-overnight/cZUhfW9R9R0?.tsrc=rss",
-     "when": "Thu Oct 29, 7:20pm MT"
-    },
-    {
-     "title": "Bitcoin Is Beating the S&P 500, so Why Is $85,000 Still Out of Reach?",
-     "link": "https://beincrypto.com/bitcoin-outperforms-sp500-below-85000/?.tsrc=rss",
-     "when": "Thu Oct 29, 6:45pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -491,16 +491,16 @@
    "as_of": "Thu Oct 29, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.75,
-   "chg_pct": -0.28127304,
-   "chg": -0.28700256,
-   "as_of": "Thu Oct 29, 8:21pm MT"
+   "price": 101.694,
+   "chg_pct": -0.33614826,
+   "chg": -0.34300232,
+   "as_of": "Thu Oct 29, 9:21pm MT"
   },
   "^GSPC": {
    "price": 7720.39,
    "chg_pct": -0.3046217,
    "chg": -23.589844,
-   "as_of": "Thu Oct 29, 2:32pm MT"
+   "as_of": "Thu Oct 29, 2:00pm MT"
   },
   "^NDX": {
    "price": 29402.508,
@@ -652,16 +652,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 896.83,
-   "oracle": 896.2,
-   "prev": 945.64,
-   "funding": 1.45476e-05,
-   "oi": 98254.284,
-   "oi_usd": 88117389.51972,
-   "vol": 213106737.57823005,
-   "rsi14": 30.17949230084598,
-   "ema20": 923.3029832228349,
-   "ema50": 935.5932749382129,
+   "mark": 899.18,
+   "oracle": 898.62,
+   "prev": 945.1,
+   "funding": 2.89209e-05,
+   "oi": 98850.086,
+   "oi_usd": 88884020.32947999,
+   "vol": 213405672.5746,
+   "rsi14": 32.012419635990696,
+   "ema20": 921.1621770133727,
+   "ema50": 934.2653737164663,
    "hi24": 970.53,
    "lo24": 886.36
   },
@@ -670,16 +670,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 139.56,
-   "oracle": 139.43,
-   "prev": 142.89,
-   "funding": 3.21965e-05,
-   "oi": 1148377.2599999988,
-   "oi_usd": 160267530.40559983,
-   "vol": 140740464.14509988,
-   "rsi14": 29.522575909966946,
-   "ema20": 142.16602747832536,
-   "ema50": 144.15202964459212,
+   "mark": 140.07,
+   "oracle": 139.95,
+   "prev": 143.04,
+   "funding": 2.3546e-05,
+   "oi": 1148191.9599999993,
+   "oi_usd": 160827247.8371999,
+   "vol": 142454875.3521998,
+   "rsi14": 33.7570453653025,
+   "ema20": 141.98019381756265,
+   "ema50": 143.99963791115795,
    "hi24": 145.0,
    "lo24": 138.23
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 395.18,
-   "oracle": 395.09,
-   "prev": 398.53,
+   "mark": 396.12,
+   "oracle": 396.11,
+   "prev": 398.49,
    "funding": 6.25e-06,
-   "oi": 106306.15,
-   "oi_usd": 42010064.357,
-   "vol": 39768125.37374,
-   "rsi14": 36.497456475904286,
-   "ema20": 399.59560773441876,
-   "ema50": 400.38323695435884,
+   "oi": 104452.308,
+   "oi_usd": 41375648.24496,
+   "vol": 41249828.49252999,
+   "rsi14": 39.55152315770035,
+   "ema20": 399.3275021147537,
+   "ema50": 400.246637758484,
    "hi24": 406.83,
    "lo24": 392.96
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 77357.0,
-   "oracle": 77377.0,
-   "prev": 79914.0,
+   "mark": 77707.0,
+   "oracle": 77733.0,
+   "prev": 79804.0,
    "funding": 1.25e-05,
-   "oi": 42581.41952,
-   "oi_usd": 3293970869.80864,
-   "vol": 5747081217.756488,
-   "rsi14": 30.49280658233525,
-   "ema20": 79268.67422955902,
-   "ema50": 79980.50623598382,
+   "oi": 42915.79098,
+   "oi_usd": 3334857369.68286,
+   "vol": 5751434626.245848,
+   "rsi14": 34.36078668591195,
+   "ema20": 79121.46228370332,
+   "ema50": 79891.50895777557,
    "hi24": 81955.0,
    "lo24": 76443.0
   },
-  "_at": 1793327488
+  "_at": 1793331095
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 29, 2:58pm MT",
