@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T22:31:37.129635-06:00",
- "generated_mt": "Thu Oct 29 2026, 10:31pm MT",
+ "generated_at": "2026-10-29T23:31:45.311724-06:00",
+ "generated_mt": "Thu Oct 29 2026, 11:31pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -22,7 +22,7 @@
    "lo52": 192.59,
    "hi52": 1255.0,
    "mcap": 1057054785536,
-   "pe": 13.227666,
+   "pe": 12.569219,
    "fpe": 4.495911,
    "post": 902.25,
    "post_pct": -3.4272768,
@@ -135,6 +135,11 @@
    "as_of": "Thu Oct 29, 2:00pm MT",
    "news": [
     {
+     "title": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter \u2014 How It Stacks Up With MSFT, TSLA, GOOGL",
+     "link": "https://stocktwits.com/news-articles/markets/equity/big-tech-capex-scorecard-amazon-spends-over-77-b-in-one-quarter-how-it-stacks-up-with-msft-tsla-googl/cZUh1oAR9Rr?.tsrc=rss",
+     "when": "Thu Oct 29, 11:16pm MT"
+    },
+    {
      "title": "Tesla-SpaceX Merger \u2018Does Make Strategic Sense,\u2019 Analyst Says \u2014 But SpaceX Needs Nearly 2x The Growth",
      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
      "when": "Thu Oct 29, 8:44pm MT"
@@ -148,11 +153,6 @@
      "title": "Tesla Just Gained 13% in a Month: Take Profits, or Buy More?",
      "link": "https://www.tikr.com/blog/tesla-just-gained-13-in-a-month-take-profits-or-buy-more?ref=yahoofinance&.tsrc=rss",
      "when": "Thu Oct 29, 11:34am MT"
-    },
-    {
-     "title": "Tesla Stock Gets Dragged Down by Alphabet\u2019s Misery",
-     "link": "https://finance.yahoo.com/m/538805bb-efe9-3dce-af1e-783f67bd3993/tesla-stock-gets-dragged-down.html?.tsrc=rss",
-     "when": "Thu Oct 29, 9:39am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -222,7 +222,7 @@
    "lo52": 22.21,
    "hi52": 52.1,
    "mcap": 2417256192,
-   "pe": 48.705883,
+   "pe": 49.68,
    "fpe": 6.946911,
    "post": 24.55,
    "post_pct": -1.1674755,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 78226.17,
-   "chg_pct": -2.3864882,
-   "chg": -1912.5,
+   "price": 78445.89,
+   "chg_pct": -2.0843084,
+   "chg": -1669.8594,
    "lo52": 57747.766,
    "hi52": 111612.35,
-   "mcap": 1570401812480,
+   "mcap": 1578097704960,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -426,9 +426,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 76418.336,
-   "day_hi": 78109.086,
-   "as_of": "Thu Oct 29, 10:31pm MT",
+   "day_hi": 78491.375,
+   "as_of": "Thu Oct 29, 11:31pm MT",
    "news": [
+    {
+     "title": "Bitcoin Is Getting Boring, and That's the Bull Case, Says Market Analyst James Check",
+     "link": "https://beincrypto.com/bitcoin-boring-bull-case-james-check/?.tsrc=rss",
+     "when": "Thu Oct 29, 11:00pm MT"
+    },
     {
      "title": "Every Crypto is Down, Except HyperLiquid. Why?",
      "link": "https://beincrypto.com/hyperliquid-rises-crypto-falls-ice-druckenmiller/?.tsrc=rss",
@@ -443,11 +448,6 @@
      "title": "Tech firms take fresh hit as earnings misses fan AI fears",
      "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
      "when": "Thu Oct 29, 8:49pm MT"
-    },
-    {
-     "title": "$5,000 in XRP or $5,000 in Bitcoin: Claude AI Says Which Could Be Worth More by 2028",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/29/5000-in-xrp-or-5000-in-bitcoin-claude-ai-says-which-could-be-worth-more-by-2028/?.tsrc=rss",
-     "when": "Thu Oct 29, 8:47pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -486,15 +486,15 @@
   },
   "^VIX": {
    "price": 17.2,
-   "chg_pct": -49.574905,
-   "chg": -16.91,
+   "chg_pct": 1.714967,
+   "chg": 0.29000092,
    "as_of": "Thu Oct 29, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.762,
-   "chg_pct": -0.26951158,
-   "chg": -0.27500153,
-   "as_of": "Thu Oct 29, 10:21pm MT"
+   "price": 101.829,
+   "chg_pct": -0.2038478,
+   "chg": -0.20800018,
+   "as_of": "Thu Oct 29, 11:21pm MT"
   },
   "^GSPC": {
    "price": 7720.39,
@@ -652,16 +652,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 909.99,
-   "oracle": 909.55,
-   "prev": 950.54,
-   "funding": 1.90993e-05,
-   "oi": 99525.56,
-   "oi_usd": 90567264.3444,
-   "vol": 214812213.11741,
-   "rsi14": 40.18205992214457,
-   "ema20": 920.4735826830994,
-   "ema50": 933.4815121317106,
+   "mark": 903.97,
+   "oracle": 903.59,
+   "prev": 958.85,
+   "funding": 1.44127e-05,
+   "oi": 99721.1720000001,
+   "oi_usd": 90144947.85284008,
+   "vol": 214459324.3360401,
+   "rsi14": 36.852095057344485,
+   "ema20": 918.723436750973,
+   "ema50": 932.2335617280215,
    "hi24": 970.53,
    "lo24": 886.36
   },
@@ -670,16 +670,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 140.8,
-   "oracle": 140.71,
-   "prev": 143.71,
-   "funding": 2.5026e-05,
-   "oi": 1148445.88,
-   "oi_usd": 161701179.90399998,
-   "vol": 142960547.769,
-   "rsi14": 39.44292197984779,
-   "ema20": 141.90158373108267,
-   "ema50": 143.89244289867509,
+   "mark": 140.42,
+   "oracle": 140.31,
+   "prev": 144.19,
+   "funding": 3.27853e-05,
+   "oi": 1153044.18,
+   "oi_usd": 161910463.75559998,
+   "vol": 143767430.33920002,
+   "rsi14": 36.768717145064564,
+   "ema20": 141.73848400805196,
+   "ema50": 143.7452709489562,
    "hi24": 145.0,
    "lo24": 138.23
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 397.06,
-   "oracle": 397.03,
-   "prev": 399.15,
+   "mark": 396.17,
+   "oracle": 396.13,
+   "prev": 401.61,
    "funding": 6.25e-06,
-   "oi": 103978.116,
-   "oi_usd": 41285550.73896,
-   "vol": 42516796.31752,
-   "rsi14": 42.21331998277686,
-   "ema20": 399.129101653535,
-   "ema50": 400.1310720314386,
+   "oi": 103292.126,
+   "oi_usd": 40921241.55742,
+   "vol": 42466256.33680999,
+   "rsi14": 39.72118505286105,
+   "ema20": 398.7881434109661,
+   "ema50": 399.94899543237483,
    "hi24": 406.83,
    "lo24": 392.96
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 78399.0,
-   "oracle": 78424.0,
-   "prev": 79893.0,
+   "mark": 78596.0,
+   "oracle": 78625.0,
+   "prev": 80347.0,
    "funding": 1.25e-05,
-   "oi": 42972.22356,
-   "oi_usd": 3368979354.8804398,
-   "vol": 5999255858.583718,
-   "rsi14": 41.40258507540101,
-   "ema20": 79095.09665748215,
-   "ema50": 79852.09331018703,
+   "oi": 42891.85178,
+   "oi_usd": 3371127982.50088,
+   "vol": 6061445580.900189,
+   "rsi14": 43.566737250861586,
+   "ema20": 79033.462064043,
+   "ema50": 79794.04606145034,
    "hi24": 81955.0,
    "lo24": 76443.0
   },
-  "_at": 1793334703
+  "_at": 1793338312
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 29, 2:58pm MT",
