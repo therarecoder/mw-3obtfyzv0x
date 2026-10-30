@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T23:31:45.311724-06:00",
- "generated_mt": "Thu Oct 29 2026, 11:31pm MT",
+ "generated_at": "2026-10-30T00:33:42.379211-06:00",
+ "generated_mt": "Fri Oct 30 2026, 12:33am MT",
  "market_open": false,
  "watchlist": [
   {
@@ -84,6 +84,11 @@
    "as_of": "Thu Oct 29, 2:00pm MT",
    "news": [
     {
+     "title": "Stocktwits Space Race Monthly: SPCX Holds Up Better Than ASTS, RKLB And PL In October \u2014 But VSAT Takes The Crown",
+     "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-space-race-monthly-spcx-asts-rklb-pl-october-vsat-crown/cZUhSakR9RM?.tsrc=rss",
+     "when": "Thu Oct 29, 11:39pm MT"
+    },
+    {
      "title": "Tesla-SpaceX Merger \u2018Does Make Strategic Sense,\u2019 Analyst Says \u2014 But SpaceX Needs Nearly 2x The Growth",
      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
      "when": "Thu Oct 29, 8:44pm MT"
@@ -97,11 +102,6 @@
      "title": "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-accounts-over-third-spacex-014451805.html?.tsrc=rss",
      "when": "Thu Oct 29, 7:44pm MT"
-    },
-    {
-     "title": "SPCX, ASTS, RKLB Slide Overnight: Amazon Reaffirms 2026 Satellite Service Debut \u2014 Retail Weighs Competitive Threat",
-     "link": "https://stocktwits.com/news-articles/markets/equity/spcx-asts-rklb-amazon-reaffirms-2026-satellite-service-debut-retail-competitive-threat/cZUhfAvR9R1?.tsrc=rss",
-     "when": "Thu Oct 29, 7:34pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 78445.89,
-   "chg_pct": -2.0843084,
-   "chg": -1669.8594,
+   "price": 78430.72,
+   "chg_pct": -1.7767231,
+   "chg": -1418.7031,
    "lo52": 57747.766,
    "hi52": 111612.35,
-   "mcap": 1578097704960,
+   "mcap": 1578846912512,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -426,8 +426,8 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 76418.336,
-   "day_hi": 78491.375,
-   "as_of": "Thu Oct 29, 11:31pm MT",
+   "day_hi": 78564.94,
+   "as_of": "Fri Oct 30, 12:33am MT",
    "news": [
     {
      "title": "Bitcoin Is Getting Boring, and That's the Bull Case, Says Market Analyst James Check",
@@ -491,10 +491,10 @@
    "as_of": "Thu Oct 29, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.829,
-   "chg_pct": -0.2038478,
-   "chg": -0.20800018,
-   "as_of": "Thu Oct 29, 11:21pm MT"
+   "price": 101.797,
+   "chg_pct": -0.23521417,
+   "chg": -0.2400055,
+   "as_of": "Fri Oct 30, 12:23am MT"
   },
   "^GSPC": {
    "price": 7720.39,
@@ -652,16 +652,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 903.97,
-   "oracle": 903.59,
-   "prev": 958.85,
-   "funding": 1.44127e-05,
-   "oi": 99721.1720000001,
-   "oi_usd": 90144947.85284008,
-   "vol": 214459324.3360401,
-   "rsi14": 36.852095057344485,
-   "ema20": 918.723436750973,
-   "ema50": 932.2335617280215,
+   "mark": 904.58,
+   "oracle": 904.34,
+   "prev": 952.1,
+   "funding": 1.69391e-05,
+   "oi": 99803.596,
+   "oi_usd": 90280336.86968,
+   "vol": 214472680.8877699,
+   "rsi14": 38.411537514479605,
+   "ema20": 917.0936955989387,
+   "ema50": 930.988054459531,
    "hi24": 970.53,
    "lo24": 886.36
   },
@@ -670,16 +670,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 140.42,
-   "oracle": 140.31,
-   "prev": 144.19,
-   "funding": 3.27853e-05,
-   "oi": 1153044.18,
-   "oi_usd": 161910463.75559998,
-   "vol": 143767430.33920002,
-   "rsi14": 36.768717145064564,
-   "ema20": 141.73848400805196,
-   "ema50": 143.7452709489562,
+   "mark": 140.28,
+   "oracle": 140.18,
+   "prev": 144.05,
+   "funding": 3.29719e-05,
+   "oi": 1157219.819999999,
+   "oi_usd": 162334796.34959984,
+   "vol": 144551294.70959997,
+   "rsi14": 37.121888379905464,
+   "ema20": 141.57458996063366,
+   "ema50": 143.59536964266331,
    "hi24": 145.0,
    "lo24": 138.23
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 396.17,
-   "oracle": 396.13,
-   "prev": 401.61,
+   "mark": 396.24,
+   "oracle": 396.21,
+   "prev": 401.15,
    "funding": 6.25e-06,
-   "oi": 103292.126,
-   "oi_usd": 40921241.55742,
-   "vol": 42466256.33680999,
-   "rsi14": 39.72118505286105,
-   "ema20": 398.7881434109661,
-   "ema50": 399.94899543237483,
+   "oi": 103018.652,
+   "oi_usd": 40820110.66848,
+   "vol": 42225868.370490015,
+   "rsi14": 40.88678370805437,
+   "ema20": 398.4812418216628,
+   "ema50": 399.77044988493446,
    "hi24": 406.83,
    "lo24": 392.96
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 78596.0,
-   "oracle": 78625.0,
-   "prev": 80347.0,
+   "mark": 78561.0,
+   "oracle": 78591.0,
+   "prev": 80111.0,
    "funding": 1.25e-05,
-   "oi": 42891.85178,
-   "oi_usd": 3371127982.50088,
-   "vol": 6061445580.900189,
-   "rsi14": 43.566737250861586,
-   "ema20": 79033.462064043,
-   "ema50": 79794.04606145034,
+   "oi": 42753.18868,
+   "oi_usd": 3358733255.88948,
+   "vol": 6155067693.521838,
+   "rsi14": 43.059143705933025,
+   "ema20": 78980.38793005454,
+   "ema50": 79741.24408163232,
    "hi24": 81955.0,
    "lo24": 76443.0
   },
-  "_at": 1793338312
+  "_at": 1793342029
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 29, 2:58pm MT",
