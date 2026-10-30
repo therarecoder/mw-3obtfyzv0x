@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T21:31:29.889147-06:00",
- "generated_mt": "Thu Oct 29 2026, 9:31pm MT",
+ "generated_at": "2026-10-29T22:31:37.129635-06:00",
+ "generated_mt": "Thu Oct 29 2026, 10:31pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -89,6 +89,11 @@
      "when": "Thu Oct 29, 8:44pm MT"
     },
     {
+     "title": "Kevin O'Leary Says Anthropic IPO Offers What SpaceX Didn't: 'Could Be a Hot Trade'",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-says-anthropic-ipo-023010666.html?.tsrc=rss",
+     "when": "Thu Oct 29, 8:30pm MT"
+    },
+    {
      "title": "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-accounts-over-third-spacex-014451805.html?.tsrc=rss",
      "when": "Thu Oct 29, 7:44pm MT"
@@ -97,11 +102,6 @@
      "title": "SPCX, ASTS, RKLB Slide Overnight: Amazon Reaffirms 2026 Satellite Service Debut \u2014 Retail Weighs Competitive Threat",
      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-asts-rklb-amazon-reaffirms-2026-satellite-service-debut-retail-competitive-threat/cZUhfAvR9R1?.tsrc=rss",
      "when": "Thu Oct 29, 7:34pm MT"
-    },
-    {
-     "title": "How Much Anthropic Matters to SpaceX and Other Gems From SpaceX\u2019s Filing",
-     "link": "https://finance.yahoo.com/m/c55955fb-2fe2-3d22-b550-e4153e867414/how-much-anthropic-matters-to.html?.tsrc=rss",
-     "when": "Thu Oct 29, 3:03pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -222,7 +222,7 @@
    "lo52": 22.21,
    "hi52": 52.1,
    "mcap": 2417256192,
-   "pe": 49.68,
+   "pe": 48.705883,
    "fpe": 6.946911,
    "post": 24.55,
    "post_pct": -1.1674755,
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 77514.45,
-   "chg_pct": -2.786642,
-   "chg": -2221.9688,
+   "price": 78226.17,
+   "chg_pct": -2.3864882,
+   "chg": -1912.5,
    "lo52": 57747.766,
    "hi52": 111612.35,
-   "mcap": 1556396638208,
+   "mcap": 1570401812480,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -426,9 +426,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 76418.336,
-   "day_hi": 77825.0,
-   "as_of": "Thu Oct 29, 9:31pm MT",
+   "day_hi": 78109.086,
+   "as_of": "Thu Oct 29, 10:31pm MT",
    "news": [
+    {
+     "title": "Every Crypto is Down, Except HyperLiquid. Why?",
+     "link": "https://beincrypto.com/hyperliquid-rises-crypto-falls-ice-druckenmiller/?.tsrc=rss",
+     "when": "Thu Oct 29, 9:54pm MT"
+    },
     {
      "title": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html?.tsrc=rss",
@@ -443,11 +448,6 @@
      "title": "$5,000 in XRP or $5,000 in Bitcoin: Claude AI Says Which Could Be Worth More by 2028",
      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/29/5000-in-xrp-or-5000-in-bitcoin-claude-ai-says-which-could-be-worth-more-by-2028/?.tsrc=rss",
      "when": "Thu Oct 29, 8:47pm MT"
-    },
-    {
-     "title": "Bitcoin Bulls Take the Biggest Hit in a $1.49 Billion Crypto Liquidation Day",
-     "link": "https://beincrypto.com/crypto-liquidations-bitcoin-longs-binance-hack/?.tsrc=rss",
-     "when": "Thu Oct 29, 7:49pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -486,21 +486,21 @@
   },
   "^VIX": {
    "price": 17.2,
-   "chg_pct": 1.714967,
-   "chg": 0.29000092,
+   "chg_pct": -49.574905,
+   "chg": -16.91,
    "as_of": "Thu Oct 29, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.694,
-   "chg_pct": -0.33614826,
-   "chg": -0.34300232,
-   "as_of": "Thu Oct 29, 9:21pm MT"
+   "price": 101.762,
+   "chg_pct": -0.26951158,
+   "chg": -0.27500153,
+   "as_of": "Thu Oct 29, 10:21pm MT"
   },
   "^GSPC": {
    "price": 7720.39,
    "chg_pct": -0.3046217,
    "chg": -23.589844,
-   "as_of": "Thu Oct 29, 2:00pm MT"
+   "as_of": "Thu Oct 29, 2:32pm MT"
   },
   "^NDX": {
    "price": 29402.508,
@@ -652,16 +652,16 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 899.18,
-   "oracle": 898.62,
-   "prev": 945.1,
-   "funding": 2.89209e-05,
-   "oi": 98850.086,
-   "oi_usd": 88884020.32947999,
-   "vol": 213405672.5746,
-   "rsi14": 32.012419635990696,
-   "ema20": 921.1621770133727,
-   "ema50": 934.2653737164663,
+   "mark": 909.99,
+   "oracle": 909.55,
+   "prev": 950.54,
+   "funding": 1.90993e-05,
+   "oi": 99525.56,
+   "oi_usd": 90567264.3444,
+   "vol": 214812213.11741,
+   "rsi14": 40.18205992214457,
+   "ema20": 920.4735826830994,
+   "ema50": 933.4815121317106,
    "hi24": 970.53,
    "lo24": 886.36
   },
@@ -670,16 +670,16 @@
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 140.07,
-   "oracle": 139.95,
-   "prev": 143.04,
-   "funding": 2.3546e-05,
-   "oi": 1148191.9599999993,
-   "oi_usd": 160827247.8371999,
-   "vol": 142454875.3521998,
-   "rsi14": 33.7570453653025,
-   "ema20": 141.98019381756265,
-   "ema50": 143.99963791115795,
+   "mark": 140.8,
+   "oracle": 140.71,
+   "prev": 143.71,
+   "funding": 2.5026e-05,
+   "oi": 1148445.88,
+   "oi_usd": 161701179.90399998,
+   "vol": 142960547.769,
+   "rsi14": 39.44292197984779,
+   "ema20": 141.90158373108267,
+   "ema50": 143.89244289867509,
    "hi24": 145.0,
    "lo24": 138.23
   },
@@ -691,16 +691,16 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 396.12,
-   "oracle": 396.11,
-   "prev": 398.49,
+   "mark": 397.06,
+   "oracle": 397.03,
+   "prev": 399.15,
    "funding": 6.25e-06,
-   "oi": 104452.308,
-   "oi_usd": 41375648.24496,
-   "vol": 41249828.49252999,
-   "rsi14": 39.55152315770035,
-   "ema20": 399.3275021147537,
-   "ema50": 400.246637758484,
+   "oi": 103978.116,
+   "oi_usd": 41285550.73896,
+   "vol": 42516796.31752,
+   "rsi14": 42.21331998277686,
+   "ema20": 399.129101653535,
+   "ema50": 400.1310720314386,
    "hi24": 406.83,
    "lo24": 392.96
   },
@@ -726,20 +726,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 77707.0,
-   "oracle": 77733.0,
-   "prev": 79804.0,
+   "mark": 78399.0,
+   "oracle": 78424.0,
+   "prev": 79893.0,
    "funding": 1.25e-05,
-   "oi": 42915.79098,
-   "oi_usd": 3334857369.68286,
-   "vol": 5751434626.245848,
-   "rsi14": 34.36078668591195,
-   "ema20": 79121.46228370332,
-   "ema50": 79891.50895777557,
+   "oi": 42972.22356,
+   "oi_usd": 3368979354.8804398,
+   "vol": 5999255858.583718,
+   "rsi14": 41.40258507540101,
+   "ema20": 79095.09665748215,
+   "ema50": 79852.09331018703,
    "hi24": 81955.0,
    "lo24": 76443.0
   },
-  "_at": 1793331095
+  "_at": 1793334703
  },
  "xdrivers": {
   "generated_mt": "Thu Oct 29, 2:58pm MT",
