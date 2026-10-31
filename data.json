@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T11:30:58.917258-06:00",
- "generated_mt": "Sat Oct 31 2026, 11:30am MT",
+ "generated_at": "2026-10-31T13:00:03.800587-06:00",
+ "generated_mt": "Sat Oct 31 2026, 1:00pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -413,12 +413,12 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 77415.67,
-   "chg_pct": 0.4978949,
-   "chg": 383.53906,
+   "price": 77484.87,
+   "chg_pct": 1.3105733,
+   "chg": 1002.3594,
    "lo52": 57747.766,
    "hi52": 111167.31,
-   "mcap": 1557734227968,
+   "mcap": 1558048276480,
    "pe": null,
    "fpe": null,
    "post": null,
@@ -426,9 +426,14 @@
    "pre": null,
    "pre_pct": null,
    "day_lo": 77000.92,
-   "day_hi": 77554.92,
-   "as_of": "Sat Oct 31, 11:30am MT",
+   "day_hi": 77612.09,
+   "as_of": "Sat Oct 31, 1:00pm MT",
    "news": [
+    {
+     "title": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/binance-says-replaced-90-6-172646569.html?.tsrc=rss",
+     "when": "Sat Oct 31, 11:26am MT"
+    },
     {
      "title": "Bitcoin Looks Like A 'Relative Dud' Against Gold And US Treasuries, Says Bloomberg's Mike McGlone",
      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-looks-like-a-relative-dud-against-gold-and-treasuries/cZU1EOgR9cv?.tsrc=rss",
@@ -443,11 +448,6 @@
      "title": "Bitcoin Fatigue Is Real: James Lavish Says Early Holders Have Moved On As Young Investors Turn To Betting",
      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-fatigue-real-james-lavish/cZU1PzZR9cM?.tsrc=rss",
      "when": "Sat Oct 31, 9:20am MT"
-    },
-    {
-     "title": "Michael Saylor Compares Bitcoin\u2019s Financialization To Rockefeller\u2019s Oil And Edison\u2019s Electricity, Calls It \u2018A Good Thing\u2019",
-     "link": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-bitcoin-financialization-rockefeller-oil-edison-electricity/cZU1cQtR9cs?.tsrc=rss",
-     "when": "Sat Oct 31, 8:20am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -651,35 +651,35 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 896.33,
-   "oracle": 896.93,
-   "prev": 876.2,
-   "funding": -1.02939e-05,
-   "oi": 110727.248,
-   "oi_usd": 99248154.19984001,
-   "vol": 75343090.14994,
-   "rsi14": 49.02858380343423,
-   "ema20": 896.3728328178639,
-   "ema50": 903.2501975289271,
+   "mark": 897.81,
+   "oracle": 897.54,
+   "prev": 868.33,
+   "funding": 6.25e-06,
+   "oi": 110729.978,
+   "oi_usd": 99414481.54818,
+   "vol": 63326846.239340015,
+   "rsi14": 50.87900250922881,
+   "ema20": 896.5773951756624,
+   "ema50": 902.975369826708,
    "hi24": 903.04,
-   "lo24": 862.29
+   "lo24": 866.21
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 137.1,
-   "oracle": 137.05,
-   "prev": 136.8,
-   "funding": 1.27263e-05,
-   "oi": 1259934.1,
-   "oi_usd": 172736965.11,
-   "vol": 35793543.5479,
-   "rsi14": 45.98153850809414,
-   "ema20": 137.09079764328507,
-   "ema50": 138.67487793574787,
-   "hi24": 137.33,
+   "mark": 137.57,
+   "oracle": 137.34,
+   "prev": 135.88,
+   "funding": 9.41882e-05,
+   "oi": 1261951.3,
+   "oi_usd": 173606640.341,
+   "vol": 28025635.304400004,
+   "rsi14": 53.14796554175642,
+   "ema20": 137.18472014852588,
+   "ema50": 138.5798025835912,
+   "hi24": 137.89,
    "lo24": 134.62
   },
   "TSLA": {
@@ -690,18 +690,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 399.23,
-   "oracle": 399.2,
-   "prev": 398.91,
+   "mark": 399.13,
+   "oracle": 399.19,
+   "prev": 396.56,
    "funding": 6.25e-06,
-   "oi": 97518.746,
-   "oi_usd": 38932408.96558,
-   "vol": 13790012.513829997,
-   "rsi14": 52.0596356016631,
-   "ema20": 399.0303571109259,
-   "ema50": 399.1661142811862,
+   "oi": 97420.99,
+   "oi_usd": 38883639.7387,
+   "vol": 9970903.859670002,
+   "rsi14": 51.082783841431585,
+   "ema20": 399.03904983592633,
+   "ema50": 399.1280360364755,
    "hi24": 400.52,
-   "lo24": 393.87
+   "lo24": 395.84
   },
   "LMND": {
    "stale": []
@@ -725,20 +725,20 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 77536.0,
-   "oracle": 77532.9,
-   "prev": 77312.0,
+   "mark": 77592.0,
+   "oracle": 77583.0,
+   "prev": 76619.0,
    "funding": 1.25e-05,
-   "oi": 41063.51834,
-   "oi_usd": 3183900958.01024,
-   "vol": 1526458581.822411,
-   "rsi14": 50.233577278640546,
-   "ema20": 77454.37465524884,
-   "ema50": 77950.45008007326,
-   "hi24": 77699.0,
-   "lo24": 76264.0
+   "oi": 41236.48912,
+   "oi_usd": 3199621663.79904,
+   "vol": 1167851096.05068,
+   "rsi14": 51.441078596170044,
+   "ema20": 77490.30466600668,
+   "ema50": 77925.5216769794,
+   "hi24": 77750.0,
+   "lo24": 76567.0
   },
-  "_at": 1793467862
+  "_at": 1793473207
  },
  "xdrivers": {
   "generated_mt": "Fri Oct 30, 3:05pm MT",
