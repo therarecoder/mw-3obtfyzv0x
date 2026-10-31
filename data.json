@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T01:33:51.218760-06:00",
- "generated_mt": "Fri Oct 30 2026, 1:33am MT",
+ "generated_at": "2026-10-30T19:12:49.632949-06:00",
+ "generated_mt": "Fri Oct 30 2026, 7:12pm MT",
  "market_open": false,
  "watchlist": [
   {
@@ -16,42 +16,42 @@
     "Street: D.A. Davidson $3,000 Buy (10/7); consensus ~$1,520-1,630"
    ],
    "watch": "MU levels & catalysts, Gil Luria coverage, Gavin Baker memory views",
-   "price": 934.27,
-   "chg_pct": -4.9795,
-   "chg": -48.96,
+   "price": 884.74,
+   "chg_pct": -5.30147,
+   "chg": -49.53,
    "lo52": 192.59,
    "hi52": 1255.0,
-   "mcap": 1057054785536,
-   "pe": 12.569219,
-   "fpe": 4.495911,
-   "post": 902.25,
-   "post_pct": -3.4272768,
+   "mcap": 1001015410688,
+   "pe": 11.902865,
+   "fpe": 4.2575617,
+   "post": 889.2,
+   "post_pct": 0.5041054,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 927.24,
-   "day_hi": 971.01,
+   "day_lo": 861.585,
+   "day_hi": 906.54,
    "next_earnings": "Wed Dec 23, 2026 (est.)",
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
     {
-     "title": "Alphabet drops 12% in deepening tech and semiconductor rout",
-     "link": "https://finance.yahoo.com/video/alphabet-drops-12-in-deepening-tech-and-semiconductor-rout-202605913.html?.tsrc=rss",
-     "when": "Thu Oct 29, 2:26pm MT"
+     "title": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
+     "link": "https://247wallst.com/investing/2026/10/30/if-ai-spending-slows-in-2027-these-semiconductor-stocks-could-hold-up-best/?.tsrc=rss",
+     "when": "Fri Oct 30, 11:58am MT"
     },
     {
-     "title": "Learn Why The Bull Case For Micron Stock Could Change Following Memory Shortage Warning",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-micron-071618157.html?.tsrc=rss",
-     "when": "Fri Oct 30, 1:16am MT"
+     "title": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
+     "link": "https://www.fool.com/investing/2026/10/30/micron-became-one-of-the-10-biggest-holdings-in-s-and-p-500-index-funds-what-does-that-mean-for-the-stock/?.tsrc=rss",
+     "when": "Fri Oct 30, 11:01am MT"
     },
     {
-     "title": "Micron Is Trading for Less Than 6 Times Forward Earnings. Here's Why That's a Sign to Buy.",
-     "link": "https://www.fool.com/investing/2026/10/29/micron-is-trading-for-less-than-6x-forward-pe/?.tsrc=rss",
-     "when": "Thu Oct 29, 5:41pm MT"
+     "title": "Micron Peer Enthusiasm Entices Me To Buy Again",
+     "link": "https://247wallst.com/investing/2026/10/30/micron-peer-enthusiasm-entices-me-to-buy-again/?.tsrc=rss",
+     "when": "Fri Oct 30, 10:45am MT"
     },
     {
-     "title": "Here's Why Micron (MU) Fell More Than Broader Market",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-micron-mu-fell-204503117.html?.tsrc=rss",
-     "when": "Thu Oct 29, 2:45pm MT"
+     "title": "Why Micron Stock Dove Today",
+     "link": "https://www.fool.com/investing/2026/10/30/why-micron-stock-dove-today/?.tsrc=rss",
+     "when": "Fri Oct 30, 9:56am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/MU"
@@ -67,41 +67,36 @@
     "Watch: Starship milestones, lock-up/unlock dates, merger-process filings"
    ],
    "watch": "Tesla merger committee watch; Gavin Baker replies",
-   "price": 143.89,
-   "chg_pct": -0.922672,
-   "chg": -1.34,
+   "price": 134.72,
+   "chg_pct": -6.37292,
+   "chg": -9.17,
    "lo52": 104.83,
    "hi52": 225.64,
-   "mcap": 1954179317760,
-   "pe": 625.6087,
-   "fpe": 60.81315,
-   "post": 140.3999,
-   "post_pct": -2.4255314,
+   "mcap": 1829640994816,
+   "pe": 585.73914,
+   "fpe": 56.937576,
+   "post": 136.0277,
+   "post_pct": 0.9706751,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 141.03,
-   "day_hi": 144.95,
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "day_lo": 134.5,
+   "day_hi": 140.2,
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
     {
-     "title": "The Case Against a SpaceX and Tesla Merger",
-     "link": "https://www.fool.com/investing/2026/10/30/the-case-against-a-spacex-and-tesla-merger/?.tsrc=rss",
-     "when": "Fri Oct 30, 12:50am MT"
+     "title": "'A good marriage': Analysts react to Anthropic becoming SpaceX's top customer",
+     "link": "https://finance.yahoo.com/video/a-good-marriage-analysts-react-to-anthropic-becoming-spacexs-top-customer-180151319.html?.tsrc=rss",
+     "when": "Fri Oct 30, 12:01pm MT"
     },
     {
-     "title": "Stocktwits Space Race Monthly: SPCX Holds Up Better Than ASTS, RKLB And PL In October \u2014 But VSAT Takes The Crown",
-     "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-space-race-monthly-spcx-asts-rklb-pl-october-vsat-crown/cZUhSakR9RM?.tsrc=rss",
-     "when": "Thu Oct 29, 11:39pm MT"
+     "title": "SpaceX accuses T-Mobile, other carriers of trying to harm it",
+     "link": "https://www.thestreet.com/markets/spacex-accuses-t-mobile-other-carriers-of-trying-to-harm-it?.tsrc=rss",
+     "when": "Fri Oct 30, 5:04pm MT"
     },
     {
-     "title": "Tesla-SpaceX Merger \u2018Does Make Strategic Sense,\u2019 Analyst Says \u2014 But SpaceX Needs Nearly 2x The Growth",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
-     "when": "Thu Oct 29, 8:44pm MT"
-    },
-    {
-     "title": "Kevin O'Leary Says Anthropic IPO Offers What SpaceX Didn't: 'Could Be a Hot Trade'",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-says-anthropic-ipo-023010666.html?.tsrc=rss",
-     "when": "Thu Oct 29, 8:30pm MT"
+     "title": "Nvidia has a stake in SpaceX that came from an unexpected place",
+     "link": "https://www.thestreet.com/investing/stocks/nvidia-has-a-stake-in-spacex-that-came-from-an-unexpected-place?.tsrc=rss",
+     "when": "Fri Oct 30, 4:33pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/SPCX"
@@ -118,41 +113,41 @@
     "View: merger committee in 2026, deal in 2027, ~$600 on merger + Robotaxi"
    ],
    "watch": "Tesla merger committee watch; Robotaxi watch",
-   "price": 403.3,
-   "chg_pct": -0.227602,
-   "chg": -0.920013,
+   "price": 399.81,
+   "chg_pct": -0.865358,
+   "chg": -3.48999,
    "lo52": 297.38,
    "hi52": 498.83,
-   "mcap": 1594136068096,
-   "pe": 443.1868,
-   "fpe": 187.11926,
-   "post": 397.45,
-   "post_pct": -1.4505271,
+   "mcap": 1580341002240,
+   "pe": 439.35162,
+   "fpe": 185.5,
+   "post": 400.22,
+   "post_pct": 0.10254963,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 400.5,
-   "day_hi": 406.98,
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "day_lo": 387.52,
+   "day_hi": 404.19,
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
     {
-     "title": "The Case Against a SpaceX and Tesla Merger",
-     "link": "https://www.fool.com/investing/2026/10/30/the-case-against-a-spacex-and-tesla-merger/?.tsrc=rss",
-     "when": "Fri Oct 30, 12:50am MT"
+     "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet,  And Ford Advances Low-Cost EV Plans",
+     "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
+     "when": "Fri Oct 30, 6:10pm MT"
     },
     {
-     "title": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter \u2014 How It Stacks Up With MSFT, TSLA, GOOGL",
-     "link": "https://stocktwits.com/news-articles/markets/equity/big-tech-capex-scorecard-amazon-spends-over-77-b-in-one-quarter-how-it-stacks-up-with-msft-tsla-googl/cZUh1oAR9Rr?.tsrc=rss",
-     "when": "Thu Oct 29, 11:16pm MT"
+     "title": "See how Tesla stocks performed for week ending Oct. 30",
+     "link": "https://finance.yahoo.com/video/see-tesla-stocks-performed-week-221519114.html?.tsrc=rss",
+     "when": "Fri Oct 30, 4:15pm MT"
     },
     {
-     "title": "Tesla-SpaceX Merger \u2018Does Make Strategic Sense,\u2019 Analyst Says \u2014 But SpaceX Needs Nearly 2x The Growth",
-     "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
-     "when": "Thu Oct 29, 8:44pm MT"
+     "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+     "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-210223226.html?.tsrc=rss",
+     "when": "Fri Oct 30, 3:02pm MT"
     },
     {
-     "title": "Barclays sees major Tesla upside for retirement investors",
-     "link": "https://www.thestreet.com/retirement/barclays-tesla-spacex-merger-401k-index-fund-exposure?.tsrc=rss",
-     "when": "Thu Oct 29, 11:47am MT"
+     "title": "In A Bad Week For The AI Trade, This One Mag Seven Stock Holds Strong",
+     "link": "https://finance.yahoo.com/m/c6ea6dfa-fdb1-342d-acc1-568d7e2d17a5/in-a-bad-week-for-the-ai.html?.tsrc=rss",
+     "when": "Fri Oct 30, 2:04pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/TSLA"
@@ -166,22 +161,22 @@
     "Watch: loss ratio, gross written premium growth, car insurance ramp"
    ],
    "watch": "Price & news",
-   "price": 45.91,
-   "chg_pct": 1.21252,
-   "chg": 0.549999,
-   "lo52": 42.7,
+   "price": 42.94,
+   "chg_pct": -6.46918,
+   "chg": -2.97,
+   "lo52": 42.53,
    "hi52": 99.9,
-   "mcap": 3553278720,
+   "mcap": 3323410688,
    "pe": null,
-   "fpe": -52.770115,
-   "post": 45.2,
-   "post_pct": -1.546502,
+   "fpe": -49.35632,
+   "post": 44.44,
+   "post_pct": 3.4932466,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 45.31,
-   "day_hi": 46.455,
+   "day_lo": 42.53,
+   "day_hi": 44.97,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
     {
      "title": "Lemonade (LMND) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
@@ -216,22 +211,22 @@
     "Watch: origination volume, conversion, guidance"
    ],
    "watch": "Price, yields & news",
-   "price": 24.84,
-   "chg_pct": 2.89975,
-   "chg": 0.700001,
+   "price": 23.02,
+   "chg_pct": -7.32689,
+   "chg": -1.82,
    "lo52": 22.21,
    "hi52": 52.1,
-   "mcap": 2417256192,
-   "pe": 49.68,
-   "fpe": 6.946911,
-   "post": 24.55,
-   "post_pct": -1.1674755,
+   "mcap": 2240146432,
+   "pe": 46.04,
+   "fpe": 6.437918,
+   "post": 23.05,
+   "post_pct": 0.13031615,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 23.7811,
-   "day_hi": 24.895,
+   "day_lo": 22.68,
+   "day_hi": 24.38,
    "next_earnings": "Tue Nov 3, 2026",
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
     {
      "title": "Happen Soars 12% on Earnings Beat and Raised Outlook: \u201cWe Continue to Outperform on Credit\u201d",
@@ -265,23 +260,28 @@
     "Watch: drone-component orders, US defense/drone policy headlines"
    ],
    "watch": "Price & news",
-   "price": 17.28,
-   "chg_pct": -1.92963,
-   "chg": -0.34,
+   "price": 15.53,
+   "chg_pct": -10.1273,
+   "chg": -1.75,
    "lo52": 7.245,
    "hi52": 34.926,
-   "mcap": 863248448,
+   "mcap": 775824512,
    "pe": null,
-   "fpe": -78.545456,
-   "post": 16.94,
-   "post_pct": -1.9675934,
+   "fpe": -70.59091,
+   "post": 15.5218,
+   "post_pct": -0.052799046,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 16.95,
-   "day_hi": 17.89,
+   "day_lo": 14.79,
+   "day_hi": 16.6998,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
+    {
+     "title": "Unusual Machines Sinks 12%, Red Cat Tumbles 10% as High-Beta Drone Stocks Slide; Ondas Drops 9%, AeroVironment Falls 6%",
+     "link": "https://247wallst.com/investing/2026/10/30/unusual-machines-sinks-12-red-cat-tumbles-10-as-high-beta-drone-stocks-slide-ondas-drops-9-aerovironment-falls-6/?.tsrc=rss",
+     "when": "Fri Oct 30, 12:11pm MT"
+    },
     {
      "title": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-inc-umac-expected-130008497.html?.tsrc=rss",
@@ -296,11 +296,6 @@
      "title": "Unusual Machines Receives $16.9 Million Purchase Order\u00a0from Powerus for American-Made Drone Components",
      "link": "https://finance.yahoo.com/technology/articles/unusual-machines-receives-16-9-123000300.html?.tsrc=rss",
      "when": "Thu Oct 22, 6:30am MT"
-    },
-    {
-     "title": "Unusual Machines Completes Acquisition of Upgrade Energy, Expanding U.S. Drone Battery Manufacturing",
-     "link": "https://finance.yahoo.com/technology/articles/unusual-machines-completes-acquisition-upgrade-200100661.html?.tsrc=rss",
-     "when": "Mon Oct 19, 2:01pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/UMAC"
@@ -314,22 +309,22 @@
     "Watch: B2 cloud storage growth, AI storage demand, net revenue retention"
    ],
    "watch": "Price & news",
-   "price": 8.73,
-   "chg_pct": -4.0132,
-   "chg": -0.365001,
+   "price": 7.59,
+   "chg_pct": -13.0584,
+   "chg": -1.14,
    "lo52": 3.261,
    "hi52": 23.99,
-   "mcap": 540386944,
+   "mcap": 469821024,
    "pe": null,
-   "fpe": 32.333332,
-   "post": 8.6,
-   "post_pct": -1.4891084,
+   "fpe": 28.11111,
+   "post": 7.65,
+   "post_pct": 0.79051304,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 8.5,
-   "day_hi": 8.968,
+   "day_lo": 7.37,
+   "day_hi": 8.275,
    "next_earnings": "Mon Nov 2, 2026",
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
     {
      "title": "Backblaze to Announce Third Quarter 2026 Results on November 2, 2026",
@@ -364,23 +359,28 @@
     "Watch: ACA subsidy policy, medical loss ratio"
    ],
    "watch": "Price & news",
-   "price": 30.79,
-   "chg_pct": 1.01706,
-   "chg": 0.310001,
+   "price": 30.37,
+   "chg_pct": -1.36408,
+   "chg": -0.42,
    "lo52": 10.69,
    "hi52": 35.01,
-   "mcap": 9503179776,
-   "pe": 23.86822,
-   "fpe": 13.863499,
-   "post": 30.13,
-   "post_pct": -2.1435587,
+   "mcap": 9373548544,
+   "pe": 23.542637,
+   "fpe": 13.67439,
+   "post": 30.18,
+   "post_pct": -0.6256191,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 30.36,
-   "day_hi": 31.38,
+   "day_lo": 29.94,
+   "day_hi": 30.8699,
    "next_earnings": "Thu Nov 5, 2026",
-   "as_of": "Thu Oct 29, 2:00pm MT",
+   "as_of": "Fri Oct 30, 2:00pm MT",
    "news": [
+    {
+     "title": "Oscar Health, Inc. (OSCR) is Attracting Investor Attention: Here is What You Should Know",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-inc-oscr-attracting-120003327.html?.tsrc=rss",
+     "when": "Fri Oct 30, 6:00am MT"
+    },
     {
      "title": "Oscar Health, Inc. (OSCR) Increases Despite Market Slip: Here's What You Need to Know",
      "link": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-inc-oscr-increases-210003719.html?.tsrc=rss",
@@ -395,11 +395,6 @@
      "title": "Why Oscar Health, Inc. (OSCR) Dipped More Than Broader Market Today",
      "link": "https://finance.yahoo.com/markets/stocks/articles/why-oscar-health-inc-oscr-210003218.html?.tsrc=rss",
      "when": "Fri Oct 23, 3:00pm MT"
-    },
-    {
-     "title": "\u2018You Have No Idea What You\u2019re Getting\u2019: Healthcare CEO Calls Out Medical Costs",
-     "link": "https://finance.yahoo.com/video/no-idea-getting-healthcare-ceo-161000456.html?.tsrc=rss",
-     "when": "Thu Oct 22, 10:10am MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/OSCR"
@@ -413,41 +408,41 @@
     "Watch: ETF flows, Fed path (FOMC Oct 27-28)"
    ],
    "watch": "Price, DXY & yields",
-   "price": 78293.3,
-   "chg_pct": -1.8109467,
-   "chg": -1444.0,
+   "price": 77384.65,
+   "chg_pct": 0.96708995,
+   "chg": 741.21094,
    "lo52": 57747.766,
-   "hi52": 111612.35,
-   "mcap": 1576787771392,
+   "hi52": 111167.31,
+   "mcap": 1555657654272,
    "pe": null,
    "fpe": null,
    "post": null,
    "post_pct": null,
    "pre": null,
    "pre_pct": null,
-   "day_lo": 76418.336,
-   "day_hi": 78564.94,
-   "as_of": "Fri Oct 30, 1:33am MT",
+   "day_lo": 77161.586,
+   "day_hi": 77434.15,
+   "as_of": "Fri Oct 30, 7:12pm MT",
    "news": [
     {
-     "title": "Tech firms take fresh hit as earnings misses fan AI fears",
-     "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
-     "when": "Fri Oct 30, 1:11am MT"
+     "title": "Franklin Templeton\u2019s Dividend-to-Bitcoin ETFs Open on Nasdaq With About $72,000 in Trades",
+     "link": "https://unchainedcrypto.com/franklin-templetons-dividend-to-bitcoin-etfs-open-on-nasdaq-with-about-72000-in-trades/?.tsrc=rss",
+     "when": "Fri Oct 30, 6:15pm MT"
     },
     {
-     "title": "Bitcoin Is Getting Boring, and That's the Bull Case, Says Market Analyst James Check",
-     "link": "https://beincrypto.com/bitcoin-boring-bull-case-james-check/?.tsrc=rss",
-     "when": "Thu Oct 29, 11:00pm MT"
+     "title": "Why Bitcoin shrugged off the largest crypto hack ever",
+     "link": "https://www.thestreet.com/crypto/markets/why-bitcoin-shrugged-off-the-largest-crypto-hack-ever?.tsrc=rss",
+     "when": "Fri Oct 30, 5:36pm MT"
     },
     {
-     "title": "Every Crypto is Down, Except HyperLiquid. Why?",
-     "link": "https://beincrypto.com/hyperliquid-rises-crypto-falls-ice-druckenmiller/?.tsrc=rss",
-     "when": "Thu Oct 29, 9:54pm MT"
+     "title": "How Much Bitcoin Would You Need to Be a Millionaire if It Gets Back to Its Record High?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/30/how-much-bitcoin-would-you-need-to-be-a-millionaire-if-it-gets-back-to-its-record-high/?.tsrc=rss",
+     "when": "Fri Oct 30, 4:49pm MT"
     },
     {
-     "title": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-     "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html?.tsrc=rss",
-     "when": "Thu Oct 29, 9:04pm MT"
+     "title": "Why Bitcoin\u2019s Next All-Time High Looks Distant After the Binance Hack",
+     "link": "https://beincrypto.com/binance-hack-bitcoin-ath-experts-react/?.tsrc=rss",
+     "when": "Fri Oct 30, 4:42pm MT"
     }
    ],
    "yahoo": "https://finance.yahoo.com/quote/BTC-USD"
@@ -455,78 +450,78 @@
  ],
  "macro": {
   "SMH": {
-   "price": 561.67,
-   "chg_pct": -1.05695,
-   "chg": -6.0,
-   "as_of": "Thu Oct 29, 2:00pm MT"
+   "price": 522.49,
+   "chg_pct": -6.97563,
+   "chg": -39.18,
+   "as_of": "Fri Oct 30, 2:00pm MT"
   },
   "^TNX": {
-   "price": 4.989,
-   "chg_pct": -1.1100146,
-   "chg": -0.056000233,
-   "as_of": "Thu Oct 29, 12:59pm MT"
+   "price": 4.929,
+   "chg_pct": -1.2026447,
+   "chg": -0.059999943,
+   "as_of": "Fri Oct 30, 12:59pm MT"
   },
   "^TYX": {
-   "price": 5.329,
-   "chg_pct": -0.59690475,
-   "chg": -0.032000065,
-   "as_of": "Thu Oct 29, 12:59pm MT"
+   "price": 5.309,
+   "chg_pct": -0.37530458,
+   "chg": -0.01999998,
+   "as_of": "Fri Oct 30, 12:59pm MT"
   },
   "^FVX": {
-   "price": 4.8009996,
-   "chg_pct": -1.4370801,
-   "chg": -0.07000017,
-   "as_of": "Thu Oct 29, 12:59pm MT"
+   "price": 4.7209997,
+   "chg_pct": -1.666318,
+   "chg": -0.07999992,
+   "as_of": "Fri Oct 30, 12:59pm MT"
   },
   "^IRX": {
-   "price": 3.998,
-   "chg_pct": 0.07508842,
-   "chg": 0.0029997826,
-   "as_of": "Thu Oct 29, 12:59pm MT"
+   "price": 3.973,
+   "chg_pct": -0.6253091,
+   "chg": -0.024999857,
+   "as_of": "Fri Oct 30, 12:59pm MT"
   },
   "^VIX": {
-   "price": 18.43,
-   "chg_pct": 7.15532,
-   "chg": 1.2299995,
-   "as_of": "Fri Oct 30, 1:18am MT"
+   "price": 19.42,
+   "chg_pct": 12.906973,
+   "chg": 2.2199993,
+   "as_of": "Fri Oct 30, 2:15pm MT"
   },
   "DX-Y.NYB": {
-   "price": 101.778,
-   "chg_pct": -0.25383213,
-   "chg": -0.2590027,
-   "as_of": "Fri Oct 30, 1:23am MT"
+   "price": 101.964,
+   "chg_pct": -0.07154824,
+   "chg": -0.073005676,
+   "as_of": "Fri Oct 30, 2:59pm MT"
   },
   "^GSPC": {
-   "price": 7720.39,
-   "chg_pct": -0.3046217,
-   "chg": -23.589844,
-   "as_of": "Thu Oct 29, 2:00pm MT"
+   "price": 7580.07,
+   "chg_pct": -1.8175287,
+   "chg": -140.32031,
+   "as_of": "Fri Oct 30, 2:47pm MT"
   },
   "^NDX": {
-   "price": 29402.508,
-   "chg_pct": -1.3774068,
-   "chg": -410.64844,
-   "as_of": "Thu Oct 29, 3:15pm MT"
+   "price": 28384.846,
+   "chg_pct": -3.4611404,
+   "chg": -1017.6621,
+   "as_of": "Fri Oct 30, 3:15pm MT"
   }
  },
  "errors": [],
  "treasury": {
-  "date": "10/29/2026",
-  "3 Mo": 4.18,
-  "2 Yr": 4.61,
-  "5 Yr": 4.78,
-  "10 Yr": 4.98,
-  "30 Yr": 5.32,
+  "date": "10/30/2026",
+  "3 Mo": 4.16,
+  "2 Yr": 4.56,
+  "5 Yr": 4.71,
+  "10 Yr": 4.94,
+  "30 Yr": 5.31,
   "prev": {
-   "2 Yr": 4.67,
-   "10 Yr": 5.05,
-   "30 Yr": 5.37
+   "2 Yr": 4.61,
+   "10 Yr": 4.98,
+   "30 Yr": 5.32
   }
  },
  "tips": {
-  "date": "10/29/2026",
-  "10 YR": 2.63,
-  "prev10": 2.67
+  "date": "10/30/2026",
+  "10 YR": 2.6,
+  "prev10": 2.63
  },
  "watches": {
   "mu": {
@@ -549,17 +544,16 @@
    "runs_logged": 61
   },
   "tsla": {
-   "polymarket_2026": 19,
+   "polymarket_2026": 18,
    "polymarket_2027": 66.5,
    "seen": [
-    "2026-10-29-x-summary-kalshi-merger-before-may-2027-65pct-record",
-    "2026-10-29-x-summary-anthropic-34.5pct-spcx-q3-revenue-filing",
-    "2026-10-29-salvini-italy-supports-eu-fsd-supervised-approval-musk-thanks",
-    "2026-10-29-robotaxi-x-accessibility-day-cybercab",
-    "2026-10-29-247wallst-1.98b-yes-votes-rehash",
-    "2026-10-29-tokenpost-x-ticker-available-rehash",
-    "2026-10-29-musk-x-midday-interesting-druckenmiller-trade-xyz-no-merger-posts",
-    "2026-10-29-x-summary-spacex-scales-back-nasa-launches-coons-subpoena-nationalize-debate"
+    "2026-10-30-polymarket-2026-19.5-to-18-jan27-29-feb27-37.5-jun27-52.5-2027-66.5",
+    "2026-10-30-tsla-close-approx-396-399-down-1-1.8pct-low-387.52-down-3.9pct-tech-selloff-intel-amazon",
+    "2026-10-30-robotaxi-hours-6am-2am-austin-4m-unsupervised-miles-x-summary",
+    "2026-10-30-nhtsa-aq26002-tesla-response-due-not-public-pm",
+    "2026-10-30-x-summary-spcx-near-ipo-mid-130s-retail-buying",
+    "2026-10-30-x-summary-optimus-reservations-early-dec-rachyl-jones-unconfirmed",
+    "2026-10-30-tesla-x-rosberg-fsd-cybertruck"
    ],
    "robotaxi_price_log": [
     {
@@ -605,8 +599,8 @@
      "note": "Not isolable"
     }
    ],
-   "last_logged_tsla": 403.3,
-   "last_run": "2026-10-29T15:20:00-06:00"
+   "last_logged_tsla": 396.12,
+   "last_run": "2026-10-30T15:20:00-06:00"
   },
   "gavin": {
    "posts": [
@@ -652,36 +646,36 @@
     "mkts:MU"
    ],
    "market": "xyz:MU",
-   "mark": 900.65,
-   "oracle": 900.2,
-   "prev": 948.11,
-   "funding": 1.6253e-05,
-   "oi": 99860.286,
-   "oi_usd": 89939166.5859,
-   "vol": 214762260.50469,
-   "rsi14": 35.76348431266969,
-   "ema20": 915.2760786498127,
-   "ema50": 929.7080765571576,
-   "hi24": 970.53,
-   "lo24": 886.36
+   "mark": 897.36,
+   "oracle": 894.56,
+   "prev": 892.95,
+   "funding": 0.0001837284,
+   "oi": 104424.0220000001,
+   "oi_usd": 93705940.38192008,
+   "vol": 171976901.66685978,
+   "rsi14": 50.81896137212174,
+   "ema20": 892.0435712973135,
+   "ema50": 907.6596264409332,
+   "hi24": 913.26,
+   "lo24": 862.29
   },
   "SPCX": {
    "stale": [
     "vntl:SPACEX"
    ],
    "market": "xyz:SPCX",
-   "mark": 139.86,
-   "oracle": 139.75,
-   "prev": 143.28,
-   "funding": 2.76849e-05,
-   "oi": 1159867.6600000001,
-   "oi_usd": 162219090.92760003,
-   "vol": 144880775.96150008,
-   "rsi14": 34.45446801967904,
-   "ema20": 141.39569675295417,
-   "ema50": 143.44493187566007,
-   "hi24": 145.0,
-   "lo24": 138.23
+   "mark": 136.78,
+   "oracle": 136.59,
+   "prev": 139.08,
+   "funding": 9.6567e-05,
+   "oi": 1261489.66,
+   "oi_usd": 172546555.6948,
+   "vol": 119063177.95549996,
+   "rsi14": 40.141320963166045,
+   "ema20": 137.63143632546044,
+   "ema50": 140.24385195021617,
+   "hi24": 140.9,
+   "lo24": 134.62
   },
   "TSLA": {
    "stale": [
@@ -691,18 +685,18 @@
     "mkts:TSLA"
    ],
    "market": "xyz:TSLA",
-   "mark": 395.37,
-   "oracle": 395.37,
-   "prev": 400.62,
-   "funding": 6.25e-06,
-   "oi": 102857.998,
-   "oi_usd": 40666966.66926,
-   "vol": 42292433.01346998,
-   "rsi14": 38.5501115505232,
-   "ema20": 398.1520099980628,
-   "ema50": 399.58653763689324,
-   "hi24": 406.83,
-   "lo24": 392.96
+   "mark": 399.64,
+   "oracle": 399.94,
+   "prev": 394.35,
+   "funding": -3.03401e-05,
+   "oi": 99313.676,
+   "oi_usd": 39689717.47664,
+   "vol": 40749581.085200004,
+   "rsi14": 53.559335665860864,
+   "ema20": 398.5608620535901,
+   "ema50": 398.8677120985902,
+   "hi24": 404.05,
+   "lo24": 387.69
   },
   "LMND": {
    "stale": []
@@ -726,322 +720,346 @@
     "cash:BTC"
    ],
    "market": "BTC",
-   "mark": 78400.0,
-   "oracle": 78432.6,
-   "prev": 79839.0,
+   "mark": 77519.0,
+   "oracle": 77502.2,
+   "prev": 77287.0,
    "funding": 1.25e-05,
-   "oi": 42808.74646,
-   "oi_usd": 3356205722.464,
-   "vol": 6150740321.580593,
-   "rsi14": 41.69894301980393,
-   "ema20": 78927.36793056327,
-   "ema50": 79691.23828928727,
-   "hi24": 81955.0,
-   "lo24": 76443.0
+   "oi": 42954.85718,
+   "oi_usd": 3329817573.73642,
+   "vol": 4094970764.207237,
+   "rsi14": 46.95413302475547,
+   "ema20": 77500.768915001,
+   "ema50": 78427.90631025778,
+   "hi24": 78772.0,
+   "lo24": 76264.0
   },
-  "_at": 1793345637
+  "_at": 1793409173
  },
  "xdrivers": {
-  "generated_mt": "Thu Oct 29, 2:58pm MT",
-  "window": "Oct 26\u201329, 2026",
-  "method": "X search (relevancy, last ~3\u20135 days) + X news; explanations are likely, inferred, not confirmed. Thursday afternoon refresh: stock moves are Thursday Oct 29 closes vs Wednesday Oct 28 (5-day vs Oct 22) from Yahoo; Bitcoin is the last ~24 hours and 5 days to Thursday afternoon.",
+  "generated_mt": "Fri Oct 30, 3:05pm MT",
+  "window": "Oct 26\u201330, 2026",
+  "method": "X search (relevancy, last ~3\u20135 days) + X news; explanations are likely, inferred, not confirmed. Friday afternoon refresh: stock moves are Friday Oct 30 closes vs Thursday Oct 29 (5-day vs Oct 23) from Yahoo; Bitcoin is the current UTC day and 5 days to Friday afternoon.",
   "tickers": {
    "MU": {
-    "explanation": "Likely: MU fell about 5.0% Thursday to about $934.27 (still about 9.1% higher over 5 days), handing back Wednesday's SK hynix pop. X blamed Samsung's quarter, whose profit missed consensus even with a record chip division, plus a broad AI-infrastructure selloff after Alphabet's worst day on record and a 1.4% Nasdaq drop.",
+    "explanation": "Likely: MU fell about 5.3% Friday to about $884.74 (now only about 0.8% higher over 5 days) in a broad tech and AI selloff after Intel's weak fourth-quarter guidance and Amazon's miss. X posts tied the drop to renewed worry about AI spending returns, with the Nasdaq 100 down roughly 3.5\u20134% and MU now about 26% off its June peak.",
     "sources": [
      {
-      "handle": "CapitalFlowApp",
-      "mt": "Oct 29, 9:09am MT",
-      "url": "https://x.com/CapitalFlowApp/status/2115823409514860856",
-      "likes": 10,
-      "views": 2040,
-      "gist": "MU down about 3% early as a Samsung selloff spilled into memory names; about $5M of bullish call orders flagged"
+      "handle": "Tickeron",
+      "mt": "Oct 30, 7:44am MT",
+      "url": "https://x.com/Tickeron/status/2116164374033322255",
+      "likes": 1,
+      "views": 228,
+      "gist": "MU down about 5.6% early, tied to renewed concern over AI infrastructure spending"
      },
      {
-      "handle": "ZeekTyt",
-      "mt": "Oct 29, 11:50am MT",
-      "url": "https://x.com/ZeekTyt/status/2115863834934300749",
-      "likes": 7,
-      "views": 1121,
-      "gist": "MU slid to about $936, down 4.8%, alongside IREN and NBIS in the broad AI selloff"
+      "handle": "DeItaone",
+      "mt": "Oct 30, 9:27am MT",
+      "url": "https://x.com/DeItaone/status/2116190258316403108",
+      "likes": 396,
+      "views": 135621,
+      "gist": "Tech selloff list: MU about 26% below its June 25 peak, alongside AVGO, SPCX and GOOGL"
      },
      {
-      "handle": "L_Peixoto__",
-      "mt": "Oct 29, 12:27pm MT",
-      "url": "https://x.com/L_Peixoto__/status/2115873285548191765",
+      "handle": "MikeJTrades",
+      "mt": "Oct 30, 10:39am MT",
+      "url": "https://x.com/MikeJTrades/status/2116208457426555183",
+      "likes": 1,
+      "views": 84,
+      "gist": "Daily digest: AI spending concerns and weak megacap earnings drag the Nasdaq toward a three-month low"
+     },
+     {
+      "handle": "ImpulseTA",
+      "mt": "Oct 30, 1:48pm MT",
+      "url": "https://x.com/ImpulseTA/status/2116256006082908170",
       "likes": 2,
-      "views": 27,
-      "gist": "SK hynix lifted MU yesterday; Samsung's quarter dragged it about 5% lower today"
-     },
-     {
-      "handle": "FiFrontierX",
-      "mt": "Oct 29, 2:23pm MT",
-      "url": "https://x.com/FiFrontierX/status/2115902305073836063",
-      "likes": 0,
-      "views": 53,
-      "gist": "Alphabet had its worst day on record and the Nasdaq fell 1.38%"
+      "views": 32,
+      "gist": "Broad risk-off day concentrated in tech and AI, plus a separate crypto shock; Treasuries rallied"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": -4.98,
-     "d5_pct": 9.08
+     "last_date": "Oct 30 (close)",
+     "last_pct": -5.3,
+     "d5_pct": 0.82
     }
    },
    "SPCX": {
-    "explanation": "Likely, weakly: SPCX slipped about 0.9% Thursday to about $143.89 (about 0.6% lower over 5 days), lagging TSLA again. X framed it as merger-arbitrage pressure, with funds said to be buying TSLA and selling SPCX for a fifth day as Kalshi odds of a Tesla\u2013SpaceX merger hit 65%; Starship Flight 15 prep news didn't lift it.",
+    "explanation": "Likely: SPCX dropped about 6.4% Friday to about $134.72 (about 8.7% lower over 5 days) with the tech-wide selloff, and DeItaone's list showed it about 31% below its June peak. X also kept chewing on Thursday's Bloomberg/WSJ report that Anthropic is SpaceX's largest customer at about 34.5% of Q3 revenue, which some posters framed as concentration risk.",
     "sources": [
      {
-      "handle": "JOBhakdi",
-      "mt": "Oct 29, 8:01am MT",
-      "url": "https://x.com/JOBhakdi/status/2115806301364330817",
-      "likes": 285,
-      "views": 10627,
-      "gist": "TSLA looks likelier to rip near term than SPCX, though SPCX's unlock effects are underrated"
+      "handle": "MikeZaccardi",
+      "mt": "Oct 29, 1:47pm MT",
+      "url": "https://x.com/MikeZaccardi/status/2115893361743725009",
+      "likes": 8,
+      "views": 3507,
+      "gist": "SpaceX said to earn more than a third of its revenue from Anthropic"
      },
      {
-      "handle": "michaelm272",
-      "mt": "Oct 29, 8:28am MT",
-      "url": "https://x.com/michaelm272/status/2115812910110847423",
-      "likes": 10,
-      "views": 840,
-      "gist": "Tesla\u2013SpaceX merger math at TSLA $403.50 and SPCX $142.47 implies about a 34.5% premium for TSLA"
+      "handle": "johnherzog",
+      "mt": "Oct 29, 3:35pm MT",
+      "url": "https://x.com/johnherzog/status/2115920522785485148",
+      "likes": 0,
+      "views": 71,
+      "gist": "Bloomberg: Anthropic is the unnamed customer behind 34.5% of Q3 revenue, ahead of the U.S. government"
      },
      {
-      "handle": "sspencer_smb",
-      "mt": "Oct 29, 8:42am MT",
-      "url": "https://x.com/sspencer_smb/status/2115816625870135350",
-      "likes": 27,
-      "views": 2383,
-      "gist": "Day 5 of risk-arb funds buying TSLA and selling SPCX"
+      "handle": "DeItaone",
+      "mt": "Oct 30, 9:27am MT",
+      "url": "https://x.com/DeItaone/status/2116190258316403108",
+      "likes": 396,
+      "views": 135621,
+      "gist": "SPCX about 31% below its June 16 peak in the tech selloff list"
      },
      {
-      "handle": "fammetaX",
-      "mt": "Oct 29, 12:50pm MT",
-      "url": "https://x.com/fammetaX/status/2115879053693464662",
-      "likes": 38,
-      "views": 1324,
-      "gist": "Ship 42 finished static fires; Flight 15 targets November with a first upper-stage tower catch"
+      "handle": "BIG_HOMIE_1",
+      "mt": "Oct 30, 11:14am MT",
+      "url": "https://x.com/BIG_HOMIE_1/status/2116217297413066981",
+      "likes": 4,
+      "views": 445,
+      "gist": "Argues customer concentration in Anthropic matters for SPCX as it fell about 4.6% intraday"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": -0.92,
-     "d5_pct": -0.59
+     "last_date": "Oct 30 (close)",
+     "last_pct": -6.37,
+     "d5_pct": -8.66
     }
    },
    "TSLA": {
-    "explanation": "Likely: TSLA was roughly flat Thursday, about 0.2% lower at about $403.30 (about 7.7% higher over 5 days), holding the $400 area while the Nasdaq fell 1.4% on Alphabet's slide. X credited merger-arbitrage buying and rising Tesla\u2013SpaceX merger odds (65% on Kalshi) for the relative strength.",
+    "explanation": "Likely: TSLA held up far better than tech, slipping only about 0.9% Friday to about $399.81 (still about 7.4% higher over 5 days) after dipping near $388 in the morning and reclaiming $400. X posters cast it as a relative-strength leader on a day most tech names fell 5\u201330% from highs; ongoing merger talk with SpaceX stayed in the background.",
     "sources": [
      {
-      "handle": "JOBhakdi",
-      "mt": "Oct 29, 8:01am MT",
-      "url": "https://x.com/JOBhakdi/status/2115806301364330817",
-      "likes": 285,
-      "views": 10627,
-      "gist": "TSLA wants an all-time high before year end"
+      "handle": "strengthPlan",
+      "mt": "Oct 30, 9:33am MT",
+      "url": "https://x.com/strengthPlan/status/2116191844912488924",
+      "likes": 13,
+      "views": 745,
+      "gist": "Rare dip to about $388 in the morning"
      },
      {
-      "handle": "sspencer_smb",
-      "mt": "Oct 29, 8:42am MT",
-      "url": "https://x.com/sspencer_smb/status/2115816625870135350",
-      "likes": 27,
-      "views": 2383,
-      "gist": "Day 5 of risk-arb funds buying TSLA and selling SPCX"
+      "handle": "strengthPlan",
+      "mt": "Oct 30, 9:55am MT",
+      "url": "https://x.com/strengthPlan/status/2116197284186894544",
+      "likes": 38,
+      "views": 819,
+      "gist": "Every stock down 10\u201330% but Tesla back to $400"
      },
      {
-      "handle": "allimcmahonn",
-      "mt": "Oct 29, 9:16am MT",
-      "url": "https://x.com/allimcmahonn/status/2115825028709372320",
-      "likes": 0,
-      "views": 34,
-      "gist": "TSLA near $405; resistance $410\u2013411, support near $400"
+      "handle": "strengthPlan",
+      "mt": "Oct 30, 1:06pm MT",
+      "url": "https://x.com/strengthPlan/status/2116245416647995466",
+      "likes": 5,
+      "views": 383,
+      "gist": "Tesla up about 6.4% on the week"
+     },
+     {
+      "handle": "grok",
+      "mt": "Oct 30, 12:15pm MT",
+      "url": "https://x.com/grok/status/2116232624893051029",
+      "likes": 1,
+      "views": 8,
+      "gist": "Hypothetical merger math; special committees said to be exploring a deal, no terms set"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": -0.23,
-     "d5_pct": 7.67
+     "last_date": "Oct 30 (close)",
+     "last_pct": -0.87,
+     "d5_pct": 7.41
     }
    },
    "LMND": {
-    "explanation": "No clear X driver. LMND rose about 1.2% Thursday to about $45.91 (about 1.1% higher over 5 days); X chatter was upbeat technical and pre-earnings talk, with no company news.",
+    "explanation": "Likely, weakly: LMND fell about 6.5% Friday to about $42.94 (about 4.4% lower over 5 days) with the broad risk-off selloff; X showed no company-specific news today. Earlier in the week posts focused on its AI-agent policy beta and Idaho renters launch, and Q3 results are due next week.",
     "sources": [
      {
-      "handle": "InvestorLm5499",
-      "mt": "Oct 28, 2:28pm MT",
-      "url": "https://x.com/InvestorLm5499/status/2115541239487418763",
-      "likes": 20,
-      "views": 975,
-      "gist": "Expects a spectacular upcoming LMND earnings report"
+      "handle": "BastianelliLore",
+      "mt": "Oct 28, 2:33am MT",
+      "url": "https://x.com/BastianelliLore/status/2115361233251545377",
+      "likes": 59,
+      "views": 2932,
+      "gist": "Lemonade opening its platform to personal AI agents to quote, buy and file claims"
      },
      {
-      "handle": "Yochana42437421",
-      "mt": "Oct 29, 8:16am MT",
-      "url": "https://x.com/Yochana42437421/status/2115809946008797213",
-      "likes": 1,
-      "views": 94,
-      "gist": "Sees a cup-and-handle chart and a rerating ahead"
+      "handle": "MultibaggerRsch",
+      "mt": "Oct 28, 6:42am MT",
+      "url": "https://x.com/MultibaggerRsch/status/2115423968614400469",
+      "likes": 21,
+      "views": 928,
+      "gist": "Beta waitlist for AI agents; renters insurance live in Idaho"
+     },
+     {
+      "handle": "bj23air",
+      "mt": "Oct 30, 12:02pm MT",
+      "url": "https://x.com/bj23air/status/2116229175153455391",
+      "likes": 15,
+      "views": 593,
+      "gist": "Q3 report next week; poster projects beats vs guidance"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": 1.21,
-     "d5_pct": 1.1
+     "last_date": "Oct 30 (close)",
+     "last_pct": -6.47,
+     "d5_pct": -4.41
     }
    },
    "UPST": {
-    "explanation": "Likely, weakly: UPST rose about 2.9% Thursday to about $24.84 (about 4.2% higher over 5 days), possibly in sympathy with AI lender Pagaya's Q3 double beat and on X talk that a 10-year yield below 5% could revive lending demand. No Upstart-specific news ahead of its earnings.",
+    "explanation": "Likely, weakly: UPST fell about 7.3% Friday to about $23.02 (about 3.2% lower over 5 days) amid the market selloff, with no clear company news on X. Posts ahead of next week's Q3 report flagged its history of post-earnings declines and an October drawdown in its credit-trust data, while one poster noted it nearing a two-year low.",
     "sources": [
+     {
+      "handle": "HenryInvests",
+      "mt": "Oct 30, 6:42am MT",
+      "url": "https://x.com/HenryInvests/status/2116148617522078091",
+      "likes": 35,
+      "views": 2514,
+      "gist": "Q3 estimates; uncertain on full-year guide given an October drawdown in UTPI"
+     },
      {
       "handle": "Tai_Chen_Hsiang",
       "mt": "Oct 29, 1:51am MT",
       "url": "https://x.com/Tai_Chen_Hsiang/status/2115713184216854765",
-      "likes": 9,
-      "views": 765,
-      "gist": "Notes UPST has fallen after each of its last six earnings reports"
+      "likes": 12,
+      "views": 1199,
+      "gist": "Six consecutive post-earnings declines"
      },
      {
-      "handle": "macro_guru",
-      "mt": "Oct 29, 8:20am MT",
-      "url": "https://x.com/macro_guru/status/2115810978764091797",
-      "likes": 0,
-      "views": 364,
-      "gist": "10-year yield below 5%; easing funding costs could revive lending demand for Upstart"
-     },
-     {
-      "handle": "robot2trade1",
-      "mt": "Oct 29, 1:11pm MT",
-      "url": "https://x.com/robot2trade1/status/2115884256329183241",
+      "handle": "xstreamecho",
+      "mt": "Oct 30, 12:55pm MT",
+      "url": "https://x.com/xstreamecho/status/2116242679440749045",
       "likes": 1,
-      "views": 179,
-      "gist": "Pagaya's Q3: EPS and revenue both beat estimates"
+      "views": 134,
+      "gist": "Says the stock is close to a new two-year low"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": 2.9,
-     "d5_pct": 4.15
+     "last_date": "Oct 30 (close)",
+     "last_pct": -7.33,
+     "d5_pct": -3.2
     }
    },
    "UMAC": {
-    "explanation": "No clear X driver. UMAC slipped about 1.9% Thursday to about $17.28 (about 6.2% higher over 5 days) in a weak tape; X stayed bullish on a proclamation covering robotics components and a $16.9 million order.",
+    "explanation": "Likely, weakly: UMAC fell about 10.1% Friday to about $15.53 (about 8.8% lower over 5 days) on a risk-off day for small caps; X showed no negative company news. A follower noted an expected contract award looks unlikely this month, after earlier posts highlighted a $16.9M order and supportive FCC drone policy ahead of Q3 results.",
     "sources": [
-     {
-      "handle": "Michael74234793",
-      "mt": "Oct 28, 6:00pm MT",
-      "url": "https://x.com/Michael74234793/status/2115594647292580166",
-      "likes": 21,
-      "views": 1205,
-      "gist": "A new proclamation naming robotics components helps UMAC's robotics ambitions"
-     },
      {
       "handle": "RealVision",
       "mt": "Oct 29, 11:55am MT",
       "url": "https://x.com/RealVision/status/2115865008445727038",
-      "likes": 5,
-      "views": 4673,
-      "gist": "Unusual Machines makes Pentagon-compliant US drone parts and just landed a $16.9M order"
+      "likes": 28,
+      "views": 9796,
+      "gist": "US-made drone parts maker landed a $16.9M order; Q3 results ahead"
+     },
+     {
+      "handle": "Michael74234793",
+      "mt": "Oct 30, 9:52am MT",
+      "url": "https://x.com/Michael74234793/status/2116196498027212805",
+      "likes": 15,
+      "views": 1226,
+      "gist": "Expected contract award looks unlikely to come this month"
+     },
+     {
+      "handle": "Michael74234793",
+      "mt": "Oct 30, 10:11am MT",
+      "url": "https://x.com/Michael74234793/status/2116201319736266983",
+      "likes": 12,
+      "views": 1096,
+      "gist": "FCC security council video on an otherwise terrible day for the group"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": -1.93,
-     "d5_pct": 6.21
+     "last_date": "Oct 30 (close)",
+     "last_pct": -10.13,
+     "d5_pct": -8.75
     }
    },
    "BLZE": {
-    "explanation": "Likely, weakly: BLZE fell about 4.0% Thursday to about $8.73 (about 1.4% higher over 5 days) as X's AI-infrastructure selloff hit neocloud names like IREN, CoreWeave and Nebius; X sees BLZE trading as a bet on CoreWeave's credit ahead of its Q3 report.",
+    "explanation": "Likely, weakly: BLZE fell about 13.1% Friday to about $7.59 (about 9.0% lower over 5 days), extending its October de-rating with no single company announcement, per X. Posters tie the stock to CoreWeave credit worries and look to its Nov 2 Q3 report.",
     "sources": [
+     {
+      "handle": "Tickeron",
+      "mt": "Oct 30, 11:34am MT",
+      "url": "https://x.com/Tickeron/status/2116222217495392326",
+      "likes": 0,
+      "views": 146,
+      "gist": "Down about 8.9% intraday, extending the October de-rating with no company-specific news"
+     },
      {
       "handle": "mkfilko",
       "mt": "Oct 28, 9:18am MT",
       "url": "https://x.com/mkfilko/status/2115463239681315038",
       "likes": 5,
-      "views": 3929,
-      "gist": "BLZE is about 55% off $20.43 because the market treats it as a leveraged CoreWeave bet; Q3 report could reignite it"
-     },
-     {
-      "handle": "kastriooot8",
-      "mt": "Oct 29, 11:31am MT",
-      "url": "https://x.com/kastriooot8/status/2115858991167508982",
-      "likes": 0,
-      "views": 104,
-      "gist": "Earnings preview: expects another beat after last quarter"
+      "views": 4178,
+      "gist": "Q3 on Nov 2; market treats BLZE as a leveraged bet on CoreWeave's credit"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": -4.01,
-     "d5_pct": 1.39
+     "last_date": "Oct 30 (close)",
+     "last_pct": -13.06,
+     "d5_pct": -8.99
     }
    },
    "OSCR": {
-    "explanation": "No clear X driver. OSCR bounced about 1.0% Thursday to about $30.79 (about 7.6% lower over 5 days), holding near $30.60 support ahead of next week's earnings.",
+    "explanation": "No clear X driver. OSCR eased about 1.4% Friday to about $30.37 (about 2.0% lower over 5 days), a mild move versus the tech selloff; recent X posts were bullish fundamentals threads rather than news.",
     "sources": [
      {
-      "handle": "piquigoda",
-      "mt": "Oct 28, 4:50pm MT",
-      "url": "https://x.com/piquigoda/status/2115577066821402989",
-      "likes": 0,
-      "views": 294,
-      "gist": "Flags OSCR earnings next week"
+      "handle": "investingwithac",
+      "mt": "Oct 29, 6:46pm MT",
+      "url": "https://x.com/investingwithac/status/2115968527584686203",
+      "likes": 39,
+      "views": 3322,
+      "gist": "Thread on a $1.1B line item in Oscar's financials"
      },
      {
-      "handle": "OSTradez",
-      "mt": "Oct 29, 7:41am MT",
-      "url": "https://x.com/OSTradez/status/2115801239246299528",
-      "likes": 0,
-      "views": 118,
-      "gist": "OSCR retracing toward $30.60 support; resistance at $33 and $35"
+      "handle": "InvestorSince21",
+      "mt": "Oct 28, 10:55am MT",
+      "url": "https://x.com/InvestorSince21/status/2115487525556908135",
+      "likes": 14,
+      "views": 1283,
+      "gist": "Recaps 1H 2026 earnings, membership growth and a raised guide"
      }
     ],
     "move": {
-     "last_date": "Oct 29 (close)",
-     "last_pct": 1.02,
-     "d5_pct": -7.59
+     "last_date": "Oct 30 (close)",
+     "last_pct": -1.36,
+     "d5_pct": -2.0
     }
    },
    "BTC-USD": {
-    "explanation": "Likely: Bitcoin is about 2.8% lower over the last 24 hours near $79.0K (about 1.3% lower over 5 days). It bounced to about $81.7K after the open, then broke below $79K late in the session as the tech-stock selloff after Alphabet's results spilled into crypto, despite a third straight day of spot ETF inflows.",
+    "explanation": "Likely: Bitcoin is down about 1.3% so far today (UTC day) to about $76.8K and about 4.0% over 5 days, still digesting the record $6.3B Binance hack and the tech selloff. X showed over $1.5B of leveraged crypto longs liquidated in 24 hours, though several traders noted BTC was holding up better than feared.",
     "sources": [
      {
-      "handle": "formanite601",
-      "mt": "Oct 29, 10:37am MT",
-      "url": "https://x.com/formanite601/status/2115845423500030190",
-      "likes": 2,
-      "views": 2338,
-      "gist": "BTC climbed from $79K to $81.7K after the US open with open interest rising"
+      "handle": "EugBass",
+      "mt": "Oct 30, 8:12am MT",
+      "url": "https://x.com/EugBass/status/2116171268789531000",
+      "likes": 95,
+      "views": 3303,
+      "gist": "Binance hot wallets drained for roughly $6.3B across 8\u201310 chains on Oct 29"
      },
      {
-      "handle": "tradingdiff",
-      "mt": "Oct 29, 11:27am MT",
-      "url": "https://x.com/tradingdiff/status/2115858162825781505",
-      "likes": 2,
-      "views": 561,
-      "gist": "Spot ETFs added about 1,688 BTC on Oct 28, a third straight inflow day"
+      "handle": "LennaertSnyder",
+      "mt": "Oct 30, 9:09am MT",
+      "url": "https://x.com/LennaertSnyder/status/2116185784050917704",
+      "likes": 140,
+      "views": 5463,
+      "gist": "BTC consolidating, grinding lower after Thursday's dump"
      },
      {
-      "handle": "Wealthmanager",
-      "mt": "Oct 29, 2:47pm MT",
-      "url": "https://x.com/Wealthmanager/status/2115908359526154250",
+      "handle": "maxpain_crypto",
+      "mt": "Oct 30, 7:15am MT",
+      "url": "https://x.com/maxpain_crypto/status/2116157145586749707",
+      "likes": 22,
+      "views": 2829,
+      "gist": "Massive hack, yet Bitcoin holds its ground"
+     },
+     {
+      "handle": "SolanaFloor",
+      "mt": "Oct 30, 1:32pm MT",
+      "url": "https://x.com/SolanaFloor/status/2116251887267934673",
       "likes": 15,
-      "views": 1288,
-      "gist": "BTC fell below $79K; needs a quick reclaim or $76K could be next"
-     },
-     {
-      "handle": "NextWaveLive",
-      "mt": "Oct 29, 2:53pm MT",
-      "url": "https://x.com/NextWaveLive/status/2115909949532336230",
-      "likes": 0,
-      "views": 66,
-      "gist": "Bitcoin below $79K, about 3% down on the day, as the stock selloff spills into crypto"
+      "views": 3776,
+      "gist": "Over $1.52B of leveraged crypto longs liquidated in 24 hours amid the Binance hack"
      }
     ],
     "move": {
-     "last_date": "last 24h (Oct 29, 2:55pm MT)",
-     "last_pct": -2.83,
-     "d5_pct": -1.32
+     "last_date": "UTC day (Oct 30, 3:05pm MT)",
+     "last_pct": -1.26,
+     "d5_pct": -4.04
     }
    }
   }
